@@ -8,6 +8,6 @@ created: 1631143111333
 
 A cluttered cupboard of jumbled jottings in the form of a [[solution.dendron]] vault.
 
-## Purposes
+## Purpose
 
 - This vault of notes will hopefully give me some of the benefits associated with [[solution.zettelkasten]]
