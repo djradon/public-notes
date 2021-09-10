@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1631204131308
+updated: 1631250532636
 created: 1631142984146
 ---
 
@@ -22,6 +22,10 @@ created: 1631142984146
 
 - does "move note" always fail the first time?
 - too much newlines added to .gitignore ^hETGc7F9cXEZ
+- sometime can't choose "references" vault for new note creation
+  - "distroid-issue-13-digital-gardens" allows
+  - "article.distroid-issue-13-digital-gardens" doesn't
+  - 
 
 ## todo
 
