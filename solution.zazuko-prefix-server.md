@@ -1,12 +1,14 @@
 ---
 id: hejTj9eOn7VXEifxFWens
-title: Resolve RDF Terms
+title: Zazuko Prefix Server
 desc: ''
-updated: 1631256251733
+updated: 1631304241942
 created: 1631252574243
 ---
+a search engine for RDF vocabularies
+
 
 - [[vcard.hasURL]] https://prefix.zazuko.com/
-- [[skos.altLabel]] Zazuko Prefix Server
+- [[skos.altLabel]] Resolve RDF Terms
 - [[pred.vs]] prefix.cc; LOV 
 - 

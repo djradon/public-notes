@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1631250532636
+updated: 1631326512401
 created: 1631142984146
 ---
 
@@ -25,7 +25,8 @@ created: 1631142984146
 - sometime can't choose "references" vault for new note creation
   - "distroid-issue-13-digital-gardens" allows
   - "article.distroid-issue-13-digital-gardens" doesn't
-  - 
+
+## #reification
 
 ## todo
 
