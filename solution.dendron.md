@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1631326512401
+updated: 1632287701819
 created: 1631142984146
 ---
 
@@ -26,7 +26,13 @@ created: 1631142984146
   - "distroid-issue-13-digital-gardens" allows
   - "article.distroid-issue-13-digital-gardens" doesn't
 
-## #reification
+## tips and tricks
+
+- [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html)
+  - uses https://github.com/kalyan02/dendronutils 
+
+
+## reification
 
 ## todo
 
