@@ -10,7 +10,7 @@ created: 1631142984146
 
 ## Product ideas
 
-- links can use aliases, so instead of seeing [\[solutions.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
+- links can use aliases, so instead of seeing [\[solution.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
 - flexible capitalization settings
   - I don't want predicate notes to be capitalized
 
