@@ -2,11 +2,18 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1632287701819
+updated: 1632623536784
 created: 1631142984146
 ---
 
+## Concepts
 
+### References 
+- [[vcard.hasURL]] https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html
+
+### Snippets
+
+- [ ] [[skos.definition]]
 
 ## Product ideas
 
@@ -25,6 +32,7 @@ created: 1631142984146
 - sometime can't choose "references" vault for new note creation
   - "distroid-issue-13-digital-gardens" allows
   - "article.distroid-issue-13-digital-gardens" doesn't
+  - 2021-09-25 this actually seems to be a consistent mis-labelling of one of the options -- two options can get repeated and you can usualy figure out which one is mislabelled
 
 ## tips and tricks
 

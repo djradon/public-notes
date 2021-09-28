@@ -2,8 +2,8 @@
 id: et2Zp68tGIj1sbqFw0a3h
 title: Reification
 desc: ''
-updated: 1631327712884
+updated: 1632405575371
 created: 1631326371855
 ---
 
-[[mayReferTo]] [[topic.km.meta-knowledge]]
+[[dbo.related]] [[topic.km.meta-knowledge]]
