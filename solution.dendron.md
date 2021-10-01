@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1632623536784
+updated: 1633082082663
 created: 1631142984146
 ---
 
@@ -20,10 +20,14 @@ created: 1631142984146
 - links can use aliases, so instead of seeing [\[solution.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
 - flexible capitalization settings
   - I don't want predicate notes to be capitalized
+- inclusion macros:
+  - all blocks
+    - match "tags" or links
+  - all notes
+    - match tags, links, hierarchy (does this exist already? it does for sub-notes)
+- ![[Multi Repo Auto save Commit Push|pi.multi-repo-auto-save-commit-push]]
 
 ## interesting github issues
-
-- [Leave a trace on source note when using selectionExtract · Issue #737 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/737)
 
 ## unreported issues
 
@@ -38,10 +42,8 @@ created: 1631142984146
 
 - [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html)
   - uses https://github.com/kalyan02/dendronutils 
+- [set keyboard shortcuts for selectionExtract](https://wiki.dendron.so/notes/ad270a7d-2aed-4273-8319-eb6536e38b29.html)
 
-
-## reification
 
 ## todo
 
-- [x] [set keyboard shortcuts for selectionExtract](https://wiki.dendron.so/notes/ad270a7d-2aed-4273-8319-eb6536e38b29.html)

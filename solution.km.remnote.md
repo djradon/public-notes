@@ -2,23 +2,32 @@
 id: 0deUbUTA87xF5Npu5zw1s
 title: Remnote
 desc: ''
-updated: 1632600633612
+updated: 1633090258305
 created: 1632454051411
 ---
 
-## rem
+a note-taking tool that helps your organize and remember what you learn
+
+## features
+
+- [[solution.km.bullet-journaling]]  
+- create flashcards and take notes at the same time.
+
+## concepts
+
+### rem
 - [[skos.definition]] a unit of knowledge in remnote, stated with a bullet point
  
-### [[sem.hasSubType]] Concept
+#### [[sem.hasSubType]] Concept
 
 - [[skos.definition]] 
 
-### [[sem.hasSubType]] Descriptor
+#### [[sem.hasSubType]] Descriptor
 
-### [[sem.hasSubType]] Question
+#### [[sem.hasSubType]] Question
 
 
-## [portal](https://www.remnote.com/p/help/document/rML9ANQyE7DW3XqPn)
+### [portal](https://www.remnote.com/p/help/document/rML9ANQyE7DW3XqPn)
 
 - [[skos.definition]] view a rem in multiple context
 - [[pred.vs]] [[solution.dendron#references]]
