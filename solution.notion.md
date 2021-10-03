@@ -2,20 +2,26 @@
 id: gYBJk3uMSIxgAZEBBwfTw
 title: Notion
 desc: ''
-updated: 1632953610661
+updated: 1633190162644
 created: 1632931778994
 ---
-a web-first knowledge base with windows client
+a web-first knowledge base (docs, projects, and wikis) with desktop and mobile clients and a web clipper
 
-- [[pred.addressesNeed]] [[topic.km]] [[topic.tm]] 
+- [[pred.addressesNeed]] [[t.km]] [[topic.tm]] 
+- [[dbo.related]] https://www.notion.so/customers
 
 ## [[sd.feature]]
 
-- copies nicely to markdown
+- copies nicely to markdown  ^wf7vUfHYbV8u
 - supports embedded videos 
+- "progessive select-all" takes 
+- [toggles](https://www.notion.so/Toggles-c720af26b4bd4789b736c140b2dc73fe)
+ 
 
 ## [[pred.hasIssues]]
 
 - breaks the back button
   
+## 
+
 

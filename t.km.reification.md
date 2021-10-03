@@ -6,4 +6,4 @@ updated: 1632405575371
 created: 1631326371855
 ---
 
-[[dbo.related]] [[topic.km.meta-knowledge]]
+[[dbo.related]] [[t.km.meta-knowledge]]

@@ -2,7 +2,7 @@
 id: 0deUbUTA87xF5Npu5zw1s
 title: Remnote
 desc: ''
-updated: 1633090258305
+updated: 1633205190903
 created: 1632454051411
 ---
 
@@ -17,14 +17,9 @@ a note-taking tool that helps your organize and remember what you learn
 
 ### rem
 - [[skos.definition]] a unit of knowledge in remnote, stated with a bullet point
- 
-#### [[sem.hasSubType]] Concept
-
-- [[skos.definition]] 
-
-#### [[sem.hasSubType]] Descriptor
-
-#### [[sem.hasSubType]] Question
+- [[pred.hasSubClass]] Concept :: A Rem that represents a concept or something in the real world
+- [[pred.hasSubClass]] Descriptor :: a piece of information that describes a concept
+- [[pred.hasSubClass]] Question :: 
 
 
 ### [portal](https://www.remnote.com/p/help/document/rML9ANQyE7DW3XqPn)
@@ -37,7 +32,8 @@ a note-taking tool that helps your organize and remember what you learn
 ## [[pred.hasIssues]]
 
 - selecting text is hard/impossible
+- copying text leaves out the links (concepts)
 - navigation seems broken
-- 
+- browser shortcut alt+d captured
 
 

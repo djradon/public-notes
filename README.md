@@ -19,9 +19,9 @@ This vault of notes will be a combination of
   - summary notes from courses and videos
 - biographic references
 
-In terms of the [[topic.km.zettelkasten]] method, it's a commingling of literature notes with something Ahrens warned about: a "personal Wikipedia or a database" [1](book.how-to-take-smart-notes.md). 
+In terms of the [[t.km.zettelkasten]] method, it's a commingling of literature notes with something Ahrens warned about: a "personal Wikipedia or a database" [1](book.how-to-take-smart-notes.md). 
 
-In terms of [[topic.getting-things-done]], it's inbox and references
+In terms of [[t.tm.getting-things-done]], it's inbox and references
 
 [[article.learn-in-public]]
 

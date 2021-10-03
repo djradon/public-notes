@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1633082082663
+updated: 1633219489113
 created: 1631142984146
 ---
 
@@ -26,11 +26,17 @@ created: 1631142984146
   - all notes
     - match tags, links, hierarchy (does this exist already? it does for sub-notes)
 - ![[Multi Repo Auto save Commit Push|pi.multi-repo-auto-save-commit-push]]
+- pretty-ref setting per reference 
+  - usePrettyRefs is impossible course
+  - would be nice to have a single-line prettyref 
+- use "title" instead of hierarchy (this already happens on same page, see altLabel)
 
 ## interesting github issues
 
 ## unreported issues
 
+- 10/2/21 can't @-mention anymore?
+- preview capitalizes lvl-4 headings
 - does "move note" always fail the first time?
 - too much newlines added to .gitignore ^hETGc7F9cXEZ
 - sometime can't choose "references" vault for new note creation

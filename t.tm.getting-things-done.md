@@ -2,10 +2,11 @@
 id: 3vjT0mrbOhXc1R0Z8SAUY
 title: Getting Things Done
 desc: ''
-updated: 1632996227442
+updated: 1633221413063
 created: 1632805137761
 ---
-# GTD
+
+- [[skos.altLabel]] GTD
 
 a personal productivity paradigm originated by @David-Allen
 
