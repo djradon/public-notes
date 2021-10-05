@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1633219489113
+updated: 1633414118031
 created: 1631142984146
 ---
 
@@ -35,6 +35,7 @@ created: 1631142984146
 
 ## unreported issues
 
+- when moving a note between vaults, referenced files should be moved to? or at least copied? or prompt-to-copy after checking whether any other references exist?
 - 10/2/21 can't @-mention anymore?
 - preview capitalizes lvl-4 headings
 - does "move note" always fail the first time?

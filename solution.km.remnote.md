@@ -25,7 +25,7 @@ a note-taking tool that helps your organize and remember what you learn
 ### [portal](https://www.remnote.com/p/help/document/rML9ANQyE7DW3XqPn)
 
 - [[skos.definition]] view a rem in multiple context
-- [[pred.vs]] [[solution.dendron#references]]
+- [[vs]] [[solution.dendron#references]]
   - portal is a weird name
   - 
 

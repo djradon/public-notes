@@ -8,7 +8,7 @@ created: 1631216404603
 
 
 
-## [[pred.vs]]
+## [[vs]]
 
 ### [[t.tm.getting-things-done]]
 

@@ -7,4 +7,4 @@ created: 1633090095910
 ---
 
 
-- [[dbo.related]] https://www.goodhousekeeping.com/life/a25940356/what-is-a-bullet-journal/
+- [[related]] https://www.goodhousekeeping.com/life/a25940356/what-is-a-bullet-journal/

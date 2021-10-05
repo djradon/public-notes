@@ -8,7 +8,7 @@ created: 1632931778994
 a web-first knowledge base (docs, projects, and wikis) with desktop and mobile clients and a web clipper
 
 - [[pred.addressesNeed]] [[t.km]] [[topic.tm]] 
-- [[dbo.related]] https://www.notion.so/customers
+- [[related]] https://www.notion.so/customers
 
 ## [[sd.feature]]
 

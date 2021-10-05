@@ -8,4 +8,4 @@ created: 1631251247075
 
 - [[vcard.hasURL]] https://maggieappleton.com/evergreens
 - [[dcterms.creator]] @maggie-appleton
-- [[dbo.related]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]
+- [[related]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]

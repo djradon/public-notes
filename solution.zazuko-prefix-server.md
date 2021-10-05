@@ -9,6 +9,6 @@ a search engine for RDF vocabularies
 
 
 - [[vcard.hasURL]] https://prefix.zazuko.com/
-- [[skos.altLabel]] Resolve RDF Terms
-- [[pred.vs]] prefix.cc; LOV 
+- [[aka]] Resolve RDF Terms
+- [[vs]] prefix.cc; LOV 
 - 
