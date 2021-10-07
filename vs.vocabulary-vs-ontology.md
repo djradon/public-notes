@@ -2,7 +2,7 @@
 id: jw3hedmp9Xk10KeVRQCvk
 title: Vocabulary vs Ontology
 desc: ''
-updated: 1633404330136
+updated: 1633577259392
 created: 1633356056233
 ---
 
@@ -16,6 +16,6 @@ created: 1633356056233
 
 - 
 
-## [[Resources|hasResources]]
+## [[Resources|hasResource]]
 
 - 
