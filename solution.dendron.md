@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1633414118031
+updated: 1633732734404
 created: 1631142984146
 ---
 
@@ -15,7 +15,7 @@ created: 1631142984146
 
 - [ ] [[skos.definition]]
 
-## Product ideas
+## Feature ideas
 
 - links can use aliases, so instead of seeing [\[solution.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
 - flexible capitalization settings
@@ -30,11 +30,16 @@ created: 1631142984146
   - usePrettyRefs is impossible course
   - would be nice to have a single-line prettyref 
 - use "title" instead of hierarchy (this already happens on same page, see altLabel)
+- editor background changes based on vault
+- wikilink color changes based on vault or type  ^SUKl67TO9Ch6
+  - pitty the coloblind, but we could do something link font changes based on vault, or links have boxes (sharp corner, rounded corner, etc)
+- `semantic links` this is basically what predicates enable
 
 ## interesting github issues
 
 ## unreported issues
 
+- dendron move doesn't fix same-note wikilinks 
 - when moving a note between vaults, referenced files should be moved to? or at least copied? or prompt-to-copy after checking whether any other references exist?
 - 10/2/21 can't @-mention anymore?
 - preview capitalizes lvl-4 headings
@@ -50,7 +55,16 @@ created: 1631142984146
 - [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html)
   - uses https://github.com/kalyan02/dendronutils 
 - [set keyboard shortcuts for selectionExtract](https://wiki.dendron.so/notes/ad270a7d-2aed-4273-8319-eb6536e38b29.html)
+- [[problem]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
+  - [[solution]] move it to ".archive"
+    - doesn't matter if it's sloppy, but you can keep the archive organized by mimicing headers from main note
+    - might call it discussion instead of archive, a la wikipedia
 
+## aliasMode
+
+- what to do when pasting a link
+- selection only applies when text is selected, but that's the mode for me.
+  - seems like it should be orthogonal to other [aliasMode](https://wiki.dendron.so/notes/eea2b078-1acc-4071-a14e-18299fc28f47.html#aliasmode) options 
 
 ## todo
 

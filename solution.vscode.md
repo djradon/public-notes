@@ -2,10 +2,17 @@
 id: QcGJOGoacQKTGmnp3sK8J
 title: Vscode
 desc: ''
-updated: 1632922506194
+updated: 1633731014721
 created: 1632921837510
 stub: true
 ---
 
-![[solution.vscode.tips]]
+## to-do
+
+- [ ] turn off "markdown-related autosuggestions"
+  - because I didn't summarize the concepts and fix last time, I have to figure it out again
+
+## tips
+
+- insert line above ctrl+shift+enter is perfect for a LIFO INBOX
 

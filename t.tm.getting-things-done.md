@@ -12,7 +12,7 @@ a personal productivity paradigm originated by @David-Allen
 
 - [[vcard.hasURL]] https://gettingthingsdone.com/
 - [[dcterms.references]] [[book.getting-things-done-2nd-edition]]
-- [[class.schema.PodcastSeries]] [[podcast.gtd]]
+- [[PodcastSeries]] [[podcast.gtd]]
 
 ## advanced workflow poster
 
