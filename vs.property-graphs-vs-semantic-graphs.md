@@ -2,9 +2,11 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1633596688334
+updated: 1633737454359
 created: 1633596039729
 ---
+
+when semantic graphs support reification, aren't they essentially the same?
 
 ## [[related]]
 

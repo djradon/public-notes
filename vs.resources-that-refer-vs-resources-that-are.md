@@ -2,10 +2,11 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1633733398324
+updated: 1633758874629
 created: 1633593028328
 ---
 
+- > RDF has not been clear about whether a URI like "http://www.w3.org/Consortium" identifies the W3C or a web page about the W3C 
 - notes that refer to actual things (sites, people, books, articles) could be called
   - reference notes
   - resource notes
@@ -32,3 +33,8 @@ created: 1633593028328
 ## URIs / URLS
 
 - easier to judge from context: is the domain/range of the predicate a IRI? If not, it's about the thing the subject/object IRI refers to
+
+## references
+
+- "maybe need to specify whether the note a subject unto itself or an identifier for another subject"
+- [ ] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read

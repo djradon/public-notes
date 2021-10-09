@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1633732734404
+updated: 1633763614582
 created: 1631142984146
 ---
 
@@ -32,8 +32,9 @@ created: 1631142984146
 - use "title" instead of hierarchy (this already happens on same page, see altLabel)
 - editor background changes based on vault
 - wikilink color changes based on vault or type  ^SUKl67TO9Ch6
-  - pitty the coloblind, but we could do something link font changes based on vault, or links have boxes (sharp corner, rounded corner, etc)
+  - for the colorblind we could do something like background, outline, style, and font changes based on vault, or links have boxes (sharp corner, rounded corner, etc)
 - `semantic links` this is basically what predicates enable
+- ![[RRI#^JZbCUAYF0h0h:#*]]
 
 ## interesting github issues
 
@@ -50,7 +51,13 @@ created: 1631142984146
   - "article.distroid-issue-13-digital-gardens" doesn't
   - 2021-09-25 this actually seems to be a consistent mis-labelling of one of the options -- two options can get repeated and you can usualy figure out which one is mislabelled
 
+## vocabulary
+
+- `books.` is hierarchy
+- `books.tags` is a namespace
+
 ## tips and tricks
+
 
 - [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html)
   - uses https://github.com/kalyan02/dendronutils 
