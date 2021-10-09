@@ -6,5 +6,5 @@ updated: 1633738731449
 created: 1633738245087
 ---
 
-- [[created]] [[t.cs.languages.markdown]]
+- [[created]] [[solutions.markdown]]
 - [[org.hasSite]] [[Daring Fireball|https://daringfireball.net/]]

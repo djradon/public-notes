@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1633763614582
+updated: 1633786454713
 created: 1631142984146
 ---
 
@@ -17,7 +17,8 @@ created: 1631142984146
 
 ## Feature ideas
 
-- links can use aliases, so instead of seeing [\[solution.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
+- allow setting aliasMode per note
+- note links can use aliases, so instead of seeing [\[solution.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
 - flexible capitalization settings
   - I don't want predicate notes to be capitalized
 - inclusion macros:
@@ -42,7 +43,6 @@ created: 1631142984146
 
 - dendron move doesn't fix same-note wikilinks 
 - when moving a note between vaults, referenced files should be moved to? or at least copied? or prompt-to-copy after checking whether any other references exist?
-- 10/2/21 can't @-mention anymore?
 - preview capitalizes lvl-4 headings
 - does "move note" always fail the first time?
 - too much newlines added to .gitignore ^hETGc7F9cXEZ

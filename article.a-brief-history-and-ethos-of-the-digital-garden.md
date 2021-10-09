@@ -9,4 +9,4 @@ created: 1632376167261
 - [[vcard.hasURL]] https://maggieappleton.com/garden-history
 - [[dcterms.creator]] @maggie-appleton
 - [[related]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]
-- [[dcterms.references]] [[article.learn-in-public]]
+- [[references]] [[article.learn-in-public]]
