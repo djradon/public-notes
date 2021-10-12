@@ -2,7 +2,7 @@
 id: 6ZSVeGJfHQN7cxeGRZ06c
 title: Product Vs Solution
 desc: ''
-updated: 1633629679742
+updated: 1633875990259
 created: 1633404621219
 ---
 
@@ -17,26 +17,9 @@ created: 1633404621219
     - some might argue that 
   - if you buy "capabilities are collections of features", then capabilities can also be solutions. 
 
-## [What’s a Solution vs. a Product?][1]
-- [[dcterms.creator]] @julian-dunn 
-- [[hasSummaryPoint]] solution -> product(s) -> capabilities (for SKUs) -> features
-  - capability is a logical aggregation of features that allow you to perform a task
-  - [[vs]] [sonatype which has solutions that look like SKUs][3]
-  - [don't mix up benefits and [[features]]][4]
-- a solution is one or more products that can be applied to solve a problem
-  - [[raisesQuestion]] is every product (that can solve a problem on its own) also a solution?
-    - likely! especially if you specify the problem
-      - e.g. vscode is a product; vscode is a solution to the problems "software developers need a way to 
-  - further elaborated by comparing to use case:
-    - "commonly-accepted way to apply your product to solve an oft-seen business problem"
-- solutions can have two senses:
-  - functional (e.g. devops)
-  - industry (vertical)
-![](/assets/images/2021-10-04-23-07-35.png)
+![[Whats a Solution Vs a Product|article.whats-a-solution-vs-a-product]]
 
 ## References
 
-- [1]: https://www.juliandunn.net/2021/09/17/whats-a-solution-vs-a-product/
 - [2]: https://netmind.net/en/course/use-case-modeling/
 - [3]: https://help.sonatype.com/docs/solutions-vs.-products
-- [4]: https://www.wordstream.com/blog/ws/2017/02/21/features-vs-benefits

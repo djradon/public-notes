@@ -2,14 +2,22 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1633786454713
+updated: 1633951774453
 created: 1631142984146
 ---
 
-## Concepts
+## [[hasConcepts]]
 
 ### References 
+
+embed content from other notes
+
+- [aka] transclusions
 - [[vcard.hasURL]] https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html
+
+### Block Anchors
+
+- 
 
 ### Snippets
 
@@ -36,11 +44,16 @@ created: 1631142984146
   - for the colorblind we could do something like background, outline, style, and font changes based on vault, or links have boxes (sharp corner, rounded corner, etc)
 - `semantic links` this is basically what predicates enable
 - ![[RRI#^JZbCUAYF0h0h:#*]]
+- ![[GraphDown|GraphDown#^YzwILFSI4oSJ]]
+- make @ references configurable (as to hierarchy)
+- make transclusion of frontmatter or other properties, see https://foambubble.github.io/foam/proposals/inclusion-of-notes#include-an-attribute-of-a-file-note-property-or-frontmatter
+- 
 
 ## interesting github issues
 
 ## unreported issues
-
+- move to capitalized version doesn't work
+- refactor hierarchy in the middle somewhere is wonky
 - dendron move doesn't fix same-note wikilinks 
 - when moving a note between vaults, referenced files should be moved to? or at least copied? or prompt-to-copy after checking whether any other references exist?
 - preview capitalizes lvl-4 headings
