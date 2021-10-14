@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1633951774453
+updated: 1634192418380
 created: 1631142984146
 ---
 
@@ -21,7 +21,10 @@ embed content from other notes
 
 ### Snippets
 
-- [ ] [[skos.definition]]
+- just uses vscode's snippets functionality
+- comes with a basic set: todo, date, and time 
+- annoyance: doesn't de-dupe so three-vault workspaces get three sets of snippet suggestions
+  - [ ] remove duplicate
 
 ## Feature ideas
 
