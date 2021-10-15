@@ -2,7 +2,7 @@
 id: XGynaZczE1ZM7e7HKVE6g
 title: Keybindings
 desc: ''
-updated: 1634194078425
+updated: 1634236684643
 created: 1634193873243
 ---
 
@@ -44,6 +44,21 @@ Keep getting overwritten by Settings Sync!
         "key": "ctrl+enter",
         "command": "-dendron.gotoNote",
         "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "-markdown.extension.editing.toggleMath",
+        "when": "editorTextFocus && !editorReadonly && editorLangId == 'markdown'"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "-editor.action.toggleTabFocusMode"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "dendron.moveNote",
+        "when": "editorLangId == 'markdown'"
+
     }
 ]
 ```
