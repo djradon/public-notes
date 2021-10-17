@@ -2,7 +2,7 @@
 id: SHTJLItRQKrfcqBO3XznN
 title: What's a Solution Vs a Product?
 desc: ''
-updated: 1633876078069
+updated: 1634489334727
 created: 1633875949280
 ---
 solution -> product(s) -> capabilities (for SKUs) -> features

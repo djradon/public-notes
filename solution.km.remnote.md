@@ -17,9 +17,9 @@ a note-taking tool that helps your organize and remember what you learn
 
 ### rem
 - [[skos.definition]] a unit of knowledge in remnote, stated with a bullet point
-- [[pred.hasSubClass]] Concept :: A Rem that represents a concept or something in the real world
-- [[pred.hasSubClass]] Descriptor :: a piece of information that describes a concept
-- [[pred.hasSubClass]] Question :: 
+- [[hasSubClass]] Concept :: A Rem that represents a concept or something in the real world
+- [[hasSubClass]] Descriptor :: a piece of information that describes a concept
+- [[hasSubClass]] Question :: 
 
 
 ### [portal](https://www.remnote.com/p/help/document/rML9ANQyE7DW3XqPn)
