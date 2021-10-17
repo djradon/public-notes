@@ -1,4 +1,5 @@
 id:: ETC2LN9qkvdYB6eoc6SMB
+filters:: {}
 ---
 id: ETC2LN9qkvdYB6eoc6SMB
 title: Logseq
