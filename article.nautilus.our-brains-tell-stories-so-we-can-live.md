@@ -8,7 +8,7 @@ created: 1633561776820
 
 stories are a part of science. (and reality.) they complement the data and should be judged critically.
 
-- [[vcard.hasURL]] https://nautil.us/issue/75/story/our-brains-tell-stories-so-we-can-live
+- [[hasURL]] https://nautil.us/issue/75/story/our-brains-tell-stories-so-we-can-live
 - [[hasSubTitle]] Without inner narratives we would be lost in a chaotic world. 
 
 - > Just as proper pattern recognition results in the reward of an increased release of dopamine, faulty pattern recognition is associated with decreased dopamine release. 

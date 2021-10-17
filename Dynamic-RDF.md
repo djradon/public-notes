@@ -8,4 +8,4 @@ created: 1633616230389
 
 a [[programming-language]] for [[RDF]], written in RDF
 
-- [[vcard.hasURL]] https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=15852&context=rtd
+- [[hasURL]] https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=15852&context=rtd

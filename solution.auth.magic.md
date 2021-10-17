@@ -8,4 +8,4 @@ created: 1633554500800
 
 extensible passwordless authentication in a few lines of code, supporting management of crypto keys and blockchain transactions, for $.03 /user/mo
 
-- [[vcard.hasURL]] https://magic.link
+- [[hasURL]] https://magic.link

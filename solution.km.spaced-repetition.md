@@ -6,4 +6,4 @@ updated: 1633090573256
 created: 1633090443072
 ---
 
-- [[aka]] distributed practice
+- [[alsoKnownAs]] distributed practice

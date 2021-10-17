@@ -8,7 +8,7 @@ created: 1631400249321
 
 
 
-- [[vcard.hasURL]] https://utteranc.es/
+- [[hasURL]] https://utteranc.es/
 - 
 
 #static-site-revolution

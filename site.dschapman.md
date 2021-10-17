@@ -6,6 +6,6 @@ updated: 1633205428850
 created: 1633198600307
 ---
 
-- [[vcard.hasURL]] https://www.dschapman.com/
+- [[hasURL]] https://www.dschapman.com/
 - 
 - [[typ]]

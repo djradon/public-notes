@@ -6,6 +6,6 @@ updated: 1632375975643
 created: 1631251247075
 ---
 
-- [[vcard.hasURL]] https://maggieappleton.com/evergreens
+- [[hasURL]] https://maggieappleton.com/evergreens
 - [[dcterms.creator]] @maggie-appleton
 - [[related]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]

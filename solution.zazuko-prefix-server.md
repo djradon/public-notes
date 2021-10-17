@@ -8,7 +8,7 @@ created: 1631252574243
 a search engine for RDF vocabularies
 
 
-- [[vcard.hasURL]] https://prefix.zazuko.com/
-- [[aka]] Resolve RDF Terms
+- [[hasURL]] https://prefix.zazuko.com/
+- [[alsoKnownAs]] Resolve RDF Terms
 - [[vs]] prefix.cc; LOV 
 - 

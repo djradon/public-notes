@@ -7,7 +7,7 @@ created: 1633200115228
 ---
 - in RDF, "type" is the class of an instance; Sub-classes can be said to be types of Classes but better to use subClassOf, e.g.:
   - Car hasSubclass Ford #preferred
-  - Car type Ford #discouraged
+  - Car type Ford #discouraged ^VCeEIajzeBga
   - My old mustange type Ford #preferred 
 
 - [RDF Core Schema](https://www.w3.org/2001/sw/RDFCore/Schema/20010618/) says "type" states that a resource is an instance of a class

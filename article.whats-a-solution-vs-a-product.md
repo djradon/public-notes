@@ -7,7 +7,7 @@ created: 1633875949280
 ---
 solution -> product(s) -> capabilities (for SKUs) -> features
 
-- [[vcard.hasURL]] https://www.juliandunn.net/2021/09/17/whats-a-solution-vs-a-product/
+- [[hasURL]] https://www.juliandunn.net/2021/09/17/whats-a-solution-vs-a-product/
 - [[dcterms.creator]] @julian-dunn 
 - [[hasSummaryPoints]] 
   - capability is a logical aggregation of features that allow you to perform a task

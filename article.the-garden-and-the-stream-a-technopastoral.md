@@ -6,7 +6,7 @@ updated: 1633218346209
 created: 1633213395984
 ---
 
-- [[vcard.hasURL]] https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
+- [[hasURL]] https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
 - [[dcterms.creator]] @mike-caufield
 
 ## [[pred.hasHighlights]]

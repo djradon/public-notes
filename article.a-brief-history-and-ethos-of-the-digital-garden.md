@@ -6,7 +6,7 @@ updated: 1632377123482
 created: 1632376167261
 ---
 
-- [[vcard.hasURL]] https://maggieappleton.com/garden-history
+- [[hasURL]] https://maggieappleton.com/garden-history
 - [[dcterms.creator]] @maggie-appleton
 - [[related]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]
 - [[references]] [[article.learn-in-public]]

@@ -6,9 +6,9 @@ updated: 1633590329375
 created: 1632842564955
 ---
 
-- [[type]] [[WebSite]] # this is doubly-redundant, since Scott's note links here with `hasWebsite` and the location in the hierarchy is under "site."
+- [[instanceOf]] [[WebSite]] # this is doubly-redundant, since Scott's note links here with `hasWebsite` and the location in the hierarchy is under "site."
 - [[hasPart]] http://www.moehrbetter.com/blog
-- http://www.moehrbetter.com/blog [[type]] [[Blog]]
+- http://www.moehrbetter.com/blog [[instanceOf]] [[Blog]]
   
 ## [[pred.hasHighlights]] 
 - http://www.moehrbetter.com/gtd-advanced-workflow-diagram.html

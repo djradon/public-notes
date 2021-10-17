@@ -7,5 +7,5 @@ created: 1633800457474
 ---
 
 - [[hasSite]] https://hawke.org/sandro/
-- [[vcard.hasURL]] http://www.w3.org/People/Sandro
+- [[hasURL]] http://www.w3.org/People/Sandro
 

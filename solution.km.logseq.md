@@ -11,6 +11,6 @@ a joyful, open-source outliner that works on top of local plain-text Markdown an
 - [[org.hasSite]] https://logseq.com/
 - [[createsOpportunitiesFor]] [[t.km.digital-gardening]] [[t.tm]]
 
-[[pred.hasIssues]]
+[[hasIssues]]
 
 - [Desktop version doesn't work with github yet](https://www.reddit.com/r/logseq/comments/og3tkf/github_repository_for_desktop_app/)

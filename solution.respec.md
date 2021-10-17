@@ -8,4 +8,4 @@ created: 1633704037700
 
 a [[javascript.library]] that makes it easier to write technical specifications
 
-- [[vcard.hasURL]] https://github.com/w3c/respec
+- [[hasURL]] https://github.com/w3c/respec

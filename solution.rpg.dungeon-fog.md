@@ -7,5 +7,5 @@ created: 1633316886239
 ---
 
 
-- [[vcard.hasURL]] https://www.dungeonfog.com/
+- [[hasURL]] https://www.dungeonfog.com/
 -  

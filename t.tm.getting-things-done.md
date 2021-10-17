@@ -6,11 +6,11 @@ updated: 1633221413063
 created: 1632805137761
 ---
 
-- [[aka]] GTD
+- [[alsoKnownAs]] GTD
 
 a personal productivity paradigm originated by @David-Allen
 
-- [[vcard.hasURL]] https://gettingthingsdone.com/
+- [[hasURL]] https://gettingthingsdone.com/
 - [[references]] [[book.getting-things-done-2nd-edition]]
 - [[PodcastSeries]] [[podcast.gtd]]
 

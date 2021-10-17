@@ -20,7 +20,7 @@ created: 1632835407320
 
 - > Instead of building an argument about the issue this attempts to build a model of the issue that can generate new understandings. [[article.the-garden-and-the-stream-a-technopastoral]]
 
-## [[contributor]]
+## [[contributedTo]]
 
 - [[user.maggie-appleton]]
 

@@ -13,7 +13,7 @@ created: 1631142984146
 embed content from other notes
 
 - [aka] transclusions
-- [[vcard.hasURL]] https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html
+- [[hasURL]] https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html
 
 ### Block Anchors
 

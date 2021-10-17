@@ -6,4 +6,4 @@ updated: 1632838111913
 created: 1632838111913
 ---
 
-- [[vcard.hasURL]] https://soundcloud.com/user-697578497
+- [[hasURL]] https://soundcloud.com/user-697578497

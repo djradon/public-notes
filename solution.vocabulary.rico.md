@@ -8,7 +8,7 @@ created: 1633224741175
 
 International Council on Archives "Records in Contexts" Ontology
 
-- [[vcard.hasURL]] https://www.ica.org/standards/RiC/RiC-O_v0-2.html
+- [[hasURL]] https://www.ica.org/standards/RiC/RiC-O_v0-2.html
 
 ![](/assets/images/2021-10-02-18-34-45.png)
 

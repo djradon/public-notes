@@ -6,5 +6,5 @@ updated: 1632404799156
 created: 1631250458608
 ---
 
-- [[vcard.hasURL]] https://distroid.substack.com/p/distroid-issue-13-digital-gardens
+- [[hasURL]] https://distroid.substack.com/p/distroid-issue-13-digital-gardens
 - [[dcterms.subject]] [[topic.km.digital-garden]]

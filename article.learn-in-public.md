@@ -6,6 +6,6 @@ updated: 1632377241462
 created: 1632377154955
 ---
 
-- [[vcard.hasURL]] https://www.swyx.io/learn-in-public/
+- [[hasURL]] https://www.swyx.io/learn-in-public/
 - [[dcterms.creator]] @swyx
 

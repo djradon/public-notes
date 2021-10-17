@@ -6,7 +6,7 @@ updated: 1633220062951
 created: 1633219985482
 ---
 
-- [[vcard.hasURL]] https://aaronlynn.com/personal-task-management/
+- [[hasURL]] https://aaronlynn.com/personal-task-management/
 
 ## [[pred.hasHighlights]]
 

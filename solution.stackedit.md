@@ -7,6 +7,6 @@ created: 1632954106798
 ---
 open-source dual-pane markdown editor with good support for rich-text paste
 
-- [[vcard.hasURL]] https://stackedit.io/
+- [[hasURL]] https://stackedit.io/
 - [[pred.hasApplication]] [[pi.dendron-online]] [[GraphDown]]
 - [[isA]] [[t.markdown.Editors]] 

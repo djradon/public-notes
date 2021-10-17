@@ -18,7 +18,7 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 - [toggles](https://www.notion.so/Toggles-c720af26b4bd4789b736c140b2dc73fe)
  
 
-## [[pred.hasIssues]]
+## [[hasIssues]]
 
 - breaks the back button
   
