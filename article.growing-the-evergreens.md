@@ -8,4 +8,4 @@ created: 1631251247075
 
 - [[hasURL]] https://maggieappleton.com/evergreens
 - [[dcterms.creator]] @maggie-appleton
-- [[related]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]
+- [[isRelated]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]

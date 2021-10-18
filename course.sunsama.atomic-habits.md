@@ -6,4 +6,4 @@ updated: 1633156854398
 created: 1633156845549
 ---
 
-- [[related]] https://jamesclear.com/atomic-habits
+- [[isRelated]] https://jamesclear.com/atomic-habits

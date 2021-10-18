@@ -2,16 +2,26 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1633758874629
+updated: 1634514937329
 created: 1633593028328
 ---
 
+## Thoughts
+
+- is it the same as "interpretation vs 
 - > RDF has not been clear about whether a URI like "http://www.w3.org/Consortium" identifies the W3C or a web page about the W3C 
 - notes that refer to actual things (sites, people, books, articles) could be called
   - reference notes
   - resource notes
   - could further differentiate notes that refer to topics / abstract things
-
+- e.g.
+  - References
+    - can have sense of 
+      - "Bibliography": other resources related to the thing this note/resource refers to
+      - "Footnote": the things that appear in this note can be attributedTo an external resource
+    - so, a mixing. 
+- maybe different predicates for both sense
+  - subjectHas
 
 ## Notes (in the Dendron sense)
 
@@ -34,7 +44,12 @@ created: 1633593028328
 
 - easier to judge from context: is the domain/range of the predicate a IRI? If not, it's about the thing the subject/object IRI refers to
 
-## references
+## References
+
+
+
+## hasRelatedResources
 
 - "maybe need to specify whether the note a subject unto itself or an identifier for another subject"
 - [ ] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
+- [ ] #summarize https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation

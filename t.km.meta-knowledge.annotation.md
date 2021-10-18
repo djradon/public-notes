@@ -6,7 +6,7 @@ updated: 1633221641645
 created: 1633220954468
 ---
 
-## [[related]]
+## [[isRelated]]
 
 - https://www.w3.org/TR/annotation-vocab/
 - 

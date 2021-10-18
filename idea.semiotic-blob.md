@@ -10,6 +10,6 @@ when a term or symbol refers to two or more closely-related things
 
 ## [[eg]]
 
-- [[solutions.markdown]] refers to a language and a class of languages
+- [[solution.markdown]] refers to a language and a class of languages
   - specifically, a lightweight markup language and a set of supersets of that language   ^nuNHaMNu55mc
 
