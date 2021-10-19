@@ -6,7 +6,7 @@ updated: 1633216714396
 created: 1633216349041
 ---
 
-## [[pred.hasHighlights]]
+## [[hasHighlights]]
 
 - "psychopaths are simply better at turning their empathy on and off"
 - "what we recognise as morality might be grounded not simply in positive, prosocial emotions but also in negative, stressful and self-oriented ones"

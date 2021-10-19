@@ -9,4 +9,4 @@ created: 1633209118308
 ## [[isRelated]]
 
 - https://www.w3.org/ns/prov
-  - [[pred.hasHighlights]] actedOnBehalfOf, Activity
+  - [[hasHighlights]] actedOnBehalfOf, Activity
