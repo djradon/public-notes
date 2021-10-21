@@ -21,5 +21,5 @@ created: 1633200115228
 ## Resources
 
 - https://dev.to/awwsmm/types-vs-classes-39an
-  - [[pred.hasContext]] [[t.programming]]
+  - [[hasContext]] [[t.programming]]
 - [[Discussion|instanceOf#discussion]]
