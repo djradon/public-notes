@@ -2,13 +2,13 @@
 id: SHTJLItRQKrfcqBO3XznN
 title: What's a Solution Vs a Product?
 desc: ''
-updated: 1634489334727
+updated: 1634933985521
 created: 1633875949280
 ---
 solution -> product(s) -> capabilities (for SKUs) -> features
 
 - [[hasURL]] https://www.juliandunn.net/2021/09/17/whats-a-solution-vs-a-product/
-- [[dcterms.creator]] @julian-dunn 
+- [[dcterms.creator]] @Julian-Dunn 
 - [[hasSummaryPoints]] 
   - capability is a logical aggregation of features that allow you to perform a task
   - [[vs]] [sonatype which has solutions that look like SKUs][3]

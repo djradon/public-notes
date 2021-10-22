@@ -2,7 +2,7 @@
 id: yMBMF4AbVvZWuiXz9aVxN
 title: Digital Gardening
 desc: ''
-updated: 1633221601749
+updated: 1634935784416
 created: 1632835407320
 ---
 "The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another." 
@@ -13,7 +13,7 @@ created: 1632835407320
 -  Continuous Growth
 -  Imperfection & Learning in Public
 -  Playful, Personal, and Experimental
--  Intercropping & Content Diversity
+-  [[intercropping]] & Content Diversity
 -  Independent Ownership
 
 ## Build a model
