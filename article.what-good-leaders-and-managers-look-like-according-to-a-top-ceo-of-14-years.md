@@ -12,4 +12,4 @@ detail-orientation correlates? with performance highly for entry-level managers
 
 ## Thoughts
 
-- entrepreneur CEOs (with small or no teams, like @dendron.kevin-lin ) need #detail-orientation as well as #adaptability, #curiosity, #ambiguity-tolerance and #risk-tolerance
+- entrepreneur CEOs (with small or no teams, like @kevin-lin ) need #detail-orientation as well as #adaptability, #curiosity, #ambiguity-tolerance and #risk-tolerance

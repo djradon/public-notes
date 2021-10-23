@@ -7,4 +7,4 @@ created: 1633738245087
 ---
 
 - [[created]] [[solution.markdown]]
-- [[org.hasSite]] [[Daring Fireball|https://daringfireball.net/]]
+- [[hasSite]] [[Daring Fireball|https://daringfireball.net/]]
