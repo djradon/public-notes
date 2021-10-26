@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1634740750289
+updated: 1635125557912
 created: 1633593028328
 ---
 

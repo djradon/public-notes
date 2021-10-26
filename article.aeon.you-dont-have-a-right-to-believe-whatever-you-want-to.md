@@ -9,7 +9,7 @@ created: 1633217526412
 
 - [[hasURL]] https://aeon.co/ideas/you-dont-have-a-right-to-believe-whatever-you-want-to
 
-## [[hasHighlights]]
+## [[hasHighlight]]
 
 - Belief can be voluntary, but often more like an attitude or state of mind than a decisive action 
 - "irresponsible beliefs" [[skos.example]] disregard evidence; accept gossip, rumour, or testimony from dubious sources; ignore incoherence with one’s other beliefs; embrace wishful thinking; or display a predilection for conspiracy theories

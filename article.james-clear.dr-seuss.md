@@ -8,6 +8,6 @@ created: 1634923305079
 
 - [[hasURL]] https://jamesclear.com/dr-seuss
 
-## [[hasHighlights]]
+## [[hasHighlight]]
 
 - [[The-Power-of-Constraints]]
