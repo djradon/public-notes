@@ -1,6 +1,6 @@
 ---
 id: B2zPjSiaIQih59J6k2gdk
-title: 'Jamstack 2021'
+title: Jamstack 2021
 desc: ''
 updated: 1633584631351
 created: 1633584518967
@@ -41,5 +41,5 @@ created: 1633584518967
 
 - neutrality.wtf
 
-## [[solution.auth.magic]] @seemcat
+## [[solution.magic]] @seemcat
 

@@ -12,7 +12,7 @@ solution -> product(s) -> capabilities (for SKUs) -> features
 - [[hasSummaryPoints]] 
   - capability is a logical aggregation of features that allow you to perform a task
   - [[vs]] [sonatype which has solutions that look like SKUs][3]
-  - [don't mix up benefits and [[hasFeatures]]][4]
+  - [don't mix up benefits and [[hasFeature]]][4]
 - a solution is one or more products that can be applied to solve a problem
   - [[raisesQuestion]] is every product (that can solve a problem on its own) also a solution?
     - likely! especially if you specify the problem

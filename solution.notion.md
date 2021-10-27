@@ -10,7 +10,7 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 - [[pred.addressesNeed]] [[t.km]] [[topic.tm]] 
 - [[isRelated]] https://www.notion.so/customers
 
-## [[hasFeatures]]
+## [[hasFeature]]
 
 - copies nicely to markdown  ^wf7vUfHYbV8u
 - supports embedded videos 

@@ -9,7 +9,7 @@ created: 1634617777670
 Open source semantic graph database that guarantees data integrity, facilitates secure data sharing, and powers connected data insights.
 
 - [[hasBlog]] https://flur.ee/blog/
-- [[hasFeatures]] 
+- [[hasFeature]] 
   - [[time-travel]]
     - [[hasRelatedResource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ https://flur.ee/2021/07/08/time-traveling-with-fluree/
   - [[]]
