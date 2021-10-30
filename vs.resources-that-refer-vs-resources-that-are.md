@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1634740750289
+updated: 1635373248171
 created: 1633593028328
 ---
 
@@ -10,18 +10,21 @@ created: 1633593028328
 
 - is it the same as "[interpretation vs representation](https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation)"
 - > RDF has not been clear about whether a URI like "http://www.w3.org/Consortium" identifies the W3C or a web page about the W3C 
-- notes that refer to actual things (sites, people, books, articles) could be called
-  - reference notes
-  - resource notes
+- notes/URIs/RRIs that refer to things (people, books, articles) 
+  - could be called:
+    - reference notes
+    - pointer notes
   - could further differentiate notes that refer to topics / abstract things
-- e.g.
-  - References
-    - can have sense of 
-      - "Bibliography": other resources related to the thing this note/resource refers to
-      - "Footnote": the things that appear in this note can be attributedTo an external resource
-    - so, a mixing. 
-    - 
-- maybe different predicates for both senses
+- notes/URIs/RRIs that are actual things (daily notes, task items, statements, (unpublished) articles, blogs)
+    - could be called
+      - resource notes
+- 
+
+## what things that refer have in common with things that are
+- can have sense of 
+  - "Bibliography": other resources related to the thing this note/resource refers to
+  - "Footnote": the things that appear in this note can be attributedTo an external resource
+- need different predicates for both senses
   - 
 
 ## Notes (in the Dendron sense)

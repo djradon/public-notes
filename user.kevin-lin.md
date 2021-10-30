@@ -1,8 +1,8 @@
 ---
 id: 8sLIbmNp7VbHWNcRc6Lg8
 title: Kevin Lin
-desc: ''
-updated: 1634705162550
+desc: 'Dendron CEO'
+updated: 1634944798888
 created: 1634194156105
 ---
 
