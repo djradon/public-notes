@@ -14,6 +14,6 @@ a vscode-based km system
 
 - > supports creating relationships between thoughts and information to help you think better.
 
-## [[vs]] [[solution.dendron]]
+## [[p.vs]] [[solution.dendron]]
 
 - [[resource]] 

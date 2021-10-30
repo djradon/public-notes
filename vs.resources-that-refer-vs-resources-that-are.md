@@ -48,7 +48,7 @@ created: 1633593028328
 
 - easier to judge from context: is the domain/range of the predicate a IRI? If not, it's about the thing the subject/object IRI refers to
 
-## [[hasCitation]]
+## [[p.hasCitation]]
 
 
 

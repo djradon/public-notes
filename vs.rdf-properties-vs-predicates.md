@@ -8,7 +8,7 @@ created: 1633817469789
 
 one of the biggest mistake of RDF: predicates are `
 
-- [[isRelated]] [[vs.property-graphs-vs-semantic-graphs]]
+- [[p.isRelated]] [[vs.property-graphs-vs-semantic-graphs]]
 
 ## thoughts
 

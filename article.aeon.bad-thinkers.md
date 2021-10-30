@@ -8,5 +8,5 @@ created: 1633214180243
 Mistaken beliefs can be more the result of intellectual character (i.e., intellectual vices) than lack of knowledge
 
 - [[hasURL]] https://aeon.co/essays/the-intellectual-character-of-conspiracy-theorists
-- [[references]] [[book.virtues-of-the-mind]]
+- [[p.references]] [[book.virtues-of-the-mind]]
 

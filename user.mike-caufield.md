@@ -8,4 +8,4 @@ created: 1633213446419
 director of blended and networked learning at Washington State University Vancouver 
 
 - [[hasSite]] https://hapgood.us/
-- [[pred.creditedWith]] [[t.km.digital-gardening]]
+- [[p.creditedWith]] [[t.km.digital-gardening]]

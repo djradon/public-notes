@@ -26,7 +26,7 @@ In terms of [[t.tm.getting-things-done]], it's inbox and references
 [[article.learn-in-public]]
 
 
-## [[vs]]
+## [[p.vs]]
 
 - evergreen-notes/digital-garden: for "synthesized" / original-ish publishable big-idea notes that should evolve over time, props to @Andy-Matuschak
 - blog: for "point-in-time" items to be shared: personal news, articles 

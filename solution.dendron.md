@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1635569360407
+updated: 1635572155404
 created: 1631142984146
 ---
 
@@ -81,14 +81,22 @@ embed content from other notes
 
 ## tips and tricks
 
-
 - [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html)
   - uses https://github.com/kalyan02/dendronutils 
 - [set keyboard shortcuts for selectionExtract](https://wiki.dendron.so/notes/ad270a7d-2aed-4273-8319-eb6536e38b29.html)
-- [[hasIssues]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
+- [[p.hasIssues]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
   - [[p.hasPossibleSolution]] move it to ".archive"
     - doesn't matter if it's sloppy, but you can keep the archive organized by mimicing headers from main note
     - might call it discussion instead of archive, a la wikipedia
+
+### beware the bare file
+
+- for a long time I was tempted to just start dumping stuff in the root, i.e., no hierarchy
+  - after all, it reads better not to have to see the namespace
+  - not to mention, vaults imply a hierarchy
+- but these days, everything should be in a type-consistent hierarchy, otherwise
+  - refactoring is a pain
+  - autocomplete is less powerfull
   - 
 
 

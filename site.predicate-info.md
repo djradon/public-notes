@@ -15,4 +15,4 @@ a cohesive set of predicates for semantic web 2.0
 ## Classes
 
 - Predicate
-  - [[equivalent]]
+  - [[p.equivalent]]

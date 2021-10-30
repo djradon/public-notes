@@ -6,7 +6,7 @@ updated: 1633441216786
 created: 1633440751818
 ---
 
-- [[isRelated]] [[t.mktg]]
+- [[p.isRelated]] [[t.mktg]]
 
 ## [[hasResource]]
 

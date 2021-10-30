@@ -8,7 +8,7 @@ created: 1634434456974
 
 
 - [[hasBenefits]] single source of truth (unified versions,simplified dependency managers), large-scale refactoring (atomic changes), better collaboration (less boundaries, wide code visibility, clear tree structure, flexible ownership), and fluid continuous integration and delivery.  ^lvSVpxfF2vnH
-- [[hasIssues]] increases the codebase complexity, build time, and effort invested in both code health and tooling. ^OPAsgOm9Zor9
+- [[p.hasIssues]] increases the codebase complexity, build time, and effort invested in both code health and tooling. ^OPAsgOm9Zor9
 
 ## Javascript Monorepo Tooling
 

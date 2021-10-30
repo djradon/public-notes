@@ -7,6 +7,6 @@ created: 1635375487411
 ---
 
 - [[instanceOf]] [[SKU]]
-- [[hasFeature]] 
+- [[p.hasFeature]] 
   - enforced merge checks
   - ip allowlisting

@@ -9,5 +9,5 @@ created: 1634431162473
 > Inspiration exists, but it has to find you working.
 > - Picasso
 
-- [[equivalentPredicate]] [dbo:created](http://dbpedia.org/ontology/created)
+- [[p.equivalentPredicate]] [dbo:created](http://dbpedia.org/ontology/created)
 - [[hasRange]] [[Work]]

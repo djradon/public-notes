@@ -7,5 +7,5 @@ created: 1632377154955
 ---
 
 - [[hasURL]] https://www.swyx.io/learn-in-public/
-- [[dcterms.creator]] @swyx
+- [[p.creator]] @swyx
 

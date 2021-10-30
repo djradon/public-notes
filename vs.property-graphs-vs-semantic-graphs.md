@@ -16,7 +16,7 @@ property graphs support key-value pairs
 
 
 
-## [[isRelated]]
+## [[p.isRelated]]
 
 - [1]: https://www.forbes.com/sites/cognitiveworld/2019/03/17/when-graphs-collide-the-coming-merger-of-property-and-semantic-graphs/?sh=27891b09c0b0
 - [ ] http://blog.liu.se/olafhartig/2019/01/10/position-statement-rdf-star-and-sparql-star/

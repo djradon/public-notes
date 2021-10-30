@@ -10,5 +10,5 @@ a search engine for RDF vocabularies
 
 - [[hasURL]] https://prefix.zazuko.com/
 - [[p.alsoKnownAs]] Resolve RDF Terms
-- [[vs]] prefix.cc; LOV 
+- [[p.vs]] prefix.cc; LOV 
 - 

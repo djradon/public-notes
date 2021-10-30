@@ -7,5 +7,5 @@ created: 1633203217743
 color: yellow
 ---
 
-- could do something like [[hasClass]] `RecommendationType`
+- could do something like [[p.hasClass]] `RecommendationType`
 - 

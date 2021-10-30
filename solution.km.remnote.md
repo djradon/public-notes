@@ -16,7 +16,7 @@ a note-taking tool that helps your organize and remember what you learn
 ## concepts
 
 ### rem
-- [[skos.definition]] a unit of knowledge in remnote, stated with a bullet point
+- [[p.hasDefinition]] a unit of knowledge in remnote, stated with a bullet point
 - [[hasSubClass]] Concept :: A Rem that represents a concept or something in the real world
 - [[hasSubClass]] Descriptor :: a piece of information that describes a concept
 - [[hasSubClass]] Question :: 
@@ -24,12 +24,12 @@ a note-taking tool that helps your organize and remember what you learn
 
 ### [portal](https://www.remnote.com/p/help/document/rML9ANQyE7DW3XqPn)
 
-- [[skos.definition]] view a rem in multiple context
-- [[vs]] [[solution.dendron#references]]
+- [[p.hasDefinition]] view a rem in multiple context
+- [[p.vs]] [[solution.dendron#references]]
   - portal is a weird name
   - 
 
-## [[hasIssues]]
+## [[p.hasIssues]]
 
 - selecting text is hard/impossible
 - copying text leaves out the links (concepts)

@@ -20,5 +20,5 @@ a joyful, open-source outliner that works on top of local or git-homed plain-tex
 - [[hasSite]] https://logseq.com/
 - [[createsOpportunitiesFor]] [[t.km.digital-gardening]] [[t.tm]]
   
-  [[hasIssues]]
+  [[p.hasIssues]]
 - [Desktop version doesn't work with github yet](https://www.reddit.com/r/logseq/comments/og3tkf/github_repository_for_desktop_app/)

@@ -9,5 +9,5 @@ created: 1629640736350
 ---
 
 - [[hasURL]] https://medium.com/@ethomasv/understanding-zettelkasten-d0ca5bb1f80e
-- [[isRelated]] [[t.km.zettelkasten]]
+- [[p.isRelated]] [[t.km.zettelkasten]]
 - 

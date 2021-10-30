@@ -7,4 +7,4 @@ created: 1634622138277
 ---
 
 - [[hasURL]] https://pure.au.dk/ws/files/307/0003104.pdf
-- [[hasAuthor]] @Peter-Kraft @Jens-Otto-Sørensen
+- [[p.hasAuthor]] @Peter-Kraft @Jens-Otto-Sørensen
