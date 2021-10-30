@@ -9,6 +9,6 @@ a search engine for RDF vocabularies
 
 
 - [[hasURL]] https://prefix.zazuko.com/
-- [[alsoKnownAs]] Resolve RDF Terms
+- [[p.alsoKnownAs]] Resolve RDF Terms
 - [[vs]] prefix.cc; LOV 
 - 

@@ -2,7 +2,7 @@
 id: QcGJOGoacQKTGmnp3sK8J
 title: Vscode
 desc: ''
-updated: 1633731014721
+updated: 1635564935185
 created: 1632921837510
 stub: true
 ---
@@ -14,5 +14,6 @@ stub: true
 
 ## tips
 
-- insert line above ctrl+shift+enter is perfect for a LIFO INBOX
+- see [[VSCode Tips|t.cs.vscode.tips]]
+
 

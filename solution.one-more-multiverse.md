@@ -7,9 +7,9 @@ created: 1632953696662
 ---
 ttrpg engine with retro 2D graphics and the promise of a marketplace
 
-- [[alsoKnownAs]] Multiverse
+- [[p.alsoKnownAs]] Multiverse
 - [[hasURL]] https://www.playmultiverse.com/
-- [[alsoKnownAs]] One More Multiverse
+- [[p.alsoKnownAs]] One More Multiverse
 
 ## 2021-10-22
 

@@ -1,12 +1,10 @@
 ---
 id: 0eLEXzEZQtkeRPS1vtC9z
-title: Dev
-desc: ''
-updated: 1634768867019
+title: vscode.dev
+desc: 'Bringing VS Code to the browser'
+updated: 1635565044897
 created: 1634768867019
 ---
-
-Bringing VS Code to the browser
 
 - [[hasAnnouncement]] https://code.visualstudio.com/blogs/2021/10/20/vscode-dev 2021-10-20
   - [[hasHighlight]] 

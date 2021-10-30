@@ -20,5 +20,5 @@ created: 1634434456974
 
 ## References
 
-- [[#^lvSVpxfF2vnH]], [[^OPAsgOm9Zor9]] [[attributedTo]] https://ageek.dev/monorepo
+- [[#^lvSVpxfF2vnH]], [[^OPAsgOm9Zor9]] [[p.attributedTo]] https://ageek.dev/monorepo
 - [[#^BN4KDj2uWEcE]] https://dev.to/hipstersmoothie/javascript-monorepo-tooling-48b9

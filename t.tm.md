@@ -7,8 +7,8 @@ created: 1634185485262
 ---
 
 -  [[hasBenefit]] Can help stave off a fear of mortality. ^UGSjFupqZmIK
-  - [[attributedTo]] @Oliver-Burkman
-    - [[attributedTo]] @Clay-Skipper ^O7jsHLSrj0Bc
+  - [[p.attributedTo]] @Oliver-Burkman
+    - [[p.attributedTo]] @Clay-Skipper ^O7jsHLSrj0Bc
 
 ## [[hasQuotes]]
 

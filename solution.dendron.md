@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1634192418380
+updated: 1635569360407
 created: 1631142984146
 ---
 
@@ -25,6 +25,13 @@ embed content from other notes
 - comes with a basic set: todo, date, and time 
 - annoyance: doesn't de-dupe so three-vault workspaces get three sets of snippet suggestions
   - [ ] remove duplicate
+
+### aliasMode
+
+- what to do when pasting a link
+- selection only applies when text is selected, but that's the mode for me.
+  - seems like it should be orthogonal to other [aliasMode](https://wiki.dendron.so/notes/eea2b078-1acc-4071-a14e-18299fc28f47.html#aliasmode) options 
+
 
 ## Feature ideas
 
@@ -78,16 +85,11 @@ embed content from other notes
 - [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html)
   - uses https://github.com/kalyan02/dendronutils 
 - [set keyboard shortcuts for selectionExtract](https://wiki.dendron.so/notes/ad270a7d-2aed-4273-8319-eb6536e38b29.html)
-- [[problem]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
-  - [[solution]] move it to ".archive"
+- [[hasIssues]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
+  - [[p.hasPossibleSolution]] move it to ".archive"
     - doesn't matter if it's sloppy, but you can keep the archive organized by mimicing headers from main note
     - might call it discussion instead of archive, a la wikipedia
+  - 
 
-## aliasMode
 
-- what to do when pasting a link
-- selection only applies when text is selected, but that's the mode for me.
-  - seems like it should be orthogonal to other [aliasMode](https://wiki.dendron.so/notes/eea2b078-1acc-4071-a14e-18299fc28f47.html#aliasmode) options 
-
-## todo
 

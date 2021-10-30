@@ -8,4 +8,4 @@ created: 1634942796537
 
 - [[instanceOf]] [[BeliefSystem]]
 - [[hasTenet]] nothing matters more, ethically speaking, than fulfilling our potential as a species of ‘Earth-originating intelligent life’.
-  - [[attributedTo]] @Phil-Torres
+  - [[p.attributedTo]] @Phil-Torres
