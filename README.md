@@ -2,7 +2,7 @@
 id: rJixPer8fVahi3YRkicEn
 title: README
 desc: ''
-updated: 1632920000650
+updated: 1634308196137
 created: 1631143111333
 ---
 
@@ -17,11 +17,11 @@ This vault of notes will be a combination of
 - publishable "resource notes", including
   -  "raw highlights" from books and articles
   - summary notes from courses and videos
-- biographic references
+- biographic references for public figures
 
 In terms of the [[t.km.zettelkasten]] method, it's a commingling of literature notes with something Ahrens warned about: a "personal Wikipedia or a database" [1](book.how-to-take-smart-notes.md). 
 
-In terms of [[t.tm.getting-things-done]], it's inbox and references
+In terms of [[t.tm.getting-things-done]], it's references, someday-maybe, next actions, and public projects
 
 [[ar.swyx.learn-in-public]]
 
