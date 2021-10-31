@@ -2,10 +2,11 @@
 id: aTOzSMSBZYyuVgpeAhGUV
 title: Getting Things Done Personal Knowledge Management
 desc: ''
-updated: 1632807900023
+updated: 1635719784753
 created: 1632806033766
 ---
 
+- [[p.hasURL]] https://fortelabs.co/blog/gtd-x-pkm/
 - [[p.hasCreator]] @Tiago-Forte
 
 ## importance of reference info

@@ -2,13 +2,14 @@
 id: aSdM23LoVqx4eXymCMGvy
 title: Moehr Better
 desc: ''
-updated: 1633590329375
+updated: 1635720158562
 created: 1632842564955
 ---
 
-- [[p.instanceOf]] [[WebSite]] # this is doubly-redundant, since Scott's note links here with `hasWebsite` and the location in the hierarchy is under "site."
-- [[hasPart]] http://www.moehrbetter.com/blog
+- [[p.instanceOf]] [[c.WebSite]] 
+- [[p.hasPart]] http://www.moehrbetter.com/blog
 - http://www.moehrbetter.com/blog [[p.instanceOf]] [[c.Blog]]
+- [[p.ownedBy]] @scott-moehring
   
 ## [[p.hasHighlight]] 
 - http://www.moehrbetter.com/gtd-advanced-workflow-diagram.html

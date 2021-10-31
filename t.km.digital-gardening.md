@@ -18,7 +18,7 @@ created: 1632835407320
 
 ## Build a model
 
-- > Instead of building an argument about the issue this attempts to build a model of the issue that can generate new understandings. [[ar.the-garden-and-the-stream-a-technopastoral]]
+- > Instead of building an argument about the issue this attempts to build a model of the issue that can generate new understandings. [[ar.hapgood.the-garden-and-the-stream-a-technopastoral]]
 
 ## [[p.contributedTo]]
 

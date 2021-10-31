@@ -1,9 +1,9 @@
 ---
-id: 4M7ekdOwKPIiZ92FPqdgM
-title: Disambiguating RDF Identifiers
+id: T7d4rUVq4WXKchWQnJn5K
+title: Rdf Identifiers
 desc: ''
-updated: 1633801383670
-created: 1633800333792
+updated: 1635719995688
+created: 1635719880920
 ---
 
 - [[p.hasAuthor]] @sandro-hawke
@@ -13,4 +13,4 @@ created: 1633800333792
 
 ### [[hasSummary]]
 
-- 
+- [ ] [[p.summarized]]
