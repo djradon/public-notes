@@ -1,8 +1,8 @@
 ---
 id: 3vjT0mrbOhXc1R0Z8SAUY
 title: Getting Things Done
-desc: ''
-updated: 1633221413063
+desc: 'Capture, Clarify, Organise, Reflect and Engage'
+updated: 1635719259840
 created: 1632805137761
 ---
 

@@ -10,4 +10,4 @@ created: 1634923305079
 
 ## [[p.hasHighlight]]
 
-- [[The-Power-of-Constraints]]
+- [[idea.The-Power-of-Constraints]]
