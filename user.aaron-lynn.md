@@ -9,7 +9,7 @@ created: 1633158453382
 - [[p.hasSite]] https://aaronlynn.com/
 
 
-[[How to Set up Your Personal Task Management System|site.aaronlynn.how-to-set-up-your-personal-task-management-system]]
+[[How to Set up Your Personal Task Management System|ar.aaronlynn.how-to-set-up-your-personal-task-management-system]]
 how-to-set-up-your-personal-task-management-system
 
 - https://aaronlynn.com/personal-task-management/ 

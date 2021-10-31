@@ -7,4 +7,4 @@ created: 1631250458608
 ---
 
 - [[p.hasURL]] https://distroid.substack.com/p/distroid-issue-13-digital-gardens
-- [[p.hasSubject]] [[t.km.digital-gardening]]
+- [[p.hasTheme]] [[t.km.digital-gardening]]

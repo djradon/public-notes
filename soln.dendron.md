@@ -54,7 +54,7 @@ embed content from other notes
   - for the colorblind we could do something like background, outline, style, and font changes based on vault, or links have boxes (sharp corner, rounded corner, etc)
 - `semantic links` this is basically what predicates enable
 - ![[pi.RRI#^JZbCUAYF0h0h:#*]]
-- ![[GraphDown|GraphDown#^YzwILFSI4oSJ]]
+- ![[proj.GraphDown#^YzwILFSI4oSJ]]
 - make @ references configurable (as to hierarchy)
 - make transclusion of frontmatter or other properties, see https://foambubble.github.io/foam/proposals/inclusion-of-notes#include-an-attribute-of-a-file-note-property-or-frontmatter
 - 

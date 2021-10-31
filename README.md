@@ -23,7 +23,7 @@ In terms of the [[t.km.zettelkasten]] method, it's a commingling of literature n
 
 In terms of [[t.tm.getting-things-done]], it's inbox and references
 
-[[article.learn-in-public]]
+[[ar.learn-in-public]]
 
 
 ## [[p.vs]]

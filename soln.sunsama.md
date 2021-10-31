@@ -13,7 +13,7 @@ Elegant, guided solution to time and task management with decent integrations an
 - tells me how much work I did (assuming you account for everything)
   - but ultimately these days, I just work all day
 - encourages planning and reflection
-  - but [[site.aaronlynn.how-to-set-up-your-personal-task-management-system]] can support it in a more flexible way
+  - but [[ar.aaronlynn.how-to-set-up-your-personal-task-management-system]] can support it in a more flexible way
 - syncs with multiple Jira instances
 
 ## personal fit

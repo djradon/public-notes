@@ -1,16 +1,19 @@
 ---
 id: 0deUbUTA87xF5Npu5zw1s
-title: Remnote
-desc: ''
-updated: 1633205190903
+title: RemNote
+desc: cloud PKM with learning/memorization focus
+updated: 1635716861395
 created: 1632454051411
 ---
 
 a note-taking tool that helps your organize and remember what you learn
 
+- [[p.hasApplication]] [[t.km]] 
+
+
 ## features
 
-- [[soln.km.bullet-journaling]]  
+- [[soln.bullet-journaling]]  
 - create flashcards and take notes at the same time.
 
 ## concepts

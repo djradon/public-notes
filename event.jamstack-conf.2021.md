@@ -2,12 +2,14 @@
 id: B2zPjSiaIQih59J6k2gdk
 title: Jamstack 2021
 desc: ''
-updated: 1635570787113
+updated: 1635712593958
 created: 1633584518967
 ---
 
 ## mpa vs spa @rich-harris
 
+- [[p.hasRecording]] [Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes](https://www.youtube.com/watch?v=860d8usGC0o)
+- ![](/assets/images/2021-10-31-13-36-29.png)
 - Transitional Design
   - best of both worlds
   - transitions
@@ -41,5 +43,5 @@ created: 1633584518967
 
 - neutrality.wtf
 
-## [[solution.Magic]] @seemcat
+## [[soln.Magic]] @seemcat
 
