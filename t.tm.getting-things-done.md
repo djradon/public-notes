@@ -18,7 +18,7 @@ a personal productivity paradigm originated by @David-Allen
 
 ![](/assets/images/2021-09-28-07-50-10.png)
 
-- [[p.creator]] @scott-moehring
+- [[p.hasCreator]] @scott-moehring
 
 ## workflow
 

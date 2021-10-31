@@ -7,7 +7,7 @@ created: 1633213395984
 ---
 
 - [[p.hasURL]] https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
-- [[p.creator]] @mike-caufield
+- [[p.hasCreator]] @mike-caufield
 
 ## [[p.hasHighlight]]
 

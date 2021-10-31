@@ -8,7 +8,7 @@ created: 1633875949280
 solution -> product(s) -> capabilities (for SKUs) -> features
 
 - [[p.hasURL]] https://www.juliandunn.net/2021/09/17/whats-a-solution-vs-a-product/
-- [[p.creator]] @Julian-Dunn 
+- [[p.hasCreator]] @Julian-Dunn 
 - [[p.hasSummaryPoints]] 
   - capability is a logical aggregation of features that allow you to perform a task
   - [[p.vs]] [sonatype which has solutions that look like SKUs][3]

@@ -6,7 +6,7 @@ updated: 1632807900023
 created: 1632806033766
 ---
 
-- [[p.creator]] @Tiago-Forte
+- [[p.hasCreator]] @Tiago-Forte
 
 ## importance of reference info
 

@@ -51,5 +51,5 @@ created: 1633593028328
 ## [[p.hasRelatedResource]]
 
 - "maybe need to specify whether the note a subject unto itself or an identifier for another subject"
-- [ ] [[p.summarize]] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
-- [ ] [[p.summarize]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation
+- [ ] [[p.summarized]] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
+- [ ] [[p.summarized]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation

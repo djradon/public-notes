@@ -13,4 +13,4 @@ created: 1634426288630
 
 ## To Do
 
-- [ ] [[p.summarize]] rdf-star use cases 
+- [ ] [[p.summarized]] rdf-star use cases 
