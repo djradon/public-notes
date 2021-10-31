@@ -10,4 +10,4 @@ created: 1634431162473
 > - Picasso
 
 - [[p.equivalentPredicate]] [dbo:created](http://dbpedia.org/ontology/created)
-- [[hasRange]] [[Work]]
+- [[p.hasRange]] [[Work]]

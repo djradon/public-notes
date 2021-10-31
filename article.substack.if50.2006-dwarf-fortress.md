@@ -7,7 +7,7 @@ created: 1632919642928
 ---
 "a glorious celebration of the possibilities and complexities of emergent behavior, taken to a level few if any other games have achieved"
 
-- [[hasURL]] https://if50.substack.com/p/2006-dwarf-fortress
+- [[p.hasURL]] https://if50.substack.com/p/2006-dwarf-fortress
 - [[p.isRelated]] [[game.dwarf-fortress]]
 
 ## [[hasQuotes]]

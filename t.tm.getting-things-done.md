@@ -10,9 +10,9 @@ created: 1632805137761
 
 a personal productivity paradigm originated by @David-Allen
 
-- [[hasURL]] https://gettingthingsdone.com/
+- [[p.hasURL]] https://gettingthingsdone.com/
 - [[p.references]] [[book.getting-things-done-2nd-edition]]
-- [[PodcastSeries]] [[podcast.gtd]]
+- [[c.PodcastSeries]] [[podcast.gtd]]
 
 ## advanced workflow poster
 

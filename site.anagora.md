@@ -6,5 +6,5 @@ updated: 1634424033458
 created: 1634423904320
 ---
 
-- [[hasURL]] https://anagora.org
-- [[instanceOf]] [[DigitalGarden]]
+- [[p.hasURL]] https://anagora.org
+- [[p.instanceOf]] [[c.DigitalGarden]]

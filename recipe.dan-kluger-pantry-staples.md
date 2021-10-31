@@ -6,6 +6,6 @@ updated: 1635084056189
 created: 1635083708604
 ---
 
-- [[hasURL]] https://www.domino.com/content/dan-kluger-pantry-staples/
+- [[p.hasURL]] https://www.domino.com/content/dan-kluger-pantry-staples/
 - [[p.attributedTo]] @Dan-Kluger klug
 - [[usesIngredients]] miso; butternut squash; kombu; elderflower-syrup

@@ -7,7 +7,7 @@ created: 1633217526412
 ---
 "There is an ethic of believing, of acquiring, sustaining, and relinquishing beliefs – and that ethic both generates and limits our right to believe."
 
-- [[hasURL]] https://aeon.co/ideas/you-dont-have-a-right-to-believe-whatever-you-want-to
+- [[p.hasURL]] https://aeon.co/ideas/you-dont-have-a-right-to-believe-whatever-you-want-to
 
 ## [[p.hasHighlight]]
 

@@ -17,7 +17,7 @@ created: 1633404621219
     - some might argue that 
   - if you buy "capabilities are collections of features", then capabilities can also be solutions. 
 
-![[Whats a Solution Vs a Product|article.whats-a-solution-vs-a-product]]
+![[article.whats-a-solution-vs-a-product]]
 
 ## References
 

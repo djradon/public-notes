@@ -22,4 +22,4 @@ created: 1633200115228
 
 - https://dev.to/awwsmm/types-vs-classes-39an
   - [[p.hasContext]] [[t.programming]]
-- [[Discussion|instanceOf#discussion]]
+- [[Discussion|p.instanceOf#discussion]]

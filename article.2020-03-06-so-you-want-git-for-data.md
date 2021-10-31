@@ -6,7 +6,7 @@ updated: 1633084513488
 created: 1633084022057
 ---
 
-- [[hasURL]] https://www.dolthub.com/blog/2020-03-06-so-you-want-git-for-data/
+- [[p.hasURL]] https://www.dolthub.com/blog/2020-03-06-so-you-want-git-for-data/
 
 # I want it all
 

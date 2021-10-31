@@ -9,7 +9,7 @@ created: 1634013172647
 EQ is a great power that should come with great responsibility
 
 
-- [[hasURL]] https://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/
+- [[p.hasURL]] https://www.theatlantic.com/health/archive/2014/01/the-dark-side-of-emotional-intelligence/282720/
 
 ## [[hasQuotes]]
 

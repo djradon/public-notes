@@ -6,5 +6,5 @@ updated: 1634934462849
 created: 1634930259616
 ---
 
-- [[instanceOf]] [[Company]]
-- [[hasRelatedResource]] https://www.businessinsider.com/about
+- [[p.instanceOf]] [[c.Company]]
+- [[p.hasRelatedResource]] https://www.businessinsider.com/about

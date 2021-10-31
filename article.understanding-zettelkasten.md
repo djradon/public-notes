@@ -8,6 +8,6 @@ updated: 1633187419767
 created: 1629640736350
 ---
 
-- [[hasURL]] https://medium.com/@ethomasv/understanding-zettelkasten-d0ca5bb1f80e
+- [[p.hasURL]] https://medium.com/@ethomasv/understanding-zettelkasten-d0ca5bb1f80e
 - [[p.isRelated]] [[t.km.zettelkasten]]
 - 

@@ -6,4 +6,4 @@ updated: 1634934182308
 created: 1634933985384
 ---
 
-- [[hasURL]] https://www.linkedin.com/in/julian/
+- [[p.hasURL]] https://www.linkedin.com/in/julian/

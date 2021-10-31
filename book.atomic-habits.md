@@ -6,7 +6,7 @@ updated: 1634094818095
 created: 1634094773623
 ---
 
-- [[hasURL]] https://jamesclear.com/atomic-habits
+- [[p.hasURL]] https://jamesclear.com/atomic-habits
 
 ## [[Quotes]]
 

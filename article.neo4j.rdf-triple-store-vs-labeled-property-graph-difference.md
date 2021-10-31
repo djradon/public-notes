@@ -8,7 +8,7 @@ created: 1633884018280
 
 a biased comparison of the two prevailing graph data models
 
-- [[hasURL]] https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/
+- [[p.hasURL]] https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/
 
 ## [[provokedThoughts]]
 
@@ -17,7 +17,7 @@ a biased comparison of the two prevailing graph data models
 - relationships can be uniquely identified via
   - 
 
-## [[hasSummaryPoints]]
+## [[p.hasSummaryPoints]]
 
 - 
 

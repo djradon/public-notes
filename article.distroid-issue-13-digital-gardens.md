@@ -6,5 +6,5 @@ updated: 1634486331544
 created: 1631250458608
 ---
 
-- [[hasURL]] https://distroid.substack.com/p/distroid-issue-13-digital-gardens
-- [[hasSubject]] [[t.km.digital-gardening]]
+- [[p.hasURL]] https://distroid.substack.com/p/distroid-issue-13-digital-gardens
+- [[p.hasSubject]] [[t.km.digital-gardening]]

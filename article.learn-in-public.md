@@ -6,6 +6,6 @@ updated: 1632377241462
 created: 1632377154955
 ---
 
-- [[hasURL]] https://www.swyx.io/learn-in-public/
+- [[p.hasURL]] https://www.swyx.io/learn-in-public/
 - [[p.creator]] @swyx
 

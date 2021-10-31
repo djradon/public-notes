@@ -12,7 +12,7 @@ property graphs support key-value pairs
 
 - [when semantic graphs support reification, aren't they essentially the same?][1]
   - maybe, and I think predicates are adequate to represent key-value pairs on
-    - subjects/objects (aka "things" or, in graph theory, [[Nodes]])
+    - subjects/objects (aka "things" or, in graph theory, [[c.Nodes]])
 
 
 

@@ -6,7 +6,7 @@ updated: 1634923483339
 created: 1634923305079
 ---
 
-- [[hasURL]] https://jamesclear.com/dr-seuss
+- [[p.hasURL]] https://jamesclear.com/dr-seuss
 
 ## [[p.hasHighlight]]
 

@@ -2,11 +2,11 @@
 id: uIkIBGzPbfZTbhf8ngcD1
 title: predicate.info
 desc: ''
-updated: 1633881110190
+updated: 1635671942247
 created: 1633876784367
 ---
 
-a cohesive set of predicates for semantic web 2.0
+a smorgasbord of predicates for a humane semantic web
 
 ## thoughts
 
@@ -14,5 +14,4 @@ a cohesive set of predicates for semantic web 2.0
 
 ## Classes
 
-- Predicate
-  - [[p.equivalent]]
+- maybe c.Predicate should be included here?

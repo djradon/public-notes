@@ -6,7 +6,7 @@ updated: 1633220057534
 created: 1633158453382
 ---
 
-- [[hasSite]] https://aaronlynn.com/
+- [[p.hasSite]] https://aaronlynn.com/
 
 
 [[How to Set up Your Personal Task Management System|site.aaronlynn.how-to-set-up-your-personal-task-management-system]]

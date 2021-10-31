@@ -6,7 +6,7 @@ updated: 1632377123482
 created: 1632376167261
 ---
 
-- [[hasURL]] https://maggieappleton.com/garden-history
+- [[p.hasURL]] https://maggieappleton.com/garden-history
 - [[p.creator]] @maggie-appleton
 - [[p.isRelated]] [[t.km.digital-gardening]] [[t.km.evergreen-notes]]
 - [[p.references]] [[article.learn-in-public]]

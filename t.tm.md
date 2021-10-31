@@ -12,5 +12,5 @@ created: 1634185485262
 
 ## [[hasQuotes]]
 
-- ![[project.bia#^rxGIZrgVBtUO:#*]]
+- ![[proj.bia#^rxGIZrgVBtUO:#*]]
 - 

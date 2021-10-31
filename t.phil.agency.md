@@ -2,7 +2,7 @@
 id: tqMiL92XhpRIn6dYfIJ9R
 title: Agency
 desc: ''
-updated: 1634854404848
+updated: 1635661822407
 created: 1634854404848
 ---
 
@@ -14,7 +14,7 @@ created: 1634854404848
 
 - ["Formal Corporate Agency (stated aims and coordinated action); Informal Corporate Agency (no stated aims but coordinated action); Withdrawn Agency (stated aims but no coordinated action); and Primary Agency (no stated aims and no coordinated action)."][2]
 
-## [[p.hasCitation]]
+## [[p.hasSource]]
 
 - [1]: https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsb.12019
 - [2]: https://www.tandfonline.com/doi/full/10.1080/14767430.2019.1663031

@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1635373248171
+updated: 1635661935793
 created: 1633593028328
 ---
 
@@ -48,12 +48,8 @@ created: 1633593028328
 
 - easier to judge from context: is the domain/range of the predicate a IRI? If not, it's about the thing the subject/object IRI refers to
 
-## [[p.hasCitation]]
-
-
-
-## [[hasRelatedResource]]
+## [[p.hasRelatedResource]]
 
 - "maybe need to specify whether the note a subject unto itself or an identifier for another subject"
-- [ ] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
-- [ ] #summarize https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation
+- [ ] [[p.summarize]] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
+- [ ] [[p.summarize]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation
