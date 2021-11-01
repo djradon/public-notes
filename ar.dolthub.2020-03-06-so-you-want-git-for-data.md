@@ -2,16 +2,16 @@
 id: HuSYSf2fKeFv3QXEswnhv
 title: so You Want Git for Data
 desc: ''
-updated: 1635713246550
+updated: 1635728586385
 created: 1633084022057
 ---
 
 - [[p.hasURL]] https://www.dolthub.com/blog/2020-03-06-so-you-want-git-for-data/
 - [[p.isRelated]] [[soln.Dolt]]
 
-## I want it all
+## Aspects of "Git" that you might want for data 
 
-- [[t.cs.version-control]]
+- [[t.cs.version-control]] ^aMM7kNHdxfTR
   - rollbacks
   - diffs
   - lineage
@@ -21,3 +21,18 @@ created: 1633084022057
   - multiple remotes
   - staging area
 - [[t.cs.data.catalog]]
+  - thriving open data community
+  - collaborate remotely and asynchronously
+  - pull requests
+  - create issues referring to certain parts of the data
+- [[t.cs.data.types]]
+- transformation can happen externally
+- [[t.cs.data.labelling]] can happen as statement metadata? ^FJEbyfH4liTs
+
+## Three types of solutions
+
+The products fell into three general categories:
+
+    1. [[Data catalogs|t.cs.data.catalog]]
+    2. Data pipeline versioning
+    3. Versioned databases

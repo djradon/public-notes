@@ -2,9 +2,39 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1635661935793
+updated: 1635746703314
 created: 1633593028328
 ---
+
+- [[p.alsoKnownAs]] indicator vs subject 
+
+"surely the distinction between a network-retrievable information resource and "everything else" is of fundamental importance to the whole architecture of the Web]"
+
+## Possible Solutions
+
+- the syntactic structure of the URI itself can indicate whether the URI is a subject address or a subject identifier; or else the syntactic context in which the URI is used can determine its role
+
+### Ideas from Topic Maps
+
+- [subject indicators] divided into:
+  - 1. resourceRef (subject address)
+  - 2. subjectIndicatorRef (subject indicator)
+
+### For GraphDown
+
+- when regular links (raw URL, URL in angle brackets, or URL in parentheses after single-square link text, aka markdown-style links) for subjects, predicates, and objects, they are always resourceRefs
+- wikilinks to notes in the local workspace (LRIs?) or URIs [[https://www.markdownguide.org/basic-syntax/]] are always used as subjectIndicatorRef
+  - so you can't say anything about notes themselves?
+    - maybe you put it in the frontmatter
+    - maybe you create a second, special "ar" note.
+    - maybe a special syntax to treat local
+      - maybe <http:///vs.rdfs-vs-owl.md>
+- if you want to say something about something that's not addressable
+  - create a note for it
+  - but I wanna use  an "indicator note" that someone else has made? Or I made and published on the web somewhere, and it's not in my local workspace
+    - make a new local note, point it at the indicator note. 
+- `soln.toml` is kinda an identifier; unlike a corresponding note in the topic hierarchy, it won't change
+- differentiate resources that are addressable with `hasURL` - but not sure if that helps
 
 ## Thoughts
 
@@ -53,3 +83,5 @@ created: 1633593028328
 - "maybe need to specify whether the note a subject unto itself or an identifier for another subject"
 - [ ] [[p.summarized]] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
 - [ ] [[p.summarized]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation
+- [1]: [[ar.ontopia.curing-the-webs-identity-crisis]]
+- 
