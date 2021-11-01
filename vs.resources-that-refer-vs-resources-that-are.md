@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1635746703314
+updated: 1635780764399
 created: 1633593028328
 ---
 
@@ -20,7 +20,7 @@ created: 1633593028328
   - 1. resourceRef (subject address)
   - 2. subjectIndicatorRef (subject indicator)
 
-### For GraphDown
+### For GraphDown 
 
 - when regular links (raw URL, URL in angle brackets, or URL in parentheses after single-square link text, aka markdown-style links) for subjects, predicates, and objects, they are always resourceRefs
 - wikilinks to notes in the local workspace (LRIs?) or URIs [[https://www.markdownguide.org/basic-syntax/]] are always used as subjectIndicatorRef
@@ -35,6 +35,8 @@ created: 1633593028328
     - make a new local note, point it at the indicator note. 
 - `soln.toml` is kinda an identifier; unlike a corresponding note in the topic hierarchy, it won't change
 - differentiate resources that are addressable with `hasURL` - but not sure if that helps
+
+***
 
 ## Thoughts
 
