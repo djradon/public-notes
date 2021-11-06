@@ -2,7 +2,7 @@
 id: rmPG8335YFX94rgmmWKpg
 title: 'RDF Triple Stores vs. Labeled Property Graphs: What’s the Difference?'
 desc: ''
-updated: 1633886706678
+updated: 1635977820007
 created: 1633884018280
 ---
 
@@ -10,7 +10,7 @@ a biased comparison of the two prevailing graph data models
 
 - [[p.hasURL]] https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/
 
-## [[provokedThoughts]]
+## [[p.provokedThoughts]]
 
 ### RDF vs GraphDown
 

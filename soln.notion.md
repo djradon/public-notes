@@ -2,7 +2,7 @@
 id: gYBJk3uMSIxgAZEBBwfTw
 title: Notion
 desc: ''
-updated: 1635571512302
+updated: 1636000829191
 created: 1632931778994
 ---
 a web-first knowledge base (docs, projects, and wikis) with desktop and mobile clients and a web clipper
@@ -22,6 +22,8 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 
 - breaks the back button
   
-## 
+## [[p.hasExample]]
+
+- https://www.nateliason.com/brain 250 literature notes for $25
 
 

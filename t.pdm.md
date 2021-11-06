@@ -1,8 +1,8 @@
 ---
 id: gqicLYiQ0ASZT14Zr1SXm
-title: Pdm
-desc: 'Product Management'
-updated: 1635719197520
+title: Product Management
+desc: 
+updated: 1635995894637
 created: 1635700925535
 stub: true
 ---
