@@ -1,12 +1,9 @@
 ---
-id: VlDxhYjHLu59std3Wygbb
-title: JSON-HAL
-desc: JSON Hypertext Application Language
-updated: 1636177377052
-created: 1636176635053
+id: 3BLcnWpB1aPBW2AryNkhX
+title: Draft Kelly Json Hal
+desc: 'disambiguation DO NOT USE'
+updated: 1636179573639
+created: 1636177845539
 ---
 
-- [[p.correspondsTo]] [[JSON-HAL|t.cs.web.ietf.draft-kelly-json-hal]]
-- [[p.hasSpecification]] https://datatracker.ietf.org/doc/html/draft-kelly-json-hal
-- [[p.similarTo]] 
-- [[p.isComparandOf]] https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
+[[p.correspondsTo]] [[soln.HAL]]

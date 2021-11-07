@@ -21,5 +21,5 @@ created: 1634620119007
 
 ### hasResources
 
-- [[paper.decision-time-in-temporal-databases]]
-- [[paper.semantics-of-temporal-models-with-multiple-temporal-dimensions]]
+- [[ar.psu.decision-time-in-temporal-databases]]
+- [[ar.au.semantics-of-temporal-models-with-multiple-temporal-dimensions]]
