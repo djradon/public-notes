@@ -6,6 +6,7 @@ updated: 1635996315626
 created: 1635996166212
 ---
 
+
 Everybody does it, but does anybody do it well?
 
 - [People who write extensively about note-writing rarely have a serious context of use](https://notes.andymatuschak.org/zUMFE66dxeweppDvgbNAb5hukXzXQu8ErVNv) 

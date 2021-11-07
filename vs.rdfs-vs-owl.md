@@ -1,7 +1,7 @@
 ---
 id: 0Masr5sW1zHAAM0UmTcnB
 title: Rdfs Vs Owl
-desc: 'owl is more expressive'
+desc: owl is more expressive
 updated: 1635666809509
 created: 1635666331115
 ---

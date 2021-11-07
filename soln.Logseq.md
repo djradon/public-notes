@@ -1,10 +1,11 @@
 ---
 id: bgG2RTtizRZxaXDRhYKaN
 title: Logseq
-desc: 'markdown-based outliner with git support'
+desc: markdown-based outliner with git support
 updated: 1635716432266
 created: 1634825109165
 ---
+
 
 a joyful, open-source outliner that works on top of local or git-homed plain-text Markdown and Org-mode files
 

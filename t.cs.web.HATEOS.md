@@ -1,10 +1,11 @@
 ---
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOS
-desc: 'Hypermedia as the Engine of Application State'
+desc: Hypermedia as the Engine of Application State
 updated: 1636172403855
 created: 1636171046830
 ---
+
 
 - [[p.hasResourceList]] https://restfulapi.net/hateoas/
     - [[p.hasComment]] 

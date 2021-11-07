@@ -6,6 +6,7 @@ updated: 1635980656613
 created: 1632375895656
 ---
 
+
 - "note-taking that aspires towards cumulative personal knowledge, rather than simply information capture." 
   - [[p.hasSource]] https://maggieappleton.com/evergreens
 - [[p.attributedTo]] @Andy-Matusschak

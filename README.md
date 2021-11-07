@@ -6,6 +6,7 @@ updated: 1634308196137
 created: 1631143111333
 ---
 
+
 A cluttered cupboard of jumbled jottings in the form of a [[soln.dendron]] vault.
 
 ## Purpose

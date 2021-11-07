@@ -5,6 +5,7 @@ desc: ''
 updated: 1635980109305
 created: 1632835407320
 ---
+
 "The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another." 
 
 ## The Six Patterns of Gardening [[According To|p.attributedTo]]  

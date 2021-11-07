@@ -6,4 +6,5 @@ updated: 1635542219952
 created: 1635542172205
 ---
 
+
 - can be personal, inter-personal, or organizational

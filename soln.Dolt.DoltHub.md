@@ -1,7 +1,7 @@
 ---
 id: cvtAJ6ssRo3HVvErtJM26
 title: DoltHub
-desc: 'Dolt DBaaS'
+desc: Dolt DBaaS
 updated: 1635708328687
 created: 1635700192811
 ---

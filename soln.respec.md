@@ -1,7 +1,7 @@
 ---
 id: Rk3XfwhGC2uc9rgDX5Ubd
 title: ReSpec
-desc: 'a javascript library that makes it easier to write technical specifications'
+desc: a javascript library that makes it easier to write technical specifications
 updated: 1635747440970
 created: 1633704037700
 ---

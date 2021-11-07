@@ -6,6 +6,7 @@ updated: 1635665061292
 created: 1633580126854
 ---
 
+
 when the referents or meanings of a symbol become indistinct 
 
 ## [[p.eg]]

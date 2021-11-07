@@ -6,6 +6,7 @@ updated: 1635712593958
 created: 1633584518967
 ---
 
+
 ## mpa vs spa @rich-harris
 
 - [[p.hasRecording]] [Have Single-Page Apps Ruined the Web? | Transitional Apps with Rich Harris, NYTimes](https://www.youtube.com/watch?v=860d8usGC0o)

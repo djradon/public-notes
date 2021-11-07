@@ -6,6 +6,7 @@ updated: 1636314716118
 created: 1633160681527
 ---
 
+
 resource description format
 
 ## to do

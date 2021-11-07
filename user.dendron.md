@@ -1,7 +1,7 @@
 ---
 id: JBDxqHChnG8ZYG53HZKYO
 title: Dendron Inc
-desc: 'the company'
+desc: the company
 updated: 1635705971456
 created: 1634700890363
 ---

@@ -6,6 +6,7 @@ updated: 1635977820007
 created: 1633884018280
 ---
 
+
 a biased comparison of the two prevailing graph data models
 
 - [[p.hasURL]] https://neo4j.com/blog/rdf-triple-store-vs-labeled-property-graph-difference/

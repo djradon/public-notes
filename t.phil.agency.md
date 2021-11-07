@@ -6,6 +6,7 @@ updated: 1635661822407
 created: 1634854404848
 ---
 
+
 ## What is an agent?
 
 - ["they act and their actions have consequences, they also resist conditions which they do not like and, in some circumstances, are able to change the conditions of their agency"][1]

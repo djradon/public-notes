@@ -5,6 +5,7 @@ desc: ''
 updated: 1635978009223
 created: 1631574689382
 ---
+
 short book outlining the author's pragmatic [[t.km.zettelkasten]] process. Includes an interesting take on tags.
 
 - [[p.hasURL]] https://kadavy.net/blog/posts/zettelkasten-method-slip-box-digital-example/

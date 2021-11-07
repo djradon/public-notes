@@ -8,6 +8,7 @@ updated: 1635819089299
 created: 1635726947874
 ---
 
+
 - [[p.hasURL]] https://arstechnica.com/gaming/2021/10/john-carmack-sounds-a-skeptical-note-over-metas-metaverse-plans/
 - [[p.hasAuthor]] @Kyle-Orland
 - [[p.hasHighlight]]

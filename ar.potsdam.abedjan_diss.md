@@ -1,7 +1,7 @@
 ---
 id: bZTZ1SPPbehcAgXjViJLr
 title: Abedjan_diss
-desc: 'Improving RDF Data with Data Mining'
+desc: Improving RDF Data with Data Mining
 updated: 1636252930232
 created: 1636252836042
 ---

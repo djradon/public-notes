@@ -6,6 +6,7 @@ updated: 1635891436199
 created: 1634923305079
 ---
 
+
 - [[p.hasURL]] https://jamesclear.com/dr-seuss
 - [[p.hasTheme]] [[idea.The-Power-of-Constraints]]
 

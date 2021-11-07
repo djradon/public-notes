@@ -1,6 +1,6 @@
 ---
 id: f9uyi6JykMbP8rUjA3O1n
-title: Knowledge Representation and Data Integration Language for the Web 
+title: Knowledge Representation and Data Integration Language for the Web
 desc: ''
 updated: 1636253071502
 created: 1633838913636
