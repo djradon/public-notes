@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1635572155404
+updated: 1636316340868
 created: 1631142984146
 ---
 
@@ -81,7 +81,10 @@ embed content from other notes
 
 ## tips and tricks
 
-- [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html)
+- every hierarchy unique across vaults. 
+  - otherwise,
+    - too many misfilings
+- [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html) with hooks
   - uses https://github.com/kalyan02/dendronutils 
 - [set keyboard shortcuts for selectionExtract](https://wiki.dendron.so/notes/ad270a7d-2aed-4273-8319-eb6536e38b29.html)
 - [[p.hasIssues]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
@@ -91,6 +94,8 @@ embed content from other notes
 
 ### beware the bare file
 
+- [[p.hasPrinciple]]
+  - "every note in a namespace" (maybe with a few exceptions like "now")
 - for a long time I was tempted to just start dumping stuff in the root, i.e., no hierarchy
   - after all, it reads better not to have to see the namespace
   - not to mention, vaults imply a hierarchy
