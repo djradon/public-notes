@@ -2,13 +2,13 @@
 id: gYBJk3uMSIxgAZEBBwfTw
 title: Notion
 desc: ''
-updated: 1636000829191
+updated: 1636341129903
 created: 1632931778994
 ---
 
 a web-first knowledge base (docs, projects, and wikis) with desktop and mobile clients and a web clipper
 
-- [[p.hasCapability]] [[t.km]] [[t.tm]] 
+- [[p.hasApplication]] [[t.km]] [[t.tm]] 
 - [[p.isRelated]] https://www.notion.so/customers
 
 ## [[p.hasFeature]]

@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1636316340868
+updated: 1636345178907
 created: 1631142984146
 ---
 
@@ -105,5 +105,14 @@ embed content from other notes
   - autocomplete is less powerfull
   - 
 
+## [[p.hasRelatedResource]]
 
+- [[t.km.dendron]]
+
+### [[p.hasCaseStudy]]
+
+- [P.A.R.A. with Dendron](https://wiki.dendron.so/notes/664c7980-f605-43ad-a931-c139740777c8/)
+  - [[p.isRelated]] [[t.km.PARA]]
+  - [[p.hasCitation]] https://fortelabs.co/blog/para/
+- 
 
