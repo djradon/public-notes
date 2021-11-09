@@ -9,7 +9,7 @@ created: 1634426288630
 - [[p.hasURL]] https://w3c.github.io/rdf-star/
 - [[p.hasRepository]] https://github.com/w3c/rdf-star/
 - [[p.alsoKnownAs]] RDF-*
-- [[p.hasUseCases]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#submitted-use-cases
+- [[p.hasUseCase]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#submitted-use-cases
 
 ## To Do
 
