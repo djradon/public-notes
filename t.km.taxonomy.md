@@ -2,9 +2,15 @@
 id: QP9D8Q3gFh32NMIEVXvDJ
 title: Taxonomy
 desc: ''
-updated: 1636179770082
+updated: 1636467822715
 created: 1636179762188
 ---
 
-- [[p.hasExample]]
-  - https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Lists_of_topics
+## Dave's General Taxonomy
+
+-  
+
+## [[p.hasExample]]
+  
+- https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Lists_of_topics
+  - not great; management comes under business; biology listed in multiple places
