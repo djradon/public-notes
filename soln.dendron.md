@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1636345178907
+updated: 1636812050207
 created: 1631142984146
 ---
 
@@ -18,7 +18,7 @@ embed content from other notes
 
 ### Block Anchors
 
-- 
+- [[p.differentFrom]] header references
 
 ### Snippets
 
