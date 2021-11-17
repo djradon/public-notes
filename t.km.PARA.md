@@ -2,7 +2,7 @@
 id: NbYpuH699XIgzU1nsvKtQ
 title: PARA
 desc: 'projects, areas of responsibility, resources, archive'
-updated: 1636350277584
+updated: 1637120826140
 created: 1636342421204
 ---
 
@@ -10,7 +10,7 @@ created: 1636342421204
 
 ## [[p.hasRecipe]]
 
-- formulate your Project List and then replicate that list across every single tool you use, now and in the future.
+- formulate your Project List and then replicate that list across every single tool you use, now and in the future. ^IoqWYbtXfBja
   - consistent spelling, punctuation, and capitalization, so that your transitions between programs are as seamless as possible.
 -  put personally relevant information in Areas, and generally useful information in Resources
 
