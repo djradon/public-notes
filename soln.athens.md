@@ -1,7 +1,9 @@
 ---
 id: gNpqKv8qksZLNQcYnGqCQ
 title: Athens Research
-desc: 'a open-source, private and extensible knowledge graph for research and notetaking'
+desc: >-
+  a open-source, private and extensible knowledge graph for research and
+  notetaking
 updated: 1636341758808
 created: 1636339496444
 ---
@@ -26,6 +28,6 @@ created: 1636339496444
     - [How I became more productive during the pandemic](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f)
 
 
-## [[p.hasCons]]
+## [[p.hasCon]]
 - standalone app-ish (but )
 - storage isn't git-enabled or plaintext?

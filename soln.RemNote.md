@@ -33,7 +33,7 @@ a note-taking tool that helps your organize and remember what you learn
   - portal is a weird name
   - 
 
-## [[p.hasIssues]]
+## [[p.hasIssue]]
 
 - selecting text is hard/impossible
 - copying text leaves out the links (concepts)

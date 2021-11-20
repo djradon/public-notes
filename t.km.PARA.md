@@ -2,7 +2,7 @@
 id: NbYpuH699XIgzU1nsvKtQ
 title: PARA
 desc: 'projects, areas of responsibility, resources, archive'
-updated: 1637120826140
+updated: 1637122176032
 created: 1636342421204
 ---
 
@@ -24,7 +24,7 @@ created: 1636342421204
 - perform organizational work opportunistically
 - project list should change every week
 
-## [[p.hasIssues]]
+## [[p.hasIssue]]
 
 - Where do specific products fit?
  - https://fortelabs.co/blog/para/ [[p.hasExample]] "Areas of responsibility"

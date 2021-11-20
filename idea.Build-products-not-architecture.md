@@ -9,6 +9,6 @@ created: 1635727824882
 
 - [[p.hasSource]] [[ar.arstechnica.john-carmack-sounds-a-skeptical-note-over-metas-metaverse-plans]]
 
-## [[p.hasIssues]]
+## [[p.hasIssue]]
 
 - easy enough for a first-person shooter. a decentralized, data-centric, public platform needs a good architecture 

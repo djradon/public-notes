@@ -88,7 +88,7 @@ embed content from other notes
 - [roll to-do items forward in Dendron](https://wiki.dendron.so/notes/61055b5f-6216-4fd3-b9a1-82f79017b59e.html) with hooks
   - uses https://github.com/kalyan02/dendronutils 
 - [set keyboard shortcuts for selectionExtract](https://wiki.dendron.so/notes/ad270a7d-2aed-4273-8319-eb6536e38b29.html)
-- [[p.hasIssues]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
+- [[p.hasIssue]] wanna clean up a note, but preserve the old junk for  reference?  ^QtQux3rkT2Hc
   - [[p.hasPossibleSolution]] move it to ".archive"
     - doesn't matter if it's sloppy, but you can keep the archive organized by mimicing headers from main note
     - might call it discussion instead of archive, a la wikipedia
