@@ -6,4 +6,5 @@ updated: 1636651086265
 created: 1636650718094
 ---
 
+
 - [[p.hasApplication]] predictive lead scoring

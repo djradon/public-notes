@@ -6,6 +6,7 @@ updated: 1636688703633
 created: 1636688693125
 ---
 
+
 ## [[p.hasRelatedResource]]
 
 - https://campnab.com

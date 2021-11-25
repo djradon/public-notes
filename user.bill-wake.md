@@ -1,7 +1,7 @@
 ---
 id: Nfcov5bTRfte4swvxlPcN
 title: Bill Wake
-desc: 'agile and sd consultant and educator'
+desc: agile and sd consultant and educator
 updated: 1637665860949
 created: 1637665356568
 ---

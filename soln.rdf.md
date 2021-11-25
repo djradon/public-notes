@@ -1,13 +1,12 @@
 ---
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
-desc: ''
-updated: 1636350512003
+desc: 'resource description format'
+updated: 1637801827466
 created: 1633160681527
 ---
 
-
-resource description format
+- [[p.instanceOf]] [[c.Specification]]
 
 ## to do
 
@@ -29,6 +28,7 @@ resource description format
   - [[p.begsQuestion]] [<] What is [[the difference betwee the union of the graphs and their merge|tasks.rdf.the-difference-betwee-the-union-of-the-graphs-and-their-merge]]? Is the distinction meaningful for [[soln.Dendron]]?
 - https://www.w3.org/TR/rdf-concepts
 - https://www.w3.org/TR/rdf-schema/
+- [Predefined Namespace Prefixes](https://www.orpha.net/sparql?nsdecl)
 
 ### [[p.hasLearningResource]]
 

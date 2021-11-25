@@ -6,6 +6,7 @@ updated: 1636663652711
 created: 1636316680512
 ---
 
+
 - [[idea.tower-of-babel-syndrome]]
 
 ## [[p.hasExercise]]

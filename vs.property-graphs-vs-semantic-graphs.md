@@ -2,7 +2,7 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1636317097940
+updated: 1637769775581
 created: 1633596039729
 ---
 
@@ -20,4 +20,4 @@ property graphs support key-value pairs
 
 - [1]: [[ar.forbes.when-graphs-collide-the-coming-merger-of-property-and-semantic-graphs]]
 - [ ] http://blog.liu.se/olafhartig/2019/01/10/position-statement-rdf-star-and-sparql-star/
-- 
+- https://tdan.com/knowledge-graphs-vs-property-graphs-part-1/27140

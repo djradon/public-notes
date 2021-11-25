@@ -1,10 +1,9 @@
 ---
 id: sP1iqvWber0VbJrmTG2xC
-title: GitHub
+title: GitHub Learning Lab
 desc: ''
-updated: 1634190602838
+updated: 1637797381877
 created: 1633149073698
-stub: true
 ---
 
 - [[vcard.hasURL]] https://lab.github.com/

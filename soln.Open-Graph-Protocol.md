@@ -1,7 +1,7 @@
 ---
 id: SK3uNFtz8XxpCjuwLLyTk
 title: Open Graph Protocol
-desc: 'enables any web page to become a rich object in a social graph'
+desc: enables any web page to become a rich object in a social graph
 updated: 1637439645010
 created: 1637439575240
 ---

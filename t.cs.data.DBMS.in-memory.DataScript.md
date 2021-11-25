@@ -1,7 +1,9 @@
 ---
 id: ICgix5JvQMvzf2i6C29IC
 title: DataScript
-desc: 'An immutable in-memory database and Datalog query engine in Clojure and ClojureScript'
+desc: >-
+  An immutable in-memory database and Datalog query engine in Clojure and
+  ClojureScript
 updated: 1636379874184
 created: 1636376595070
 ---

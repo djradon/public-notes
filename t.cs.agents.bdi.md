@@ -1,6 +1,6 @@
 ---
 id: w2aHesH8f6LrctkdYTrtr
-title: Belief, Desire, Intention
+title: 'Belief, Desire, Intention'
 desc: ''
 updated: 1637670053209
 created: 1637669903112

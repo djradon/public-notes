@@ -9,4 +9,4 @@ created: 1634194156105
 - [[p.alsoKnownAs]] kevins8
 - [[hasRole]] 
   - [[hasPosition]] CEO
-  - [[worksAt]] @dendron
+  - [[worksAt]] [[org.dendron]]
