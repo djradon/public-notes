@@ -21,7 +21,7 @@ An Agora is a collection of digital gardens and other information sources that a
 - >"lightweight conventions for sense making"
 - >"Edges are `wikilinks` referring to other nodes as found in volunteered subnodes. They are labeled by context, e.g. by adjacency or proximity to other links. This gives the graph hypergraph-like qualities, which will be expounded on later.
 
-    - [[p.vs]] [[proj.GraphDown]]
+    - [[p.vs]] [[gd]]
     - push! pull!
 
 ## Activity

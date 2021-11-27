@@ -2,10 +2,11 @@
 id: B2zPjSiaIQih59J6k2gdk
 title: Jamstack 2021
 desc: ''
-updated: 1635712593958
+updated: 1638031955589
 created: 1633584518967
 ---
 
+- [[p.hasRelatedResource]] https://www.netlify.com/blog/2021/10/07/jamstack-conf-2021-instant-replay/
 
 ## mpa vs spa @rich-harris
 

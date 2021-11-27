@@ -7,7 +7,7 @@ created: 1637979232539
 ---
 
 - [[p.hasSpecification]] https://michelf.ca/projects/php-markdown/extra/
-- [ ] PHP Markdown Extra has ideas for [[proj.GraphDown]] and fixes for [[soln.Dendron]]
+- [ ] PHP Markdown Extra has ideas for [[gd]] and fixes for [[soln.Dendron]]
 
 ## Special Attributes
 

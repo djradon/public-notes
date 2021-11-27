@@ -13,7 +13,7 @@ created: 1633088347659
 ## Thoughts
 
 - `!` used for BREAKING CHANGE
-  - `!` could be used in [[proj.GraphDown]] for emphasizing tags, predicates, or objects  ^cN92w9TjfnXM
+  - `!` could be used in [[gd]] for emphasizing tags, predicates, or objects  ^cN92w9TjfnXM
     - hard to imagine the need to emphasize an subject but I suppose 
       - (since subjects are ultimately equivalent to objects related with an inverse predicate)
     - emphasis could denote "default" or preferred properties

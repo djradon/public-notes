@@ -1,10 +1,15 @@
 ---
 id: f7Ln7gxVbJU9ymxcFsl57
 title: Vercel
-desc: ''
-updated: 1637954003750
+desc: 'serverless deployment platform for web applications'
+updated: 1638032904382
 created: 1637953955466
 ---
 
-- [<] similar to 
+- [[p.similarTo]] [[soln.Netlify]]
+- ![[Netlify|soln.Netlify#^uUZD1OtrpGRW]]
 - free hobby plan
+- [[p.hasFeature]] 
+  - [[t.cs.serverless]]
+    - [[p.hasClientSupport]] [[t.cs.language.JavaScript]] [[t.cs.language.go]] [[t.cs.language.Python]] [[t.cs.language.Ruby]]
+  - [[t.cs.web.ssr]]

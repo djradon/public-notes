@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1636812050207
+updated: 1638032539880
 created: 1631142984146
 ---
 
@@ -38,7 +38,7 @@ embed content from other notes
 
 - allow setting aliasMode per note
 - note links can use aliases, so instead of seeing [\[solution.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
-- flexible capitalization settings
+- [ ] flexible capitalization settings
   - I don't want predicate notes to be capitalized
 - inclusion macros:
   - all blocks
@@ -55,7 +55,7 @@ embed content from other notes
   - for the colorblind we could do something like background, outline, style, and font changes based on vault, or links have boxes (sharp corner, rounded corner, etc)
 - `semantic links` this is basically what predicates enable
 - ![[pi.RRI#^JZbCUAYF0h0h:#*]]
-- ![[proj.GraphDown#^YzwILFSI4oSJ]]
+- ![[gd#^YzwILFSI4oSJ]]
 - make @ references configurable (as to hierarchy)
 - make transclusion of frontmatter or other properties, see https://foambubble.github.io/foam/proposals/inclusion-of-notes#include-an-attribute-of-a-file-note-property-or-frontmatter
 - 

@@ -1,7 +1,7 @@
 ---
 id: vXU3MhIjy4G3A8PTta6fQ
 title: Semantic Property
-desc: 'aspects of a linguistic unit that contribute meaning'
+desc: aspects of a linguistic unit that contribute meaning
 updated: 1638024560932
 created: 1638024467836
 ---
