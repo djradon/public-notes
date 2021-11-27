@@ -2,7 +2,7 @@
 id: FyjSNzjfignczFqRLxEZa
 title: VS Code
 desc: ''
-updated: 1635711547660
+updated: 1637954099988
 created: 1635565508765
 stub: true
 ---
@@ -13,3 +13,4 @@ stub: true
 ## tips
 
 - see [[VSCode Tips|t.cs.vscode.tips]]
+- [!] turn off hangle bracket auto-closing

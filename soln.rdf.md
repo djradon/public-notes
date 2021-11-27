@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: 'resource description format'
-updated: 1637801827466
+updated: 1637954450410
 created: 1633160681527
 ---
 
@@ -15,7 +15,9 @@ created: 1633160681527
     - seems like dendron.yml is the master graph. expressed as yaml
   - [[p.hasRelatedResource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
 
+## [[p.hasIssue]]
 
+- contrary to [some claims](https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf/), RDF and OWL are not fluent, at least compared to GraphDown
 
 ## can be expressed as 
 
