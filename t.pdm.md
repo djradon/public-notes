@@ -2,9 +2,8 @@
 id: gqicLYiQ0ASZT14Zr1SXm
 title: Product Management
 desc: null
-updated: 1637733298134
+updated: 1638052546225
 created: 1635700925535
-stub: true
 ---
 
 
@@ -33,16 +32,7 @@ stub: true
 
 ### User Stories
 
-- requirements expressed from the perspective of the user
-- should be INVEST 
-  - i.e.
-    -  independent
-    -  negotiable
-    -  valuable
-    -  estimable
-    -  small
-    -  testable
- -  [[p.attributedTo]] @bill-wake
+![[User Stories|t.pdm.user-stories]]
 
 ### Story Maps
 

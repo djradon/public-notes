@@ -2,13 +2,13 @@
 id: nlbtIFJHZTnfJUNNSAnMX
 title: Data Temporality
 desc: ''
-updated: 1635670941609
+updated: 1638110889067
 created: 1634620119007
 ---
 
 ## Decision Time
 
-- [ ] [[p.summarized]] Decision Time
+![[t.cs.data.temporality.decision-time]]
 
 ## Completion Time
 

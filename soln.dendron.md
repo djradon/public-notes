@@ -2,10 +2,11 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1638032539880
+updated: 1638131425993
 created: 1631142984146
 ---
 
+- [[p.builtOn]] [[soln.fuse-js]]
 
 ## [[hasConcepts]]
 
@@ -13,7 +14,7 @@ created: 1631142984146
 
 embed content from other notes
 
-- [aka] transclusions
+- [[p.aka]] transclusions
 - [[p.hasURL]] https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html
 
 ### Block Anchors
