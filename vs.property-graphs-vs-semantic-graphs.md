@@ -2,11 +2,15 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1637769775581
+updated: 1638293032670
 created: 1633596039729
 ---
 
 property graphs support key-value pairs
+
+- [[p.hasComparand]]
+  - [[t.cs.graph.semantic-graph]]
+  - [[Property Graph|t.cs.graph.property-graph]]
 
 ## thoughts
 
