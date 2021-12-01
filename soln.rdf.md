@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: 'resource description format'
-updated: 1637954450410
+updated: 1638376733666
 created: 1633160681527
 ---
 
@@ -10,7 +10,7 @@ created: 1633160681527
 
 ## to do
 
-- [ ] #p4 [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
+- [<] #p4 [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
   - the concept of the "unnamed default graph"/master-graph is interesting; 
     - seems like dendron.yml is the master graph. expressed as yaml
   - [[p.hasRelatedResource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
@@ -18,6 +18,10 @@ created: 1633160681527
 ## [[p.hasIssue]]
 
 - contrary to [some claims](https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf/), RDF and OWL are not fluent, at least compared to GraphDown
+- calls verbs properties / predicates
+- confuses properties and predicates
+- can't easily express intransitive relations (properties)
+- 
 
 ## can be expressed as 
 

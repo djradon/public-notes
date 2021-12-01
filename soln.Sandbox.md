@@ -8,5 +8,4 @@ created: 1638301898588
 
 - [[p.vs]] [[soln.decentraland]] 
   - [[p.hasRelatedResource]] https://medium.datadriveninvestor.com/the-sandbox-vs-decentraland-where-should-you-set-your-bets-3b80785b985b
-- [[p.hasApplication]] [[t.cs.metaverse]]
 
