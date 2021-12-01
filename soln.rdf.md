@@ -31,7 +31,7 @@ created: 1633160681527
 ## hasRelatedResource
 
 - https://www.w3.org/TR/rdf11-datasets/
-  - [[p.begsQuestion]] [<] What is [[the difference betwee the union of the graphs and their merge|tasks.rdf.the-difference-betwee-the-union-of-the-graphs-and-their-merge]]? Is the distinction meaningful for [[soln.Dendron]]?
+  - [[p.begsQuestion]] [-] What is [[the difference betwee the union of the graphs and their merge|tasks.rdf.the-difference-betwee-the-union-of-the-graphs-and-their-merge]]? Is the distinction meaningful for [[soln.Dendron]]?
 - https://www.w3.org/TR/rdf-concepts
 - https://www.w3.org/TR/rdf-schema/
 - [Predefined Namespace Prefixes](https://www.orpha.net/sparql?nsdecl)

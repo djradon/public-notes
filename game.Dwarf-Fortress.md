@@ -17,6 +17,6 @@ Dwarf Fortress begins and ends with stories.
 
 ## Resources
 
-- [<] https://www.gamedeveloper.com/design/q-a-dissecting-the-development-of-i-dwarf-fortress-i-with-creator-tarn-adams 
+- [-] https://www.gamedeveloper.com/design/q-a-dissecting-the-development-of-i-dwarf-fortress-i-with-creator-tarn-adams 
 - [x] [[ar.substack.if50.2006-dwarf-fortress]]
-- [<] [[p.played]] [dwarf fortress](https://www.bay12games.com/dwarves/index.html)
+- [-] [[p.played]] [dwarf fortress](https://www.bay12games.com/dwarves/index.html)
