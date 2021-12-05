@@ -2,7 +2,7 @@
 id: HBfqGJSSJCvCG8gU0UetW
 title: Zettelkasten
 desc: ''
-updated: 1633161193968
+updated: 1638672211376
 created: 1631216404603
 ---
 
@@ -31,3 +31,7 @@ created: 1631216404603
 ## References
 
 - https://notes.andymatuschak.org/Zettelkasten
+
+## [[p.hasRelatedResource]]
+
+- https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten/
