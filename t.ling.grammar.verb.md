@@ -2,7 +2,7 @@
 id: efnUiIbGt2JtkfJ8PbDhJ
 title: Verb
 desc: ''
-updated: 1638671686807
+updated: 1638803200580
 created: 1638666007911
 ---
 
@@ -19,6 +19,7 @@ created: 1638666007911
         - e.g.
           - catch up with
           - come up against
+  - “Implicit object” (IO) is a name for what happens when a verb we normally consider transitive appears without an object: .
 
 ## [[p.begsQuestion]]
 
