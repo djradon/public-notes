@@ -2,7 +2,7 @@
 id: efnUiIbGt2JtkfJ8PbDhJ
 title: Verb
 desc: ''
-updated: 1638803200580
+updated: 1639320139287
 created: 1638666007911
 ---
 
@@ -19,7 +19,14 @@ created: 1638666007911
         - e.g.
           - catch up with
           - come up against
-  - “Implicit object” (IO) is a name for what happens when a verb we normally consider transitive appears without an object: .
+  - “Implicit object” (IO) is a name for what happens when a verb we normally consider transitive appears without an object:"
+    - [[p.hasSource]] https://repository.upenn.edu/cgi/viewcontent.cgi?article=1715&context=pwpl
+    - "often argued that the IO needs to be recoverable from the context" but clearly not. 
+    - "recoverability is a matter of degree. At a minimum, one simply knows that an object exists; at a maximum, one knows exactly what it is; and there is plenty of middle ground in between."
+    - "manner verbs from result verbs and propose that result verbs
+do not allow IOs." 
+      - [[p.hasSource]] Rappaport Hovav and Levin (1998); Rappaport Hovav (2008)
+      - but whether IOs are allowed isn't easy to distinguish
 
 ## [[p.begsQuestion]]
 
