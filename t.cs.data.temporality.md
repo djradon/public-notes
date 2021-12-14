@@ -2,7 +2,7 @@
 id: nlbtIFJHZTnfJUNNSAnMX
 title: Data Temporality
 desc: ''
-updated: 1638110889067
+updated: 1639149144245
 created: 1634620119007
 ---
 
@@ -18,8 +18,13 @@ created: 1634620119007
 - could sometimes be represented as "ending instant/period of valid time"
 - [[idea.defining-done-is-hard]]
 
+## [[TimeML|soln.timeml]]
+
+- functionInDocument ::= 'CREATION_TIME' | 'EXPIRATION_TIME' | 'MODIFICATION_TIME' | 'PUBLICATION_TIME' | 'RELEASE_TIME'| 'RECEPTION_TIME' | 'NONE' 
+- 
 
 ### hasResources
 
 - [[ar.psu.decision-time-in-temporal-databases]]
 - [[ar.au.semantics-of-temporal-models-with-multiple-temporal-dimensions]]
+- https://aclanthology.org/2021.naacl-main.67.pdf
