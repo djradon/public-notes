@@ -2,7 +2,7 @@
 id: efnUiIbGt2JtkfJ8PbDhJ
 title: Verb
 desc: ''
-updated: 1639320139287
+updated: 1639472175968
 created: 1638666007911
 ---
 
@@ -40,8 +40,13 @@ do not allow IOs."
 
 ## Mood
 
-We recognize three Moods in verbs:
+We recognize three or four Moods in verbs:
 
 - **Indicative** is a statement: I walk quickly.
-- **Imperative** is a command: Walk to the store!
+- **Imperative** is a command: Walk to the store! 
+  - (arguably part of subjunctive)
+    - [[p.hasSource]] https://www.kaptest.com/study/gmat/gmat-verbal-subjunctive/
 - **Subjunctive** is a prediction or possibility. In modern English we need to use a modal to indicate a subjunctive: I might walk to the store later. I could walk to the store.
+- **Infinitive** is formed from a verb but acts as a noun, adjective or adverb; 
+  - might not be a mood
+    - [[p.hasSource]] https://www.quora.com/What-are-the-meanings-of-infinitive-indicative-subjunctive-and-imperative-in-grammar
