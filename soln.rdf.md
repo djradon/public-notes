@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: 'resource description format'
-updated: 1638377288845
+updated: 1643401811525
 created: 1633160681527
 ---
 
@@ -39,6 +39,7 @@ created: 1633160681527
 ### [[p.hasLearningResource]]
 
 - https://www.w3.org/TR/rdf11-primer/
+- https://open.hpi.de/
 
 ### [[p.hasWishList]]
 
