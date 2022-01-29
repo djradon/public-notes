@@ -2,7 +2,7 @@
 id: o2vu2wH8CQEdqEmJU58XF
 title: Web Development for Beginners
 desc: 'even I probably should not start here'
-updated: 1642998133455
+updated: 1643350553536
 created: 1642483433436
 ---
 
@@ -26,6 +26,7 @@ created: 1642483433436
   - presumably programmers occasionally convert anonymous functions into named functions
 - [[t.cs.programming.functions.arrow]]
   - [[p.alsoKnownAs]] fat arrow functions
-  - replace the word function
-- [[t.cs.programming]]
-- 
+  - replace the word function 
+- [[t.cs.programming.loops]]
+  - The for and forEach() loops both let you loop over the array's items, but the difference between them is that the for loop lets you exit if a certain condition is fulfilled
+  - `numbers.forEach((number, index) => console.log(`Number ${number} ${index}`));`
