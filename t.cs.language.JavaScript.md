@@ -2,7 +2,7 @@
 id: xCugLjdB3z42GhtNsjtFc
 title: JavaScript
 desc: ''
-updated: 1636636074234
+updated: 1643781338776
 created: 1634945271434
 ---
 
@@ -17,4 +17,10 @@ created: 1634945271434
   - 1. Use the types property retrieving option
   - 2. Narrow down your argument types
   - 3. Use predefined types
+- https://docs.microsoft.com/en-us/learn/certifications/exams/98-382
+- https://hackr.io/blog/best-javascript-certification
 
+
+### async
+
+- https://medium.com/@ajmeyghani/async-javascript-a-pocket-reference-2bb16ac40d21
