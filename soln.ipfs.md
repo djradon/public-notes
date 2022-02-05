@@ -1,8 +1,9 @@
 ---
 id: 9RJeQbVSjrGvcl0gNgGTH
-title: Ipfs
+title: IPFS
 desc: 'InterPlanetary File System'
-updated: 1642134064868
+updated: 1644102820990
 created: 1642134050097
 ---
 
+- [[p.isRelated]] [[soln.libp2p]]

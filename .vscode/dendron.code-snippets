@@ -17,17 +17,17 @@
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
     },
+    "t.m": {
+        "prefix": "t.mo",
+        "scope": "markdown,yaml",
+        "body": "[[t.$CURRENT_YEAR.$CURRENT_MONTH]]",
+        "description": "dot-hierarchical wiki-linked timestamp, to the minute"
+    },
     "t.h": {
         "prefix": "t.h",
         "scope": "markdown,yaml",
         "body": "[[t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR]]",
         "description": "dot-hierarchical wiki-linked timestamp, to the hour"
-    },
-    "t.m": {
-        "prefix": "t.m",
-        "scope": "markdown,yaml",
-        "body": "[[t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR.$CURRENT_MINUTE]]",
-        "description": "dot-hierarchical wiki-linked timestamp, to the minute"
     },
     "t.s": {
         "prefix": "t.s",
