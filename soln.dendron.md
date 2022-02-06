@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1638131425993
+updated: 1644107433472
 created: 1631142984146
 ---
 
@@ -108,7 +108,9 @@ embed content from other notes
 
 ## [[p.hasRelatedResource]]
 
-- [[t.km.dendron]]
+### [[p.hasLearningResource]]
+
+- [NextJS Publishing Architecture](https://youtu.be/Uyyb_s74lzM) 2021-07
 
 ### [[p.hasCaseStudy]]
 
