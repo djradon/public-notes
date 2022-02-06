@@ -1,10 +1,11 @@
 ---
 id: Pt8ZY0TPMLx05caWJfJYe
 title: FrameworkJS
-desc: 'javascript agent middleware'
+desc: javascript agent middleware
 updated: 1637812679312
 created: 1637812310364
 ---
+
 
 - [[p.hasRepository]] https://bitbucket.org/teamframeworkjs/frameworkjsnode
 - [[p.hasApplication]] [[t.cs.mas]]

@@ -6,6 +6,7 @@ updated: 1637592493044
 created: 1637592319470
 ---
 
+
 - [[p.instanceOf]] [[c.ProgrammingLanguage]]
 - [[p.vs]] [[t.cs.language.python]]
   - "Unlike Python, GDScript is optimized for Godot's scene-based architecture and can specify strict typing of variables."

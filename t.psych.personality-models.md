@@ -6,6 +6,7 @@ updated: 1635726353474
 created: 1635724858083
 ---
 
+
 ## Six Main Views
 
 - [[p.assertedBy]] @Eric-Maisel-PhD [1]

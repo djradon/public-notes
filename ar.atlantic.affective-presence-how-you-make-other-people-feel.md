@@ -6,6 +6,7 @@ updated: 1634013211228
 created: 1634012670096
 ---
 
+
 People who consistently make others feel good are more central to their social networks
 
 - [[p.hasURL]] https://www.theatlantic.com/family/archive/2019/01/affective-presence-how-you-make-other-people-feel/579643/ 

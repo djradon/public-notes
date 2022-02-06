@@ -6,6 +6,7 @@ updated: 1635704484716
 created: 1635704433489
 ---
 
+
 - [[p.hasURL]] http://aboutdata.org/methods.html
 - [[p.hasAuthor]] @Jakob-Voss
 

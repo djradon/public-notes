@@ -1,10 +1,11 @@
 ---
 id: AHiVyAhf7sen346pI4TKT
 title: DIS
-desc: 'Distributed Interactive Simulation standard'
+desc: Distributed Interactive Simulation standard
 updated: 1637848950261
 created: 1637843141306
 ---
+
 
 - [[p.hasImplementation]] [[soln.open-dis-javascript]]
 

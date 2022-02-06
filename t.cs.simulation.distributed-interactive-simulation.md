@@ -6,6 +6,7 @@ updated: 1637843141448
 created: 1637838235058
 ---
 
+
 - [[p.hasSense]] 
   - IEEE standard for conducting real-time platform-level wargaming across multiple host computers
     - [[p.correspondsTo]] [[soln.DIS]]

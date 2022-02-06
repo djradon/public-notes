@@ -8,6 +8,7 @@ updated: 1638130823868
 created: 1634385749567
 ---
 
+
 - [[p.hasApplication]] [[t.km]] 
 
 An Agora is a collection of digital gardens and other information sources that are assembled into a distributed knowledge graph.

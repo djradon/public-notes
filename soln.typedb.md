@@ -1,7 +1,9 @@
 ---
 id: Ej3tbATdXqr9WwU1ASciK
 title: TypeDB
-desc: 'Composed of entity, relationship, and attribute types, as well as type hierarchies, roles, and rules'
+desc: >-
+  Composed of entity, relationship, and attribute types, as well as type
+  hierarchies, roles, and rules
 updated: 1644147657410
 created: 1643725570180
 ---

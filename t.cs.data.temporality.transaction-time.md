@@ -1,10 +1,11 @@
 ---
 id: GBSREzbRJ0CHXZhKz4NAl
 title: Transaction Time
-desc: 'when the data entered the database'
+desc: when the data entered the database
 updated: 1638192886561
 created: 1638163352138
 ---
+
 
 - sometimes transaction time is a single point (instant): creation
 - sometimes transaction time is a range (interval): from creation until update (valid-in-database) time

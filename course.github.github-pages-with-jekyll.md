@@ -6,6 +6,7 @@ updated: 1633153682824
 created: 1633149073565
 ---
 
+
 - [link pull requests to issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 - [review](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)
     - Comment: Submit general feedback without explicitly approving the changes or requesting additional changes.

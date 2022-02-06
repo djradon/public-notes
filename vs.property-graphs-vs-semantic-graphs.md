@@ -6,6 +6,7 @@ updated: 1638293032670
 created: 1633596039729
 ---
 
+
 property graphs support key-value pairs
 
 - [[p.hasComparand]]

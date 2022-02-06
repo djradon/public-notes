@@ -7,6 +7,7 @@ created: 1635565508765
 ---
 
 
+
 - [[p.instanceOf]] [[c.Application]]
 - [[p.correspondsTo]] [[soln.vscode]]
 

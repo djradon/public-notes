@@ -6,6 +6,7 @@ updated: 1635780764399
 created: 1633593028328
 ---
 
+
 - [[p.alsoKnownAs]] indicator vs subject 
 
 "surely the distinction between a network-retrievable information resource and "everything else" is of fundamental importance to the whole architecture of the Web]"

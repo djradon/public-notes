@@ -6,6 +6,7 @@ updated: 1637767294853
 created: 1637767107942
 ---
 
+
 - [[p.hasSense]]
   - code generation
   - runtime program manipulation

@@ -1,10 +1,11 @@
 ---
 id: SWNIYRMj6d3Myho2599DF
 title: Voyage
-desc: 'game platform for AI Dungeon folks'
+desc: game platform for AI Dungeon folks
 updated: 1639977589648
 created: 1639976018346
 ---
+
 
 - [[p.hasVision]] https://voyage.latitude.io/voyage-vision
   - inspiring vision, but it's very AI-focused, not enough "tools for humans"

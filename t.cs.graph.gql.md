@@ -1,10 +1,11 @@
 ---
 id: bYuGhUNMCc1tbSkWFyJzG
 title: Graph Query Language
-desc: 'GQL is a query lanaguage for property graphs'
+desc: GQL is a query lanaguage for property graphs
 updated: 1638374743958
 created: 1638374497732
 ---
+
 
 - [[p.hasRelatedResource]] https://en.wikipedia.org/wiki/Graph_Query_Language#The_GQL_property_graph_data_model {2021-12-01 01:29}
   - [[p.hasHighlight]]

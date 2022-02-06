@@ -6,6 +6,7 @@ updated: 1637407133100
 created: 1637404121204
 ---
 
+
 - [[p.hasDefinition]] 
   - a nested sequence of ideas
     - [[p.hasSource]] [[ar.medium.the-folgezettel-conundrum]]

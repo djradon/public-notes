@@ -6,6 +6,7 @@ updated: 1633216714396
 created: 1633216349041
 ---
 
+
 ## [[p.hasHighlight]]
 
 - "psychopaths are simply better at turning their empathy on and off"

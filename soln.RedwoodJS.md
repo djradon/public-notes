@@ -5,6 +5,7 @@ desc: ' full-stack, serverless-ready web application framework'
 updated: 1635746576827
 created: 1635745434604
 ---
+
  full-stack, serverless-ready web application framework
 
 - [[p.instanceOf]] [[c.Solution]] [[c.Framework]]

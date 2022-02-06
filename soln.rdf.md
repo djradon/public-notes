@@ -1,10 +1,11 @@
 ---
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
-desc: 'resource description format'
+desc: resource description format
 updated: 1643401811525
 created: 1633160681527
 ---
+
 
 - [[p.instanceOf]] [[c.Specification]]
 

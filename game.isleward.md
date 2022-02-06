@@ -1,10 +1,11 @@
 ---
 id: oSnlGDGC1UGDmUdcoVODV
 title: Isleward
-desc: 'no roles to play'
+desc: no roles to play
 updated: 1644147495367
 created: 1641626465625
 ---
+
 
 - [[p.hasLog]] [[game.isleward.log]]
 - [[p.hasURL]] https://play.isleward.com /

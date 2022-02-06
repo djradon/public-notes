@@ -1,10 +1,13 @@
 ---
 id: r8qrIIgBeQ9X2Xot4xzOh
 title: Property Vs Attribute Vs Field
-desc: 'confusing, because the OOP context is different the metaphysical/linguistic conventions ?'
+desc: >-
+  confusing, because the OOP context is different the metaphysical/linguistic
+  conventions ?
 updated: 1638026509666
 created: 1638024748401
 ---
+
 
 - [[p.hasContext]] 
   - [[t.cs.programming]]

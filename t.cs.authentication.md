@@ -6,4 +6,5 @@ updated: 1635402437289
 created: 1635402358721
 ---
 
+
 the attempt to ensure that an agent's actions originate from the agent

@@ -6,4 +6,5 @@ updated: 1635727488620
 created: 1635727450168
 ---
 
+
 "a honeypot trap for architecture astronauts"

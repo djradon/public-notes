@@ -1,10 +1,11 @@
 ---
 id: ZHoWejqsahUxF64lbKCL1
 title: Knowledge Graph Toolkit
-desc: 'KTGK is a Python library for easy manipulation with knowledge graphs'
+desc: KTGK is a Python library for easy manipulation with knowledge graphs
 updated: 1638666570647
 created: 1638291910197
 ---
+
 
 - [[p.hasRepository]] https://github.com/usc-isi-i2/kgtk/
 - [[p.hasCon]] 

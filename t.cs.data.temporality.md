@@ -6,6 +6,7 @@ updated: 1639149144245
 created: 1634620119007
 ---
 
+
 ## Decision Time
 
 ![[t.cs.data.temporality.decision-time]]

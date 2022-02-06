@@ -1,7 +1,7 @@
 ---
 id: bDTDFwYzghAuiicwaqAq5
 title: Trevor Perrin
-desc: 'crypto engineer'
+desc: crypto engineer
 updated: 1644103712861
 created: 1644103519510
 ---

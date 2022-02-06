@@ -1,10 +1,11 @@
 ---
 id: eE4YZNDCfPNFLlyQKkWI2
 title: Fuse.js
-desc: 'fuzzy-search library with zero dependencies'
+desc: fuzzy-search library with zero dependencies
 updated: 1638131358345
 created: 1638131283560
 ---
+
 
 - [[p.hasSite]] https://fusejs.io/
 - [[p.hasUseCase]]

@@ -6,6 +6,7 @@ updated: 1637404121339
 created: 1636317388945
 ---
 
+
 - [[p.hasURL]] https://medium.com/@ethomasv/the-folgezettel-conundrum-20b14dc986ec
 - [[p.hasTopic]] [[t.km.zettelkasten]] [[t.km.folgezettel]]
 - [[p.hasAuthor]] @Eva-Thomas

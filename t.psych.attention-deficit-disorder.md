@@ -6,5 +6,6 @@ updated: 1635723492340
 created: 1635723172132
 ---
 
+
 - [[p.alsoKnownAs]] ADHD
   - ADHD includes the symptom of physical hyperactivity while ADD does not

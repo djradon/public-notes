@@ -6,6 +6,7 @@ updated: 1637797451083
 created: 1633158873243
 ---
 
+
 - [[p.instanceOf]] [[c.ComputerGame]]
 
 Dwarf Fortress begins and ends with stories.

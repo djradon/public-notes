@@ -6,5 +6,6 @@ updated: 1635664052557
 created: 1635663879826
 ---
 
+
 - [[p.hasResourceList]] 
   - https://wiki.roll20.net/Useful_links_for_mapping

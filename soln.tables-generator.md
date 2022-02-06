@@ -6,4 +6,5 @@ updated: 1641191833561
 created: 1641191810567
 ---
 
+
 - [[p.hasURL]] https://www.tablesgenerator.com/markdown_tables

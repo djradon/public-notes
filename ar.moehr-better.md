@@ -6,6 +6,7 @@ updated: 1635720158562
 created: 1632842564955
 ---
 
+
 - [[p.instanceOf]] [[c.WebSite]] 
 - [[p.hasPart]] http://www.moehrbetter.com/blog
 - http://www.moehrbetter.com/blog [[p.instanceOf]] [[c.Blog]]

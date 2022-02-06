@@ -1,10 +1,11 @@
 ---
 id: oS5Bdyxb1v6EpXu2rIBM5
 title: Netlify
-desc: 'serverless deployment platform for web sites'
+desc: serverless deployment platform for web sites
 updated: 1638033458861
 created: 1638031977724
 ---
+
 
 - [[p.vs]] [[soln.Vercel]]  ^uUZD1OtrpGRW
   - [[p.hasRelatedResource]] https://dev.to/maxniederman/netlify-vs-vercel-a-comparison-5643

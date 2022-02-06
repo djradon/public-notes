@@ -7,6 +7,7 @@ created: 1633404621219
 ---
 
 
+
 ## thoughts
 
 - "problems" is just so negative

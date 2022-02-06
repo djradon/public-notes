@@ -1,10 +1,11 @@
 ---
 id: 9sVq3O0zZFh6zTqgQ4WlT
 title: Jade
-desc: 'Java Agent Development Framework'
+desc: Java Agent Development Framework
 updated: 1637853357989
 created: 1637852885141
 ---
+
 
 - [[p.hasApplication]] [[t.cs.mas]]
 - [[p.writtenIn]] [[t.cs.language.Java]]

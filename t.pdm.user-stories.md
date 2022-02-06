@@ -6,6 +6,7 @@ updated: 1638052354910
 created: 1638052297322
 ---
 
+
 - requirements expressed from the perspective of the user
 - should be INVEST 
   - i.e.

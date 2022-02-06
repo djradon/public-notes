@@ -6,6 +6,7 @@ updated: 1633574351260
 created: 1633561776820
 ---
 
+
 stories are a part of science. (and reality.) they complement the data and should be judged critically.
 
 - [[p.hasURL]] https://nautil.us/issue/75/story/our-brains-tell-stories-so-we-can-live

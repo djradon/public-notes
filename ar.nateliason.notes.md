@@ -6,5 +6,6 @@ updated: 1636431306335
 created: 1636178497205
 ---
 
+
 [[p.hasURL]] https://www.nateliason.com/notes
 [[p.instanceOf]] 

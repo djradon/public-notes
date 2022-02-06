@@ -6,4 +6,5 @@ updated: 1636253092854
 created: 1635703038494
 ---
 
+
 - [[p.hasSpecification]] https://www.w3.org/TR/turtle/

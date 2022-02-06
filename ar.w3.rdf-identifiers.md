@@ -6,6 +6,7 @@ updated: 1635719995688
 created: 1635719880920
 ---
 
+
 - [[p.hasAuthor]] @sandro-hawke
 - [[p.hasURL]] https://www.w3.org/2002/12/rdf-identifiers/
 

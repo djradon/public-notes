@@ -6,6 +6,7 @@ updated: 1636341227042
 created: 1635664151245
 ---
 
+
 - [[p.hasURL]] https://www.worldanvil.com/
 - [[p.hasApplication]] [[t.games.rpg.world-building]]
 - [[p.hasCapability]] world-item management

@@ -6,6 +6,7 @@ updated: 1637798858634
 created: 1636431536026
 ---
 
+
 - [[p.hasURL]] https://www.nateliason.com/brain
 - @Nat-Eliason [[p.madeOffer]] "Lifetime Access to Nat's Book Notes for $25"
   - [[p.offerAcceptedBy]] @dave-richardson 2021-11-08

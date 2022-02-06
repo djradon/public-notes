@@ -6,6 +6,7 @@ updated: 1636179520712
 created: 1636179385387
 ---
 
+
 - [[p.hasHighlight]]
   - > So, who is to blame for our linear, textual predicament?
     >

@@ -6,6 +6,7 @@ updated: 1635666809509
 created: 1635666331115
 ---
 
+
 > OWL = RDFS + more semantic features like cardinalities, union, intersection and more reasoning and inferring possibilities.
 It may be sufficient to use RDFS if you just need to manipulate class hierarchies and data-types, but if you need more specific semantics (DL-based) , OWL is a better option.
 

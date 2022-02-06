@@ -1,11 +1,13 @@
 ---
 id: 8cjRrFWT26sTveJGU4TDR
 title: Rust
-desc: 'language empowering everyone
-to build reliable and efficient software'
+desc: |-
+  language empowering everyone
+  to build reliable and efficient software
 updated: 1638132647359
 created: 1638132337360
 ---
+
 
 - [[p.hasApplication]]
   - [[t.cs.application.cli]] 

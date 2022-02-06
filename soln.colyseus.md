@@ -1,10 +1,13 @@
 ---
 id: bSLil5qIzVfZquxwKn40B
 title: Colyseus
-desc: 'multiplayer framework and cloud solution with multi-client support, including unity'
+desc: >-
+  multiplayer framework and cloud solution with multi-client support, including
+  unity
 updated: 1644100724713
 created: 1642897812921
 ---
+
 
 - [[p.ownedBy]] [[org.lucid-sight]]
 - 

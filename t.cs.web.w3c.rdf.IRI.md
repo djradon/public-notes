@@ -6,6 +6,7 @@ updated: 1634943750639
 created: 1634922765107
 ---
 
+
 ## hasRelatedResource
 
 - https://www.stardog.com/tutorials/data-model/#iris

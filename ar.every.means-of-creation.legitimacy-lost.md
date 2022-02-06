@@ -1,10 +1,11 @@
 ---
 id: SWPQrmZgHhPlTXausE9Gv
 title: Legitimacy Lost
-desc: 'How Creator Platforms Are Eroding Their Most Important Resource'
+desc: How Creator Platforms Are Eroding Their Most Important Resource
 updated: 1638338113116
 created: 1638337323872
 ---
+
 
 - [[p.hasURL]] https://every.to/means-of-creation/legitimacy-lost
 - [[p.hasHighlight]]

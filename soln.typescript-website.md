@@ -5,6 +5,7 @@ desc: ''
 updated: 1632377808431
 created: 1631250082353
 ---
+
 The docs for TypeScript are a living example of how to make a beautiful educational site
 
 - [[p.hasURL]] https://github.com/microsoft/TypeScript-Website

@@ -6,6 +6,7 @@ updated: 1635743455159
 created: 1635741884856
 ---
 
+
 maybe you just need publishers to say "this is a published subject indicator"
 
 - [[p.hasURL]] https://www.oasis-open.org/committees/tm-pubsubj/docs/recommendations/general.htm

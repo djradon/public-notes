@@ -6,6 +6,7 @@ updated: 1643781324979
 created: 1637536070254
 ---
 
+
 ## [[p.hasLearningResource]]
 
 - https://szaranger.medium.com/typescript-features-you-should-no-longer-use-82ede931243

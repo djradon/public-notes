@@ -6,6 +6,7 @@ updated: 1632957279491
 created: 1632956131018
 ---
 
+
 - believe that your dots will connect, because that will allow you to take chances
 - the only way to do great work is to love what you do; don't settle
 - you'll be dead soon; don't be trapped by dogma; stay hungry; stay foolish
