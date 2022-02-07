@@ -8,7 +8,7 @@ created: 1635664151245
 
 
 - [[p.hasURL]] https://www.worldanvil.com/
-- [[p.hasApplication]] [[t.games.rpg.world-building]]
+- [[p.hasApplication]] [[t.cs.game.rpg.world-building]]
 - [[p.hasCapability]] world-item management
   - Buildings
   - Characters

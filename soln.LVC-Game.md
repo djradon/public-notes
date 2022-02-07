@@ -8,6 +8,6 @@ created: 1637841472101
 
 - [[p.ownedBy]] [[org.Calytrix]]
 - [[p.hasURL]] https://www.calytrix.com/products/lvcgame/
-- [[p.hasApplication]] [[t.games.serious-games]]
+- [[p.hasApplication]] [[t.cs.game.serious-games]]
 - [[p.supports]] [[soln.unity]]
   - [[p.hasComponent]] Calytrix LVC Game for Unity SDK
