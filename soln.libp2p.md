@@ -1,9 +1,8 @@
 ---
 id: aKhgknoABR0az8Mm1zHT2
 title: libp2p
-desc: modular system of protocols, specifications and libraries for making
-  peer-to-peer apps
-updated: 1644197486340
+desc: modular system of protocols, specifications and libraries for making peer-to-peer apps
+updated: 1644197570749
 created: 1644102820812
 ---
 
