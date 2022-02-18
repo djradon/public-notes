@@ -1,8 +1,8 @@
 ---
 id: nrTb5pttcGNuF7maN7sTS
 title: Graphbrain
-desc: ''
-updated: 1644493756818
+desc: 'an Artificial Intelligence open-source software library and scientific research tool'
+updated: 1645155810436
 created: 1644488300455
 ---
 
