@@ -2,7 +2,7 @@
 id: xCugLjdB3z42GhtNsjtFc
 title: JavaScript
 desc: ''
-updated: 1643781338776
+updated: 1645996729297
 created: 1634945271434
 ---
 
@@ -20,7 +20,7 @@ created: 1634945271434
   - 3. Use predefined types
 - https://docs.microsoft.com/en-us/learn/certifications/exams/98-382
 - https://hackr.io/blog/best-javascript-certification
-
+- https://javascript.plainenglish.io/28-javascript-skills-a-qualified-intermediate-front-end-engineer-needs-to-master-ffed93de3f38
 
 ### async
 

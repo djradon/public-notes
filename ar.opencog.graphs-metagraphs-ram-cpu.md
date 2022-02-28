@@ -2,7 +2,7 @@
 id: NzujNPnJ2EU7kIQE6VzoU
 title: Graphs, Metagraphs, Ram, Cpu
 desc: ''
-updated: 1645900939999
+updated: 1645943192467
 created: 1645900449458
 ---
 
@@ -12,3 +12,4 @@ created: 1645900449458
   - there are two kinds of metatrees:
     - data (immutable)
     - databases (mutable)
+  - atoms: nodes (vertexes) or links (edges)
