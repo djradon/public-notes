@@ -2,7 +2,7 @@
 id: WBL0eXK2smaYW8QfdLNUe
 title: Roam Research
 desc: 'and expensive, stand-alone+web note-taking tool for networked though'
-updated: 1636469505246
+updated: 1644729959213
 created: 1636468611703
 ---
 
@@ -10,3 +10,7 @@ created: 1636468611703
 - [[p.hasURL]] https://roamresearch.com/
 - [[p.hasApplication]] [[t.km.note-taking]] [[t.tm]]
 - [[p.hasClientSupport]] [[t.cs.web.browser]] [[t.cs.os.windows]] [[t.cs.os.mac]] [[t.cs.os.linux]]
+- [[p.hasRelatedResource]] https://every.to/superorganizers/the-fall-of-roam
+  - [[p.hasHighlight]] 
+    - At least for me—and most of the people I know—we got a garbage dump full of crufty links and pieces of text we hardly ever revisit. And we feel guilty and sad about it.
+    - 

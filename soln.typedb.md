@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1644147657410
+updated: 1644815139777
 created: 1643725570180
 ---
 
@@ -15,6 +15,10 @@ created: 1643725570180
 - [[p.writtenIn]] [[t.cs.language.Java]]
 - [[p.builtOn]] 
   - [[soln.rocksdb]]
+
+## [[p.hasUseCase]]
+
+- [[soln.typedb-data-cti]]
 
 ## [[p.hasRelatedResource]]
 
