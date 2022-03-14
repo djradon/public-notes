@@ -2,7 +2,7 @@
 id: NbYpuH699XIgzU1nsvKtQ
 title: PARA
 desc: 'projects, areas of responsibility, resources, archive'
-updated: 1637122176032
+updated: 1646440620881
 created: 1636342421204
 ---
 
@@ -43,6 +43,8 @@ created: 1636342421204
 - how do projects related to epics and stories
 
 ## [[p.hasRelatedResource]]
+
+- [[email.para-on-paper]]
 
 ### [[p.hasLearningResource]] 
 
