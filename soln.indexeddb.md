@@ -1,8 +1,8 @@
 ---
 id: VujgoPVSufp2tcwwZK5zl
-title: Indexeddb
+title: IndexedDB
 desc: in-browser json storage
-updated: 1643262615040
+updated: 1645286560202
 created: 1643262605255
 ---
 
