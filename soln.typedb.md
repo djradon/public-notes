@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1645297648723
+updated: 1647293174243
 created: 1643725570180
 ---
 
@@ -18,6 +18,11 @@ created: 1643725570180
   - [[soln.grpc]]
     - [[p.hasSource]] https://docs.vaticle.com/docs/client-api/new-client
 
+## [[p.hasConcept]]
+
+- "Concept Architecture"
+  - ![](/assets/images/2022-03-14-14-26-10.png)
+  - 
 
 ## [[p.hasUseCase]]
 
