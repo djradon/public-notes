@@ -2,7 +2,7 @@
 id: SHTJLItRQKrfcqBO3XznN
 title: What's a Solution Vs a Product?
 desc: ''
-updated: 1634933985521
+updated: 1647444193583
 created: 1633875949280
 ---
 solution -> product(s) -> capabilities (for SKUs) -> features
@@ -14,7 +14,7 @@ solution -> product(s) -> capabilities (for SKUs) -> features
   - [[p.vs]] [sonatype which has solutions that look like SKUs][3]
   - [don't mix up benefits and [[p.hasFeature]]][4]
 - a solution is one or more products that can be applied to solve a problem
-  - [[raisesQuestion]] is every product (that can solve a problem on its own) also a solution?
+  - [[p.begsQuestion]] is every product (that can solve a problem on its own) also a solution?
     - likely! especially if you specify the problem
       - e.g. vscode is a product; vscode is a solution to the problems "software developers need a way to 
   - further elaborated by comparing to use case:
