@@ -1,8 +1,8 @@
 ---
 id: T38QG6Kva7s1BMlv5kQK3
-title: KOS
-desc: Knowledge Organization System
-updated: 1638053367441
+title: Knowledge Organization System
+desc: KOS
+updated: 1647826850140
 created: 1637765934304
 ---
 
