@@ -14,3 +14,4 @@ created: 1638152420551
   - [[ar.sebaslab.the-quest-for-maintainable-code-and-the-path-to-ecs]]
   - [[ar.sebaslab.whats-new-in-svelto-ecs-3-0]]
   - https://levelup.gitconnected.com/a-beginners-guide-to-svelto-ecs-3-0-with-unity-e9dbc88a2145
+  - https://www.sebaslab.com/ecs-abstraction-layers-and-modules-encapsulation/

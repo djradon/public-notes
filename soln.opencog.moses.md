@@ -1,0 +1,10 @@
+---
+id: 8bsb7r0hil3do5f2tyvii7h
+title: MOSES
+desc: 'Meta-Optimizing Semantic Evolutionary Search; supervised learning'
+updated: 1649703015771
+created: 1649703015771
+---
+
+- https://wiki.opencog.org/w/Meta-Optimizing_Semantic_Evolutionary_Search
+- [[p.hasTopic]] [[t.cs.machine-learning.deme]]

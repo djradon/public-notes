@@ -8,3 +8,5 @@ created: 1640058653734
 
 
 - [[p.writtenIn]] [[t.cs.language.Ruby]]
+- [[p.hasIssue]] https://kthunk.atlassian.net/browse/OPS-2
+- 
