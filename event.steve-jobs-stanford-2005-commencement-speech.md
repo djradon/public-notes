@@ -2,10 +2,11 @@
 id: iyLlH1YrPZeu8Kd492RyJ
 title: Steve Jobs Stanford 2005 Commencement Speech
 desc: ''
-updated: 1632957279491
+updated: 1649870027806
 created: 1632956131018
 ---
 
+- [[p.attributedTo]] @steve-jobs
 
 - believe that your dots will connect, because that will allow you to take chances
 - the only way to do great work is to love what you do; don't settle
