@@ -1,8 +1,8 @@
 ---
 id: ypeQko8KCaQ5LBfHcSa9F
-title: CKM
-desc: Collective Knowledge Management
-updated: 1636340245474
+title: Collective Knowledge Management
+desc: CKM
+updated: 1650430849502
 created: 1636340235682
 ---
 
