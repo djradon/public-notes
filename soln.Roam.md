@@ -1,8 +1,8 @@
 ---
 id: WBL0eXK2smaYW8QfdLNUe
 title: Roam Research
-desc: 'and expensive, stand-alone+web note-taking tool for networked though'
-updated: 1644729959213
+desc: 'an expensive, stand-alone+web note-taking tool for networked though'
+updated: 1650433760706
 created: 1636468611703
 ---
 
