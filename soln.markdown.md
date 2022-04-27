@@ -2,10 +2,11 @@
 id: qAssYvqbBkF7D2JGChMHV
 title: Markdown
 desc: ''
-updated: 1635744840019
+updated: 1650749891435
 created: 1633579231418
 stub: true
 ---
+
 
 
 
@@ -34,3 +35,7 @@ The "definitive" light-weight, human-readable markup language
 - https://stackoverflow.com/questions/4823468/comments-in-markdown
   - no great solution for comments. 
   - tempting to just use `//` 
+- https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/
+  - experience for editors is not ideal
+    - [[p.supportedBy]] "Do you really want your editors to bump against merge conflicts or how to rebase branches?"
+  - [[p.references]] [[soln.mdx]]
