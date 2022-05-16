@@ -4,7 +4,7 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1647829062911
+updated: 1652573992944
 created: 1642897812921
 ---
 
@@ -28,6 +28,8 @@ created: 1642897812921
 - [Tetrolyseus](https://blog.s1h.org/colyseus-multiplayer-game/)
 - [[Real Time Multiplayer Colyseus Tutorial|ar.real-time-multiplayer-colyseus]]
 - https://blog.logrocket.com/building-a-multiplayer-game-with-colyseus-io/
+- https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/
+- 
 
 ## [[soln.windows.wsl]]
 
