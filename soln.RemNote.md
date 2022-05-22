@@ -2,10 +2,11 @@
 id: 0deUbUTA87xF5Npu5zw1s
 title: RemNote
 desc: cloud PKM with learning/memorization focus
-updated: 1635716861395
+updated: 1652768410752
 created: 1632454051411
 ---
 
+#tools-for-thought
 
 a note-taking tool that helps your organize and remember what you learn
 

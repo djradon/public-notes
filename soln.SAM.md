@@ -2,12 +2,14 @@
 id: eT8Ng8ooUPLhRg3qcLOGK
 title: SAM
 desc: ' a markup language for semantic authoring'
-updated: 1637438342321
+updated: 1652768347117
 created: 1637436632756
 ---
 
 
 - [[p.hasSite]] https://mbakeranalecta.github.io/sam
+- [[p.wasInspirationFor]] [[gd]]
+
 
 ## [[p.hasFeature]]
 

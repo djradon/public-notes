@@ -2,7 +2,7 @@
 id: kg23278tplnxkmzdj2u8euy
 title: Hypergraph Vs Metagraph
 desc: 'metagraphs are more expressive, since graphs can contain other graphs'
-updated: 1645981063573
+updated: 1652767633650
 created: 1645937459747
 ---
 
@@ -13,3 +13,5 @@ created: 1645937459747
     - [[p.hasSummaryPoints]]
       - atoms are nodes or links
       - links are lists of atoms
+- [ ] what about compound graphs, e.g. [[soln.cytoscape]] says 
+  - [[t.cs.graph.compound-graphs]] [[p.subClassOf]] [[t.cs.graph.hypergraph]]
