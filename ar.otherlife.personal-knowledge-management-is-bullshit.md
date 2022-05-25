@@ -1,10 +1,11 @@
 ---
 id: ueqmko6xkxjklqmxoloz9fg
 title: Personal Knowledge Management is Bullshit
-desc: 'Knowledge is a brute force attack, not a bureaucratic spider web.'
-updated: 1653489303824
+desc: 'Knowledge is a brute force attack not a bureaucratic spider web.'
+updated: 1653490109344
 created: 1653454133022
 ---
+
 
 - [[p.hasURL]] https://www.otherlife.co/pkm/
 - [[p.hasTopic]] [[t.km.pkm]]
