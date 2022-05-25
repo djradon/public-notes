@@ -1,8 +1,8 @@
 ---
 id: wqujnzxzqplvzhfnjqa1sg9
-title: The Freedom Specificity Tradeoff
-desc: ''
-updated: 1653488474810
+title: The Freedom-Specificity Tradeoff
+desc: 'if you become popular for a specific thing, you can't do other things'
+updated: 1653488985442
 created: 1653488378485
 ---
 
