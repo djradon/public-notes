@@ -2,7 +2,7 @@
 id: nlbtIFJHZTnfJUNNSAnMX
 title: Data Temporality
 desc: ''
-updated: 1639149144245
+updated: 1653625060706
 created: 1634620119007
 ---
 
@@ -29,3 +29,5 @@ created: 1634620119007
 - [[ar.psu.decision-time-in-temporal-databases]]
 - [[ar.au.semantics-of-temporal-models-with-multiple-temporal-dimensions]]
 - https://aclanthology.org/2021.naacl-main.67.pdf
+- [DESIGN AND IMPLEMENTATION OF HLA TIME MANAGEMENT
+IN THE RTI VERSION F.0](https://www.informs-sim.org/wsc97papers/0373.PDF)
