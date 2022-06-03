@@ -2,7 +2,7 @@
 id: sbpwLAylSgaAU3WxKAruV
 title: Etebase
 desc: Firebase but encrypted in a way that only end-users can access their data
-updated: 1637801944470
+updated: 1654057207160
 created: 1637801920417
 ---
 

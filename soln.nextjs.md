@@ -1,8 +1,8 @@
 ---
 id: OCSuBXbgjAt2GTKPx8UaL
-title: Nextjs
-desc: ''
-updated: 1631400622756
+title: NextJS
+desc: 'React framework that gives you building blocks to create web applications'
+updated: 1654055472285
 created: 1631400622756
 ---
 
