@@ -2,7 +2,7 @@
 id: bhy193j5t54nqgoxvx3aino
 title: Inform7
 desc: ''
-updated: 1651562140574
+updated: 1654233904285
 created: 1651302357861
 ---
 
@@ -11,4 +11,4 @@ created: 1651302357861
     - https://ganelson.github.io/inform/structure.html
     - 
 - [[p.hasRepository]] https://github.com/ganelson/inform
-- 
+- [[p.builtOn]] [[soln.inweb]]
