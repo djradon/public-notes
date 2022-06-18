@@ -2,12 +2,15 @@
 id: dzxt43txsl611skdyinzsgu
 title: The Typed Graph Model
 desc: ''
-updated: 1650045241130
+updated: 1655011517834
 created: 1650045193393
 ---
 
 - [[p.hasURL]] http://www.thinkmind.org/articles/dbkda_2020_1_30_50016.pdf
 - [[p.hasAuthor]] @fritz-laux
+
+#hard-reading
+
 
 ## [[p.hasAbstract]]
 
