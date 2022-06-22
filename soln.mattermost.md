@@ -2,7 +2,7 @@
 id: q469lum2qr1r0cqoko919ck
 title: Mattermost
 desc: ''
-updated: 1649603693183
+updated: 1655680652082
 created: 1649603693183
 ---
 
@@ -26,3 +26,6 @@ created: 1649603693183
     - use Mattermost REST APIs to post messages
     - attach them selves to locations the user
 
+- Chose mysql technology for openness.
+- our web hooks and slash commands are binary level protocol compatible with Slack.
+  - [[p.hasSource]] https://go.theregister.com/feed/www.theregister.com/2022/05/26/mattermost/
