@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1653625321183
+updated: 1656521801753
 created: 1643725570180
 ---
 
@@ -50,4 +50,6 @@ created: 1643725570180
   - /proper/common/abstract/collective
   - relations should be "abstract nouns" or "transitive verbs that can accept 2 or more argument"
 
+### Temporal Modelling L
 
+- https://blog.vaticle.com/modelling-time-within-a-strongly-typed-database-55ba91ecad62
