@@ -2,11 +2,12 @@
 id: 56xihrxel0g5webdkncrw8a
 title: UX Patterns CLI Tools
 desc: ''
-updated: 1656632921118
+updated: 1656633048160
 created: 1656632921118
 ---
 
-https://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html
+- [[p.hasURL]] https://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html
+- [[p.hasSummaryPoints]]
   - implement interactive usage modes
   - [[p.wasInspirationFor]] using shell instead of mattermost
   - you can even have beautiful animated charts if you use libraries like Go’s termui
