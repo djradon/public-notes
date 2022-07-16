@@ -2,7 +2,7 @@
 id: hs3pfpuq926ytwh3xqvsdgc
 title: Nakama
 desc: ' the first open-source distributed server for social and realtime games and apps'
-updated: 1656793088585
+updated: 1657978840211
 created: 1656792485964
 ---
 
@@ -12,7 +12,12 @@ created: 1656792485964
   - Go 86.5%
   - Lua 5.1%
   - TypeScript 4.4%
+- [[p.publishedBy]] [[org.heroic-labs]]
   
+## [[p.provokedThoughts]]
+
+- [Storage Engine] seems key-value/JSON-based (https://heroiclabs.com/docs/nakama/concepts/storage/collections/)
+
 ## [[p.hasFeature]]
 
 -   **Users** - Register/login new users via social networks, email, or device ID.
