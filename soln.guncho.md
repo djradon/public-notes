@@ -1,7 +1,7 @@
 ---
 id: nzrixwrynhev56bhobtdoua
 title: Guncho
-desc: 'online system for multiplayer interactive fiction based on Inform 7'
+desc: online system for multiplayer interactive fiction based on Inform 7
 updated: 1662687471850
 created: 1662686715740
 ---
