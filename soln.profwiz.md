@@ -1,9 +1,9 @@
 ---
-id: nlbtIFJHZTnfJUNNSAnMX
-title: Data Temporality
+id: 19i89311qql10a6q6ex94uv
+title: Profwiz
 desc: ''
-updated: 1665204427108
-created: 1634620119007
+updated: 1665204417007
+created: 1665204417007
 ---
 
 
