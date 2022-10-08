@@ -2,7 +2,7 @@
 id: nlbtIFJHZTnfJUNNSAnMX
 title: Data Temporality
 desc: ''
-updated: 1653625060706
+updated: 1665204406443
 created: 1634620119007
 ---
 
