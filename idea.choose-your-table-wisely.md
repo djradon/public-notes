@@ -1,7 +1,9 @@
 ---
 id: b1ef8xpkug9ehciqpu9lhqg
 title: Choose Your Table Wisely
-desc: 'It doesnt matter how good you are if youre playing the wrong game or against the wrong people.'
+desc: >-
+  It doesnt matter how good you are if youre playing the wrong game or against
+  the wrong people.
 updated: 1659760315563
 created: 1659759366796
 ---

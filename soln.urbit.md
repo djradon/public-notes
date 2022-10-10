@@ -1,7 +1,9 @@
 ---
 id: 3lsxdxtjji6i8yavuuylcwm
 title: Urbit
-desc: 'a decentralized city of personal servers, designed from scratch to run peer-to-peer applications'
+desc: >-
+  a decentralized city of personal servers, designed from scratch to run
+  peer-to-peer applications
 updated: 1656359367749
 created: 1656355949333
 ---
