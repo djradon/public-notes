@@ -7,5 +7,6 @@ created: 1638291830934
 ---
 
 
+
 - ["edges are also nodes"](https://www.google.com/search?client=firefox-b-1-d&q=%22edges+are+also+nodes%22)
   - [[soln.ktgk]]

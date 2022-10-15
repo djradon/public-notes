@@ -6,6 +6,7 @@ updated: 1645853999582
 created: 1645831289441
 ---
 
+
 - [[p.hasURL]] https://c4model.com/
 - [[p.hasRelatedResource]]
   - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab

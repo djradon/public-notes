@@ -7,6 +7,7 @@ created: 1637665356568
 ---
 
 
+
 - [[p.invented]]
   - INVEST model for user stories
   - Arrange-Act-Assert pattern of [[t.sd.testing.unit-testing]]. 

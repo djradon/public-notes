@@ -8,6 +8,7 @@ updated: 1658325631761
 created: 1643725570180
 ---
 
+
 - [[p.alsoKnownAs]] grakn
 - [[p.ownedBy]] [[org.vaticle]]
 - [[p.hasRepository]] https://github.com/vaticle/typedb

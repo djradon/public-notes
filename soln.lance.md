@@ -7,6 +7,7 @@ created: 1642898091504
 ---
 
 
+
 - "Lance is being maintained but no longer actively developed"
   - [[p.hasSource]] https://giters.com/lance-gg/lance/issues/141
 - "real-time" but can it do turn-based?

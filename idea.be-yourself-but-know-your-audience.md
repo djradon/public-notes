@@ -7,6 +7,7 @@ created: 1638377860748
 ---
 
 
+
 - authenticity:
   - helps some people be happy with themselves
   - helps some audiences be happy with you

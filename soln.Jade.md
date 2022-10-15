@@ -7,6 +7,7 @@ created: 1637852885141
 ---
 
 
+
 - [[p.hasApplication]] [[t.cs.mas]]
 - [[p.writtenIn]] [[t.cs.language.Java]]
 - [[p.implements]] [[soln.FIPA]]

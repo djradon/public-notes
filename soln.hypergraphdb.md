@@ -1,7 +1,9 @@
 ---
 id: g7ucja2w41nr2ohu2gl81x6
 title: Hypergraphdb
-desc: 'a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism'
+desc: >-
+  a general purpose, extensible, portable, distributed, embeddable, open-source
+  data storage mechanism
 updated: 1650068626067
 created: 1650068576540
 ---

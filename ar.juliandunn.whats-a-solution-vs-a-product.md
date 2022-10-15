@@ -5,6 +5,7 @@ desc: ''
 updated: 1647444193583
 created: 1633875949280
 ---
+
 solution -> product(s) -> capabilities (for SKUs) -> features
 
 - [[p.hasURL]] https://www.juliandunn.net/2021/09/17/whats-a-solution-vs-a-product/

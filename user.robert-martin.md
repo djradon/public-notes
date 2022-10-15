@@ -7,4 +7,5 @@ created: 1638150657494
 ---
 
 
+
 - [[p.creditedWith]] [[t.cs.programming.SOLID]]

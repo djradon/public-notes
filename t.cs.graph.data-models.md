@@ -7,6 +7,7 @@ created: 1638670758455
 ---
 
 
+
 - [[p.hasRelatedResource]]
   - https://web.stanford.edu/class/cs520/2020/notes/What_Are_Graph_Data_Models.html
     - [[p.hasHighlight]]

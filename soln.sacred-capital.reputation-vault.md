@@ -7,6 +7,7 @@ created: 1638075357569
 ---
 
 
+
 - [[p.hasComponent]]
   - 1. Reputation Libraries
     - Reputation Data represents the most fundamental building blocks of our reputation system. To facilitate computations with and access to these building blocks, we package them as pluggable, swappable libraries that allow communities to articulate and iterate on their culture with ease. Such structures also allow for computation on reputation data across contexts. 

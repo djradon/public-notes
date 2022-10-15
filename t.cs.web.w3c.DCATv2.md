@@ -7,6 +7,7 @@ created: 1635713820752
 ---
 
 
+
 - [[p.hasSpecification]] https://www.w3.org/TR/vocab-dcat/
 - [[p.instanceOf]] [[t.cs.web.w3c.rdf.vocabulary]]
 

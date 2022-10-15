@@ -6,6 +6,7 @@ updated: 1653271136487
 created: 1653261022303
 ---
 
+
 - [[p.hasFeature]]
   - [[p.hasSource]] https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/
     -   Svelte is a UI framework _and_ a compiler and therefore ships minimal code without a client runtime;

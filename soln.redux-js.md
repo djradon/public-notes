@@ -7,6 +7,7 @@ created: 1640057990310
 ---
 
 
+
 - [[p.vs]] [[soln.react.context]]
   - [[p.hasSource]] https://www.fireup.pro/blog/redux-vs-react-context-which-should-you-use
 - [[p.compatibleWith]] [[soln.svelte]]

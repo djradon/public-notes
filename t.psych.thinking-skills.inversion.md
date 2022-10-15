@@ -7,6 +7,7 @@ created: 1638111628579
 ---
 
 
+
 ## [[p.hasRelatedResource]]
 
 - [[Inversion|ar.jamesclear.inversion]]

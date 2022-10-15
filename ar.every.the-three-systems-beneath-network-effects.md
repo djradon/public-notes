@@ -7,6 +7,7 @@ created: 1638941790934
 ---
 
 
+
 - has [[c.PrivateCopy]] [[copy.the-three-systems-beneath-network-effects]]
 - [[p.hasHighlight]]
   - “Acquisition Effect”:: 

@@ -1,10 +1,11 @@
 ---
 id: cc16pguxgm7egj6xwv1qycv
 title: Modelling Data with Hypergraphs
-desc: 'A closer look at the TypeDB hypergraph data model'
+desc: A closer look at the TypeDB hypergraph data model
 updated: 1652565885589
 created: 1652565773800
 ---
+
  
 - [[p.hasAuthor]] @szymon-klarman 
 - [[p.hasURL]] https://blog.vaticle.com/modelling-data-with-hypergraphs-edff1e12edf0)

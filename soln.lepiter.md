@@ -1,10 +1,11 @@
 ---
 id: LEHXr4TNkPVfAPqOOMqZG
 title: Lepiter
-desc: 'the multi-language notebook + knowledge management for Glamorous Toolkit'
+desc: the multi-language notebook + knowledge management for Glamorous Toolkit
 updated: 1650122141451
 created: 1638856576496
 ---
+
 
 - [[p.isComponentOf]] [[soln.glamorous-toolkit]]
 - [[p.hasApplication]] [[t.km]] 

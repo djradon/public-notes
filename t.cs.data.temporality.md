@@ -1,11 +1,10 @@
 ---
-id: nlbtIFJHZTnfJUNNSAnMX
+id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
 updated: 1665204427108
 created: 1634620119007
 ---
-
 
 ## Decision Time
 

@@ -6,6 +6,7 @@ updated: 1653333505369
 created: 1653333328359
 ---
 
+
 - "The core Python documentation has been written in reST for quite a while, but only after the release of Sphinx has it seen serious uptake outside"
   - [[p.hasSource]] https://eli.thegreenplace.net/2017/restructuredtext-vs-markdown-for-technical-documentation/
 

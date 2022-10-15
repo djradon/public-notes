@@ -6,4 +6,5 @@ updated: 1653488798677
 created: 1653488788141
 ---
 
+
 - [[p.created]] https://indiethinkers.org/

@@ -7,6 +7,7 @@ created: 1638111926528
 ---
 
 
+
 - [[p.hasURL]] https://jamesclear.com/inversion
 - [[p.hasHighlight]]
   - Great art breaks the previous rules. 

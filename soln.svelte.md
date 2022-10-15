@@ -7,6 +7,7 @@ created: 1640060047962
 ---
 
 
+
 - [[p.similarTo]] [[soln.solid-js]]
 - [[p.hasFeature]] [[t.cs.reactive]]
   - "No more complex state management libraries — Svelte brings reactivity to JavaScript itself"

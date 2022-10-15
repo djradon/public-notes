@@ -1,10 +1,11 @@
 ---
 id: 67jovq2mye8tnph0ygl5jnf
 title: tRPC
-desc: 'building APIs with end-to-end type-safety'
+desc: building APIs with end-to-end type-safety
 updated: 1654055431967
 created: 1654055039846
 ---
+
 
 - [[p.hasSite]] https://trpc.io/
 - [[p.solvesProblem]]

@@ -7,6 +7,7 @@ created: 1637565021464
 ---
 
 
+
 - [[p.hasDefinition]] an unsolvable game design problem, rooted in a conflict between core player promises
   - [[p.attributedTo]] @Alex-Jaffe
     - [[p.attributedBy]] @Andrew-Zuo

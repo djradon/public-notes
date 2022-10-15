@@ -1,10 +1,11 @@
 ---
 id: cSy6NuQVsGugCWeDHyNK0
 title: Atomspace
-desc: 'in-RAM knowledge representation database'
+desc: in-RAM knowledge representation database
 updated: 1646462603302
 created: 1645899689960
 ---
+
 
 - [[p.builtOn]] [[soln.Postgres]]
 - [[p.hasRelatedTopic]] [[t.km.kr]] 

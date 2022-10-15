@@ -7,6 +7,7 @@ created: 1638027855611
 ---
 
 
+
 - [[p.hasRepository]] https://github.com/w3c/EasierRDF
 - [[p.hasIssue]]
   - [Would an RDF "living standard" be a good idea?](https://github.com/w3c/EasierRDF/issues/88)

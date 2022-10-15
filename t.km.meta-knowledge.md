@@ -7,6 +7,7 @@ created: 1631327714703
 ---
 
 
+
 ## Metaknowledge
 
 from [Don’t Like RDF Reification? Making Statements about Statements Using Singleton Property](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350149/)

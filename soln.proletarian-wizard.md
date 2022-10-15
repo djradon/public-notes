@@ -7,6 +7,7 @@ created: 1635743628270
 ---
 
 
+
 - [[p.hasURL]]
 - [[p.extends]] [[soln.vscode]]
 - [[p.hasApplication]] [[t.tm]] 

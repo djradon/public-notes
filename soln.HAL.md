@@ -7,6 +7,7 @@ created: 1636176635053
 ---
 
 
+
 - [[p.correspondsTo]] [[JSON-HAL|t.cs.web.ietf.draft-kelly-json-hal]]
 - [[p.hasSpecification]] https://datatracker.ietf.org/doc/html/draft-kelly-json-hal-08
 - [[p.similarTo]] [[soln.JSON-LD]]

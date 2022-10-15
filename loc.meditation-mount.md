@@ -7,6 +7,7 @@ created: 1638115874092
 ---
 
 
+
 - lotsa benches tucked away
 - paths
 - spiritual words embossed on rocks

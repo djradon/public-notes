@@ -1,10 +1,13 @@
 ---
 id: bshesgqbyvgrk16yzhrcww4
 title: Goblins
-desc: 'makes writing secure distributed programs easier and safer, even in a mutually suspicious network.'
+desc: >-
+  makes writing secure distributed programs easier and safer, even in a mutually
+  suspicious network.
 updated: 1652766817667
 created: 1652766623296
 ---
+
 
 https://spritelyproject.org/
 

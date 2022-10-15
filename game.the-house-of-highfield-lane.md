@@ -1,7 +1,7 @@
 ---
 id: 9m4cpob8pvjo7nafqhasbw1
 title: The House of Highfield Lane
-desc: 'QuestJS game'
+desc: QuestJS game
 updated: 1662755895249
 created: 1662755868259
 ---

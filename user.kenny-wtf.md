@@ -1,7 +1,7 @@
 ---
 id: b9slt6609buhqpf5pj7qsi9
 title: Kenny Wtf
-desc: 'Kenneth Pirman'
+desc: Kenneth Pirman
 updated: 1649975456171
 created: 1649975177328
 ---

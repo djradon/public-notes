@@ -1,10 +1,11 @@
 ---
 id: l7si3k21egbqfsxvt5gb6on
 title: MDX
-desc: 'Markdown for the component era.'
+desc: Markdown for the component era.
 updated: 1650751009443
 created: 1650749899099
 ---
+
 
 - [[p.hasBlog]] https://mdxjs.com/blog
   - [[p.hasBlogEntry]] https://mdxjs.com/blog/v2/

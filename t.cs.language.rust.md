@@ -9,6 +9,7 @@ created: 1638132337360
 ---
 
 
+
 - [[p.hasApplication]]
   - [[t.cs.application.cli]] 
   - [[t.cs.application.webapp]] 

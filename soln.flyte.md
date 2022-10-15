@@ -1,10 +1,13 @@
 ---
 id: zKR4kifve0XasJ0Evrv2G
 title: Flyte
-desc: 'Workflow Automation Platform for Complex, Mission-Critical Data and ML Processes'
+desc: >-
+  Workflow Automation Platform for Complex, Mission-Critical Data and ML
+  Processes
 updated: 1644426061896
 created: 1644425749646
 ---
+
 
 - [[p.hasSite]] https://flyte.org
 - [[p.vs]] 

@@ -7,6 +7,7 @@ created: 1635745112437
 ---
 
 
+
 - [[p.instanceOf]] [[t.cs.data.DBaaS]]
 - [[p.builtOn]] [[soln.Postgres]]
 - [[p.alternativeTo]] [[soln.Firebase]] 

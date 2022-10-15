@@ -1,10 +1,11 @@
 ---
 id: umydxqsrnqfi519mrkqu654
 title: Product Led Growth
-desc: 'PLG'
+desc: PLG
 updated: 1647445987120
 created: 1647445864196
 ---
+
 
 - design for the end user
 - deliver value before you capture value

@@ -7,6 +7,7 @@ created: 1633088347659
 ---
 
 
+
 - [[p.hasURL]] https://www.conventionalcommits.org 
 - [[p.isRelated]] https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 - [[p.hasSpecification]] https://www.conventionalcommits.org/en/v1.0.0/

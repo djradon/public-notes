@@ -1,7 +1,7 @@
 ---
 id: 1t6ydud7kqwtwww2sryrvlk
 title: QuestJS
-desc: 'javascript-based interactive fiction framework'
+desc: javascript-based interactive fiction framework
 updated: 1662764991904
 created: 1662753009547
 ---

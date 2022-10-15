@@ -7,6 +7,7 @@ created: 1638023425812
 ---
 
 
+
 ## [[p.hasResourceList]] 
 
 - https://javascript.plainenglish.io/top-5-programming-publications-on-medium-e154136bded4

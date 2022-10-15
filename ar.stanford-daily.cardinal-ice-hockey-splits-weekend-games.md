@@ -6,6 +6,7 @@ updated: 1653019056936
 created: 1653018961965
 ---
 
+
 This past weekend, the Stanford ice hockey
 team faced off against two Utah teams at
 home, winning the first game against Weber

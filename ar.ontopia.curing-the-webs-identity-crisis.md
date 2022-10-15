@@ -7,6 +7,7 @@ created: 1635125368065
 ---
 
 
+
 - [[hasSubHeading]] Subject Indicators for RDF
 - [[p.hasURL]] https://ontopia.net/topicmaps/materials/identitycrisis.html
 - [[p.hasAuthor]] @Steve-Pepper @Sylvia-Schwab

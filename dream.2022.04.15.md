@@ -1,6 +1,6 @@
 ---
 id: 85f8e0q0djhqi00lob49tmp
-title: 'bombora meets stanford'
+title: bombora meets stanford
 desc: ''
 updated: 1650043879929
 created: 1650043630622

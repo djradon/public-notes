@@ -7,6 +7,7 @@ created: 1632806033766
 ---
 
 
+
 - [[p.hasURL]] https://fortelabs.co/blog/gtd-x-pkm/
 - [[p.hasCreator]] @Tiago-Forte
 

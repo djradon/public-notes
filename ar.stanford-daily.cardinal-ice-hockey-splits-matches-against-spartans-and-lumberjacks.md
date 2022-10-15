@@ -6,6 +6,7 @@ updated: 1653455087031
 created: 1653019092013
 ---
 
+
 - [[p.hasURL]] https://archives.stanforddaily.com/1995/10/25?page=11&section=MODSMD_ARTICLE31#article
 
 Stanford's ice hockey team split its

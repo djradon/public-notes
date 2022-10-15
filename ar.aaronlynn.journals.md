@@ -7,6 +7,7 @@ created: 1633227061008
 ---
 
 
+
 - [[p.hasURL]] https://aaronlynn.com/journals/
   
 ## [[p.hasHighlight]]

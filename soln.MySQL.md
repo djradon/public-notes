@@ -7,6 +7,7 @@ created: 1635693430742
 ---
 
 
+
 - [[p.hasSense]] 
   - the original free database
   - a set of variants that are more-or-less compatible

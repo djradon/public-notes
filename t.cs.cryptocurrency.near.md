@@ -7,6 +7,7 @@ created: 1644139322153
 ---
 
 
+
 ## [[p.hasRelatedResource]]
 
 - https://near.org/blog/limitations-of-zilliqas-sharding-approach/

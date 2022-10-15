@@ -7,6 +7,7 @@ created: 1638848919483
 ---
 
 
+
 - [[p.hasURL]] https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe
 - [[p.hasSubject]] [[soln.tiger]]
 - [[p.hasTopic]] [[t.cs.web.ajax]] [[t.cs.web.soap]]

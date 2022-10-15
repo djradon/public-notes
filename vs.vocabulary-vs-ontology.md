@@ -7,6 +7,7 @@ created: 1633356056233
 ---
 
 
+
 - [[p.instanceOf]] [[c.Comparison]]
 - [[p.hasComparand]] [[t.km.vocabulary]] [[t.km.ontology]]
 

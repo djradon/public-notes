@@ -9,6 +9,7 @@ created: 1638055287841
 ---
 
 
+
 - [[p.similarTo]] [[t.psych.theory-of-mind.heterarchy]]
 - [[p.reflects]] [[t.phil.epistemology.constructivism]]
   - [[p.claimedBy]] https://www.systemsinnovation.io/post/hierarchy-heterarchy

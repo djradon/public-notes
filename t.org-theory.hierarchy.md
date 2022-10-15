@@ -7,5 +7,6 @@ created: 1638055511005
 ---
 
 
+
 - [[p.reflects]] [[t.phil.epistemology.objectivism]]
   - [[p.claimedBy]] https://www.systemsinnovation.io/post/hierarchy-heterarchy

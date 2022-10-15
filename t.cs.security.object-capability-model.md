@@ -6,6 +6,7 @@ updated: 1652767131117
 created: 1652735164588
 ---
 
+
 - [[p.hasRelatedResource]]
   - https://decentralized-id.com/web-standards/object-capabilities/
 

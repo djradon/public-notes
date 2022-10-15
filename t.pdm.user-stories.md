@@ -7,6 +7,7 @@ created: 1638052297322
 ---
 
 
+
 - requirements expressed from the perspective of the user
 - should be INVEST 
   - i.e.

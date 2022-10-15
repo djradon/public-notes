@@ -7,6 +7,7 @@ created: 1633086494998
 ---
 
 
+
 an exciting approach to learning git-based technologies and workflows
 
 ## Course Creation

@@ -7,6 +7,7 @@ created: 1635400100798
 ---
 
 
+
 ## [[p.hasRelatedResource]]
 
 - https://blog.sourcerer.io/problem-solution-vs-opportunity-4c4f70ce2fc0

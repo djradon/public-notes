@@ -1,7 +1,7 @@
 ---
 id: 5p7vhpra7k8fths9pzautjz
 title: Open Policy Agent
-desc: 'unified toolset and framework for policy across the cloud native stack'
+desc: unified toolset and framework for policy across the cloud native stack
 updated: 1649784665808
 created: 1649783569434
 ---

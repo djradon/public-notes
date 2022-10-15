@@ -7,4 +7,5 @@ created: 1641416593680
 ---
 
 
+
 - [[p.hasURL]] https://www.linkedin.com/company/capitalize-analytics/

@@ -7,6 +7,7 @@ created: 1637669903112
 ---
 
 
+
 ## Simplified BDI Algorithm
 
 - [[p.hasSource]] https://www.inf.ed.ac.uk/teaching/courses/masws/lectures-14/16-full.pdf

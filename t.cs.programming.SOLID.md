@@ -8,6 +8,7 @@ created: 1638150570649
 
 
 
+
 - [[p.attributedTo]] @robert-martin
 - [[p.hasSummaryPoints]]
   - The Single-responsibility principle: "There should never be more than one reason for a class to change."[5] In other words, every class should have only one responsibility.[6]

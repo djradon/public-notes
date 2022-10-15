@@ -7,5 +7,6 @@ created: 1632836911265
 ---
 
 
+
 - [[p.hasURL]] https://gettingthingsdone.com/
 - [[p.creditedWith]] [[idea.write-only-syndrome]]

@@ -1,7 +1,7 @@
 ---
 id: nw7n4qqjj4xia2pvi50atbj
 title: Will Stepn Bring Crypto to the Masses
-desc: 'How I made $357 today on walks with my family'
+desc: How I made $357 today on walks with my family
 updated: 1650115527403
 created: 1650115360220
 ---

@@ -7,6 +7,7 @@ created: 1638163352138
 ---
 
 
+
 - sometimes transaction time is a single point (instant): creation
 - sometimes transaction time is a range (interval): from creation until update (valid-in-database) time
   - valid-in-database end of range is "NOW" until update/deletion occurs

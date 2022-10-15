@@ -7,6 +7,7 @@ created: 1643255484724
 ---
 
 
+
 - [[p.hasAuthor]] @Nat-Eliason
 - https://learn.nateliason.com/p/defi-orientation 
 - [[p.hadCost]] $99 

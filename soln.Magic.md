@@ -7,6 +7,7 @@ created: 1635711573611
 ---
 
 
+
 - [[p.hasSite]] https://magic.link/
 - [[p.writtenIn]] [[t.cs.language.JavaScript]]
 - [[p.hasApplication]] [[t.cs.authentication]]

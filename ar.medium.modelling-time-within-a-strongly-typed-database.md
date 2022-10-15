@@ -6,6 +6,7 @@ updated: 1645901844161
 created: 1645901769066
 ---
 
+
 - [[p.hasURL]] https://medium.com/vaticle/modelling-time-within-a-strongly-typed-database-55ba91ecad62
 - [[p.hasSummaryPoints]]
   - various complexities can arise in modelling time-based data, including:

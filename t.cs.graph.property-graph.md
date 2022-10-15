@@ -7,5 +7,6 @@ created: 1638293019662
 ---
 
 
+
 - [[p.hasSpecification]] [[soln.ngsi-ld]]
 - [[p.hasVariant]] [[t.km.knowledge-graph.lpg]]

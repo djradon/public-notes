@@ -1,10 +1,11 @@
 ---
 id: v8wvgada2bdk2ehvs3pt7db
 title: Natural Language Concrete Syntax Tree format
-desc: 'nlcst'
+desc: nlcst
 updated: 1650951043820
 created: 1650751302542
 ---
+
 
 - symbols can be used in words!?
 - sometimes whitespace can have content, so would maybe be a symbol

@@ -7,5 +7,6 @@ created: 1638021490782
 ---
 
 
+
 - [[p.hasSite]] https://rmarkdown.rstudio.com/
 - [[p.hasApplication]] [[t.cs.data.visualization]]

@@ -1,10 +1,11 @@
 ---
 id: 0vivy12rf0jayeptkpgqlbh
 title: Remote.It
-desc: 'connectivity as code'
+desc: connectivity as code
 updated: 1654553197613
 created: 1654551212786
 ---
+
 
 - similar to [[soln.twingate]] or [[soln.strongdm]] ?
   - they're relay-based

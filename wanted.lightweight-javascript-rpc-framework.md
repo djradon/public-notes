@@ -7,6 +7,7 @@ created: 1642050513462
 ---
 
 
+
 - intent-based API
   - googling reveals this concept isn't really out there. request-based makes more sense
   - in some ways the player and character merge; you should have a setting for "what I want to happen", with "adventure now" or "killing 

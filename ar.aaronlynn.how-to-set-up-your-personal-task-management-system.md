@@ -7,6 +7,7 @@ created: 1633219985482
 ---
 
 
+
 - [[p.hasURL]] https://aaronlynn.com/personal-task-management/
 
 ## [[p.hasHighlight]]

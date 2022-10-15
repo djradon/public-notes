@@ -6,6 +6,7 @@ updated: 1652767947113
 created: 1652767633550
 ---
 
+
 - likely many definitions, but I like TypeDB's:
   - [[p.hasSource]] [[Modelling Data with Hypergraphs|ar.medium.modelling-data-with-hypergraphs]]
     - a hypergraph consists of a non-empty set of vertices and a set of hyperedges;

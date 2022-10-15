@@ -7,5 +7,6 @@ created: 1636178497205
 ---
 
 
+
 [[p.hasURL]] https://www.nateliason.com/notes
 [[p.instanceOf]] 

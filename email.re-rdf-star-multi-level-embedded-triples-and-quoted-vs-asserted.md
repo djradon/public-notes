@@ -7,6 +7,7 @@ created: 1655014406555
 ---
 
 
+
 On 6/10/2022 6:05 AM, llSouripriya Das wrote:
 > What would be the best ways to represent the two cases of the following sentence in RDF-star:
 >       Alice heard that Bob knew that Cindy read, from email and in paper, that Dan adores Eve

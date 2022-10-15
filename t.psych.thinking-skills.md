@@ -7,4 +7,5 @@ created: 1638111596559
 ---
 
 
+
 - tools and techniques for better mentality

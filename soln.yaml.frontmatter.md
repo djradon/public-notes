@@ -6,6 +6,7 @@ updated: 1652769283552
 created: 1635573429434
 ---
 
+
 [[p.hasRelatedResource]] 
 
 - https://www.11ty.dev/docs/data-frontmatter/

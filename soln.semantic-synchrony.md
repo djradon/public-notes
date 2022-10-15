@@ -1,10 +1,11 @@
 ---
 id: nddvh69lh8fp6rtnwuhtv9d
 title: Semantic Synchrony
-desc: 'lets anyone edit and use a knowledge graph'
+desc: lets anyone edit and use a knowledge graph
 updated: 1649303129254
 created: 1649303129254
 ---
+
 
 - [[p.hasRepository]] https://github.com/synchrony/smsn
 - [[p.builtOn]] [[soln.neo4j]]

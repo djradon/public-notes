@@ -7,6 +7,7 @@ created: 1633838913636
 ---
 
 
+
 - [[p.subClassOf]] [[c.Paper]]
 - [[p.hasURL]] https://www.mdpi.com/2073-8994/12/1/84/htm
 

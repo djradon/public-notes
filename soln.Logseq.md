@@ -7,6 +7,7 @@ created: 1634825109165
 ---
 
 
+
 a joyful, open-source outliner that works on top of local or git-homed plain-text Markdown and Org-mode files
 
 - [[p.hasSite]] https://logseq.com/

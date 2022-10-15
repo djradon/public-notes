@@ -7,6 +7,7 @@ created: 1633084022057
 ---
 
 
+
 - [[p.hasURL]] https://www.dolthub.com/blog/2020-03-06-so-you-want-git-for-data/
 - [[p.isRelated]] [[soln.Dolt]]
 

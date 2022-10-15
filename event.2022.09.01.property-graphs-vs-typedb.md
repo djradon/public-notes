@@ -6,6 +6,7 @@ updated: 1662051674484
 created: 1662050035757
 ---
 
+
 - [[p.hostedBy]] [[user.tomas-sabat]]
 - "strongly-typed database", but close to [[t.cs.data.DBMS.graph]]
 - modeling complex data is difficult in graph (although easy to start)

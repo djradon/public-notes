@@ -6,6 +6,7 @@ updated: 1638701903592
 created: 1633215785762
 ---
 
+
 An attempt to establish a theory of knowledge based on the model of virtue theory in ethics.
 
 - [[p.hasAssesment]]

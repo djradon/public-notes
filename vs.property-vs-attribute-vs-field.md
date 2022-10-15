@@ -9,6 +9,7 @@ created: 1638024748401
 ---
 
 
+
 - [[p.hasContext]] 
   - [[t.cs.programming]]
     - field: data member of a class, usually private; A class or struct may have instance fields or static fields or both

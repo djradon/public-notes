@@ -6,6 +6,7 @@ updated: 1653018922480
 created: 1653018756069
 ---
 
+
 - [[p.hasURL]] https://archives.stanforddaily.com/1995/10/19?page=8&section=MODSMD_ARTICLE28#article
 
 This weekend, the Stanford

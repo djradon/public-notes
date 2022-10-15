@@ -6,6 +6,7 @@ updated: 1652767633650
 created: 1645937459747
 ---
 
+
 - [[p.hasRelatedResource]]
   - https://news.ycombinator.com/item?id=25064588
     - [[p.hasSummary]] the hyperedge, rather than being an ordered pair of vertexes, is an ordered list of vertexes

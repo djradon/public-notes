@@ -7,6 +7,7 @@ created: 1638654831248
 ---
 
 
+
 - [[p.hasURL]] https://medium.com/@ajmeyghani/data-modeling-with-gundb-15220cbfb8da
 - [[p.hasTopic]] [[soln.gundb]]
 - seems to use a "nodes for relationships" model

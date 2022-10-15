@@ -9,6 +9,7 @@ created: 1638041917273
 ---
 
 
+
 - [[p.writtenIn]] [[t.cs.language.rust]]
 - [[p.hasFeature]] end-to-end framework for peer-to-peer apps uses counter-signing and gossip for data validation and provenance in place of consensus mechanisms
 - [[p.similarTo]] [[soln.internet-computer]]

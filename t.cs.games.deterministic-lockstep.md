@@ -6,6 +6,7 @@ updated: 1644212608553
 created: 1644212560255
 ---
 
+
 - [[p.hasRelatedResource]]
   - https://www.gafferongames.com/post/deterministic_lockstep/
   - https://news.ycombinator.com/item?id=27253890

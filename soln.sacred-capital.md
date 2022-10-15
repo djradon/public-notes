@@ -7,6 +7,7 @@ created: 1638050980019
 ---
 
 
+
 - [[p.hasVision]] 
   - a Wix-like environment where non-techie community activators can bundle together the tools they need to shift their communities from, say, an awkward mish-mash of GSuite, Facebook, and Discord to the crypto web.
 - [[p.hasConcept]]

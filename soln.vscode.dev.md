@@ -7,6 +7,7 @@ created: 1634768867019
 ---
 
 
+
 - [[hasAnnouncement]] https://code.visualstudio.com/blogs/2021/10/20/vscode-dev 2021-10-20
   - [[p.hasHighlight]] 
     - the CodeTour extension lets you create guided walkthroughs of a code base and the WikiLens extension turns VS Code and your repository into a powerful note taking tool (with bi-directional linking). To make it easy to access your code in GitHub, VS Code for the Web comes with the GitHub Repositories, Codespaces, and Pull Request extensions built in. You can make quick edits, review PRs, and Continue on to a local clone or even better, to a GitHub Codespace

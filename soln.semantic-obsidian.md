@@ -6,6 +6,7 @@ updated: 1652770589489
 created: 1652770523312
 ---
 
+
 #tools-for-thought #pkm
 
 https://juggl.io/Semantic+Obsidian

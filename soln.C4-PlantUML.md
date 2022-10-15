@@ -6,4 +6,5 @@ updated: 1645831560911
 created: 1645831485467
 ---
 
+
 - [[p.hasRepository]] https://github.com/plantuml-stdlib/C4-PlantUML

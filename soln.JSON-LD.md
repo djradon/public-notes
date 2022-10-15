@@ -7,5 +7,6 @@ created: 1636178352439
 ---
 
 
+
 - [[p.isComparandOf]] https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
 

@@ -6,6 +6,7 @@ updated: 1656098703358
 created: 1656098204374
 ---
 
+
 - [[p.hasFeature]]
   - Shared Business Logic
     - A semantic layer contains the core logic required for business analysis, transforming the underlying data model into familiar business definitions (dimensions, measures, hierarchies) and easy-to-understand terms. It can contain commonly used derived measures, such as year-over-year, month-over-month, month-to-date, etc. Users can directly consume the calculated measures and reuse the semantics in different downstream applications.

@@ -7,6 +7,7 @@ created: 1638337323872
 ---
 
 
+
 - [[p.hasURL]] https://every.to/means-of-creation/legitimacy-lost
 - [[p.hasHighlight]]
   - platforms all derived their legitimacy from Weber’s three sources listed above: charismatic, traditional, and rational-legal. 

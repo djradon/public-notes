@@ -7,6 +7,7 @@ created: 1638597490269
 ---
 
 
+
 - [[p.hasCon]] additional complexity/indirection/traversal
   - boo hoo
 - [[p.hasTopic]] [[t.cs.graph.]]

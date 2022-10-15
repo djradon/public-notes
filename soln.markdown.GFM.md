@@ -7,4 +7,5 @@ created: 1637955001947
 ---
 
 
+
 - [[p.variantOf]] [[soln.markdown]]

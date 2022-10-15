@@ -6,6 +6,7 @@ updated: 1662753983929
 created: 1651302357861
 ---
 
+
 - [[p.instanceOf]] [[c.InteractiveFictionFramework]]
 - [[p.hasSite]] https://ganelson.github.io/inform/
   - [[p.hasHighlight]]

@@ -7,6 +7,7 @@ created: 1637813722983
 ---
 
 
+
 - [[p.hasSite]] http://act-r.psy.cmu.edu/
 - [[p.hasSense]]
   - [[p.instanceOf]] [[Cognitive Architecture|t.cs.ai.cognitive-architecture]]

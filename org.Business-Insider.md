@@ -7,5 +7,6 @@ created: 1634930259616
 ---
 
 
+
 - [[p.instanceOf]] [[c.Company]]
 - [[p.hasRelatedResource]] https://www.businessinsider.com/about

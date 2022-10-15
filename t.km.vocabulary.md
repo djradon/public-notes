@@ -7,4 +7,5 @@ created: 1633223436551
 ---
 
 
+
 - [[p.hasResourceList]] https://github.com/solid/solid-namespace

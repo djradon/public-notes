@@ -7,6 +7,7 @@ created: 1632805137761
 ---
 
 
+
 - [[p.alsoKnownAs]] GTD
 
 a personal productivity paradigm originated by @David-Allen

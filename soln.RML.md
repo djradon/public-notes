@@ -9,6 +9,7 @@ created: 1637438742335
 ---
 
 
+
 - [[p.hasSpecification]] https://rml.io/specs/rml/
 - [[p.vs]] [[soln.R2RML]]
   - [[p.hasRelatedResource]] https://rml.io/docs/rml/rmlvsr2rml/

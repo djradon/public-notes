@@ -7,6 +7,7 @@ created: 1637404746474
 ---
 
 
+
 - [[p.hasURL]] https://zettelkasten.de/posts/luhmann-folgezettel-truth/
 - [[p.refutes]]
   - [[p.attributedTo]] @Daniel-Lüdecke

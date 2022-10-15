@@ -7,6 +7,7 @@ created: 1645900311590
 ---
 
 
+
 ### [[p.hasRelatedResource]]
 
 - [[ar.opencog.graphs-metagraphs-ram-cpu]]

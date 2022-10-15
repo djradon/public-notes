@@ -6,5 +6,6 @@ updated: 1653254097640
 created: 1653254076491
 ---
 
+
 - [[p.hasURL]] https://subconscious.substack.com/p/layered-protocols
 - [[p.hasAuthor]] @gordon-brander

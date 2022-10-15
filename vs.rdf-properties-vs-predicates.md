@@ -7,6 +7,7 @@ created: 1633817469789
 ---
 
 
+
 - one of the biggest mistake of RDF: predicates are ??
   - 2021-11-07 don't remember what I was going to say here, but likely something about how predicates supposedly express properties, when really they just express predicates (i.e., part of a property)
 

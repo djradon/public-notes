@@ -7,6 +7,7 @@ created: 1633616230389
 ---
 
 
+
 [[a|p.instanceOf]] [[programming language|c.ProgrammingLanguage]] for [[RDF|soln.RDF]], written in RDF
 
 ## [[Related|p.hasRelatedResource]] 

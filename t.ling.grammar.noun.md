@@ -6,4 +6,5 @@ updated: 1652769682409
 created: 1652769553757
 ---
 
+
 - abstract or concrete

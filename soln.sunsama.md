@@ -7,6 +7,7 @@ created: 1633226741110
 ---
 
 
+
 Elegant, guided solution to time and task management with decent integrations and an opinionated but human approach; but ultimately, isn't it a walled garden?
 
 ## features

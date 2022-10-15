@@ -7,6 +7,7 @@ created: 1635719696004
 ---
 
 
+
 - [[p.hasURL]] https://jamesclear.com/
 - [[p.hasIssue]] bullshitty
 - [[p.hasCreator]] [[James Clear|user.james-clear]]

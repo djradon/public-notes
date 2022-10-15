@@ -7,5 +7,6 @@ created: 1640669757240
 ---
 
 
+
 - [[p.hasResourceList]]
   - https://www.typewolf.com/top-10-slab-serif-fonts

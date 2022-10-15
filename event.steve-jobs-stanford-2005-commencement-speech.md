@@ -6,6 +6,7 @@ updated: 1649870027806
 created: 1632956131018
 ---
 
+
 - [[p.attributedTo]] @steve-jobs
 
 - believe that your dots will connect, because that will allow you to take chances
