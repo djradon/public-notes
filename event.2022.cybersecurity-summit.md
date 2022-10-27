@@ -1,11 +1,11 @@
 ---
-id: 9hus7n8hkz1xcl2o3ieuxkf
+id: leiouwjn4tf8akfdfvf1ip2
 title: Cybersecurity Summit Los Angeles 2022
 desc: ''
-updated: 1666886884445
+updated: 1666888072029
 created: 1666885134297
 ---
 
-- [[p.hadPresentation]] 
+- [[p.hadPresentation]]
   - [[event.2022.cybersecurity-summit.darktrace-presentation]]
   - [[event.2022.cybersecurity-summit.google-presentation]]

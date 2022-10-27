@@ -1,9 +1,11 @@
 ---
-id: ftixkof0khv2iubav148gc6
+id: 743l6rlno8fj5xc9y5usy15
 title: Google Presentation
-desc: 'Improving Your Organization's Security Posture with Chrome'
-updated: 1666886922471
-created: 1666886884345
+desc: ''
+updated: 1666888076868
+created: 1666888072987
 ---
-
-- [[p.hadPresenter]] 
+- browser is your first line of denfense 
+- Chrome browser cloud management
+  - can "clear cache and cookies"
+- 
