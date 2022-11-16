@@ -2,7 +2,7 @@
 id: gYBJk3uMSIxgAZEBBwfTw
 title: Notion
 desc: ''
-updated: 1636341129903
+updated: 1668584412257
 created: 1632931778994
 ---
 
@@ -26,5 +26,10 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 ## [[p.hasExample]]
 
 - https://www.nateliason.com/brain 250 literature notes for $25
+
+## [[p.hasCriticism]]
+
+- "Using Notion for note taking is like using a sniper to kill a mosquito."
+  - [[p.attributedTo]] Andrey Zagoruiko
 
 

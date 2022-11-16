@@ -2,7 +2,7 @@
 id: dDwSWRhnN0ctUsDXcKqzW
 title: The Garden and the Stream a Technopastoral
 desc: ''
-updated: 1633218346209
+updated: 1668587095721
 created: 1633213395984
 ---
 
@@ -10,6 +10,9 @@ created: 1633213395984
 
 - [[p.hasURL]] https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
 - [[p.hasCreator]] @mike-caufield
+- [[p.isRelated]] 
+  - [[The Garden and the Stream|idea.the-garden-and-the-stream]]
+  - [[video.the-garden-and-the-stream-a-technopastoral]]
 
 ## [[p.hasHighlight]]
 
