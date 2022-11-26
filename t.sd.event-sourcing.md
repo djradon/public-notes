@@ -2,19 +2,35 @@
 id: prbis54rvnvjcg4y74map4h
 title: Event Sourcing
 desc: a different way of persisting data where data changes are saved in domain events
-updated: 1669463459699
+updated: 1669494817177
 created: 1658585055608
 ---
 
+- replaying events will produce the most up-to-date state of each entity without necessarily knowing how this state was produced in the first place
+  - [[p.hasSource]] https://opencredo.com/blogs/events-and-commands-two-faces-of-the-same-coin/
 - [[p.couldBeConfusedWith]] 
   - [[t.sd.architecture.cqrs]]
     - "Often CQRS is considered an enabler for Event Sourcing"
     - ![](/assets/images/2022-11-25-20-12-58.png)
+    - "commands are external actions while events are internal facts"
+      - https://opencredo.com/blogs/events-and-commands-two-faces-of-the-same-coin/
   - [[t.sd.architecture.event-driven]]
+    - "Should event objects used in the event-sourcing implementation also be directly used for communication? No! When solely depending on events used in the event-sourcing pattern, a direct dependency is created on the application's internal data. By creating a separate contract that represents the exact data change, a direct dependence on the same models is avoided, and internal data models are not leaked."
+      - [[p.hasSource]] [[Event Sourcing versus Event Driven Architecture|ar.medium.event-sourcing-versus-event-driven-architecture]]
+    - "Event sourcing is a more domain specific pattern. It does not care about any other domains and it does not require an event stream. It’s sole purpose is to store its domain state as a sequence of events.These events are stored to record state changes rather than communicating."
+      - [[p.hasSource]] https://jgao.io/post/event-sourcing/
+        - but also says "any system which uses “event sourcing” as its core mechanics can be seen as also as an even-driven system,"
+  - [[t.sd.architecture.command-sourcing]]
 
 ## [[p.hasRelatedSolution]]
 
 - [[soln.castore]]
+
+## [[p.hasIssue]]
+
+- "The external systems that your application communicates with are usually not prepared for event sourcing, so you should be careful when you replay your events... To solve this challenge, you should handle replays in your communication layers!"
+  - [[p.hasSource]] [[Event Sourcing with Examples Node.js at Scale|ar.risingstack.event-sourcing-with-examples-node-js-at-scale]]
+- 
 
 ## [[p.hasRelatedResource]]
 

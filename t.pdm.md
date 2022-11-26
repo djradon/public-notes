@@ -1,12 +1,16 @@
 ---
 id: gqicLYiQ0ASZT14Zr1SXm
 title: Product Management
-desc: null
-updated: 1638052546225
+desc: ''
+updated: 1669483602757
 created: 1635700925535
 ---
 
 
+## Product Ideas
+
+- a [[t.pdm.user-problem]], an [[t.pdm.opportunity]] or a [[t.pdm.solution]]
+  - [[p.hasSource]] https://support.atlassian.com/jira-product-discovery/docs/what-is-an-idea/
 
 
 - > [Product ideas] are fragile. If they were resolved, they would not be ideas, they would be products. It takes determined effort not to be consumed by the problems of a new idea. Problems are easy to articulate and understand, and they take the oxygen. Steve focused on the actual ideas, however partial and unlikely.
@@ -50,3 +54,7 @@ created: 1635700925535
 - [[p.hasPro]]
   - Built-in user journey.
     - although, imagine a 3d visualization overlapping user journeys and their interaction points. 
+
+## [[p.hasRelatedResource]]
+
+- https://www.productplan.com/glossary
