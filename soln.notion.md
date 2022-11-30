@@ -2,7 +2,7 @@
 id: gYBJk3uMSIxgAZEBBwfTw
 title: Notion
 desc: ''
-updated: 1668584412257
+updated: 1669806495337
 created: 1632931778994
 ---
 
@@ -22,6 +22,8 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 ## [[p.hasIssue]]
 
 - breaks the back button
+- lost the [[soln.programming-portals]]
+  - [[p.attributedTo]] [[ar.maggieappleton.programming-portals]]
   
 ## [[p.hasExample]]
 

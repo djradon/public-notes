@@ -1,8 +1,8 @@
 ---
 id: h4tcba129512f2b2pe87125
 title: Fermat
-desc: 'the tool is the thought'
-updated: 1669805775119
+desc: 'the tool is the thoughtl'
+updated: 1669806431687
 created: 1669805615667
 ---
 
