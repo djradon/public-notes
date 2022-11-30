@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1644107433472
+updated: 1669801145166
 created: 1631142984146
 ---
 
@@ -38,6 +38,7 @@ embed content from other notes
 
 ## Feature ideas
 
+- [[soln.stacked-pages]] like [[soln.gatsby-digital-garden]]
 - allow setting aliasMode per note
 - note links can use aliases, so instead of seeing [\[solution.dendron]] I can just see [\[Dendron]] or maybe even Dendron^ in my editor
 - [ ] flexible capitalization settings

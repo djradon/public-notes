@@ -2,8 +2,11 @@
 id: 29svhyIOLliTANTbzdiJ2
 title: maggieappleton.com
 desc: ''
-updated: 1636179534832
+updated: 1669803456111
 created: 1636091994504
-stub: true
 ---
+
+collection of essays; NOT her digital garden
+
+- [[p.hasHighlight]] 
 

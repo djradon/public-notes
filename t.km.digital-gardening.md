@@ -2,24 +2,43 @@
 id: yMBMF4AbVvZWuiXz9aVxN
 title: Digital Gardening
 desc: ''
-updated: 1669006567010
+updated: 1669798555396
 created: 1632835407320
 ---
 
 "The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another." 
 
-## The Six Patterns of Gardening [[According To|p.attributedTo]]  
+## The Six Patterns of Gardening [[According To|p.attributedTo]] @maggie-appleton  ^uy4kfmq24q12
 
--  Topography over Timelines
+-  Topography over Timelines 
 -  Continuous Growth
 -  Imperfection & Learning in Public
 -  Playful, Personal, and Experimental
 -  [[intercropping]] & Content Diversity
--  Independent Ownership
+-  Independent Ownership  ^s2h2dn8la4g6
 
 ## Build a model
 
 - > Instead of building an argument about the issue this attempts to build a model of the issue that can generate new understandings. [[ar.hapgood.the-garden-and-the-stream-a-technopastoral]]
+
+## [[p.hasPro]]
+
+- Relationship building
+- Collaborative
+- Forcing function for learning depth. 
+- Search engine optimization. 
+- Gives you a long-term asset
+- You don't have to spend lots of time figuring out how you're going to standout in the newsfeed.
+- Create something that matches your style and brand quickly. 
+- Own the content, domain, and traffic.
+
+## [[p.hasIssue]]
+
+- takes time
+- opportunity cost
+- switching cost
+- There might be parts you don't want to be public
+- 
 
 ## [[p.hadHistory]]
 
