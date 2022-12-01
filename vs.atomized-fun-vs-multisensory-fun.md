@@ -1,7 +1,7 @@
 ---
 id: euy92pf78qzerfrkuk622fa
 title: Atomized Fun Vs Multisensory Fun
-desc: 'De-atomization is the secret to happiness.'
+desc: De-atomization is the secret to happiness.
 updated: 1668661043364
 created: 1668660596048
 ---
