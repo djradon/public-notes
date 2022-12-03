@@ -2,7 +2,7 @@
 id: HBfqGJSSJCvCG8gU0UetW
 title: Zettelkasten
 desc: ''
-updated: 1638672211376
+updated: 1669806782698
 created: 1631216404603
 ---
 
@@ -22,7 +22,7 @@ created: 1631216404603
 - the slip-box is a lot like a digital garden
 - maybe digital gardening doesn't specify the rest of the note-taking methodology. 
 
-## @nikla-luhman speaks through others
+## @niklas-luhman speaks through others
 
 ### "needs of a communication system"
 
