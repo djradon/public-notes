@@ -1,8 +1,8 @@
 ---
 id: 6ZSVeGJfHQN7cxeGRZ06c
 title: Product Vs Solution
-desc: ''
-updated: 1669998250779
+desc: 'a solution is the application of a product to solve a specific industry need or business problem'
+updated: 1670263768236
 created: 1633404621219
 ---
 

@@ -2,14 +2,9 @@
 id: HBfqGJSSJCvCG8gU0UetW
 title: Zettelkasten
 desc: ''
-updated: 1670263449832
+updated: 1670263630722
 created: 1631216404603
 ---
-
-
-
-
-
 
 ## [[p.vs]]
 
@@ -20,8 +15,9 @@ created: 1631216404603
 
 ### [[t.km.digital-gardening]]
 
-- the slip-box is a lot like a digital garden
+- the slip-box is a lot like a digital garden, but not necessarily [[ar.swyx.learn-in-public]]
 - maybe digital gardening doesn't specify the rest of the note-taking methodology. 
+- digital garden is more high-level / contentful than, at least, my notes
 
 ## @niklas-luhman speaks through others
 
