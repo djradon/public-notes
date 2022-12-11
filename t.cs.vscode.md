@@ -2,7 +2,7 @@
 id: FyjSNzjfignczFqRLxEZa
 title: VS Code
 desc: ''
-updated: 1644132842921
+updated: 1670711536405
 created: 1635565508765
 ---
 
@@ -15,4 +15,4 @@ created: 1635565508765
 ## tips
 
 - see [[VSCode Tips|t.cs.vscode.tips]]
-- [!] turn off angle bracket auto-closing
+- [c] turn off angle bracket auto-closing
