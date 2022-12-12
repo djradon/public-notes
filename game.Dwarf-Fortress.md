@@ -2,7 +2,7 @@
 id: lPVu6TYZ7ZQOrblLnS6hj
 title: Dwarf Fortress
 desc: ''
-updated: 1670509768553
+updated: 1670865899135
 created: 1633158873243
 ---
 
@@ -20,5 +20,5 @@ Dwarf Fortress begins and ends with stories.
 
 - [x] [[ar.gamedeveloper.q-a-dissecting-the-development-of-i-dwarf-fortress-i-with-creator-tarn-adams]]
 - [x] [[ar.substack.if50.2006-dwarf-fortress]]
-- [-] [[p.played]] [dwarf fortress](https://www.bay12games.com/dwarves/index.html)
+- [x] [[p.played]] [dwarf fortress](https://www.bay12games.com/dwarves/index.html)
 - http://www.bay12forums.com/smf//index.php?topic=169696.msg8431542#msg8431542
