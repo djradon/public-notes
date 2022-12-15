@@ -18,7 +18,7 @@ created: 1634620119007
 - could sometimes be represented as "ending instant/period of valid time"
 - [[idea.defining-done-is-hard]]
 
-## [[TimeML|soln.timeml]]
+## [[TimeML|prdct.timeml]]
 
 - functionInDocument ::= 'CREATION_TIME' | 'EXPIRATION_TIME' | 'MODIFICATION_TIME' | 'PUBLICATION_TIME' | 'RELEASE_TIME'| 'RECEPTION_TIME' | 'NONE' 
 - 

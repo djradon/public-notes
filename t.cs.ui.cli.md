@@ -8,4 +8,4 @@ created: 1652768602853
 
 
 [[p.hasSolution]]
-- [[soln.inquirer]]
+- [[prdct.inquirer]]

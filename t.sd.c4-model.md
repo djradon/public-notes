@@ -11,8 +11,8 @@ created: 1645831289441
 - [[p.hasRelatedResource]]
   - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab
 - [[p.hasRelatedSolution]]
-  - [[soln.structurizr]]
-  - [[soln.C4-PlantUML]]
+  - [[prdct.structurizr]]
+  - [[prdct.C4-PlantUML]]
 - [[p.hasHighlight]]
   -  To document a library, framework or SDK, you might be better off using something like UML
   -  Sometimes diagrams work better showing dependency relationships (e.g. uses, reads from, etc), and sometimes data flow (e.g. customer update events) works better.

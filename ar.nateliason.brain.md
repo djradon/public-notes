@@ -13,6 +13,6 @@ created: 1636431536026
   - [[p.offerAcceptedBy]] @dave-richardson 2021-11-08
   - [[p.hasURL]] 
     - https://click.convertkit-mail.com/27unlv0mr2s9u4n6nwi3/reh8hohq2new0nb2/aHR0cHM6Ly93d3cubm90aW9uLnNvL2I5MDk3ZTY0NzhlNzQxNTdhMjFiMjE0MTZhNjBiYjg4P3Y9Y2VhYTRkNjgzZGU5NDAyYjhiMzJmMGRhNDQ0Nzc3N2I=
-      - [[p.hasFormat]] [[soln.notion]]
+      - [[p.hasFormat]] [[prdct.notion]]
     - https://click.convertkit-mail.com/27unlv0mr2s9u4n6nwi3/n2hohvhn8x8eevf6/aHR0cHM6Ly9yb2FtcmVzZWFyY2guY29tLyMvYXBwL05hdHNCcmFpbi9wYWdlL29DdGY1Qk9YaQ==
-      - [[p.hasFormat]] [[soln.Roam]]
+      - [[p.hasFormat]] [[prdct.Roam]]

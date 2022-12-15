@@ -20,6 +20,6 @@ created: 1656098204374
 
 ## [[p.hasSolution]]
 
-- [[soln.kylin]]
-- [[soln.kyligence-unified-semantic-layer]]
+- [[prdct.kylin]]
+- [[prdct.kyligence-unified-semantic-layer]]
 - 

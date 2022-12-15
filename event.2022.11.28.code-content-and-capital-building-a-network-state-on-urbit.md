@@ -13,7 +13,7 @@ created: 1669655273136
 - creators still under-monetized
   - [[p.begsQuestion]] valuable to who?
   - creators are more like statesmen: provide cognitive, aesthetic and emotional 
-- [[soln.urbit]] is a liberator for the flywheel
+- [[prdct.urbit]] is a liberator for the flywheel
 - code = content
   - what he means is content is software for the human OS.
   - capital is the fuel that makes code/content run

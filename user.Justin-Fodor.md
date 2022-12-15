@@ -7,4 +7,4 @@ created: 1635956639409
 ---
 
 
-- [[p.workedFor]] [[soln.Kandji]]
+- [[p.workedFor]] [[prdct.Kandji]]

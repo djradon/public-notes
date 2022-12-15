@@ -9,6 +9,6 @@ created: 1638041662213
 
 
 - [[p.hasURL]] https://medium.com/sacred-capital/introducing-neighbourhoods-a7c577eae4c6
-- [[p.hasSubject]] [[soln.sacred-capital]] [[soln.neighborhoods]]
+- [[p.hasSubject]] [[prdct.sacred-capital]] [[prdct.neighborhoods]]
 - [[p.hasHighlight]]
-  - ![[Sacred Capital|soln.sacred-capital#^1uVLS5bphpiF]]
+  - ![[prdct.sacred-capital#^1uVLS5bphpiF]]

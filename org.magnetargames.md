@@ -8,5 +8,5 @@ created: 1650817388467
 
 
 - [[p.hasSolution]] 
-  - [[soln.chronos-rti]]
-  - [[soln.voyager]]
+  - [[prdct.chronos-rti]]
+  - [[prdct.voyager]]

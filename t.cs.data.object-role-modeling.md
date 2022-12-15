@@ -8,7 +8,7 @@ created: 1643696587756
 
 
 - [[p.hasSolution]] 
-  - [[soln.boston]]
+  - [[prdct.boston]]
 
 - [[p.hasRelatedResource]]
   - https://factengine.ai/index.php/articles/object-role-modeling

@@ -14,5 +14,5 @@ created: 1645937459747
     - [[p.hasSummaryPoints]]
       - atoms are nodes or links
       - links are lists of atoms
-- [ ] what about compound graphs, e.g. [[soln.cytoscape]] says 
+- [ ] what about compound graphs, e.g. [[prdct.cytoscape]] says 
   - [[t.cs.graph.compound-graphs]] [[p.subClassOf]] [[t.cs.graph.hypergraph]]

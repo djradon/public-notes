@@ -15,4 +15,4 @@ created: 1634515327489
   - [[t.km.knowledge-graph]]
   - [[t.cs.hci.experimental-interface-design]]
 - [[p.hasURL]] https://lu.ma/community/com-mmvGpDTZoRDsxou
-- [[p.hostedOn]] [[soln.luma]]
+- [[p.hostedOn]] [[prdct.luma]]

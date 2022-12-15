@@ -10,7 +10,7 @@ created: 1652850859222
 - [[p.hasRepository]] https://github.com/halftheopposite/tosios
 - [[p.hasArchitecture]] 
   - 
-- [[p.builtOn]] [[soln.colyseus]]
+- [[p.builtOn]] [[prdct.colyseus]]
 - [[p.exemplified]] [[t.sd.monorepo]]
   - "(with the help of Yarn workspaces). It contains the following packages:
 

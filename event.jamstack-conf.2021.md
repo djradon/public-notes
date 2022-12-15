@@ -46,5 +46,5 @@ created: 1633584518967
 
 - neutrality.wtf
 
-## [[soln.Magic]] @seemcat
+## [[prdct.Magic]] @seemcat
 

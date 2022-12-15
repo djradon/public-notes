@@ -1,7 +1,9 @@
 ---
 id: prbis54rvnvjcg4y74map4h
 title: Event Sourcing
-desc: a different way of persisting data where data changes are saved in domain events
+desc: >-
+  a different way of persisting data where data changes are saved in domain
+  events
 updated: 1669494817177
 created: 1658585055608
 ---
@@ -24,7 +26,7 @@ created: 1658585055608
 
 ## [[p.hasRelatedSolution]]
 
-- [[soln.castore]]
+- [[prdct.castore]]
 
 ## [[p.hasIssue]]
 

@@ -8,4 +8,4 @@ created: 1638032128895
 
 
 
-- [[p.hasSolution]] [[soln.aws.lambda]]
+- [[p.hasSolution]] [[prdct.aws.lambda]]

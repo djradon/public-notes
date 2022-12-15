@@ -8,6 +8,6 @@ created: 1643810624493
 
 
 - [[p.hasSite]] https://www.viev.com
-- [[p.provided]] [[soln.boston]]
-- [[p.isRelated]] [[soln.factengine]]
+- [[p.provided]] [[prdct.boston]]
+- [[p.isRelated]] [[prdct.factengine]]
 - [[p.associatedWith]] @victor-morgante

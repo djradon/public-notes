@@ -11,10 +11,10 @@ created: 1666888072987
   - can force relaunch
   - supports user requests for extensions, users get notified
   - recently released "connectors" to 
-    - [[soln.gcp.pub-sub]]
-    - [[soln.splunk]]
-    - [[soln.cloudstrike]]
+    - [[prdct.gcp.pub-sub]]
+    - [[prdct.splunk]]
+    - [[prdct.cloudstrike]]
   - version reporting
-- security reporting to [[soln.gcp.security-center]]
+- security reporting to [[prdct.gcp.security-center]]
   - adding "extension events" and "crash events"
-- [[p.demonstrated]] [[soln.chromeOS-flex]]
+- [[p.demonstrated]] [[prdct.chromeOS-flex]]

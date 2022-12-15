@@ -11,7 +11,7 @@ created: 1642483433436
 - [[p.hasURL]] https://docs.microsoft.com/en-us/learn/paths/web-development-101/
 
 - [[t.cs.web.accessibility]]
-  - [[soln.aria]]
+  - [[prdct.aria]]
   - "The controls for your page should be listed in the HTML source in the order in which you expect the page to be browsed, while relying on CSS to lay out the page visually to users."
 - [[t.cs.language.JavaScript]]
   - `let` is for block variables 
