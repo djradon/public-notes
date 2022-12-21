@@ -11,5 +11,5 @@ created: 1645544435914
 - [[p.hasAuthor]] @rebecca-wirfs-brock
 - [[p.hasSummaryPoints]]
 - [[p.hasTopic]]
-  - [[t.sd.design.domain-language]]
-  - [[t.sd.design.ubiquitous-language]]
+  - [[t.cs.sd.design.domain-language]]
+  - [[t.cs.sd.design.ubiquitous-language]]

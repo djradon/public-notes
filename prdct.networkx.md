@@ -8,4 +8,4 @@ created: 1651252054708
 
 
 - [[p.hasSite]] https://networkx.org/
-- [[p.writtenIn]] [[t.cs.language.Python]]
+- [[p.writtenIn]] [[t.cs.languages.Python]]

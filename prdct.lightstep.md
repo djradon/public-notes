@@ -9,5 +9,5 @@ created: 1640059350743
 
 
 - [[p.similarTo]] [[prdct.new-relic]]
-- [[p.supports]] [[t.sd.observability]]
+- [[p.supports]] [[t.cs.sd.observability]]
 - [[p.compatibleWith]] [[prdct.opentelemetry]]

@@ -7,5 +7,5 @@ created: 1637842422618
 ---
 
 
-- [[p.hasScriptingLanguage]] [[t.cs.language.JavaScript]]
+- [[p.hasScriptingLanguage]] [[t.cs.languages.JavaScript]]
   - [ ] [[prdct.jint]] https://pleasenophp.github.io/posts/using-real-javascript-with-unity.html

@@ -13,7 +13,7 @@ created: 1637953955466
 - free hobby plan
 - [[p.hasFeature]] 
   - [[t.cs.serverless]]
-    - [[p.hasClientSupport]] [[t.cs.language.JavaScript]] [[t.cs.language.go]] [[t.cs.language.Python]] [[t.cs.language.Ruby]]
+    - [[p.hasClientSupport]] [[t.cs.languages.JavaScript]] [[t.cs.languages.go]] [[t.cs.languages.Python]] [[t.cs.languages.Ruby]]
   - [[t.cs.web.ssr]]
   - Fetch API
     - SWR (stale-while-revalidate)

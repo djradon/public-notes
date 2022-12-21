@@ -9,5 +9,5 @@ created: 1637848002193
 
 
 - [[p.hasRepository]] https://github.com/uia4w/uia-simjs
-- [[p.writtenIn]] [[t.cs.language.JavaScript]]
+- [[p.writtenIn]] [[t.cs.languages.JavaScript]]
 - [[p.isRelated]] [[prdct.SimPy]]

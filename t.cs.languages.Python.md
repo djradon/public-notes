@@ -7,4 +7,4 @@ created: 1636752312533
 ---
 
 
-- [[p.writtenIn]] [[t.cs.language.Python]]
+- [[p.writtenIn]] [[t.cs.languages.Python]]

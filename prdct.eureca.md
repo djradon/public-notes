@@ -9,5 +9,5 @@ created: 1661194028620
 ---
 
 
-- [[p.writtenIn]] [[t.cs.language.JavaScript]]
+- [[p.writtenIn]] [[t.cs.languages.JavaScript]]
 - 

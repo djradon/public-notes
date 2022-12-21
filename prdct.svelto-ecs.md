@@ -8,7 +8,7 @@ created: 1638152420551
 
 
 
-- [[p.writtenIn]] [[t.cs.language.c-sharp]]
+- [[p.writtenIn]] [[t.cs.languages.c-sharp]]
 - [[p.hasRepository]] https://github.com/sebas77/Svelto.ECS
 - [[p.hasCreator]] @sebas77
 - [[p.hasRelatedResource]] 

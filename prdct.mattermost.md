@@ -12,11 +12,11 @@ created: 1649603693183
     - [[p.hadAtLeastOneOf]] 
       - server component 
         - runs as a server subprocess
-        - [[p.writtenIn]] [[t.cs.language.go]]
+        - [[p.writtenIn]] [[t.cs.languages.go]]
       - "web app" component
         - included in page, runs alongside the Mattermost web app code
           - desktop app is shim of web app
-        - [[p.writtenIn]] [[t.cs.language.JavaScript]]
+        - [[p.writtenIn]] [[t.cs.languages.JavaScript]]
         - [[p.builtOn]] 
           - [[prdct.React]]
           - [[prdct.redux-js]]

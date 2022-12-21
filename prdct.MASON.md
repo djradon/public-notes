@@ -8,7 +8,7 @@ created: 1637836027173
 
 
 
-- [[p.writtenIn]] [[t.cs.language.Java]]
+- [[p.writtenIn]] [[t.cs.languages.Java]]
 - [[p.hasApplication]] [[t.cs.simulation.abms]]
 - [[p.hasFeature]]
   - model library 

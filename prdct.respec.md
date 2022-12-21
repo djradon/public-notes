@@ -9,7 +9,7 @@ created: 1633704037700
 
 
 - [[p.instanceOf]] [[c.Library]]
-- [[p.writtenIn]] [[t.cs.language.JavaScript]]
+- [[p.writtenIn]] [[t.cs.languages.JavaScript]]
 - [[p.hasApplication]] [[gd.specification]]
 - [[p.hasRepository]] https://github.com/w3c/respec
 - [[p.hasExample]] https://github.com/w3c/respec/blob/develop/examples/starter.html

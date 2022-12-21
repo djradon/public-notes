@@ -9,4 +9,4 @@ created: 1653258290272
 
 - [[p.hasRepository]] https://github.com/mateodelnorte/meta
 - [[p.hasRelatedResource]] https://kinsta.com/blog/monorepo-vs-multi-repo/
-- [[p.solvesProblem]] [[t.sd.monorepo]] [[t.sd.polyrepo]]
+- [[p.solvesProblem]] [[t.cs.sd.monorepo]] [[t.cs.sd.polyrepo]]

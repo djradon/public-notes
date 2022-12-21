@@ -11,7 +11,7 @@ created: 1636380102275
 - [[p.hasRepository]] https://github.com/threatgrid/asami
 - [[p.hasComponent]] [[prdct.loom]]
 - [[p.instanceOf]] [[t.cs.data.DBMS.graph]]
-- [[p.writtenIn]] [[t.cs.language.Clojure]]
+- [[p.writtenIn]] [[t.cs.languages.Clojure]]
 - [[p.hasFeature]]
   - Clojure and ClojureScript: Asami runs identically in both systems.
   - Schema-less: Asami does not require a schema to insert data.

@@ -8,5 +8,5 @@ created: 1651253033404
 
 
 - [[p.hasSite]] http://phaser.io/
-- [[p.hasScriptingLanguage]] [[t.cs.language.JavaScript]]
+- [[p.hasScriptingLanguage]] [[t.cs.languages.JavaScript]]
 - [[p.hasLearningResource]] http://phaser.io/shop/books/make-games-with-phaser

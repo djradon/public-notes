@@ -9,7 +9,7 @@ created: 1637852885141
 
 
 - [[p.hasApplication]] [[t.cs.mas]]
-- [[p.writtenIn]] [[t.cs.language.Java]]
+- [[p.writtenIn]] [[t.cs.languages.Java]]
 - [[p.implements]] [[prdct.FIPA]]
 
 ## [[p.hasExample]]

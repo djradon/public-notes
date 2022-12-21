@@ -9,5 +9,5 @@ created: 1637813463159
 
 
 - [[p.hasRepository]] https://github.com/projectmesa/mesa
-- [[p.writtenIn]] [[t.cs.language.Python]]
+- [[p.writtenIn]] [[t.cs.languages.Python]]
 - [-] review Mesa 

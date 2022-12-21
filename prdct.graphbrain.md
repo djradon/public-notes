@@ -10,4 +10,4 @@ created: 1644488300455
 
 
 - [[p.hasSite]] https://graphbrain.net/
-- [[p.writtenIn]] [[t.cs.language.Python]]
+- [[p.writtenIn]] [[t.cs.languages.Python]]

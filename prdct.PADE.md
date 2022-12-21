@@ -9,5 +9,5 @@ created: 1637793632731
 
 
 - [[p.hasSite]] https://pade.readthedocs.io/en/latest/
-- [[p.writtenIn]] [[t.cs.language.Python]]
+- [[p.writtenIn]] [[t.cs.languages.Python]]
 - [[p.builtOn]] [[prdct.Twisted]]

@@ -13,7 +13,7 @@ created: 1643725570180
 - [[p.ownedBy]] [[org.vaticle]]
 - [[p.hasRepository]] https://github.com/vaticle/typedb
 - [[p.hasRelatedSolution]] [[prdct.typeql]]
-- [[p.writtenIn]] [[t.cs.language.Java]]
+- [[p.writtenIn]] [[t.cs.languages.Java]]
 - [[p.builtOn]] 
   - [[prdct.rocksdb]]
   - [[prdct.grpc]]

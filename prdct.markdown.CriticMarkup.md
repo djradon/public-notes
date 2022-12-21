@@ -7,7 +7,7 @@ created: 1634855142838
 ---
 
 - [[p.hasRepository]] https://github.com/CriticMarkup/CriticMarkup-toolkit
-- [[usesComputerLanguage]] [[t.cs.language.python]]
+- [[usesComputerLanguage]] [[t.cs.languages.Python]]
 
 ## The Three Laws
 

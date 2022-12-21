@@ -11,7 +11,7 @@ created: 1652850859222
 - [[p.hasArchitecture]] 
   - 
 - [[p.builtOn]] [[prdct.colyseus]]
-- [[p.exemplified]] [[t.sd.monorepo]]
+- [[p.exemplified]] [[t.cs.sd.monorepo]]
   - "(with the help of Yarn workspaces). It contains the following packages:
 
     client - The frontend application using PIXI.js and Colyseus.js.

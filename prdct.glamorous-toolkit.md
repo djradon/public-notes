@@ -10,10 +10,10 @@ created: 1650122141316
 
 - [[p.hasRepository]] https://github.com/feenkcom/gtoolkit
 - [[p.hasUseCase]]
-  - [[t.sd.specification]]
-  - [[t.sd.assessment]]
+  - [[t.cs.sd.specification]]
+  - [[t.cs.sd.assessment]]
   - [[t.cs.data.visualization]]
-- [[p.writtenIn]] [[t.cs.language.pharo]]
+- [[p.writtenIn]] [[t.cs.languages.pharo]]
 
 ## [[p.hasDefinition]]
 
