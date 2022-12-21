@@ -2,7 +2,7 @@
 id: gclv4jsvljqwu051sbq883x
 title: Linking Verb
 desc: ''
-updated: 1671632680761
+updated: 1671633793909
 created: 1671632122400
 ---
 
@@ -13,6 +13,7 @@ created: 1671632122400
   - [[p.looked]], but not [[p.lookedAt]] or [[p.lookedFor]]
   - [[p.felt]] 
   - [[p.smelled]]
+  - [[p.tasted]]
 
 ## [[p.description]]
 

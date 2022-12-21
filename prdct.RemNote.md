@@ -2,7 +2,7 @@
 id: 0deUbUTA87xF5Npu5zw1s
 title: RemNote
 desc: cloud PKM with learning/memorization focus
-updated: 1652768410752
+updated: 1671633275860
 created: 1632454051411
 ---
 
@@ -22,7 +22,7 @@ a note-taking tool that helps your organize and remember what you learn
 ## concepts
 
 ### rem
-- [[p.hasDefinition]] a unit of knowledge in remnote, stated with a bullet point
+- [[p.hadDefinition]] a unit of knowledge in remnote, stated with a bullet point
 - [[p.hasSubClass]] Concept :: A Rem that represents a concept or something in the real world
 - [[p.hasSubClass]] Descriptor :: a piece of information that describes a concept
 - [[p.hasSubClass]] Question :: 
@@ -30,7 +30,7 @@ a note-taking tool that helps your organize and remember what you learn
 
 ### [portal](https://www.remnote.com/p/help/document/rML9ANQyE7DW3XqPn)
 
-- [[p.hasDefinition]] view a rem in multiple context
+- [[p.hadDefinition]] view a rem in multiple context
 - [[p.vs]] [[prdct.dendron#references]]
   - portal is a weird name
   - 
