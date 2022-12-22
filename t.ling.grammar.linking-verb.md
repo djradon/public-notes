@@ -2,7 +2,7 @@
 id: gclv4jsvljqwu051sbq883x
 title: Linking Verb
 desc: ''
-updated: 1671633793909
+updated: 1671706993366
 created: 1671632122400
 ---
 
@@ -15,6 +15,6 @@ created: 1671632122400
   - [[p.smelled]]
   - [[p.tasted]]
 
-## [[p.description]]
+## [[p.hadDescription]]
 
 - https://www.grammar-monster.com/glossary/linking_verbs.htm

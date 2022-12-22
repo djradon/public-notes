@@ -2,13 +2,13 @@
 id: 6gm9ee32jdutfkn7ztsmxnj
 title: Opensearch
 desc: 'ingest, search, visualize, and analyze data'
-updated: 1670258413507
+updated: 1671706993356
 created: 1670253023252
 ---
 
 - [[p.hasURL]] https://opensearch.org/
 
-## [[p.description]]
+## [[p.hadDescription]]
 
 - [[p.hasComponent]]
   - data store and search engine (OpenSearch)

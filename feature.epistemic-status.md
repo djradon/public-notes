@@ -1,12 +1,17 @@
 ---
 id: h84q0yj7rh5yslw90n4mc3k
 title: Epistemic Status
-desc: ''
-updated: 1671701971324
+desc: 'exploratory, my best guess, authoritative'
+updated: 1671705916334
 created: 1669802119187
 ---
 
 - [[p.similarTo]] [[feature.epistemic-effort]]
+- [[p.attributedTo]] https://www.lesswrong.com/posts/Hrm59GdN2yDPWbtrd/feature-idea-epistemic-status
+- [[p.hasOptions]]
+  - exploratory
+  - my best guess
+  - authoritative
 
 - [[p.hadBenefit]]
   - can give you the confidence to publish half-baked work

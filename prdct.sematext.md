@@ -2,11 +2,11 @@
 id: aciirtj9hi0y9bla1yz3d52
 title: Sematext
 desc: managed ELK
-updated: 1670260404530
+updated: 1671706993360
 created: 1652563268801
 ---
 
-## [[p.description]]
+## [[p.hadDescription]]
 
 -  production & performance issues with logs, metrics, synthetic and real user monitoring
 
