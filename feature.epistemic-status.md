@@ -2,9 +2,11 @@
 id: h84q0yj7rh5yslw90n4mc3k
 title: Epistemic Status
 desc: ''
-updated: 1671630815672
+updated: 1671701971324
 created: 1669802119187
 ---
+
+- [[p.similarTo]] [[feature.epistemic-effort]]
 
 - [[p.hadBenefit]]
   - can give you the confidence to publish half-baked work

@@ -22,7 +22,7 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 ## [[p.hasIssue]]
 
 - breaks the back button
-- lost the [[prdct.programming-portals]]
+- lost the [[feature.programming-portals]]
   - [[p.attributedTo]] [[ar.maggieappleton.programming-portals]]
   
 ## [[p.hasExample]]
