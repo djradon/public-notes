@@ -1,31 +1,26 @@
 ---
 id: qAssYvqbBkF7D2JGChMHV
 title: Markdown
-desc: ''
-updated: 1650749891435
+desc: 'The "definitive" light-weight, human-readable markup language'
+updated: 1672094725183
 created: 1633579231418
 ---
 
+- [[p.hasCreator]] [[user.john-gruber]]
 
+## [[p.hasSense]] a markup language
 
+- [[p.instanceOf]] [[t.cs.language]] 
 
-- [[dcterms.creator]] [[user.john-gruber]]
+## [[p.hasSense]] the class of markup languages based on Markdown
 
-The "definitive" light-weight, human-readable markup language
-
-## [[hasSense]] a markup language
-
-- [[instanceOf]] [[t.cs.language]] 
-
-## [[hasSense]] the class of markup languages based on Markdown
-
-- [[subClassOf]] [[t.cs.language]]
+- [[p.subClassOf]] [[t.cs.language]]
 
 ## to-do
 
-- [ ] summarize footnoting. using ^ seems scary give dendron references.
+- [c] summarize footnoting. using ^ seems scary give dendron references.
 
-## [[hasRelatedResource]]
+## [[p.hasRelatedResource]]
 
 - https://cirosantilli.com/markdown-style-guide/#top-level-header
   - a bunch of suggested best practices
@@ -33,7 +28,7 @@ The "definitive" light-weight, human-readable markup language
   - good examples of definition lists
 - https://stackoverflow.com/questions/4823468/comments-in-markdown
   - no great solution for comments. 
-  - tempting to just use `//` 
+  - tempting to just use `//` and/or `/* ... */`
 - https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/
   - experience for editors is not ideal
     - [[p.supportedBy]] "Do you really want your editors to bump against merge conflicts or how to rebase branches?"

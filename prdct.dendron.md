@@ -2,20 +2,27 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1669801145166
+updated: 1672046179485
 created: 1631142984146
 ---
 
 
-- [[p.builtOn]] [[prdct.fuse-js]]
+- [[p.builtOn]] 
+  - [[prdct.fuse-js]] 
+  - [[prdct.prisma]]  
+  - [[prdct.remark]]
+    - https://github.com/dendronhq/dendron/issues/507#issuecomment-788416820
+      - [[p.mentioned]] [[prdct.micromark]]
+    - https://github.com/dendronhq/dendron/search?q=remark|prdct.micromark]]
+      - 72 code results
 
-## [[hasConcepts]]
+## [[p.hasConcept]]
 
 ### References 
 
 embed content from other notes
 
-- [[p.aka]] transclusions
+- #aka transclusions
 - [[p.hasURL]] https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html
 
 ### Block Anchors
@@ -27,7 +34,7 @@ embed content from other notes
 - just uses vscode's snippets functionality
 - comes with a basic set: todo, date, and time 
 - annoyance: doesn't de-dupe so three-vault workspaces get three sets of snippet suggestions
-  - [ ] remove duplicate
+  - [x] remove duplicate
 
 ### aliasMode
 

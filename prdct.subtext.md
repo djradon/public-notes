@@ -2,14 +2,20 @@
 id: cp7ybekm5ikxrikg4glged6
 title: Subtext
 desc: ''
-updated: 1653256680546
+updated: 1672094496163
 created: 1653256544493
 ---
 
+- [[p.hadSummary]] 
+  - [[p.hasHighlight]]
+    - Blocks are [thought legos](https://subconscious.substack.com/p/thought-legos).
+- [[p.hasRepository]] https://github.com/subconsciousnetwork/subtext 
 
-[[p.hasRepository]] https://github.com/subconsciousnetwork/subtext
-- [[p.hasComparison]]
-  - [[prdct.markdown]]
+## [[p.similarTo]]
+
+- [[prdct.markdown.dendron-flavored-markdown]]
+- [[prdct.markdown]]
+  - [[p.hasComparison]]
     - Why not Markdown?
 
       I took a deep breath before thinking about the jump from Markdown. If you’re a programmer, Markdown is a de-facto standard for formatted text. For many, it is the first obvious choice for this kind of thing. So why Subtext?
@@ -23,3 +29,4 @@ created: 1653256544493
       Subtext is an attempt to resolve the problem by radically simplifying it. Paradoxically, by limiting the format to a flat list of blocks, we radically expand what software can usefully do with it. Blocks are easy to parse, easy to work with, and you can do all sorts of interesting generative algorithmic things with them.
 
       The syntax is also simple, and hard to mess up, and I’m happy about that, too.
+      - 
