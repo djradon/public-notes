@@ -1,8 +1,8 @@
 ---
 id: uacnq39zzzyrqnz0952e0az
-title: HASH
-desc: 'open-core platform for creating and exploring '
-updated: 1651207395984
+title: HASH.ai
+desc: 'open-core platform for creating and exploring shared, structured knowledge'
+updated: 1672312048620
 created: 1651162206896
 ---
 
