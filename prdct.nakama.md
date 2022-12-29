@@ -2,7 +2,7 @@
 id: hs3pfpuq926ytwh3xqvsdgc
 title: Nakama
 desc: 'the first open-source distributed server for social and realtime games and apps'
-updated: 1672310826141
+updated: 1672336692425
 created: 1656792485964
 ---
 
@@ -18,7 +18,7 @@ created: 1656792485964
   - Go 86.5%
   - Lua 5.1%
   - TypeScript 4.4%
-- [[p.publishedBy]] [[org.heroic-labs]]
+- [[p.wasBuiltBy]] [[org.heroic-labs]]
   
 ## [[p.provokedThoughts]]
 

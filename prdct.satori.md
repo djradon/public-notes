@@ -4,9 +4,9 @@ title: Satori
 desc: >-
   Live Operations: experiments, live events, feature flags and analysis engine
   for game studios and publishers
-updated: 1657977944239
+updated: 1672336635820
 created: 1656792589194
 ---
 
-- [[p.publishedBy]] [[org.heroic-labs]]
+- [[p.wasBuiltBy]] [[org.heroic-labs]]
 

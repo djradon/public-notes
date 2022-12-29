@@ -8,6 +8,7 @@ created: 1635741884856
 
 
 
+
 maybe you just need publishers to say "this is a published subject indicator"
 
 - [[p.hasURL]] https://www.oasis-open.org/committees/tm-pubsubj/docs/recommendations/general.htm
@@ -51,3 +52,6 @@ maybe you just need publishers to say "this is a published subject indicator"
 > Publisher is to be understood here in its Dublin Core definition: "An entity responsible for making the resource available."
 > 
 >Statement of purpose and Publisher identification are the warrants of trust, fundamental to efficient PSI mechanism.
+
+
+[[t.cs.sd.architecture.event-driven.event-broker]]

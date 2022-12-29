@@ -4,16 +4,18 @@ title: Athens Research
 desc: >-
   a open-source, private and extensible knowledge graph for research and
   notetaking
-updated: 1636341758808
+updated: 1672318206624
 created: 1636339496444
 ---
 
+#dead
 
 
 - [[p.hasRepository]] https://github.com/athensresearch/athens
 - [[p.hasDemonstration]] https://athensresearch.github.io/athens/#/
 - [[p.hasBlog]] https://athensresearch.ghost.io/
 - [[p.hasApplication]] [[t.km.pkm]] [[t.km.ckm]]
+- [[p.similarTo]] [[prdct.notion]]
 
 - [[p.hasConcept]]
   - `[[type]]` is the most global level attribute. It applies to both knowledge pages (e.g. notes, writings, and documentation) as well as action pages (e.g. objectives, projects)
