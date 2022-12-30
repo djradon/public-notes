@@ -1,8 +1,8 @@
 ---
 id: nkq30qqbvmvzshw0ecuxv4v
 title: Hubs
-desc: ''
-updated: 1649976868172
+desc: 'open source virtual world platform'
+updated: 1672343000537
 created: 1649974346874
 ---
 
