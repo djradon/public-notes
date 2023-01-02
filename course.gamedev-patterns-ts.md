@@ -1,6 +1,6 @@
 ---
 id: nwtfch085p3p1xbkziw7qvk
-title: Gamedev Patters TS
+title: Gamedev Patterns TS
 desc: ''
 updated: 1672671019532
 created: 1672667775263
