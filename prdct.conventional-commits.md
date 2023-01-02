@@ -2,11 +2,16 @@
 id: 3gVpHwZTquGdBieRLcxNR
 title: Conventional Commits
 desc: ''
-updated: 1638131998623
+updated: 1672637616382
 created: 1633088347659
 ---
 
+## #summary
 
+- Commits MUST be prefixed with a type, which consists of a noun
+  - e.g feat:, fix:, build:, chore:, ci:, docs:, style:, refactor:, perf:, test:
+- scope after type is optional
+- ! for breaking change
 
 - [[p.hasURL]] https://www.conventionalcommits.org 
 - [[p.isRelated]] https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
