@@ -2,7 +2,7 @@
 id: qvf6or8j3nxcjz8sci4qwcu
 title: BitECS
 desc: ''
-updated: 1672508984418
+updated: 1672686167156
 created: 1672342730647
 ---
 
@@ -11,6 +11,8 @@ created: 1672342730647
 #repository https://github.com/NateTheGreatt/bitECS
 
 - [[p.usedBy]] [[prdct.ethereal-engine]] [[prdct.hubs]] [[prdct.matrix]] [[prdct.third-room]]
+- [[p.hasClientSupport]]
+  - [[prdct.element]]
 
 ## [[p.hasFeature]]
 
@@ -25,3 +27,7 @@ created: 1672342730647
 ❤ Made with love 	
 🔺 glMatrix support
 
+## [[p.hasComparison]]
+
+- https://www.troopmessenger.com/blogs/mattermost-vs-matrix
+- 

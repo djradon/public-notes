@@ -4,11 +4,12 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1655930093821
+updated: 1672684738448
 created: 1642897812921
 ---
 
-
+#repository https://github.com/colyseus/colyseus
+#contributors @endel-dreyer
 
 - [[p.ownedBy]] [[org.lucid-sight]]
 - [[p.hasRelatedSolution]] https://github.com/endel/ecs #ecs
