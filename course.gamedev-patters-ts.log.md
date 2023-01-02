@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1672667997822
+updated: 1672671982544
 created: 1672667912959
 ---
 
@@ -43,4 +43,5 @@ function identity<Type>(arg: Type): Type {
 
 ## #t.2023.01.02
 
-- [[t.cs.game.loop.recurisve]]
+- [-] would seem to be [[t.cs.game.loop.recursive]], but v8 took out [[t.cs.recursion.tail-call-optimization]]
+- Game has its own entities and all components; both can be awoken.
