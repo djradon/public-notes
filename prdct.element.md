@@ -7,6 +7,6 @@ created: 1672686167870
 ---
 
 #url https://matrix.org/docs/projects/client/element
-#repository https://github.com/vector-im/element-web/
+#repo https://github.com/vector-im/element-web/
 
 - [[p.writtenIn]] [[t.cs.languages.TypeScript]]

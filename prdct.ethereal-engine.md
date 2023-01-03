@@ -7,4 +7,4 @@ created: 1672314344300
 ---
 
 #url https://www.etherealengine.org/
-#repository https://github.com/XRFoundation/XREngine-Control-Center#readme
+#repo https://github.com/XRFoundation/XREngine-Control-Center#readme

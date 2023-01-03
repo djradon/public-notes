@@ -8,7 +8,7 @@ created: 1672342730647
 
 [[t.cs.ecs]]
 
-#repository https://github.com/NateTheGreatt/bitECS
+#repo https://github.com/NateTheGreatt/bitECS
 
 - [[p.usedBy]] [[prdct.ethereal-engine]] [[prdct.hubs]] [[prdct.matrix]] [[prdct.third-room]]
 - [[p.hasClientSupport]]

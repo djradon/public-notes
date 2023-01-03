@@ -7,7 +7,7 @@ created: 1672156640690
 ---
 
 #url https://www.npmjs.com/package/simulation
-#repository https://github.com/scottfr/simulation
+#repo https://github.com/scottfr/simulation
 
 - [[p.compatibleWith]] [[prdct.insight-maker]]
 

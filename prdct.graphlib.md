@@ -6,4 +6,4 @@ updated: 1670705061459
 created: 1670705021702
 ---
 
-- #repository https://github.com/dagrejs/graphlib
+- #repo https://github.com/dagrejs/graphlib

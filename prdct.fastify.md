@@ -1,12 +1,14 @@
 ---
 id: ldecp48tsbebdt5joi0mmkd
 title: Fastify
-desc: 'web framework focused on developer experience and plugin architecture, inspired by Hapi and Express'
+desc: >-
+  web framework focused on developer experience and plugin architecture,
+  inspired by Hapi and Express
 updated: 1672414469679
 created: 1672412440061
 ---
 
-#repository https://github.com/fastify/fastify
+#repo https://github.com/fastify/fastify
 
 - [[p.supportedBy]] [[prdct.nestjs]]
 

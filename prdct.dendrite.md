@@ -1,9 +1,14 @@
 ---
 id: ushcumm5vpxaw513thufti3
 title: Dendrite
-desc: ''
-updated: 1672343390566
+desc: 2nd-gen homeserver for matrix
+updated: 1672687102724
 created: 1672343374446
 ---
 
-#repository https://github.com/matrix-org/dendrite
+#repo https://github.com/matrix-org/dendrite
+
+## [[p.hadDependancy]]
+
+- [[prdct.Postgres]] or [[prdct.cockroachdb]]
+  - https://github.com/matrix-org/dendrite/discussions/1996

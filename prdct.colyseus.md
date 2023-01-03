@@ -8,7 +8,7 @@ updated: 1672684738448
 created: 1642897812921
 ---
 
-#repository https://github.com/colyseus/colyseus
+#repo https://github.com/colyseus/colyseus
 #contributors @endel-dreyer
 
 - [[p.ownedBy]] [[org.lucid-sight]]

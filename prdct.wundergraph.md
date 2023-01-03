@@ -2,8 +2,10 @@
 id: svevr26nuqpeu3ojpzd3dan
 title: Wundergraph
 desc: ''
-updated: 1672466188197
+updated: 1672720681600
 created: 1672464943068
 ---
 
-#url https://github.com/wundergraph/wundergraph
+#url 
+#docs https://docs.wundergraph.com/
+#repo https://github.com/wundergraph/wundergraph

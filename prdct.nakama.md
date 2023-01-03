@@ -1,13 +1,15 @@
 ---
 id: hs3pfpuq926ytwh3xqvsdgc
 title: Nakama
-desc: 'the first open-source distributed server for social and realtime games and apps'
+desc: >-
+  the first open-source distributed server for social and realtime games and
+  apps
 updated: 1672336692425
 created: 1656792485964
 ---
 
 [[c.Software.Game-Platform]]
-#repository https://github.com/heroiclabs/nakama
+#repo https://github.com/heroiclabs/nakama
 
 - #description an server-side engine and a platform
 
