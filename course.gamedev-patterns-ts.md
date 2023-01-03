@@ -2,7 +2,7 @@
 id: nwtfch085p3p1xbkziw7qvk
 title: Gamedev Patterns TS
 desc: ''
-updated: 1672671019532
+updated: 1672721422177
 created: 1672667775263
 ---
 
@@ -11,3 +11,8 @@ created: 1672667775263
 ## [[p.used]] 
 
 - [[prdct.jest]]
+
+## [[p.hasRoadmapFeature]]
+
+- [ ] add [[t.cs.logging]] with maybe [[prdct.pino]] and [[prdct.sematext]]
+- [ ] add cli
