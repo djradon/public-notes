@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1672980961249
+updated: 1673017741397
 created: 1672667912959
 ---
 
@@ -49,3 +49,8 @@ function identity<Type>(arg: Type): Type {
 ## #t.2023.01.05
 
 - Having a tool that can change the behavior of the game without diving too deep into the code can be a huge time saver.
+
+## #t.2023.01.06
+
+- "Note, I don’t have access to Grid instance since it’s created and encapsulated by the Game. But I can rely on Grid.prototype to access Grid methods without an actual instance."
+- "The Component interface requires specifying which entity the component can be attached to. In this case, it’s the Node entity."

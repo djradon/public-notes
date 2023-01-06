@@ -2,12 +2,9 @@
 id: FyjSNzjfignczFqRLxEZa
 title: VS Code
 desc: ''
-updated: 1671367573580
+updated: 1673014797202
 created: 1635565508765
 ---
-
-
-
 
 - [[p.instanceOf]] [[c.Application]]
 - [[p.correspondsTo]] [[prdct.vscode]]
