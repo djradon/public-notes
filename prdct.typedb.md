@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1658325631761
+updated: 1673012702153
 created: 1643725570180
 ---
 
@@ -41,6 +41,9 @@ created: 1643725570180
 
 - [Run TypeDB Studio in a web browser](https://github.com/vaticle/typedb-studio/issues/118)
   - we have recently rewritten Workbase as Studio, and it is no longer an Electron app
+- how do you establish order?
+  - use a property
+    - https://forum.vaticle.com/t/how-to-best-represent-the-order-of-nodes-on-an-edge/279
 
 ## Modelling
 
