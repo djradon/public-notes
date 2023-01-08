@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1673017741397
+updated: 1673192005143
 created: 1672667912959
 ---
 
@@ -54,3 +54,30 @@ function identity<Type>(arg: Type): Type {
 
 - "Note, I don’t have access to Grid instance since it’s created and encapsulated by the Game. But I can rely on Grid.prototype to access Grid methods without an actual instance."
 - "The Component interface requires specifying which entity the component can be attached to. In this case, it’s the Node entity."
+- I questions the utility of "We don’t have access to the instance of a component, but we can spy on its prototype."
+- "Vector2D, as ECS or lifecycle methods, is a utility. It does not depend on the game"
+- [[p.begsQuestion]] should the filename match the Class name?
+  - [[p.hasAnswers]]
+    - "Use kebab-case for all package, folder and file names." b/c packages can't have upper case
+- "keep a constructor lean"
+- ` can be used for string with variable substitution
+- "Though neither Canvas nor CanvasLayer are singletons, static CanvasLayer ensures Canvas is instantiated only ones"
+
+## #t.2023.01.07
+
+- [-] how does jest.mock('@/utils') work?
+- integer check: v % 1 !== 0
+- toThrowError is alias for toThrow and takes an optional RegEx, substring, error object or error class
+- Partial: Constructs a type with all properties of Type set to optional. This utility will return a type that represents all subsets of a given type.
+- [-] what does `type constr<T> = { new(...args: unknown[]): T }` (from entity.ts) do really?
+- `(team = Team.A): Fleet => new Fleet(team)` doesn't need parameter type because it's inferred from Team.A
+- in locomotion, why have the position use pixels? probably just a design choice?
+
+### https://medium.com/swlh/building-a-game-with-typescript-ship-and-locomotion-4f5969675993
+- "it could use GetComponent, but we better cache the reference instead"
+- "Node is not a core feature of the Ship (it’s neither its property nor field)"
+- after breaking things, and messaging around with git, I did find a working commit in my own history.
+
+## #t.2023.01.08
+
+- found it!, missing implementation of awake. wish I'd captured the test failures to confirm. 
