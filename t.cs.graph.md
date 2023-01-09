@@ -1,6 +1,6 @@
 ---
 id: vR5UNJUMB0npqpdJY0QFK
-title: Graphs
+title: Graph
 desc: ''
 updated: 1638242217046
 created: 1638242007470

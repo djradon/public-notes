@@ -2,7 +2,7 @@
 id: nwtfch085p3p1xbkziw7qvk
 title: Gamedev Patterns TS
 desc: ''
-updated: 1672721422177
+updated: 1673281276140
 created: 1672667775263
 ---
 
@@ -16,3 +16,7 @@ created: 1672667775263
 
 - [ ] add [[t.cs.logging]] with maybe [[prdct.pino]] and [[prdct.sematext]]
 - [ ] add cli
+
+## [[p.recommended]]
+
+- [[ar.blobs-in-games]]

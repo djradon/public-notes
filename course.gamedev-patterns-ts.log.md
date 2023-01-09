@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1673239801835
+updated: 1673281041047
 created: 1672667912959
 ---
 
@@ -103,3 +103,20 @@ function identity<Type>(arg: Type): Type {
 - `type` defines an alias to a type
 - "When we say Function & { prototype: T } we mean that this “thing” must be a function AND should have a specific T type of parent constructor. In other words, it has to extend that T."
 - had to do a separate `import { mockGridFactory } from '@/grid'`, didn't like it in with { Grid }
+
+### https://blog.gregsolo.me/articles/building-a-game-with-typescript-pathfinding-and-movement-17-introduction
+
+- !@#$ capitalization (vector2D folder vs vector2d file)
+
+## #t.2023.01.09
+
+### https://blog.gregsolo.me/articles/building-a-game-with-typescript-pathfinding-and-movement-27-highlighting-locomotion-range
+
+- Neighbors[] would not be readonly in my engine because it's fractal-like, invents itself as it goes along
+- pre-decrement useful for recursion `const newRange = --range`
+- recursion can be done with map!
+- I'm just realizing now that @greg-solo capitalizes his public objects and all method names!?
+  - makes his methods stand out
+  - [x] am I crazy
+    - @rvk confirmed
+- 
