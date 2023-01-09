@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1673192005143
+updated: 1673239801835
 created: 1672667912959
 ---
 
@@ -69,7 +69,8 @@ function identity<Type>(arg: Type): Type {
 - integer check: v % 1 !== 0
 - toThrowError is alias for toThrow and takes an optional RegEx, substring, error object or error class
 - Partial: Constructs a type with all properties of Type set to optional. This utility will return a type that represents all subsets of a given type.
-- [-] what does `type constr<T> = { new(...args: unknown[]): T }` (from entity.ts) do really?
+- [x] what does `type constr<T> = { new(...args: unknown[]): T }` (from entity.ts) do really?
+  - it defines a new type
 - `(team = Team.A): Fleet => new Fleet(team)` doesn't need parameter type because it's inferred from Team.A
 - in locomotion, why have the position use pixels? probably just a design choice?
 
@@ -81,3 +82,24 @@ function identity<Type>(arg: Type): Type {
 ## #t.2023.01.08
 
 - found it!, missing implementation of awake. wish I'd captured the test failures to confirm. 
+- #t.2023.01.08.13.23 wound up reverting to ships-3 and had to fix capitalization on Vector2D, so a bunch of git buggery, but I think I learned a little bit, and did my first merge to master
+- "Since it’s read-only, a constructor is the only place we can do it"
+- OK, failed at the same place... "Our code compiles again. Moreover, if you open it in the browser you can see this beautiful picture:" but this time I'm better off because
+  - I'm looking at the browser console
+  - figured it out, I missed the "grid" change change to the 
+- [[read|p.read]] https://www.typescriptlang.org/docs/handbook/variable-declarations.html -- good, tricky
+  - "var declarations are accessible anywhere within their containing function, module, namespace, or global scope... regardless of the containing block."
+  - let declarations are block-scoped (aka lexical scoping)
+  - [[p.loved]] [[t.cs.programming.temporal-dead-zone]]
+  - `const` means no re-assignment (which is different from immutable, e.g. you can change properties)
+
+### https://itnext.io/building-a-game-with-typescript-input-system-1-3-46d0b3dd7662
+
+- there are no DOM elements within canvas
+- how do nodes, ships get notified about events? Not [[t.cs.programming.patterns.observer]] because that couples game objects to the GameInputComponent.
+  - instead, Onclick component
+- I'm pleasantly surprised by how easy it is to dereference fields objects, e.g. `this.Entity.Entities`
+- not sure how I feel about multiple files called draw.ts -- I feel like every filename should be unique
+- `type` defines an alias to a type
+- "When we say Function & { prototype: T } we mean that this “thing” must be a function AND should have a specific T type of parent constructor. In other words, it has to extend that T."
+- had to do a separate `import { mockGridFactory } from '@/grid'`, didn't like it in with { Grid }
