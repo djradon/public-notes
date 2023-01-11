@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1673281041047
+updated: 1673396200083
 created: 1672667912959
 ---
 
@@ -119,4 +119,7 @@ function identity<Type>(arg: Type): Type {
   - makes his methods stand out
   - [x] am I crazy
     - @rvk confirmed
-- 
+
+## #t.2023.01.10
+
+- [[Type Assertions|t.cs.languages.ts.type-assertions]] 

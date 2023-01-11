@@ -14,5 +14,5 @@ created: 1637591669334
 - [[p.hasScriptingLanguage]] 
   - [[t.cs.languages.GDScript]] 
   - [[t.cs.languages.C]]
-  - [[t.cs.languages.TypeScript]] via https://github.com/GodotExplorer/ECMAScript and [[prdct.quikckjs]]
+  - [[t.cs.languages.ts]] via https://github.com/GodotExplorer/ECMAScript and [[prdct.quikckjs]]
 
