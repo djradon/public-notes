@@ -1,6 +1,6 @@
 ---
 id: t4vcDLf9tMYD73PdLTXYu
-title: TS
+title: TypeScript
 desc: ''
 updated: 1672684306761
 created: 1637536070254

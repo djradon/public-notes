@@ -122,4 +122,4 @@ function identity<Type>(arg: Type): Type {
 
 ## #t.2023.01.10
 
-- [[Type Assertions|t.cs.languages.ts.type-assertions]] 
+- [[Type Assertions|t.cs.languages.typescript.type-assertions]] 

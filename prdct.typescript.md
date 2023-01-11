@@ -6,4 +6,4 @@ updated: 1672684328915
 created: 1650120634016
 ---
 
-[[p.hasSameReferantAs]] [[t.cs.languages.ts]]
+[[p.hasSameReferantAs]] [[t.cs.languages.typescript]]
