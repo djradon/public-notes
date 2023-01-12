@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1673396200083
+updated: 1673457440072
 created: 1672667912959
 ---
 
@@ -122,4 +122,17 @@ function identity<Type>(arg: Type): Type {
 
 ## #t.2023.01.10
 
-- [[Type Assertions|t.cs.languages.typescript.type-assertions]] 
+### https://blog.gregsolo.me/articles/building-a-game-with-typescript-pathfinding-and-movement-37-graph-and-priority-queue
+
+- [[Type Assertions|t.cs.languages.typescript.type-assertions]] in the interface method signature can be linked/referenced internally, e.g. `export interface IPriorityQueue<T>` and `Enqueue(item: T, priority: number): void` means that the implementing class has to have identical type assertion in both places
+
+## #t.2023.01.11
+
+### https://blog.gregsolo.me/articles/building-a-game-with-typescript-pathfinding-and-movement-57-finding-the-path
+
+- [[p.learned]] [[t.math.geometry.taxicab-geometry]]
+- [repeating ourselves](https://vscode.dev/github/djradon/gamedev-patterns-ts/blob/cca466d5cb27fafe06de0f08a958434b9bfc9f87/src/fleet/fleet.ts#L45-L46): 
+```javascript
+activeShip.IsActive = true
+this._grid.ActiveShip = activeShip
+```
