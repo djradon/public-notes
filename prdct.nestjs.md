@@ -2,13 +2,14 @@
 id: krvp9kr9zbsr8ivk7bgnjbm
 title: NestJS
 desc: typescript framework based on Express
-updated: 1672412439324
+updated: 1673628559940
 created: 1654055504089
 ---
 
 ## [[p.supports]]
 
 - [[prdct.fastify]]
+- [[prdct.asyncapi]] via [[prdct.nestjs-asyncapi]]
 
 ## [[p.hasUseCase]]
 
