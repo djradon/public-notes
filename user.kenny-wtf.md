@@ -6,6 +6,6 @@ updated: 1649975456171
 created: 1649975177328
 ---
 
-- active in @3mcd's [[soln.Javelin]] discord
+- active in @3mcd's [[prdct.Javelin]] discord
 - [[p.hasURL]] https://github.com/kenjinp
 - 

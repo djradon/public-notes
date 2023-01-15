@@ -2,7 +2,7 @@
 id: su5s9rlyw4zcb72gnewjvik
 title: Centralization Is Inevitable
 desc: ''
-updated: 1656360351738
+updated: 1671481948826
 created: 1656360333029
 ---
 
@@ -59,7 +59,7 @@ Scale-free networks emerge due to preferential attachment
 
 Preferential attachment is any rich-get-richer feedback loop. We run into preferential attachment all the time in software, in the form of network effect:
 
-    The value of a telecommunications network is proportional to the square of the number of connected users of the system (n^2). (Metcalfe's Law)
+    The value of a telecommunications network is proportional to the square of the number of connected users of the system (n^2). ([[Metcalfe's Law|sententia.metcalfes-law-the-value-of-a-network]])
 
 And it’s not just telephone networks. Any snowball will do…
 

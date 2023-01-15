@@ -1,0 +1,97 @@
+---
+id: sjxpzu20u47aq7jxnziwx6n
+title: Flatiron Tabletop Game Design
+desc: ''
+updated: 1673463722825
+created: 1673460274900
+---
+
+- [[p.hostedBy]] @joshua-robinson @alyssa-osterback
+- [[p.hadPanelist]] @zach-saul @tyler-entingh 
+- [[p.hasRelatedResource]] https://boardgamegeek.com
+
+- Where is the overlap between product design and tabletop game design
+  - user psychology: 
+    - what hooks people
+    - what's too boring/complex
+  - visual design principles
+  - "exploration and validation": 
+    - design thinking [[double diamond|t.pdm.design.double-diamond]]
+  - system mechanics
+    - comes down to a knowledge of design patterns
+  - user experience
+    - information architecture (IA)
+      - What is the path from A to B
+      - User decision space
+      - outcomes and goals
+    - users come in with preconceived mental models... cognitive load is less when your game fits into their schemas
+- defining the project
+  - ![](/assets/images/2023-01-11-10-18-48.png)
+  - design principles, e.g.:
+    - depth > complexity
+    - simplicity > fidelity
+    - avoid rigid narratives
+    - best strategist should would
+  - constraints
+    - mechanics
+      - e.g.
+        - dice rolling
+        - end game bonuses
+        - grid coverage
+        - hex grid
+        - pattern building
+        - set collection
+        - tile placement
+        - turn order: stat-based
+        - variable set-up
+        - worker placement
+      - complexity and player cognitive capacity
+      - what mechanics are removed/added/changed for different player counts
+      - solo play
+    - categories
+      - ![](/assets/images/2023-01-11-10-23-47.png)
+- [[t.management.swot-analysis]]
+- [[t.pdm.ux.prototyping]] gives you high-level buy-in
+- [[p.mentioned]] [[prdct.tabletopia.workshop]]
+- players get frustrated waiting for other players
+  - like axis&allies
+  - turn-based is inherently frustrating, so give people something else to do when it's not their turn
+- analysis
+  - satisfaction
+  - time to goal
+  - avg # turns/moves/card to goal
+  - qualitative
+    - Did you feel like you agaency
+- "build your design process around playtesting. everything else is theorycraft"
+- [[t.pdm.design.visual]]
+  - color can 
+    - create categories
+    - indicate interactivity
+    - create separation
+- ![](/assets/images/2023-01-11-10-54-23.png)
+- What is interesting?
+  - fun vs challenging
+  - sweet spot of interestingness
+    - ![](/assets/images/2023-01-11-10-55-12.png)
+      - obvious vs absurd
+      - relevant vs irrelevant
+    - enhances memory
+    - enhances motivation
+    - emotive response
+  - triggers of fascination
+    - pleaure
+    - mystique: puzzling, being part of a secret
+    - alarm
+    - prestige
+    - power
+    - vice
+    - trust
+  - theory of fun:
+    - when we find and master new patterns of thought
+    - to master a game, we have to figure out certain patterns
+    - once we've done it, the game is not as much fun
+    - if we can find any patterns, the game is too difficult and not  fun.
+    - games tend to be most fun when pushing us to the edge of our capabilities while simultaneously giving us a sense that master is a real possibility
+    - ![](/assets/images/2023-01-11-10-59-25.png)
+      - if we are fascinated, we will have fun looking for patterns
+      - disruption is often resisted because it takes energy

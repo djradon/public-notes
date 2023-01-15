@@ -2,13 +2,13 @@
 id: myYEa6Le5NWbaDxPjmHxC
 title: Folgezettel
 desc: 'a direct, obvious connection between notes'
-updated: 1637407133100
+updated: 1671633275868
 created: 1637404121204
 ---
 
 
 
-- [[p.hasDefinition]] 
+- [[p.hadDefinition]] 
   - a nested sequence of ideas
     - [[p.hasSource]] [[ar.medium.the-folgezettel-conundrum]]
 

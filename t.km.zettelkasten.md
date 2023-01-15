@@ -2,13 +2,9 @@
 id: HBfqGJSSJCvCG8gU0UetW
 title: Zettelkasten
 desc: ''
-updated: 1669806782698
+updated: 1670263630722
 created: 1631216404603
 ---
-
-
-
-
 
 ## [[p.vs]]
 
@@ -19,8 +15,9 @@ created: 1631216404603
 
 ### [[t.km.digital-gardening]]
 
-- the slip-box is a lot like a digital garden
+- the slip-box is a lot like a digital garden, but not necessarily [[ar.swyx.learn-in-public]]
 - maybe digital gardening doesn't specify the rest of the note-taking methodology. 
+- digital garden is more high-level / contentful than, at least, my notes
 
 ## @niklas-luhman speaks through others
 
@@ -30,10 +27,22 @@ created: 1631216404603
 - information
 - complexity
 
+## [[p.hasUseCase]]
+
+- [[t.lit.fiction.writing]]
+  - [[p.hasRelatedResource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
+
 ## References
 
 - https://notes.andymatuschak.org/Zettelkasten
 
+## [[p.hasResourceList]]
+
+- https://zettelkasten.de/posts/overview/
+
 ## [[p.hasRelatedResource]]
 
 - https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten/
+
+
+A practical history of personal knowledge management tools, from Lumann's Zettelkasten through Notion, Roam, and Obsidian, to my current recommended tool, Dendron. We'll look at the features of Dendron-flavored markdown and also explore the benefits of "learning in public" with a Digital Garden.

@@ -8,7 +8,7 @@ created: 1637123039733
 
 
 - [[p.hasURL]] https://javascript.plainenglish.io/composition-alone-cant-replace-inheritance-606760f03d60
-- [[p.hasTopic]] [[t.cs.language.JavaScript]] [[t.cs.programming.code-reuse]]
+- [[p.hasTopic]] [[t.cs.languages.JavaScript]] [[t.cs.programming.code-reuse]]
 - [[p.hasSummaryPoints]]
   - Sometimes, you simply want to have all of your shared methods exist flat on the same object as you would get with inheritance.
     - But with P.A.I.L restrictions: 

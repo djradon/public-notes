@@ -9,7 +9,7 @@ created: 1643809159612
 
 - [[p.hasURL]] https://medium.com/@kevin_10337
 
-## [[soln.medium]]
+## [[prdct.medium]]
 
 - https://medium.com/terminusdb/graph-fundamentals-part-2-labelled-property-graphs-ba9a8edb5dfe
   - " RDF has a pure graph structure at a low-level but is often a confusing mess at a high level, while property graphs are the opposite"

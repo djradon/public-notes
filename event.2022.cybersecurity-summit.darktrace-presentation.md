@@ -7,10 +7,10 @@ created: 1666885250606
 ---
 
 - [[p.hasTopic]]
-  - [[soln.darktrace-prevent]]
-  - [[soln.darktrace-detect]]
-  - [[soln.darktrace-respond]]
-  - [[soln.darktrace-heal]]
+  - [[prdct.darktrace-prevent]]
+  - [[prdct.darktrace-detect]]
+  - [[prdct.darktrace-respond]]
+  - [[prdct.darktrace-heal]]
 - [[p.hasFeature]] Cyber AI Loop
   - [[p.managed]] [[t.cs.security.cyber-risk]]
     - [[t.cs.security.attack-simulations]]

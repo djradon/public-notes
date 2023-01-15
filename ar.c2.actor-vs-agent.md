@@ -2,12 +2,13 @@
 id: nhngdnzck8dbmx6tp2yjq9z
 title: Actor Vs Agent
 desc: ''
-updated: 1669507621251
+updated: 1670267398960
 created: 1669505273500
 ---
 
 - [[p.hasURL]] https://wiki.c2.com/?ActorVsAgent
 - [[p.excerptedFrom]] [[book.efficient-node-js-a-beyond-the-basics-guide]]
+- [[p.hasTopic]] [[t.cs.actors]] [[t.cs.agents]]
 
 ## [[p.hadContent]]
 

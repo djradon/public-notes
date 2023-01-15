@@ -2,12 +2,12 @@
 id: rJixPer8fVahi3YRkicEn
 title: README
 desc: ''
-updated: 1669928286917
+updated: 1671127654452
 created: 1631143111333
 ---
 
 
-A cluttered cupboard of jumbled jottings in the form of a [[soln.dendron]] vault.
+A cluttered cupboard of jumbled jottings in the form of a [[prdct.dendron]] vault.
 
 ## Purpose
 
@@ -21,7 +21,7 @@ This vault is the "[[learning-in-public|ar.swyx.learn-in-public]]" part of my Se
   - [[courses|course]]
   - [[email]]
   - [[games|game]]
-  - [[products|soln]]
+  - [[products|prdct]]
   - [[recipes|recipe]]
   - [[movies, tv episodes, and other videos|video]]
 - [[notes from public events|event]]

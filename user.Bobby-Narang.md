@@ -7,4 +7,4 @@ created: 1635804519512
 ---
 
 
-- [[p.cofounded]] [[soln.Opensense]]
+- [[p.cofounded]] [[prdct.Opensense]]

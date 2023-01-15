@@ -12,11 +12,11 @@ created: 1637793595094
 
 ### JavaScript
 
-- [[soln.AgentFramework]]
+- [[prdct.AgentFramework]]
 - 
 
 ### Python
 
-- [[soln.SPADE]]
-- [[soln.PADE]]
-- [[Mesa|soln.Mesa]]
+- [[prdct.SPADE]]
+- [[prdct.PADE]]
+- [[Mesa|prdct.Mesa]]

@@ -6,4 +6,4 @@ updated: 1669507669958
 created: 1669507641590
 ---
 
-- [[p.hasExpertise]] [[soln.node]]
+- [[p.hasExpertise]] [[prdct.node]]

@@ -14,7 +14,7 @@ created: 1634185485262
 
 ## [[p.hasSolution]]
 
-- [[soln.meistertask]]
+- [[prdct.meistertask]]
 - 
 
 ## [[p.hasQuote]] 

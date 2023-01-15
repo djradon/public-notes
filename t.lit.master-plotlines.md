@@ -2,7 +2,7 @@
 id: ueqgkqc7as0wyxgw73semoq
 title: Master Plotlines
 desc: ''
-updated: 1664251989608
+updated: 1671367883669
 created: 1664251383660
 ---
 
@@ -10,7 +10,7 @@ created: 1664251383660
 ## 20 Master Plotlines
 
 - [[p.hasSource]] https://www.sciencedirect.com/science/article/pii/S0363811115000570?utm_medium=email&utm_source=substack#bib0080
-- [[p.hasSummary]]
+- #summary
   - (1) Quest, (2) Adventure, (3) Pursuit, (4) Rescue, (5) Escape, (6) Revenge, (7) Riddle/Mystery, (8) Rivalry, (9) Underdog, (10) Temptation, (11) Metamorphosis, (12) Transformation, (13) Maturation, (14) Love, (15) Forbidden Love, (16) Sacrifice, (17) Discovery, (18) Wretched Excess, and (19 & 20) Rise & Fall
 - [[p.hadDetail]] 
 

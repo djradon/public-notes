@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1635780764399
+updated: 1671120448491
 created: 1633593028328
 ---
 
@@ -35,7 +35,7 @@ created: 1633593028328
   - create a note for it
   - but I wanna use  an "indicator note" that someone else has made? Or I made and published on the web somewhere, and it's not in my local workspace
     - make a new local note, point it at the indicator note. 
-- `soln.toml` is kinda an identifier; unlike a corresponding note in the topic hierarchy, it won't change
+- `prdct.toml` is kinda an identifier; unlike a corresponding note in the topic hierarchy, it won't change
 - differentiate resources that are addressable with `hasURL` - but not sure if that helps
 
 ***

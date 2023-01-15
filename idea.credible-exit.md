@@ -11,7 +11,7 @@ created: 1654747328783
     - [[p.hasSource]] https://subconscious.substack.com/p/credible-exit
   - Email: identifiers work across providers
   - wordpress: move content with XML file
-  - [[Mirror|soln.mirror]]
+  - [[Mirror|prdct.mirror]]
 - [[p.hasDimensions]]
   - export
   - sync

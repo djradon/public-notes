@@ -7,7 +7,7 @@ created: 1637731419675
 ---
 
 
-- [[p.supports]] [[soln.FIPA]]
+- [[p.supports]] [[prdct.FIPA]]
 - [[p.presented]] 
 
 ## [[p.thought]]

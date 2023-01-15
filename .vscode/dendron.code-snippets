@@ -1,6 +1,6 @@
 {
     "todo": {
-        "prefix": "to",
+        "prefix": "todo",
         "scope": "markdown,yaml",
         "body": "- [ ] ",
         "description": "render todo box"
@@ -8,31 +8,31 @@
     "date": {
         "prefix": "date",
         "scope": "markdown,yaml",
-        "body": "[[$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE]]",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE",
         "description": "today's date"
     },
     "time": {
         "prefix": "time",
         "scope": "markdown,yaml",
-        "body": "[[$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR.$CURRENT_MINUTE]]",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR.$CURRENT_MINUTE",
         "description": "time"
     },
     "t.m": {
         "prefix": "month",
         "scope": "markdown,yaml",
-        "body": "[[$CURRENT_YEAR.$CURRENT_MONTH]]",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH",
         "description": "dot-hierarchical wiki-linked timestamp, to the minute"
     },
     "t.h": {
         "prefix": "hour",
         "scope": "markdown,yaml",
-        "body": "[[$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR]]",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR",
         "description": "dot-hierarchical wiki-linked timestamp, to the hour"
     },
     "t.s": {
         "prefix": "second",
         "scope": "markdown,yaml",
-        "body": "[[$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR.$CURRENT_MINUTE.$CURRENT_SECOND]]",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR.$CURRENT_MINUTE.$CURRENT_SECOND",
         "description": "dot-hierarchical wiki-linked timestamp, to the second"
     }
 }

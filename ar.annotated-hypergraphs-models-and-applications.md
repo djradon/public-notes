@@ -4,12 +4,12 @@ title: Annotated Hypergraphs Models and Applications
 desc: >-
   networks cannot be represented by... dyadic graphs without a significant loss
   of model fidelity.
-updated: 1646287833613
+updated: 1671367883655
 created: 1646285581088
 ---
 
 - [[p.hasURL]] https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-0252-y
-- [[p.hasSummary]]
+- #summary
   - In this article, we consider an important and relatively general class of metadata in which nodes are assigned roles in each edge
 - [[p.hasSummaryPoints]]
   - networks cannot be represented by via the classical paradigm of dyadic graphs without a significant loss of model fidelity.

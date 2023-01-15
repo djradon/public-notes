@@ -7,4 +7,4 @@ created: 1650068815235
 ---
 
 
-- [[p.provided]] [[soln.granthika]]
+- [[p.provided]] [[prdct.granthika]]

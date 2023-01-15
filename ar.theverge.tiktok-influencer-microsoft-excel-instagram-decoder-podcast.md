@@ -7,7 +7,7 @@ created: 1638377553782
 ---
 
 
-- @kat-norton [[p.used]] [[soln.thinkific]]
+- @kat-norton [[p.used]] [[prdct.thinkific]]
 - [[p.hasHighlight]]
   - it's all about the energy (i.e., enthusiasm, relatability, goofiness, originality) and making people feel good
     - of course, different audiences respond differently to different energies, so
