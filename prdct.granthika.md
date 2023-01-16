@@ -12,4 +12,4 @@ created: 1650069850721
   - [[rpg.timeline-management]]
   - [[rpg.character-management]]
   - [[rpg.location-management]]
-  - [[rpg.object-management]]
+  - [[rpg.item-management]]
