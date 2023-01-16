@@ -8,4 +8,4 @@ created: 1635663789552
 
 
 - [[p.hasURL]] https://dungeondraft.net/
-- [[p.hasApplication]] [[t.cs.game.rpg.map-making]]
+- [[p.hasApplication]] [[rpg.map-making]]

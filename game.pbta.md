@@ -2,12 +2,12 @@
 id: gz4ev1lheqalphtclgv32bv
 title: Pbta
 desc: 'Powered by the Apocalypse creates dramatic stories'
-updated: 1673568578818
+updated: 1673886980130
 created: 1673566763687
 ---
 
 - [[p.comparableTo]] [[game.dungeons-and-dragons]]
-  - "While there are rules for combat and magic [in D&D], pretty much everything else is done on a case-by-case basis. In a PbtA game, there is a finite set of moves, both unique moves for specific characters and basic moves everyone gets. The moves define everything that the rules cover; if a character wants to do something that isn’t a move, they can do it without rolling."
+  - "While there are rules for combat and magic [in DnD], pretty much everything else is done on a case-by-case basis. In a PbtA game, there is a finite set of moves, both unique moves for specific characters and basic moves everyone gets. The moves define everything that the rules cover; if a character wants to do something that isn’t a move, they can do it without rolling."
   - "when the GM makes a move, it happens, no die roll necessary"
   - PbtA games offer a range of mechanics which define how the PCs interact
 
