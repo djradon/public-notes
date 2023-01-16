@@ -1,8 +1,8 @@
 ---
 id: 9RJeQbVSjrGvcl0gNgGTH
-title: IPFS
-desc: InterPlanetary File System
-updated: 1644146798706
+title: InterPlanetary File System
+desc: 'peer-to-peer hypermedia protocol designed to preserve and grow humanity''s knowledge by making the web upgradeable, resilient, and more open'
+updated: 1673899173374
 created: 1642134050097
 ---
 
