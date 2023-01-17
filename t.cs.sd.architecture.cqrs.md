@@ -7,4 +7,4 @@ created: 1658585941374
 ---
 
 - expressions of intent could also be considered commands
-  - but maybe best to add another layer... i.e. [[proj.Shapow.architecture.icqrs]]
+  - but maybe best to add another layer.
