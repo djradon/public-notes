@@ -2,7 +2,7 @@
 id: p365jlmlu7knjy94z5bty44
 title: Event Bridge
 desc: ''
-updated: 1672335528528
+updated: 1674398628582
 created: 1672334867489
 ---
 
