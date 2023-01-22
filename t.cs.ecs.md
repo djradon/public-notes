@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   Entity Component Systems are a paradigm of composable object-orientation for
   games and simulations
-updated: 1654124796555
+updated: 1674346390973
 created: 1637846686838
 ---
 
@@ -16,3 +16,20 @@ created: 1637846686838
     - [[p.hasDocumentation]] https://aframe.io/docs/1.3.0/introduction/entity-component-system.html
     - https://stackoverflow.com/questions/43944365/how-to-do-multiuser-in-a-frame
     - [[p.supports]] [[prdct.networked-aframe]]
+
+## [[p.hasCon]]
+
+- https://medium.com/@rdolivo/ecs-for-gamedev-with-typescript-5a1204f594bc
+  - Systems are highly dependent on the order in which they are added because their logic works out consistently. Adding new systems between existing ones can be a difficult task.
+    - [[p.provokedThoughts]]
+      - what if you required every system to be executable in any order. something like [[idempotence|t.cs.idempotence]], but for ordering
+  - Changing the content of components can potentially break down many systems.
+
+
+## [[p.hasRelatedResource]]
+
+- https://maxwellforbes.com/posts/typescript-ecs-why/
+  - [[p.hasHighlight]]
+    - "the idea isn’t that there’s a fixed target called a “game engine” that you go out and build, and then you build the game on top of it. For my case at least, the engine is the broader codebase that evolves around the game as you build it."
+    - "People like building shit. It’s fun. It’s really fun."
+
