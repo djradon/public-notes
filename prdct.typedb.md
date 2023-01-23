@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1673012702153
+updated: 1674403635416
 created: 1643725570180
 ---
 
@@ -25,7 +25,7 @@ created: 1643725570180
   - ![](/assets/images/2022-03-14-14-26-10.png)
   - 
 
-## [[p.hasUseCase]]
+## [[c.UseCase]]
 
 - [[prdct.typedb-data-cti]]
 

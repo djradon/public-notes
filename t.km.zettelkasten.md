@@ -2,7 +2,7 @@
 id: HBfqGJSSJCvCG8gU0UetW
 title: Zettelkasten
 desc: ''
-updated: 1670263630722
+updated: 1674403635415
 created: 1631216404603
 ---
 
@@ -27,7 +27,7 @@ created: 1631216404603
 - information
 - complexity
 
-## [[p.hasUseCase]]
+## [[c.UseCase]]
 
 - [[t.lit.fiction.writing]]
   - [[p.hasRelatedResource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
