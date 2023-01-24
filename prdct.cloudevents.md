@@ -2,7 +2,7 @@
 id: 8cs1j4m6abso08lz9kxbef3
 title: Cloudevents
 desc: 'A specification for describing event data in a common way'
-updated: 1674375834074
+updated: 1674587616772
 created: 1672335135527
 ---
 
@@ -11,6 +11,11 @@ created: 1672335135527
 - [[p.supportedBy]] [[prdct.openfaas]] [[prdct.triggermesh]] [[prdct.kafka]] [[prdct.quarkus]]
 
 ## [[p.hadDefinition]]
+
+
+## [[c.Specification]]
+
+- https://github.com/cloudevents/spec/blob/main/cloudevents/formats/json-format.md
 
 ### https://quarkus.io/blog/kafka-cloud-events/
 
