@@ -2,7 +2,7 @@
 id: NnQfjjgVbR3bZB9zjlK6z
 title: Dynamic-RDF
 desc: ''
-updated: 1635673483800
+updated: 1674172703025
 created: 1633616230389
 ---
 
@@ -12,4 +12,4 @@ created: 1633616230389
 
 ## [[Related|p.hasRelatedResource]] 
 
-- [D-RDF: Dynamic Resource DescriptionFramework](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=15852&context=rtd)
+- [DRDF: Dynamic Resource DescriptionFramework](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=15852&context=rtd)
