@@ -2,7 +2,7 @@
 id: cqtllme7cw60cs9vh18yb2s
 title: Hypergraph
 desc: ''
-updated: 1670708125004
+updated: 1674675389359
 created: 1652767633550
 ---
 
@@ -22,4 +22,4 @@ created: 1652767633550
 
 - [[ar.thinkmind.the-typed-graph-model]]
 - [[Modelling Data with Hypergraphs. A closer look at the TypeDB hypergraph|ar.medium.modelling-data-with-hypergraphs]]
-
+- https://news.ycombinator.com/item?id=32283022
