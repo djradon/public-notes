@@ -2,9 +2,9 @@
 id: prbis54rvnvjcg4y74map4h
 title: Event Sourcing
 desc: >-
-  a different way of persisting data where data changes are saved in domain
-  events
-updated: 1669494817177
+  a different way of persisting data where data changes are stored (and read?)
+  as domain events
+updated: 1674622306399
 created: 1658585055608
 ---
 
@@ -23,10 +23,16 @@ created: 1658585055608
       - [[p.hasSource]] https://jgao.io/post/event-sourcing/
         - but also says "any system which uses “event sourcing” as its core mechanics can be seen as also as an even-driven system,"
   - [[t.cs.sd.architecture.command-sourcing]]
+  - [[t.cs.sd.architecture.event-streaming]]
+    - "Event Sourcing is about durable state stored and read as events, and Event Streaming is about moving events from one place to another."
+      - https://event-driven.io/en/event_streaming_is_not_event_sourcing/
 
 ## [[p.hasRelatedSolution]]
 
 - [[prdct.castore]]
+- [[prdct.eventstoredb]]
+- [[prdct.marten]]
+- [[prdct.eventide]]
 
 ## [[p.hasIssue]]
 
@@ -40,4 +46,4 @@ created: 1658585055608
   - [[p.hasHighlight]]
     - "In order to realize ES, the storage solution aka event store must provide capabilities to read all events using sequential reading, to read all events related to a specific entity, and append events to the event store. Additionally, it must provide transactional capabilities when appending multiple events at once and it must be scalable in terms of the total number of events."
 - [[Event Sourcing versus Event Driven Architecture|ar.medium.event-sourcing-versus-event-driven-architecture]]
-
+- https://event-driven.io/pl/type_script_node_Js_event_sourcing

@@ -2,7 +2,7 @@
 id: 452mkyh3dtruj1g47mh7jrw
 title: Event Grid
 desc: ''
-updated: 1672335507136
+updated: 1674621720202
 created: 1672319985785
 ---
 
@@ -15,3 +15,15 @@ created: 1672319985785
 
 - [[p.hasLearningResource]] https://learn.microsoft.com/en-us/azure/event-grid/overview
 - [[p.supports]] on-prem deployment via https://learn.microsoft.com/en-us/azure/event-grid/kubernetes/overview
+
+## [[c.Comparison]] 
+
+### [[prdct.azure.event-grid]] vs. [[prdct.azure.event-hubs]] vs. [[prdct.azure.service-bus]]  ^tlbdk95pkgk8
+
+https://learn.microsoft.com/en-us/azure/event-grid/compare-messaging-services
+
+| Service | Purpose | Type | When to use |
+| --- | --- | --- | --- |
+| Event Grid | Reactive programming | Event distribution (discrete) | React to status changes |
+| Event Hubs | Big data pipeline | Event streaming (series) | Telemetry and distributed data streaming |
+| Service Bus | High-value enterprise messaging | Message | Order processing and financial transactions |  ^e48anqzd79vy

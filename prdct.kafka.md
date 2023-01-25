@@ -2,16 +2,21 @@
 id: vc2zh595cbr9z70mlf45qyh
 title: Kafka
 desc: ''
-updated: 1674583706850
+updated: 1674621868081
 created: 1662589413388
 ---
 
+![[prdct.azure.event-hubs#^ls3s1l3vm1hl]]
 - [[p.hostedBy]]
   - [[prdct.upstash]] for free
 - [[p.supports]] [[prdct.cloudevents]]
-  - https://www.google.com/search?client=firefox-b-1-d&q=cloudevents+kafka
-- [[p.similarTo]]
-  - [[prdct.azure.event-hubs]]
+  - https://github.com/cloudevents/spec/blob/main/cloudevents/bindings/kafka-protocol-binding.md
+
+## [[c.Pro]]
+
+## [[c.Con]]
+
+- [[t.cs.sd.event-sourcing]] is not a top-level architecture [^1]
 
 ## [[c.Feature]]
 
@@ -19,4 +24,11 @@ created: 1662589413388
 
 ## [[c.UseCase]]
 
+- "Kafka is not an event store; rather, it is an enabler for building event stores."
+  - https://towardsdatascience.com/the-design-of-an-event-store-8c751c47db6f
 
+## [[c.Resource.Learning]]
+
+## [[c.Footnote]]
+
+[^1]: https://itnext.io/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c
