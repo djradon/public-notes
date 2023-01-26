@@ -1,7 +1,7 @@
 ---
 id: yi7df6nhmv2e8zqkez5njwh
 title: The Great Contemplation
-desc: 'Reflections on the impact of the '4-Hour Workweek' 15 years later'
+desc: 'Reflections on the impact of the "4-Hour Workweek" 15 years later'
 updated: 1674589661725
 created: 1674589555497
 ---
