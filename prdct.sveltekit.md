@@ -2,7 +2,7 @@
 id: rjbhfcoscreiy0vdyk0mhgv
 title: Sveltekit
 desc: ''
-updated: 1653271136487
+updated: 1674817106759
 created: 1653261022303
 ---
 
