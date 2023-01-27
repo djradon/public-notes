@@ -2,12 +2,11 @@
 id: cqtllme7cw60cs9vh18yb2s
 title: Hypergraph
 desc: ''
-updated: 1674683246643
+updated: 1674839185065
 created: 1652767633550
 ---
 
-- #aka [[prdct.hode.rslt]]
-
+#aka [[prdct.hode.rslt]]
 - likely many definitions, but I like TypeDB's:
   - [[p.hasSource]] [[Modelling Data with Hypergraphs|ar.medium.modelling-data-with-hypergraphs]]
     - a hypergraph consists of a non-empty set of vertices and a set of hyperedges;
