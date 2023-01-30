@@ -1,8 +1,8 @@
 ---
 id: HPj90WXvRWSvIRQ27dh1S
 title: Saphiredb
-desc: 'self-hosted, easy to use realtime database'
-updated: 1645299315912
+desc: 'self-hosted, easy to use realtime database for .NET'
+updated: 1675066292088
 created: 1645299168806
 ---
 

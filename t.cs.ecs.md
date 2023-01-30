@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   Entity Component Systems are a paradigm of composable object-orientation for
   games and simulations
-updated: 1674346390973
+updated: 1674951691654
 created: 1637846686838
 ---
 

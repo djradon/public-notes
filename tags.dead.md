@@ -2,7 +2,8 @@
 id: LJHR6zEbDjP6qw9H39tXd
 title: Dead
 desc: ''
-updated: 1638854258240
+color: '#blue'
+updated: 1675065998718
 created: 1638853618350
 ---
 

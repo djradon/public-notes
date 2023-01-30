@@ -2,7 +2,7 @@
 id: jAekF2UQcWtYIpBAVdtzy
 title: Semantic Hypergraph
 desc: ''
-updated: 1645900311754
+updated: 1674888471864
 created: 1644488276758
 ---
 
@@ -12,4 +12,4 @@ created: 1644488276758
   - [[prdct.graphbrain]]
     - [[p.hasRelatedResource]] https://graphbrain.net/overview/hypergraph.html
   - [[prdct.atomspace]]
-    - 
+  - [[idea.text-as-graph]]

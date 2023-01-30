@@ -2,18 +2,24 @@
 id: 1f09QQTVfyREYHR2dLKZK
 title: GunDB
 desc: ''
-updated: 1654840487324
+updated: 1675066629388
 created: 1638654887501
 ---
 
-
+![[prdct.rxdb#^pnjx84u9yrqy]]
 - [[p.similarTo]] 
   - [[prdct.redwood]]
   - [[prdct.saphiredb]]
 - [[p.builtOn]] [[t.cs.languages.JavaScript]]
 - [[p.hasExtension]] 
   - https://github.com/brysgo/graphql-gun
-- [[p.hasRelatedResource]]
+
+## [[p.hadDescription]]
+
+- While testing it was really hard to get basic things running. GUN is open source, but because of how the source code is written, it is very difficult to understand what is going wrong.
+
+## [[c.Resource.Related]]
+
   - https://medium.com/@ajmeyghani/data-modeling-with-gundb-15220cbfb8da
     - [[Data Modeling with GunDB|ar.medium.data-modeling-with-gundb]]
     - uses "link nodes" for connecting 

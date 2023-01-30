@@ -2,11 +2,11 @@
 id: 1ojeoolgbs1ogaqd8nbwmff
 title: PouchDB
 desc: ''
-updated: 1673923689405
+updated: 1675065401362
 created: 1673923590267
 ---
-
-#url https://pouchdb.com/
+- ![[prdct.rxdb#^pnjx84u9yrqy]]
+- #url https://pouchdb.com/
 
 ## [[p.supports]]
 

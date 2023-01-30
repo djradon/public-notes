@@ -2,11 +2,12 @@
 id: n1ew222gxe96e4gxey1xfua
 title: Tick Knock
 desc: ''
-updated: 1674339843676
+updated: 1674951227800
 created: 1674283205769
 ---
 
-#repo https://github.com/mayakwd/tick-knock
+- #repo https://github.com/mayakwd/tick-knock
+- - [[p.implements]] [[t.cs.ecs]]
 
 ## [[p.hasConcept]]
 
@@ -22,3 +23,5 @@ created: 1674283205769
 
 - https://medium.com/@rdolivo/ecs-for-gamedev-with-typescript-5a1204f594bc
 - 
+
+- [[p.implements]] [[t.cs.ecs]]
