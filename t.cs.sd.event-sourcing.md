@@ -4,7 +4,7 @@ title: Event Sourcing
 desc: >-
   a different way of persisting data where data changes are stored (and read?)
   as domain events
-updated: 1675206839387
+updated: 1675528435786
 created: 1658585055608
 ---
 
@@ -46,5 +46,6 @@ created: 1658585055608
   - [[p.hasHighlight]]
     - "In order to realize ES, the storage solution aka event store must provide capabilities to read all events using sequential reading, to read all events related to a specific entity, and append events to the event store. Additionally, it must provide transactional capabilities when appending multiple events at once and it must be scalable in terms of the total number of events."
 - [[Event Sourcing versus Event Driven Architecture|ar.medium.event-sourcing-versus-event-driven-architecture]]
-- https://event-driven.io/pl/type_script_node_Js_event_sourcing
+- [[ar.event-driven.type-script-node-js-event-sourcing]]
 - [[ar.domaincentric.event-sourcing-projections]]
+- [[ar.event-driven.projections-and-read-models-in-event-driven-architecture]]
