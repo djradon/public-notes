@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1673497321685
+updated: 1678571584470
 created: 1672667912959
 ---
 
@@ -138,3 +138,5 @@ this._grid.ActiveShip = activeShip
 ```
 - got stuck, the interactivity is broken, don't have the motivation to find out where, given movement-pathfinding-5 is just sitting there.
 - any change to the source starts the thing over from the beginning; it's gonna be hard to test detailed scenarios
+
+

@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   Entity Component Systems are a paradigm of composable object-orientation for
   games and simulations
-updated: 1674951691654
+updated: 1678571442521
 created: 1637846686838
 ---
 
@@ -16,6 +16,7 @@ created: 1637846686838
     - [[p.hasDocumentation]] https://aframe.io/docs/1.3.0/introduction/entity-component-system.html
     - https://stackoverflow.com/questions/43944365/how-to-do-multiuser-in-a-frame
     - [[p.supports]] [[prdct.networked-aframe]]
+  - [[course.gamedev-patterns-ts]]
 
 ## [[p.hasCon]]
 
