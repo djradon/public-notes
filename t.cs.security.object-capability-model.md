@@ -2,7 +2,7 @@
 id: q3uwldjsxdyg75e2ae8jitg
 title: Object Capability Model
 desc: ''
-updated: 1652767131117
+updated: 1680447269533
 created: 1652735164588
 ---
 
@@ -11,7 +11,7 @@ created: 1652735164588
   - https://decentralized-id.com/web-standards/object-capabilities/
 
 
-[[p.hasImplementation]]
+[[c.Implementation]]
 Notable research and commercial systems employing capability-based security include the following:
 
 -   [Tahoe-LAFS](https://en.wikipedia.org/wiki/Tahoe-LAFS "Tahoe-LAFS"), an open-source capability-based filesystem

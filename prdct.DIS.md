@@ -2,13 +2,13 @@
 id: AHiVyAhf7sen346pI4TKT
 title: DIS
 desc: Distributed Interactive Simulation standard
-updated: 1637848950261
+updated: 1680447269517
 created: 1637843141306
 ---
 
 
 
-- [[p.hasImplementation]] [[prdct.open-dis-javascript]]
+- [[c.Implementation]] [[prdct.open-dis-javascript]]
 
 - PDU: Protocol Data Units
 

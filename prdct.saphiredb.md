@@ -2,7 +2,7 @@
 id: HPj90WXvRWSvIRQ27dh1S
 title: Saphiredb
 desc: 'self-hosted, easy to use realtime database for .NET'
-updated: 1675066292088
+updated: 1680447269531
 created: 1645299168806
 ---
 
@@ -12,5 +12,5 @@ created: 1645299168806
   - [[prdct.node]]
   - [[prdct.React]]
   - [[prdct.svelte]]
-- [[p.hasImplementation]]
+- [[c.Implementation]]
   - [[prdct.asp-net]]

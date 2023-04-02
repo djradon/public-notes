@@ -4,7 +4,7 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1674817111152
+updated: 1680447269514
 created: 1642897812921
 ---
 
@@ -36,7 +36,7 @@ created: 1642897812921
 - https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/
 - 
 
-## [[p.hasImplementation]]
+## [[c.Implementation]]
 
 - [[game.tosios]]
 

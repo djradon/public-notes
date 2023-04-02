@@ -2,14 +2,14 @@
 id: sI0oVfigAwd9jqXHm4CFj
 title: HLA
 desc: High-Level Architecture
-updated: 1653624988104
+updated: 1680447269525
 created: 1637838948809
 ---
 
 
 
 - [[p.hasApplication]] [[t.cs.simulation]] [[Distributed Interactive Simulation|t.cs.simulation.distributed-interactive-simulation]]
-- [[p.hasImplementation]]
+- [[c.Implementation]]
   - [[prdct.mak-rti]]
   - [[prdct.CERTI]]
   - [[prdct.prepar3d]]
