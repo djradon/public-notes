@@ -1,0 +1,38 @@
+{
+    "Year": {
+        "prefix": "ty",
+        "scope": "markdown,yaml",
+        "body": "#t.$CURRENT_YEAR",
+        "description": "current year in tag format, prefixed with a #t."
+    },
+    "Month": {
+        "prefix": "tm",
+        "scope": "markdown,yaml",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH",
+        "description": "current month in tag format, prefixed with a #t."
+    },
+    "Date": {
+        "prefix": "td",
+        "scope": "markdown,yaml",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE",
+        "description": "current date in tag format, prefixed with a #t."
+    },
+    "Hour": {
+        "prefix": "th",
+        "scope": "markdown,yaml",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR",
+        "description": "current hour in tag format, prefixed with a #t."
+    },
+    "Minute": {
+        "prefix": "time",
+        "scope": "markdown,yaml",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR.$CURRENT_MINUTE",
+        "description": "current time in tag format, prefixed with a #t."
+    },
+    "Second": {
+        "prefix": "ts",
+        "scope": "markdown,yaml",
+        "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_HOUR.$CURRENT_MINUTE.$CURRENT_SECOND",
+        "description": "current time - to the second - in tag format, prefixed with a #t."
+    }
+}
