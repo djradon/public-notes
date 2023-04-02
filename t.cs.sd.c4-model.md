@@ -1,8 +1,8 @@
 ---
 id: DyUK7zKrSwEaMNvad3NYh
 title: C4 Model
-desc: 'model a software system, at various levels of abstraction'
-updated: 1645853999582
+desc: 'model a software system, at various levels of abstraction (context, containers, components and code)'
+updated: 1661888136640
 created: 1645831289441
 ---
 
