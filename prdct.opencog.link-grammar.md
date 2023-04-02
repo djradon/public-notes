@@ -2,7 +2,7 @@
 id: tg4ybxj4xevu8uy1zejqqic
 title: Link Grammar
 desc: 'exhibits the linguistic (natural language) structure of English, Thai, Russian, Arabic, Persian and limited subsets of a half-dozen other languages'
-updated: 1680288607434
+updated: 1680399890388
 created: 1674838789858
 ---
 
@@ -21,5 +21,5 @@ created: 1674838789858
 ## [[c.Resource.Related]]
 
 - [[ar.an-introduction-to-the-link-grammar-parser]]
-
+- http://www.abisource.com/projects/link-grammar/dict/summarize-links.html
 - https://www.link.cs.cmu.edu/link/dict/introduction.html#1 
