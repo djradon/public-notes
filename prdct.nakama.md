@@ -12,7 +12,7 @@ created: 1656792485964
 #repo https://github.com/heroiclabs/nakama
 [[p.writtenIn]] [[t.cs.languages.go]]
 
-- #description an server-
+ #description more buttoned-up than Colyseus
 
 - [[p.hasClientSupport]] [[prdct.Unity]] [[prdct.unreal]] [[prdct.Godot]] [[prdct.defold]] [[t.cs.languages.JavaScript]] [[prdct.cocos2d]]
 - [[p.hadPricing]] https://heroiclabs.com/pricing/
@@ -22,6 +22,18 @@ created: 1656792485964
   - Lua 5.1%
   - TypeScript 4.4%
 - [[p.wasBuiltBy]] [[org.heroic-labs]]
+
+## [[c.Limitation]]
+
+- The JavaScript runtime code is fully sandboxed and cannot access the filesystem, input/output devices, or spawn OS threads or processes.
+
+- The JavaScript runtime is powered by the goja VM which currently supports the JavaScript ES5 spec. The JavaScript runtime has access to the standard library functions included in the ES5 spec.
+
+- There is no support for libraries that require Node, web/browser APIs, or native support (e.g. via Node).
+
+- You cannot call TypeScript functions from the Go runtime, or Go functions from the TypeScript runtime.
+
+The JavaScript runtime code is executed in instanced contexts (VM pool). You cannot use global variables as a way to store state in memory or communicate with other JS processes or function calls.
   
 ## [[p.provokedThoughts]]
 

@@ -12,4 +12,16 @@ created: 1672225977422
   - [[prdct.node]] 
   - [[prdct.deno]] 
     - [[p.hasSource]] https://deno.land/x/playfab_sdk@210511.0
-    - 
+
+## [[c.Limitation]]
+
+- no/bad browser support
+
+## [[c.Pricing]]
+
+- https://playfab.com/pricing :
+  - $0/month before your title passes 100K users
+
+## [[c.Feature]]
+
+- [Cloudscript](https://learn.microsoft.com/en-us/gaming/playfab/features/automation/cloudscript/) : build server-side logic and functionality that scales to meet your demand, without worrying about servers or infrastructure.
