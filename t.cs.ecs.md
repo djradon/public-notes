@@ -18,6 +18,11 @@ created: 1637846686838
     - [[p.supports]] [[prdct.networked-aframe]]
   - [[course.gamedev-patterns-ts]]
 
+## [[c.Implementation]]
+
+- [[prdct.arch]] (C#)
+- 
+
 ## [[p.hasCon]]
 
 - https://medium.com/@rdolivo/ecs-for-gamedev-with-typescript-5a1204f594bc
@@ -34,3 +39,7 @@ created: 1637846686838
     - "the idea isn’t that there’s a fixed target called a “game engine” that you go out and build, and then you build the game on top of it. For my case at least, the engine is the broader codebase that evolves around the game as you build it."
     - "People like building shit. It’s fun. It’s really fun."
 
+### [[p.hasResourceList]]
+
+- https://github.com/Chillu1/CSharpECSComparison
+- 

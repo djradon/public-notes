@@ -7,6 +7,7 @@ created: 1674830694032
 ---
 
 - #repo https://github.com/n8n-io/n8n
+- [[p.instanceOf]] [[c.Software.Workflow]]
 - #similar [[prdct.n8n]] [[prdct.dagster]] [[prdct.temporal]] [[prdct.prefect]] [[prdct.Airflow]]  ^xnxaubd7sqiw
 
 ## [[c.Comparison]]

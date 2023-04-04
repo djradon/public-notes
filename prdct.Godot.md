@@ -13,6 +13,7 @@ created: 1637591669334
 - [[p.builtWith]] [[t.cs.languages.Cpp]]
 - [[p.hasScriptingLanguage]] 
   - [[t.cs.languages.GDScript]] 
-  - [[t.cs.languages.C]]
+  - [[t.cs.languages.C-sharp]]
+  - [[t.cs.languages.Cpp]]
   - [[t.cs.languages.typescript]] via https://github.com/GodotExplorer/ECMAScript and [[prdct.quikckjs]]
 

@@ -6,9 +6,9 @@ updated: 1673926935919
 created: 1672804422577
 ---
 
-[[t.cs.ui.cli]] [[t.cs.programming.repl]]
-
-#repo https://github.com/hongaar/bandersnatch
+- [[c.Topic]] [[t.cs.ui.cli]] [[t.cs.programming.repl]]
+- [[p.instanceOf]] [[c.Software.CLI-framework]]
+- #repo https://github.com/hongaar/bandersnatch
 
 ## [[c.Feature]]
 
