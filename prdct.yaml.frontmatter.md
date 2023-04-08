@@ -7,7 +7,7 @@ created: 1635573429434
 ---
 
 
-[[p.hasRelatedResource]] 
+[[c.Resource]] 
 
 - https://www.11ty.dev/docs/data-frontmatter/
 - 

@@ -6,6 +6,6 @@ updated: 1669806688020
 created: 1669806639725
 ---
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7 [[prdct.nextjs]]

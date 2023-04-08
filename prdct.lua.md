@@ -8,7 +8,7 @@ created: 1658318758327
 
 - syntax similar to Modula
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - http://lua.space/webdev/why-we-rewrote-lua-in-js
   - 

@@ -14,6 +14,6 @@ created: 1638055287841
 - [[p.reflected]] [[t.phil.epistemology.constructivism]]
   - [[p.claimedBy]] https://www.systemsinnovation.io/post/hierarchy-heterarchy
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://www.systemsinnovation.io/post/hierarchy-heterarchy

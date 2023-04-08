@@ -20,7 +20,7 @@ created: 1669802119187
   - "They allow people to explore concepts that are a little odd without having to stake their identity to that idea. "
   - "An epistemic status offers dignity to recognition that you might be wrong."
 
-## [[p.hasRelatedResource]] 
+## [[c.Resource]] 
 
 - https://devonzuegel.com/post/epistemic-statuses-are-lazy-and-that-is-a-good-thing
 

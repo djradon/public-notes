@@ -6,6 +6,6 @@ updated: 1670037919335
 created: 1669928920177
 ---
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [[ar.taxonomy-of-actors]]

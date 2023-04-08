@@ -8,5 +8,5 @@ created: 1640669757240
 
 
 
-- [[p.hasResourceList]]
+- [[p.c.Resource.List]]
   - https://www.typewolf.com/top-10-slab-serif-fonts

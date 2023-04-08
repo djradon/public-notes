@@ -11,7 +11,7 @@ created: 1673566763687
   - "when the GM makes a move, it happens, no die roll necessary"
   - PbtA games offer a range of mechanics which define how the PCs interact
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://cannibalhalflinggaming.com/2016/12/14/level-one-wonk-a-novices-guide-to-powered-by-the-apocalypse/
   - [[p.hasHighlight]]

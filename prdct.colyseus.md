@@ -20,7 +20,7 @@ created: 1642897812921
   - [[Tosios|game.tosios]]
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://docs.google.com/presentation/d/e/2PACX-1vSjJtmU-SIkng_bFQ5z1000M6nPSoAoQL54j0Y_Cbg7R5tRe9FXLKaBmcKbY_iyEpnMqQGDjx_335QJ/embed?start=false&loop=false&delayms=3000#slide=id.p
 

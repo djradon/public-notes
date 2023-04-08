@@ -23,7 +23,7 @@ The Text-As-Graph (TAG) data model and the associated syntax [[prdct.TAGML]] are
   - Zero or more Branching nodes. A Branching node is connected to a Text node or another Branching node with a directed edge. It is used to mark the beginning and end of a nonlinear structure.
 
 
-## [[c.Resource.Related]]
+## [[c.Resource]]
 
 - [[ar.texts-as-hypergraphs-an-intuitive-representation-of-interpretations-of-text]]
 - [[t.cs.graph.hypergraph]]

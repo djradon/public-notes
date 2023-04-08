@@ -8,5 +8,5 @@ created: 1653255944647
 
 
 - [[p.attributedTo]] @raymond-loewy
-- [[p.hasRelatedResource]]
+- [[c.Resource]]
   - https://www.interaction-design.org/literature/article/design-for-the-future-but-balance-it-with-your-users-present

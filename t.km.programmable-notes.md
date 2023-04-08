@@ -10,6 +10,6 @@ created: 1672312293562
 
 - [[t.cs.end-user-programming]]
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://maggieappleton.com/programmatic-notes

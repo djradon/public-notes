@@ -9,6 +9,6 @@ created: 1647506448531
 
 - [[p.hasRelatedSolution]] [[prdct.jrml]]
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://blog.semiring.com/2020/08/20/2020-08-20-JSON-NLP-2-RDF-Mapping-Language-Specification/

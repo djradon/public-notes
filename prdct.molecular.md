@@ -37,6 +37,6 @@ created: 1674360309430
 -   official [API gateway](https://github.com/moleculerjs/moleculer-web), [Database access](https://github.com/moleculerjs/moleculer-db) and many other modules…
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://techblog.geekyants.com/migrating-your-molecular-project-to-ts

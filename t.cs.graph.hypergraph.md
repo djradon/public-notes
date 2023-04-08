@@ -19,7 +19,7 @@ created: 1652767633550
 - [[p.hasRelatedTopic]]
   - [[t.cs.graph.hyperedge]]
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [[ar.thinkmind.the-typed-graph-model]]
 - [[Modelling Data with Hypergraphs. A closer look at the TypeDB hypergraph|ar.medium.modelling-data-with-hypergraphs]]

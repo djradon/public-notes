@@ -7,5 +7,5 @@ created: 1635663879826
 ---
 
 
-- [[p.hasResourceList]] 
+- [[p.c.Resource.List]] 
   - https://wiki.roll20.net/Useful_links_for_mapping

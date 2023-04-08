@@ -12,4 +12,4 @@ created: 1640057990310
   - [[p.hasSource]] https://www.fireup.pro/blog/redux-vs-react-context-which-should-you-use
 - [[p.compatibleWith]] [[prdct.svelte]]
 - [[p.integratesWith]] [[prdct.svelte]]
-  - [[p.hasRelatedResource]] https://svelte.dev/repl/b41141c04f1140b687ce5f1bb3c036b9?version=3.48.0
+  - [[c.Resource]] https://svelte.dev/repl/b41141c04f1140b687ce5f1bb3c036b9?version=3.48.0

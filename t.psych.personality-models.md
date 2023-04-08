@@ -30,7 +30,7 @@ created: 1635724858083
 -   **Role-models:** These people are natural leaders with low levels of neuroticism and high levels of agreeableness, extraversion, openness and conscientiousness. They listen to new ideas and are reliable.
 -   **Self-centered:** While these people score high in extraversion they rank below average openness, agreeableness and conscientiousness.
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [1]: [[The Sixth Model of Personality|ar.psychologytoday.the-sixth-model-personality]]
 - [2]: [[ar.today.personality-types-average-self-centered-role-model-or-reserved]]

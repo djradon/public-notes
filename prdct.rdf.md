@@ -14,7 +14,7 @@ created: 1633160681527
 - [-] [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
   - the concept of the "unnamed default graph"/master-graph is interesting; 
     - seems like dendron.yml is the master graph. expressed as yaml
-  - [[p.hasRelatedResource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
+  - [[c.Resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
 
 ## [[p.hasIssue]]
 
@@ -29,7 +29,7 @@ created: 1633160681527
 - [[prdct.rdf.aREF]]
 - [[prdct.rdf.turtle]]
  
-## hasRelatedResource
+## [[c.Resource]]
 
 - https://www.w3.org/TR/rdf11-datasets/
   - [[p.begsQuestion]] [-] What is [[the difference betwee the union of the graphs and their merge|tasks.rdf.the-difference-betwee-the-union-of-the-graphs-and-their-merge]]? Is the distinction meaningful for [[prdct.dendron]]?

@@ -7,4 +7,4 @@ created: 1669803774943
 ---
 
 - [[p.similarTo]] [[t.cs.end-user-programming]]
-- [[p.hasRelatedResource]] [[ar.maggieappleton.programming-portals]]
+- [[c.Resource]] [[ar.maggieappleton.programming-portals]]

@@ -17,7 +17,7 @@ created: 1637838948809
 - [[p.hasTraining]] https://pitchtechnologies.com/hla-hands-on-training/
   - [[p.hasAuthor]] [[org.Pitch-Technologies]]
 
-## [[p.hasResourceList]]
+## [[p.c.Resource.List]]
 
 - [HLA Run Time Infrastructure: A Comparative Study](https://oaji.net/articles/2019/2712-1573379026.pdf)
 - https://www.informs-sim.org/wsc97papers/0373.PDF

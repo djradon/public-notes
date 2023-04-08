@@ -34,7 +34,7 @@ created: 1635700925535
 
 ### Requirements
 
-- [[p.hasRelatedResource]] https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories
+- [[c.Resource]] https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories
 
 ### User Stories
 
@@ -42,7 +42,7 @@ created: 1635700925535
 
 ### Story Maps
 
-- [[p.hasRelatedResource]] https://www.altexsoft.com/blog/uxdesign/a-complete-guide-to-user-story-mapping-process-tips-advantages-and-use-cases-in-product-management/
+- [[c.Resource]] https://www.altexsoft.com/blog/uxdesign/a-complete-guide-to-user-story-mapping-process-tips-advantages-and-use-cases-in-product-management/
 - [[p.attributedTo]] [Jeff Patton](https://www.scrumalliance.org/community/profile/jpatton)
 - [[p.hasElements]]
   - Items are arranged in two dimensions
@@ -55,6 +55,6 @@ created: 1635700925535
   - Built-in user journey.
     - although, imagine a 3d visualization overlapping user journeys and their interaction points. 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://www.productplan.com/glossary

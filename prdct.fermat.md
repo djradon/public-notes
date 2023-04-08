@@ -7,4 +7,4 @@ created: 1669805615667
 ---
 
 
-- [[p.hasRelatedResource]] [[ar.maggieappleton.programming-portals]]
+- [[c.Resource]] [[ar.maggieappleton.programming-portals]]

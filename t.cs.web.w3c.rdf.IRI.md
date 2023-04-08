@@ -8,7 +8,7 @@ created: 1634922765107
 
 
 
-## hasRelatedResource
+## [[c.Resource]]
 
 - https://www.stardog.com/tutorials/data-model/#iris
   - [[p.hasHighlight]]

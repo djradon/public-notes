@@ -40,7 +40,7 @@ created: 1658585055608
   - [[p.hasSource]] [[Event Sourcing with Examples Node.js at Scale|ar.risingstack.event-sourcing-with-examples-node-js-at-scale]]
 - 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://medium.com/digitalfrontiers/the-good-the-bad-and-the-ugly-how-to-choose-an-event-store-f1f2a3b70b2d
   - [[p.hasHighlight]]

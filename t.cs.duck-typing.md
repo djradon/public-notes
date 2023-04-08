@@ -6,7 +6,7 @@ updated: 1671552433788
 created: 1671551508222
 ---
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://devopedia.org/duck-typing
   - [[p.hasHighlight]]

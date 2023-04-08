@@ -8,7 +8,7 @@ created: 1671552286662
 
 - [[p.attributedTo]] @alex-martelli
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://devopedia.org/duck-typing
   - [[p.hasHighlight]]

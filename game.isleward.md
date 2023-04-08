@@ -14,7 +14,7 @@ created: 1641626465625
 - [[p.hasFeature]]
   - you can plan future moves by extending your path out faster than you can get there, e.g. buffering  
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [Building the server infrastructure for an indie MMORPG](https://vildravn.dev/posts/indie-mmo-infra/) 2021-05-25
 - 

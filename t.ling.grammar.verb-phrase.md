@@ -10,5 +10,5 @@ created: 1638600353465
 
 
 
-- [[p.hasRelatedResource]]
+- [[c.Resource]]
   - https://owl.purdue.edu/owl/general_writing/mechanics/gerunds_participles_and_infinitives/infinitives.html

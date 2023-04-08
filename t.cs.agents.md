@@ -6,7 +6,7 @@ updated: 1669505271664
 created: 1669499975986
 ---
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [[ar.c2.actor-vs-agent]]
 

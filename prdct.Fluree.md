@@ -15,7 +15,7 @@ Open source semantic graph database that guarantees data integrity, facilitates 
 - [[p.hasBlog]] https://flur.ee/blog/
 - [[p.hasFeature]] 
   - [[t.cs.data.time-travel]]
-    - [[p.hasRelatedResource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ https://flur.ee/2021/07/08/time-traveling-with-fluree/
+    - [[c.Resource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ https://flur.ee/2021/07/08/time-traveling-with-fluree/
   - " optionally decentralized (e.g. using StorJ via Tardigrade)"
     - [[p.hasSource]] https://github.com/athensresearch/athens/issues/9#issuecomment-786844129
 

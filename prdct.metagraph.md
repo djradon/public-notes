@@ -7,6 +7,6 @@ created: 1656003265909
 ---
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [[ar.thinkmind.the-typed-graph-model]]

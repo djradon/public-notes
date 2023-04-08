@@ -11,9 +11,9 @@ created: 1637839939735
 
 
 - [[p.instanceOf]] [[c.Middleware]]
-- [[p.hasResourceList]] https://en.wikipedia.org/wiki/Run-time_infrastructure_(simulation)
+- [[p.c.Resource.List]] https://en.wikipedia.org/wiki/Run-time_infrastructure_(simulation)
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [Comparison of High Level Architecture
 Run-Time Infrastructure Wire Protocols

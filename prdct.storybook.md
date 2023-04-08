@@ -11,6 +11,6 @@ created: 1654056981545
 - [[p.supports]]
   - [[prdct.component-story-format]]
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://www.componentdriven.org/

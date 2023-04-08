@@ -8,4 +8,4 @@ created: 1636884630195
 
 
 
-- [[p.hasRelatedResource]] [[book.finite-and-infinite-games]]
+- [[c.Resource]] [[book.finite-and-infinite-games]]

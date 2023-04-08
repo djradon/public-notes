@@ -7,4 +7,4 @@ created: 1635660825055
 ---
 
 
-- [[p.hasResourceList]] https://libregamewiki.org/Role-playing_games
+- [[p.c.Resource.List]] https://libregamewiki.org/Role-playing_games

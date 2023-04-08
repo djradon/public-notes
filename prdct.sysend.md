@@ -10,7 +10,7 @@ created: 1673583309616
 
 "The new version has the #RPC like mechanism that allows calling methods between browser Tabs."
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://itnext.io/how-to-create-web-server-in-browser-ffaa371d2b53s
   - [[p.used]] [[prdct.wayne]]

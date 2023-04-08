@@ -6,6 +6,6 @@ updated: 1680400301168
 created: 1680400275490
 ---
 
-## [[c.Resource.Related]]
+## [[c.Resource]]
 
 - https://javascript.plainenglish.io/meet-barista-client-side-codebase-as-a-graph-9479c99aa3a9

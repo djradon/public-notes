@@ -21,6 +21,6 @@ created: 1634185485262
 
 - ![[proj.bia#^rxGIZrgVBtUO:#*]]
 
-## [[p.hasResourceList]]
+## [[p.c.Resource.List]]
 
 - https://collegeinfogeek.com/best-to-do-list-app/

@@ -7,7 +7,7 @@ created: 1644851083649
 ---
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 -  https://forum.babylonjs.com/t/babylon-js-project-start-organization/23856/36
 

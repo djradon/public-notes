@@ -23,7 +23,7 @@ created: 1634620119007
 - functionInDocument ::= 'CREATION_TIME' | 'EXPIRATION_TIME' | 'MODIFICATION_TIME' | 'PUBLICATION_TIME' | 'RELEASE_TIME'| 'RECEPTION_TIME' | 'NONE' 
 - 
 
-### hasResources
+### [[c.Resource]]
 
 - [[ar.psu.decision-time-in-temporal-databases]]
 - [[ar.au.semantics-of-temporal-models-with-multiple-temporal-dimensions]]

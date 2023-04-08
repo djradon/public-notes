@@ -6,7 +6,7 @@ updated: 1672668861081
 created: 1672667999433
 ---
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://stackoverflow.com/questions/12070404/functional-programming-recursing-a-game-state-loop
 - https://stackoverflow.com/questions/71909776/how-can-i-get-typescript-to-perform-tail-recursion-optimization

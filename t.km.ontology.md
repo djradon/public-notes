@@ -8,6 +8,6 @@ created: 1633445910705
 
 
 
-## [[hasResource]]
+## [[c.Resource]]
 
 - https://www.springer.com/gp/book/9783540709992

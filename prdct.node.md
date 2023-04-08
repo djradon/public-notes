@@ -8,7 +8,7 @@ created: 1644133705614
 
 - [[p.correspondsTo]] [[Node.js|t.cs.runtime-environment.node-js]]
   
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [[ar.twilio.how-to-build-a-cli-with-node-js]] #cli
 

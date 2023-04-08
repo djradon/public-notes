@@ -10,6 +10,6 @@ created: 1638671679623
 
 
 
-- [[p.hasRelatedResource]]
+- [[c.Resource]]
   - https://skwee357.medium.com/supercharge-your-nodejs-with-rust-f78952d2fa8
   - 

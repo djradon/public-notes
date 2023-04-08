@@ -7,7 +7,7 @@ created: 1652735164588
 ---
 
 
-- [[p.hasRelatedResource]]
+- [[c.Resource]]
   - https://decentralized-id.com/web-standards/object-capabilities/
 
 

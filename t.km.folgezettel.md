@@ -13,6 +13,6 @@ created: 1637404121204
     - [[p.hasSource]] [[ar.medium.the-folgezettel-conundrum]]
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 -  https://zettelkasten.de/posts/understanding-hierarchy-translating-folgezettel/
 

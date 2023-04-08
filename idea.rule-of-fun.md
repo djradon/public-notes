@@ -7,7 +7,7 @@ created: 1671536578791
 ---
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFun
   - [[p.hasHighlight]]

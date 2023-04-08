@@ -9,6 +9,6 @@ created: 1636636895603
 
 - [[p.hadDefinition]] a program that resides and executes on a blockchain or peer-to-peer network
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://blog.suhailkakar.com/what-are-dapps-a-complete-guide-to-decentralized-applications?source=newsletter

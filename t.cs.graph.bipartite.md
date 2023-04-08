@@ -7,4 +7,4 @@ created: 1651251935857
 ---
 
 
-- [[p.hasRelatedResource]] https://mathworld.wolfram.com/BipartiteGraph.html
+- [[c.Resource]] https://mathworld.wolfram.com/BipartiteGraph.html

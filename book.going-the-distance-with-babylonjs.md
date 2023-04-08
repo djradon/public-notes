@@ -8,4 +8,4 @@ created: 1672226917643
 
 #url https://learning.oreilly.com/library/view/going-the-distance/9781801076586/
 
-- [[p.hasRelatedResource]] [[game.space-truckers]]
+- [[c.Resource]] [[game.space-truckers]]

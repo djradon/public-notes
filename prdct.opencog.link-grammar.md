@@ -18,7 +18,7 @@ created: 1674838789858
 
 - [[book.homotopy-type-theory]]
 
-## [[c.Resource.Related]]
+## [[c.Resource]]
 
 - [[ar.an-introduction-to-the-link-grammar-parser]]
 - http://www.abisource.com/projects/link-grammar/dict/summarize-links.html

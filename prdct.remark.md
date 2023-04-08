@@ -10,6 +10,6 @@ created: 1671854886923
 
 - [[p.writtenIn]] [[t.cs.languages.JavaScript]]
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [Stackoverflow: How to parse markdown to json using remark](https://stackoverflow.com/questions/68647885/how-to-parse-markdown-to-json-using-remark)

@@ -10,6 +10,6 @@ created: 1672721308132
 #repo https://github.com/pinojs/pino
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://www.nearform.com/blog/pino-the-fastest-node-js-logger-for-production/

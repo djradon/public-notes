@@ -21,6 +21,6 @@ created: 1638024748401
     - attribute: additional info about a thing, e.g. applicability for furniture making
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://stackoverflow.com/questions/295104/what-is-the-difference-between-a-field-and-a-property

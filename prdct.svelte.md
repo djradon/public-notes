@@ -15,6 +15,6 @@ created: 1640060047962
   - [[p.hasSource]] https://javascript.plainenglish.io/svelte-from-a-react-perspective-its-weird-but-fun-d9cc9ba242d7
   
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://javascript.plainenglish.io/svelte-from-a-react-perspective-its-weird-but-fun-d9cc9ba242d7

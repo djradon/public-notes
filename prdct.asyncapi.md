@@ -7,7 +7,7 @@ created: 1673569081430
 ---
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://www.asyncapi.com/blog/websocket-part1
 - https://nordicapis.com/7-protocols-good-for-documenting-with-asyncapi/

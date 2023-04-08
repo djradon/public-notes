@@ -6,6 +6,6 @@ updated: 1669679612612
 created: 1669679601515
 ---
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://developers.urbit.org/reference/hoon/overview

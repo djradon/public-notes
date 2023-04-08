@@ -7,7 +7,7 @@ created: 1636171046830
 ---
 
 
-- [[p.hasResourceList]] https://restfulapi.net/hateoas/
+- [[p.c.Resource.List]] https://restfulapi.net/hateoas/
     - [[p.hasComment]] 
 
     - > The dynamic example would be when client building the menu based on links returned for the resource. So server (base on user’s authorization) will return only links accessible for the user and client will build the menu dynamically.

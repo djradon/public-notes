@@ -22,7 +22,7 @@ created: 1672335135527
 - Events can be used to implement event sourcing, communicate facts, trigger out-of-band processing, or send notifications. Events become an essential piece of any system.
 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://developers.redhat.com/blog/2021/03/09/an-introduction-to-javascript-sdk-for-cloudevents
   - "Currently, there are two event formats: Binary, which is the preferred format, and structured. Binary is recommended because it is additive. That is, the binary format only adds some headers to the HTTP request. If there is a middleware that doesn’t understand CloudEvents, it won’t break anything, but if that system is updated to support CloudEvents, it starts working."

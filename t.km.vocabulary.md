@@ -8,4 +8,4 @@ created: 1633223436551
 
 
 
-- [[p.hasResourceList]] https://github.com/solid/solid-namespace
+- [[p.c.Resource.List]] https://github.com/solid/solid-namespace

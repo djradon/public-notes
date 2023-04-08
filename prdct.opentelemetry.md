@@ -8,6 +8,6 @@ created: 1640059811584
 
 
 
-- [[p.hasRelatedResource]] 
+- [[c.Resource]] 
   - https://newrelic.com/blog/best-practices/what-is-opentelemetry
   - 

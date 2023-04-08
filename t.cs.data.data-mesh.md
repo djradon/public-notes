@@ -14,7 +14,7 @@ created: 1637800611402
 - "federated computational governance"
 
 
-- [[p.hasRelatedResource]]
+- [[c.Resource]]
   - https://github.com/GavinMendelGleason/data_mesh
   - https://terminusdb.com/blog/knowledge-graph-data-mesh-metaverse-2/
   - 

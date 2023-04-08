@@ -30,17 +30,17 @@ created: 1631216404603
 ## [[c.UseCase]]
 
 - [[t.lit.fiction.writing]]
-  - [[p.hasRelatedResource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
+  - [[c.Resource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
 
 ## References
 
 - https://notes.andymatuschak.org/Zettelkasten
 
-## [[p.hasResourceList]]
+## [[p.c.Resource.List]]
 
 - https://zettelkasten.de/posts/overview/
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten/
 

@@ -7,7 +7,7 @@ created: 1645937459747
 ---
 
 
-- [[p.hasRelatedResource]]
+- [[c.Resource]]
   - https://news.ycombinator.com/item?id=25064588
     - #summary the hyperedge, rather than being an ordered pair of vertexes, is an ordered list of vertexes
   - [[Graphs, Metagraphs, Ram, Cpu|ar.opencog.graphs-metagraphs-ram-cpu]]

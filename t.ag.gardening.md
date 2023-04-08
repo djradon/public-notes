@@ -12,7 +12,7 @@ created: 1655681631046
     - 
 
 
-- [[p.hasRelatedResource]]
+- [[c.Resource]]
   - https://www.latimes.com/lifestyle/story/2022-05-06/how-to-water-vegetable-garden-during-a-drought-and-hot-summer
     - [[p.hasHighlight]] “In most cases, people are watering too much anyway, so one day a week is very doable and will probably be better for everybody, including the plants,” Savio says. “My neighbor used to come home and sprinkle her garden every night. She did it for her benefit because it was relaxing, but her plants had roots that were barely an inch into the soil. Her watering satisfied them each night, but when the 100-degree heat came all her plants were dead because there had been no system for their roots to grow deeper. Consequently, they literally fried in the soil.”
     - 

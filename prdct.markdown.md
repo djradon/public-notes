@@ -20,7 +20,7 @@ created: 1633579231418
 
 - [c] summarize footnoting. using ^ seems scary give dendron references.
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://cirosantilli.com/markdown-style-guide/#top-level-header
   - a bunch of suggested best practices

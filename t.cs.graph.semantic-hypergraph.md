@@ -10,6 +10,6 @@ created: 1644488276758
 - [[p.similarTo]] [[t.cs.graph.metagraph]]
 - [[p.hasSolution]]
   - [[prdct.graphbrain]]
-    - [[p.hasRelatedResource]] https://graphbrain.net/overview/hypergraph.html
+    - [[c.Resource]] https://graphbrain.net/overview/hypergraph.html
   - [[prdct.atomspace]]
   - [[idea.text-as-graph]]

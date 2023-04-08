@@ -12,6 +12,6 @@ created: 1638597490269
   - boo hoo
 - [[p.hasTopic]] [[t.cs.graph.]]
 - rdf-style semantic graphs (with triple, quads, and maybe-mores) share the misfortunate but understandable mistake of representing the verb or property type as an arc
-- [[p.hasRelatedResource]] ["I think the only mistake you could make is to use the term "arc" for undirected graph."](https://math.stackexchange.com/q/1441525)
+- [[c.Resource]] ["I think the only mistake you could make is to use the term "arc" for undirected graph."](https://math.stackexchange.com/q/1441525)
 - some relationships are undirected; deal with it
 - 

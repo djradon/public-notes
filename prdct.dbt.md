@@ -8,4 +8,4 @@ created: 1637618887068
 
 ![[prdct.n8n#^xnxaubd7sqiw]]
 - [[p.vs]] [[prdct.Airflow]] [[prdct.great_expectations]][[prdct.Flyway]]
-- [[p.hasRelatedResource]] https://aptitive.com/blog/what-is-dbt/
+- [[c.Resource]] https://aptitive.com/blog/what-is-dbt/

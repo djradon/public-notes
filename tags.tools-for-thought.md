@@ -7,5 +7,5 @@ created: 1652768410665
 ---
 
 
-- [[p.hasRelatedResource]] https://news.ycombinator.com/item?id=23667381
+- [[c.Resource]] https://news.ycombinator.com/item?id=23667381
   - talks about dealing with lotsa files in a single top-level directory... but Dendron's vaults can help

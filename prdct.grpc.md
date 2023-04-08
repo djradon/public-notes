@@ -6,7 +6,7 @@ updated: 1680982433666
 created: 1669363277000
 ---
 
-- [[p.hasResourceList]] https://github.com/grpc-ecosystem/awesome-grpc
+- [[p.c.Resource.List]] https://github.com/grpc-ecosystem/awesome-grpc
 
 ## [[c.Feature]]
 

@@ -14,6 +14,6 @@ created: 1633629215451
     - "Semantic publication provides a way for computers to understand the structure and even the meaning of the published information, making information search and data integration more efficient" 
     - 
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://www.w3.org/wiki/RdfThesaurus

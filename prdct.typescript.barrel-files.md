@@ -10,7 +10,7 @@ created: 1672637056748
   - https://adrianfaciu.dev/posts/barrel-files/
 - [-] feels like probably shouldn't use 'em, but jury is still out
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://javascript.plainenglish.io/avoiding-import-issues-in-typescript-monorepos-d5a4b21f90ef
 - https://dev.to/luispa/how-to-create-barrels-in-typescript-or-javascript-59ma

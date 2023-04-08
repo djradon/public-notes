@@ -10,6 +10,6 @@ created: 1636634769211
 - lack of standardization in terminology creates confusion, mis-communication, and errors
 - [[p.hasContext]] medical jargon
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 

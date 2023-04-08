@@ -10,6 +10,6 @@ created: 1650068576540
 
 - [[p.hasAuthor]] @boris-iordanov
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - https://blog.vaticle.com/meet-the-team-boris-iordanov-6a30a949cdab
