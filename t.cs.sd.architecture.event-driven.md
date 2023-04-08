@@ -30,6 +30,7 @@ created: 1669463161648
   - "I have seen a Kafka being used to send time-sensitive events that needed to be consumed by all running subscribers when a non-log based broker should have been used, such as RabbitMQ, AWS SQS or AWS SNS or even REDIS."
 - https://danieltammadge.com/2022/07/why-not-having-a-schema-registry-can-be-a-fatal-mistake-in-event-driven-architecture/
 - https://apisix.apache.org/blog/2022/09/23/build-event-driven-api/
+- https://memphis.dev/blog/why-event-first-programming-changes-everything/ lists benefits of EDA, and has a section on "When should you use event-driven architecture?"
 
 ### [[p.hasLearningResource]]
 
