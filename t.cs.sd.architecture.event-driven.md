@@ -2,7 +2,7 @@
 id: ehflhupgftjncjisnmcxyzy
 title: Event Driven Architecture
 desc: 'Event-driven architecture uses events to communicate notable data changes between service boundaries'
-updated: 1674399371194
+updated: 1680900021500
 created: 1669463161648
 ---
 
@@ -29,7 +29,7 @@ created: 1669463161648
   - "Often people don’t separate brokers, but in the book Building Event-Driven Microservices, the author divides the two into two different camps: Message brokers [[t.cs.sd.architecture.event-driven.event-broker]]"
   - "I have seen a Kafka being used to send time-sensitive events that needed to be consumed by all running subscribers when a non-log based broker should have been used, such as RabbitMQ, AWS SQS or AWS SNS or even REDIS."
 - https://danieltammadge.com/2022/07/why-not-having-a-schema-registry-can-be-a-fatal-mistake-in-event-driven-architecture/
-  - 
+- https://apisix.apache.org/blog/2022/09/23/build-event-driven-api/
 
 ### [[p.hasLearningResource]]
 

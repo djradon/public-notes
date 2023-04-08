@@ -2,7 +2,7 @@
 id: 0eutdl2f3fv209my6t8egj9
 title: JS-son
 desc: 'Light-weight reasoning-loop agent library for JavaScript'
-updated: 1673501086108
+updated: 1680982481207
 created: 1671517516905
 ---
 
@@ -13,6 +13,8 @@ created: 1671517516905
 - [[p.hasRoadmapFeature]] 
   - [Integration with WoT Scripting API](https://github.com/TimKam/JS-son/issues/99)
     - [[p.hasRelatedSolution]] [[prdct.wot-scripting-api]]
+
 ## [[p.hasRelatedTopic]]
 
 - [[t.cs.agents.bdi]]
+- [[t.cs.agents]]
