@@ -1,12 +1,12 @@
 ---
 id: 08k9bzf078nrt71hp1rxaao
 title: Orchestration
-desc: 'still need a component that is aware of the entire workflow'
+desc: still need a component that is aware of the entire workflow
 updated: 1680909743280
 created: 1680909338629
 ---
 
-## [[c.Solution]]
+## [[
 
 - [[prdct.workflow-core]]
 
