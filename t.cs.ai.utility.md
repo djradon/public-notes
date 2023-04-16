@@ -2,7 +2,7 @@
 id: w69f188b5jo2k7h1n0euttj
 title: Utility AI
 desc: ''
-updated: 1680910091750
+updated: 1681684086472
 created: 1680906854583
 ---
 
