@@ -2,7 +2,7 @@
 id: yua3XXrlkXF5IDZ72OGXb
 title: NodeJS
 desc: ''
-updated: 1672964746038
+updated: 1681690867215
 created: 1644133705614
 ---
 
@@ -15,3 +15,4 @@ created: 1644133705614
 ## [[p.hasLearningResource]]
 
 - [[ar.medium.edge-coders.understanding-node-js-event-driven-architecture]]
+- https://github.com/samerbuna/efficient-node/blob/main/100-learning-node-runtime.adoc

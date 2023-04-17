@@ -2,7 +2,7 @@
 id: nhngdnzck8dbmx6tp2yjq9z
 title: Actor Vs Agent
 desc: ''
-updated: 1670267398960
+updated: 1681691067046
 created: 1669505273500
 ---
 
@@ -16,7 +16,7 @@ created: 1669505273500
 Actor Vs Agent
 An 'Actor' from ActorsModel is similar to objects in OOP:
 
-    passive between processing messages; presence of object in system is irrelevant unless hooked into a framework that will send messages to it
+  passive between processing messages; presence of object in system is irrelevant unless hooked into a framework that will send messages to it
     communicate to an actor by sending a message to it; you must know the actor exists
     while processing a message, an actor may send more messages, create more actors, or update local state
     actors that need extra information in order to complete a task must store it locally or gather it via messages with replies
@@ -25,7 +25,7 @@ An 'Actor' from ActorsModel is similar to objects in OOP:
 
 An 'Agent', as from ConcurrentConstraintProgramming or ReactiveDemandProgramming, is different:
 
-    active continuously - making observations on an environment, constraint store, or perhaps other agents
+  active continuously - making observations on an environment, constraint store, or perhaps other agents
     presence of agent may also affect the system, i.e. applying a rule or demand; nature of effect distinguishes Agent systems
     communicate to an agent by modifying something that it is observing; you do not need to know that the agent exists
     upon observing certain conditions, in some systems agents might spawn new agents or update local state
@@ -37,7 +37,7 @@ They also share a number of similarities: concurrency, TuringComplete.
 
 One can emulate Agents using Actors, but doing so requires a lot of framework and complexity. In particular, in Agent systems the specification of what data the framework must provide to a given agent is implicit in the source-code - and is easily subject to ad-hoc queries and calculations to allow different 'views' of the system. When emulating agents with actors, this information must usually be represented twice (once in the source code, once to hook the framework) and is often subject to a rigid view (though some systems do support flexible scripting languages to gather the data; at least one supports ad-hoc distributed SQL). These frameworks that allow us to treat Actors as Agents are often called PublishSubscribeModels. A standardized pubsub model is DataDistributionService by ObjectModelingGroup. Related is the ObserverPattern, TupleSpace, BlackboardMetaphor, ComplexEventProcessing.
 
-It seems to me that, as far as SoftwareEngineering properties go, Agents are superior to Actors in every way. Agents are generally 'pluggable' - you can easily drop them onto a system, or just as easily pull them out; many are even hot-pluggable or subject to LiveProgramming, which allows a shorter edit-test-debug cycle. Dealing with combinations of continuous inputs, rather than permutations of concurrent messages, dodges a great deal of complexity (roughly '2^N' instead of 'N!') without preventing agents from introducing a bit of ordering where critical. Agents avoid a considerable amount of state associated with hooking into a system, cache management, and concurrency control (i.e. where Actors would require use of serializers).
+It seems to me that, as far as SoftwareEngineering properties go, Agents are superior to Actors in every way. Agents are generally 'pluggable' - you can easily drop them onto a system, or just as easily pull them out; many are even hot-pluggable or subject to LiveProgramming, which allows a shorter edit-test-debug cycle. **Dealing with combinations of continuous inputs, rather than permutations of concurrent messages, dodges a great deal of complexity (roughly '2^N' instead of 'N!') without preventing agents from introducing a bit of ordering where critical.** Agents avoid a considerable amount of state associated with hooking into a system, cache management, and concurrency control (i.e. where Actors would require use of serializers).
 
 A weakness of many agent systems is the use of a shared data space (tuple space, blackboard, constraint store) which raises many concurrency-control, authority, and confidentiality issues. Basically, with a central shared space, you must be very careful about inclusion of untrusted code. If one is not careful, it may also lead to a CentralPointOfFailure or a bottleneck, though those problems can be mitigated by distribution and replication of the space. But, if we reject a shared space, then we must answer: what do agents observe, how do agents affect the system, and how do we handle concurrency?
 
