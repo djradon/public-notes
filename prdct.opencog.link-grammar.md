@@ -2,11 +2,13 @@
 id: tg4ybxj4xevu8uy1zejqqic
 title: Link Grammar
 desc: 'exhibits the linguistic (natural language) structure of English, Thai, Russian, Arabic, Persian and limited subsets of a half-dozen other languages'
-updated: 1680399890388
+updated: 1682111538813
 created: 1674838789858
 ---
 
 #repo https://github.com/opencog/link-grammar
+
+- [-] brainstorm ways LG could be used for knowledge representation
 
 ## [[c.Feature]]
 
