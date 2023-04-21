@@ -2,7 +2,7 @@
 id: ehflhupgftjncjisnmcxyzy
 title: Event Driven Architecture
 desc: 'Event-driven architecture uses events to communicate notable data changes between service boundaries'
-updated: 1680900021500
+updated: 1682058399309
 created: 1669463161648
 ---
 
@@ -31,6 +31,9 @@ created: 1669463161648
 - https://danieltammadge.com/2022/07/why-not-having-a-schema-registry-can-be-a-fatal-mistake-in-event-driven-architecture/
 - https://apisix.apache.org/blog/2022/09/23/build-event-driven-api/
 - https://memphis.dev/blog/why-event-first-programming-changes-everything/ lists benefits of EDA, and has a section on "When should you use event-driven architecture?"
+- https://azure.microsoft.com/en-us/blog/events-data-points-and-messages-choosing-the-right-azure-messaging-service-for-your-data/
+  - "Events largely fall into two big categories: They either hold information about specific actions that have been carried out by the publishing application, or they carry informational data points as elements of a continuously published stream."
+
 
 ### [[p.hasLearningResource]]
 
