@@ -6,6 +6,7 @@ updated: 1652565885589
 created: 1652565773800
 ---
 
+
  
 - [[p.hasAuthor]] @szymon-klarman 
 - [[p.hasURL]] https://blog.vaticle.com/modelling-data-with-hypergraphs-edff1e12edf0)
