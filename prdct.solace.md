@@ -2,12 +2,13 @@
 id: zaqafwg6pkkf3ct4caiddt5
 title: Solace
 desc: ''
-updated: 1672319984998
+updated: 1683225638632
 created: 1672319782724
 ---
 
-[[t.cs.sd.architecture.event-driven.event-broker]]
-
-#url https://solace.com
+- #closed-source
+- #url https://solace.com
+- [[c.Pricing]] "contact sales"
 
 - [[p.similarTo]] [[prdct.azure.event-grid]]
+- [[p.supports]] [[t.cs.sd.rest]]
