@@ -2,7 +2,7 @@
 id: NzujNPnJ2EU7kIQE6VzoU
 title: 'Graphs, Metagraphs, Ram, Cpu'
 desc: ''
-updated: 1645943192467
+updated: 1683134396670
 created: 1645900449458
 ---
 
@@ -14,3 +14,4 @@ created: 1645900449458
     - data (immutable)
     - databases (mutable)
   - atoms: nodes (vertexes) or links (edges)
+- [[t.psych.motivation]] (seeing the judge call for the next case after a lawyer drops dead) vs inspiration
