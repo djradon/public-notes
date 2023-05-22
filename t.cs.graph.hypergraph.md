@@ -2,7 +2,7 @@
 id: cqtllme7cw60cs9vh18yb2s
 title: Hypergraph
 desc: ''
-updated: 1682057278576
+updated: 1684538473175
 created: 1652767633550
 ---
 
@@ -25,3 +25,7 @@ created: 1652767633550
 - [[Modelling Data with Hypergraphs. A closer look at the TypeDB hypergraph|ar.medium.modelling-data-with-hypergraphs]]
 - https://news.ycombinator.com/item?id=32283022
 - https://people.csail.mit.edu/jshun/6827-s22/lectures/lecture10-2.pdf
+- [[ar.opencog.graphs-metagraphs-ram-cpu]]
+  - "The naive representation for the hypergraph is a straight-forward extension of the edge table...
+![](/assets/images/2023-05-19-16-20-39.png)
+    - "The vertex list may be empty, may hold one, or more vertexes. It is necessarily ordered (and thus not a set) and may contain repeated entries (a vertex may appear more than once in the list)"
