@@ -2,7 +2,7 @@
 id: 1nutkn9682og7dmi4au1i4f
 title: Gamesbeat Summit
 desc: ''
-updated: 1684783800975
+updated: 1684869845440
 created: 1684773649705
 ---
 
@@ -98,3 +98,41 @@ created: 1684773649705
   - 3d is 6 months behind 2d (text to 3d or 2d to 3d)
   - driven by the players
   - artists / art directors are the biggest fans of the product
+
+
+## Building the metaverse with open standards
+
+- [[c.Panelist]] @marc-petit @royal-obrien @neil-trevett
+- @neil-trevett 
+  - metaverse bringing together many disruptive technologies, each field interetsing in its own right 
+  - "open standard" is just a contract between two entities about how they will communicate / interoperate
+    - scale up the economy
+  - we're trying to scale up more technologies than normal; there's no one standard organization that can solve
+  - open-source is implementation; open standards is still required; game engines 
+  - "where are the portable libraries"
+  - [[t.cs.augmented-reality]] needs open standards so you can see the hat on different platforms; 
+  - [[t.cs.game.user-generated-content]] needs open standards to preserve everyone's ghost
+  - [[t.cs.web3]] is the public ledger for reputation, economy, etc.
+- @royal-obrien
+  - the receipt is separate from the transaction
+  - [[prdct.webgpu]] bridges the gap, there's progress; there's no tax, and it's not going to disappear; but it's complex and lagging;
+- [[user.neil-trevett]] maybe we need a new transport protocol, maybe a new browser application; metaverse will be an interesting darwinian experiment
+- privacy / cybersecurity / identity is at the top of the list for [[org.metaverse-standards-forum]] members; need to build security into the standards
+- [[prdct.hyperledger]] and [[org.open-wallet-foundation]] are examples of open standards
+
+## leverage ai for launch content
+
+- ai so far: machine learning & workflows; generative ai for asset creation; expanded npc roles and realism
+- @daniel-evans
+  - "emotional response index" ERI
+  - NLP, Audio & Sentiment analysis
+  - What if... leverage AI to extend the storytelling beyond the game with UGC interactions
+  - DDB Paris created "NPC campaigns" for [[game.assassins-creed-odyssey]]
+  - AI builds the backstories (LLM with guardrails), do the marketing
+  - "everybody can have their personalized trailer"
+  
+## next-gen mixed reality
+
+- @alexey-menshikov
+- [[t.cs.mixed-reality]]
+- [[t.cs.augmented-reality]] uses [[t.cs.augmented-reality.simultaneous-localization-and-mapping]]
