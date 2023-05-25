@@ -1,12 +1,6 @@
 {
-    "todo": {
-        "prefix": "todo",
-        "scope": "markdown,yaml",
-        "body": "- [ ] ",
-        "description": "render todo box"
-    },
     "date": {
-        "prefix": "date",
+        "prefix": "td",
         "scope": "markdown,yaml",
         "body": "#t.$CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE",
         "description": "today's date"
