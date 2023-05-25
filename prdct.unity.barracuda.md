@@ -1,7 +1,7 @@
 ---
 id: vxiv39thcg2renoelyf5xy9
 title: Barracuda
-desc: 'lightweight cross-platform neural network inference library for Unity'
+desc: lightweight cross-platform neural network inference library for Unity
 updated: 1684775488636
 created: 1684775306430
 ---
