@@ -1,7 +1,7 @@
 ---
 id: d8amlflo8621bf8qqd9pr6j
 title: DBeaver
-desc: 'Free multi-platform database tool'
+desc: Free multi-platform database tool
 updated: 1684945498480
 created: 1684945402704
 ---
