@@ -1,7 +1,9 @@
 ---
 id: 9pjzuklc0yn3wsz97x4ybhq
 title: Learning in Public
-desc: 'the act of creating “learning exhaust” by making the resources you wished you had found while you were learning'
+desc: >-
+  the act of creating “learning exhaust” by making the resources you wished you
+  had found while you were learning
 updated: 1685988665671
 created: 1685988554814
 ---
