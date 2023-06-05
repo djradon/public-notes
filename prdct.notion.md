@@ -2,7 +2,7 @@
 id: gYBJk3uMSIxgAZEBBwfTw
 title: Notion
 desc: ''
-updated: 1669806495337
+updated: 1685978163818
 created: 1632931778994
 ---
 
@@ -10,7 +10,8 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 
 - [[p.hasApplication]] [[t.km]] [[t.tm]] 
 - [[p.isRelated]] https://www.notion.so/customers
-
+- [[c.Pricing]] https://www.notion.so/pricing
+  - free for single-user + 10 collaborators  
 ## [[p.hasFeature]]
 
 - copies nicely to markdown  ^wf7vUfHYbV8u
