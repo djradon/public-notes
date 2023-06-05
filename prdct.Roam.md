@@ -1,13 +1,13 @@
 ---
 id: WBL0eXK2smaYW8QfdLNUe
-title: Roam Research
+title: Roam
 desc: 'an expensive, stand-alone+web note-taking tool for networked though'
-updated: 1685979885799
+updated: 1685986695212
 created: 1636468611703
 ---
 
 
-
+- #publisher [[org.roam-research]]
 - [[p.hasURL]] https://roamresearch.com/
   - "As easy to use as a document. As powerful as a graph database."
 - [[p.hasApplication]] [[t.km.note-taking]] [[t.tm]]
