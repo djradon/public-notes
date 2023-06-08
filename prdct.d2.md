@@ -2,7 +2,7 @@
 id: q209z95wuhk1qhyfmxyct3t
 title: D2
 desc: A modern language that turns text to diagrams
-updated: 1685938912389
+updated: 1686201714717
 created: 1685938014552
 ---
 
@@ -12,3 +12,4 @@ created: 1685938014552
 ## [[p.supportedBy]]
 
 - [[prdct.structurizr]]
+-  

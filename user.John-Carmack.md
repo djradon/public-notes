@@ -1,8 +1,8 @@
 ---
 id: 0H1Vnw2mtpeui3JsHw7PF
-title: John-Carmack
+title: John Carmack
 desc: ''
-updated: 1635728267377
+updated: 1686022421119
 created: 1635728156824
 ---
 

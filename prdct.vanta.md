@@ -1,7 +1,7 @@
 ---
 id: qm9xy24ugokhcz7p3e3flvb
 title: Vanta
-desc: 'compliance as a service'
+desc: compliance as a service
 updated: 1685641248612
 created: 1685641154254
 ---
