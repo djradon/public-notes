@@ -4,9 +4,31 @@ title: ECS
 desc: >-
   Entity Component Systems are a paradigm of composable numeric
   object-orientation for games and simulations
-updated: 1688100592843
+updated: 1688568611538
 created: 1637846686838
 ---
+
+## [[c.Definition]]
+
+### @sander-mertens
+
+#### Entities & Components
+
+-   An entity is a unique identifier
+-   A component can optionally be associated with a plain old datatype
+-   A component identifier is an entity
+-   An entity can have 0 .. N components
+-   A component can be annotated with a role
+-   An <entity, component> tuple can have 0 .. N components
+
+#### Systems
+
+-   A system is logic matched with entities based on their components
+-   A system is invoked as result of an event
+-   A component mutation is an event
+-   Computing a simulation frame is an event
+-   A frame is divided into N phases
+-   Each system is assigned to a phase
 
 ## [[c.Implementation]]
 
@@ -43,7 +65,7 @@ created: 1637846686838
 - [[course.gamedev-patterns-ts]]
 - https://ajmmertens.medium.com/why-vanilla-ecs-is-not-enough-d7ed4e3bebe5 td
   - "Consider creating a “Timer” component that removes a component after N seconds, for example to remove a buff from an entity. An entity can have multiple buffs at the same time, yet I can only add the Timer component once. Solutions to this problem get unwieldy (storing a map in the component value or creating a Timer component for each buff component). This is a serious limitation when applications want to implement generic systems."
-  - 
+  - "Any design language that does not allow me to specify the preconditions for something to work correctly is in my humble opinion flawed."
 
 ### [[c.Resource.List]]
 

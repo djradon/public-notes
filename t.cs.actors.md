@@ -2,7 +2,7 @@
 id: s1b2hshk9rfo7xvnozu5s03
 title: Actors
 desc: ''
-updated: 1683235434696
+updated: 1688703316037
 created: 1670267347423
 ---
 
@@ -11,7 +11,7 @@ created: 1670267347423
 ## [[c.Implementation]]
 
 - [[prdct.comedy]] #javascript
-- [[prdct.orleans]] #c-sharp
+- [[prdct.orleans]] #c-sharp 
 - [[prdct.akka]]
 - [[prdct.pykka]]
 - [[prdct.akka-net]]

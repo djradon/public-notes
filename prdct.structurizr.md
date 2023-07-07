@@ -2,7 +2,7 @@
 id: Z5JrJztY72EenAzI6jpkH
 title: Structurizr
 desc: separates the model from the view/diagrams
-updated: 1685939720178
+updated: 1688591278406
 created: 1645831419986
 ---
 
@@ -13,3 +13,4 @@ created: 1645831419986
   - [[prdct.mermaid]]
   - [[prdct.ilograph]]
   - [[prdct.d2]]
+  - [[prdct.terrastruct]]
