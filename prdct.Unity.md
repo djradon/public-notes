@@ -2,7 +2,7 @@
 id: N5L02WMR1umDBKH6ZwjYT
 title: Unity
 desc: the pre-eminent game-creation platform
-updated: 1681684726591
+updated: 1688877373400
 created: 1637842422618
 ---
 
@@ -15,4 +15,5 @@ created: 1637842422618
 ## [[c.Resource]]
 
 - https://gamedevbeginner.com/how-to-spawn-an-object-in-unity-using-instantiate/#instantiate_empty_object
+- https://medium.com/@RunningMattress/10-things-my-10-years-of-using-unity-have-taught-me-about-structuring-a-new-project-b45481b900fd
 - 
