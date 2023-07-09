@@ -1,7 +1,7 @@
 ---
 id: hjsuxlbed13sajsfuvxl5k7
 title: Record of Processing Activity
-desc: 'RoPA'
+desc: RoPA
 updated: 1688586281528
 created: 1688586254009
 ---
