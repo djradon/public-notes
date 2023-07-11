@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   Entity Component Systems are a paradigm of composable numeric
   object-orientation for games and simulations
-updated: 1688568611538
+updated: 1689053887496
 created: 1637846686838
 ---
 
@@ -54,7 +54,8 @@ created: 1637846686838
     - [[p.provokedThoughts]]
       - what if you required every system to be executable in any order. something like [[idempotence|t.cs.idempotence]], but for ordering
   - Changing the content of components can potentially break down many systems.
-
+- "Anything that needs a dynamic ordering of execution is not very intuitive in ECS" 
+  - https://forum.unity.com/threads/why-vanilla-ecs-is-not-enough.928287/
 
 ## [[c.Resource]]
 
