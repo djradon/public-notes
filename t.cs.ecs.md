@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   Entity Component Systems are a paradigm of composable numeric
   object-orientation for games and simulations
-updated: 1689053887496
+updated: 1689054111224
 created: 1637846686838
 ---
 
@@ -56,6 +56,7 @@ created: 1637846686838
   - Changing the content of components can potentially break down many systems.
 - "Anything that needs a dynamic ordering of execution is not very intuitive in ECS" 
   - https://forum.unity.com/threads/why-vanilla-ecs-is-not-enough.928287/
+    - "Why not put the 'timer' in each component ? Yes you'll need to have one system to update the timer of each type of component having a time... it would be better to have a timmer logic that store the next tick time instead of storing aremaining time that you update every frame. It would allow to make use of the DidChange filtering. Also you could probably define a ITimer interface that your ComponentData would implement and taht should allow you to stream line the timer update systems a bit through generics."
 
 ## [[c.Resource]]
 
