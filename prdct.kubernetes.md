@@ -2,13 +2,16 @@
 id: w1ytxedul5c2ulw0surjopf
 title: Kubernetes
 desc: ''
-updated: 1689746545596
+updated: 1689975931076
 created: 1652560121353
 ---
 
 ## [[c.Term]]
 
 - **Context**: group of access parameters that specify which cluster you're interacting with
+- **Pod**: Kubernetes abstraction that represents a group of one or more application containers (such as Docker), and some shared resources for those containers.
+- **Cluster**: a set of nodes
+- **Namespace**: mechanism for isolating groups of resources within a single cluster
 
 ## [[c.Resource]]
 
