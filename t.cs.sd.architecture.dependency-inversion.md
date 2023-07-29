@@ -1,7 +1,9 @@
 ---
 id: m9zi7wqwqz525kas63hfc7l
 title: Dependency Inversion
-desc: 'the Flow of Control Dependency goes in one direction between two projects or dlls, but the Source Code Dependency goes in the other direction'
+desc: >-
+  the Flow of Control Dependency goes in one direction between two projects or
+  dlls, but the Source Code Dependency goes in the other direction
 updated: 1690264792193
 created: 1690261969574
 ---

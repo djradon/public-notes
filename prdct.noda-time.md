@@ -1,7 +1,7 @@
 ---
 id: 85nltdweybeqpecpcjeyntw
 title: Noda Time
-desc: 'an alternative date and time API for .NET'
+desc: an alternative date and time API for .NET
 updated: 1689965610606
 created: 1689963158118
 ---
