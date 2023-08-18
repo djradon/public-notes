@@ -2,10 +2,12 @@
 id: m5wk4s2hyxq7b8s6tgo6p16
 title: Odyssey
 desc: 'the Compleat Apventure'
-updated: 1688876980460
+updated: 1690610619962
 created: 1671536709361
 ---
 
+- [[c.Documentation]] https://www.mocagh.org/synergistic/odysseycompleat-alt2.pdf
+- 
 ## [[c.Resource]]
 
 - http://crpgaddict.blogspot.com/2013/05/game-99-odyssey-compleat-apventure-1980.html

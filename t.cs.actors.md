@@ -2,7 +2,7 @@
 id: s1b2hshk9rfo7xvnozu5s03
 title: Actors
 desc: ''
-updated: 1690179360278
+updated: 1690348682760
 created: 1670267347423
 ---
 
@@ -18,6 +18,7 @@ created: 1670267347423
 - [[prdct.ptolemy]]
 - [[prdct.dapr]] #c-sharp
 - [[prdct.protoactor]]
+- 
 ## [[c.Feature]]
 
 - "Actor model services are stateless and reactive"
@@ -25,6 +26,11 @@ created: 1670267347423
     - "Actor instances pass messages to other actor instances when they need them to do something."
     - "Actor instances publish events when they need to tell interested subscribers about something."
     - 
+
+## [[c.Idea]]
+
+- Primary actors initiate a use case and hence are somewhat independent. Secondary actors, on the other hand, are used by the system but they do not interact with the system on their own.
+  - "The distinction between ‘’primary ‘’and’’ secondary ‘’lies in who triggers or is in charge of the conversation."
 
 ## [[c.Resource]]
 

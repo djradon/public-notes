@@ -1,11 +1,13 @@
 ---
 id: evkzii7zc2zx5mn8wudmhab
 title: Zeebe
-desc: ''
-updated: 1689655514265
+desc: 'workflow and decision engine that powers Camunda Platform 8'
+updated: 1690557092172
 created: 1689655500732
 ---
 
+- #similar 
+
 ## [[c.Resource]]
 
-- https://camunda.com/blog/2020/08/orchestrating-cloud-events-with-zeebe/
+- https://a.com/blog/2020/08/orchestrating-cloud-events-with-zeebe/

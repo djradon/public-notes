@@ -2,7 +2,7 @@
 id: i06isne3qaroisurls34jso
 title: Wolverine
 desc: Next Generation .NET Mediator and Message Bus
-updated: 1690237961217
+updated: 1690557104452
 created: 1687933176283
 ---
 
@@ -12,3 +12,4 @@ created: 1687933176283
 ## [[c.Resource]]
 
 - https://www.dotnetrocks.com/details/1823
+
