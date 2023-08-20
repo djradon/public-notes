@@ -1,7 +1,7 @@
 ---
 id: 97klrfqph1k3m77oi8xmdaz
 title: Building Games in Ecs with Entity Relationships
-desc: 'relationships are encoded as component ids'
+desc: relationships are encoded as component ids
 updated: 1686260851853
 created: 1686246848888
 ---
