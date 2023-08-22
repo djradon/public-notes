@@ -1,7 +1,9 @@
 ---
 id: gbghd00zyt4jryy9m02o2tm
 title: Pareto Effort
-desc: 'focus on degrees of freedom that generally make a difference and ignoring the degrees of freedom that don’t'
+desc: >-
+  focus on degrees of freedom that generally make a difference and ignoring the
+  degrees of freedom that don’t
 updated: 1692385137369
 created: 1692384706201
 ---
