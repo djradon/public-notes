@@ -6,7 +6,7 @@ updated: 1690519224845
 created: 1690517419193
 ---
 
-- [[c.software.decision-engine]]
+- [[c.Software.DecisionEngine]]
   
 ## [[c.Solution.Related]]
 

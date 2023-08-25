@@ -2,13 +2,13 @@
 id: c837gn6flz973mbgg1g66ny
 title: Rule Engine
 desc: ''
-updated: 1690567823797
+updated: 1692988394122
 created: 1690558566709
 ---
 
 - [[p.differentFrom]] [[t.cs.workflow]]
   - https://kissflow.com/workflow/workflow-engine-business-rule-engine-difference/
-- #aka [[c.software.decision-engine]]
+- #aka [[c.Software.DecisionEngine]]
 
 ## [[c.Implementation]]
 
@@ -16,11 +16,17 @@ created: 1690558566709
 
 - [[prdct.rulesengine]]
 - [[prdct.dmn-engine]]
+- [[prdct.json-rules-engine]]
+
+## [[c.ValueProposition]]
+
+- Business leaders with subject matter expertise can define and manage their own logic, independent of engineering.
 
 
 ## [[c.Resource]]
 
 - https://www.youtube.com/watch?v=_tUzQP3Q0rA
+- https://martinfowler.com/bliki/RulesEngine.html
 
 ### https://www.reddit.com/r/dotnet/comments/vq5280/microsoft_rulesengine_feedback_from_those_that/
 
