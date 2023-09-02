@@ -2,7 +2,7 @@
 id: jnuuphcvm6auotbtdbnycwh
 title: Using Metagraph Approach for the Big Data Based Graph Processing
 desc: ''
-updated: 1692389279350
+updated: 1693349297790
 created: 1652509245268
 ---
 
@@ -14,8 +14,7 @@ created: 1652509245268
 
 ## [[c.Highlight]]
 
-- "Thus, the metagraph is a complex graph model, whereas the hypergraph is a near flat graph model that does not fully
-implement the emergence principle."
+- "Thus, the metagraph is a complex graph model, whereas the hypergraph is a near flat graph model that does not fully implement the emergence principle."
 
 ## [[c.Conclusion]]
 

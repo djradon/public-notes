@@ -2,22 +2,33 @@
 id: c837gn6flz973mbgg1g66ny
 title: Rule Engine
 desc: ''
-updated: 1692988394122
+updated: 1693200757094
 created: 1690558566709
 ---
 
 - [[p.differentFrom]] [[t.cs.workflow]]
   - https://kissflow.com/workflow/workflow-engine-business-rule-engine-difference/
-- #aka [[c.Software.DecisionEngine]]
+- #aka [[c.Software.DecisionEngine]]; Business Rule Management System; 
 
 ## [[c.Implementation]]
+
+### generic 
+
+- [[prdct.aws.emr]] https://aws.amazon.com/blogs/apn/building-an-agile-business-rules-engine-on-aws/
+- 
+
+### #java
+
+- [[prdct.drools]]
 
 ### #c-sharp
 
 - [[prdct.rulesengine]]
 - [[prdct.dmn-engine]]
 - [[prdct.json-rules-engine]]
-
+- [[prdct.jint]]
+- [[prdct.dmn-engine]]
+- 
 ## [[c.ValueProposition]]
 
 - Business leaders with subject matter expertise can define and manage their own logic, independent of engineering.
@@ -27,6 +38,7 @@ created: 1690558566709
 
 - https://www.youtube.com/watch?v=_tUzQP3Q0rA
 - https://martinfowler.com/bliki/RulesEngine.html
+- http://coding-time.blogspot.com/2011/07/how-to-implement-rule-engine-in-c.html
 
 ### https://www.reddit.com/r/dotnet/comments/vq5280/microsoft_rulesengine_feedback_from_those_that/
 
@@ -51,4 +63,3 @@ some important caveats with rules engines in general:
 
 ## [[c.Implementation]]
 
-- [[prdct.dmn-engine]]
