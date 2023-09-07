@@ -2,10 +2,11 @@
 id: utmsc3ewjjs81fsgw9q48kf
 title: Orleans
 desc: ''
-updated: 1692390207430
+updated: 1693697309319
 created: 1670267305306
 ---
 
+- [[c.Software.Distributed-Systems-Runtime]]
 - #summary https://learn.microsoft.com/en-us/dotnet/orleans/overview
   - [[p.hasHighlight]]
     - based on [[t.cs.actors]]

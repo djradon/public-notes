@@ -4,11 +4,12 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1674403635416
+updated: 1693700122393
 created: 1643725570180
 ---
 
 
+- [[c.Software.Graph-Database]] 
 - [[p.alsoKnownAs]] grakn
 - [[p.ownedBy]] [[org.vaticle]]
 - [[p.hasRepository]] https://github.com/vaticle/typedb
