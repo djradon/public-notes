@@ -2,7 +2,7 @@
 id: ANo6L7Z9rjkEKqwMO7dA2
 title: Mesa
 desc: Agent-based modeling in Python
-updated: 1694235599089
+updated: 1694376040847
 created: 1637813463159
 ---
 

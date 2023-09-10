@@ -2,10 +2,11 @@
 id: IJ5mEQacBu6Ux8Ukxm26D
 title: PADE
 desc: Python Agent DEvelopment framework
-updated: 1683171447460
+updated: 1694359606787
 created: 1637793632731
 ---
 
+- [[c.Software.Agent-Framework]]
 - #repo https://github.com/grei-ufc/pade
 - #similar [[prdct.SPADE]]
 
