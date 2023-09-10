@@ -2,11 +2,12 @@
 id: cSy6NuQVsGugCWeDHyNK0
 title: Atomspace
 desc: in-RAM knowledge representation database
-updated: 1646462603302
+updated: 1694302741560
 created: 1645899689960
 ---
 
-
+- #repo https://github.com/opencog/atomspace
+- [[p.writtenIn]] [[t.cs.languages.Cpp]]
 - [[p.builtOn]] [[prdct.Postgres]]
 - [[p.hasRelatedTopic]] [[t.km.kr]] 
 - "AtomSpace is a platform for building Artificial General Intelligence (AGI) systems. It provides the central knowledge representation component for OpenCog. As such, it is a fairly mature component, on which a lot of other systems are built, and which depend on it for stable, correct operation in a day-to-day production environment."
