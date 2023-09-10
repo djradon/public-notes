@@ -1,8 +1,8 @@
 ---
 id: lvjw71777k01racuyx0vis7
-title: Dci
+title: DCI Architecture
 desc: 'Data, context and interaction'
-updated: 1694374529546
+updated: 1694379421228
 created: 1694373803397
 ---
 

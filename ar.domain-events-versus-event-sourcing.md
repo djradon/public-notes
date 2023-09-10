@@ -2,11 +2,13 @@
 id: zbgt8ydiqczaxg4mn5kutyg
 title: Domain Events versus Event Sourcing
 desc: ''
-updated: 1692393129049
+updated: 1694379365550
 created: 1692393101454
 ---
 
 - #url https://www.innoq.com/en/blog/2019/01/domain-events-versus-event-sourcing/
+- [[c.Comparand]] : [[t.cs.sd.event-sourcing]] [[t.cs.sd.ddd.domain-event]]
+
 
 ## [[c.Highlight]]
 
