@@ -1,10 +1,14 @@
 ---
 id: djlhv0za7cu8tdzg0ij67o9
-title: Jupytr
+title: Jupyter
 desc: ''
-updated: 1694194689537
+updated: 1694402622266
 created: 1694114706090
 ---
+
+## #related
+
+- [[prdct.binder]]
 
 ## [[c.Resource]]
 
