@@ -9,6 +9,6 @@ created: 1637812854424
 
 
 - [[p.hasRepository]] https://github.com/noncomputable/AgentMaps
-- [[p.hasApplication]] [[t.cs.mas]]
+- [[p.hasApplication]] [[t.cs.multi-agent-system]]
 - [[p.writtenIn]] [[t.cs.languages.JavaScript]]
 - [ ] [[p.reviewed]] AgentMaps

@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1693697413963
+updated: 1694463298939
 created: 1688397077910
 ---
 
@@ -30,18 +30,23 @@ created: 1688397077910
     - https://www.reddit.com/r/dotnet/comments/13t3tsf/is_dapr_actually_used_by_anyone/ 
       - "if you have a product that aspires to be vendor agnostic, it might help"
 
-
-## [[c.Resource]]
-
-- https://www.reddit.com/r/dotnet/comments/13t3tsf/is_dapr_actually_used_by_anyone/
-  - "just a set of APIs hosted in the sidecar that you can opt-in to calling if you want some particular feature such as using Pubsub or acquiring a distributed lock. It does not enforce any particular way for you to structure your application code"
-
 ## [[c.Example]]
 
 - https://github.com/kimcuhoang/dapr-tye-simple-microservices
 - https://github.com/thangchung/practical-dapr #dead
 - https://github.com/vietnam-devs/coolstore-microservices "Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce"
 - https://github.com/benc-uk/dapr-store [[t.cs.languages.go]]
+
+
+## [[c.Resource]]
+
+- https://www.reddit.com/r/dotnet/comments/13t3tsf/is_dapr_actually_used_by_anyone/
+  - "just a set of APIs hosted in the sidecar that you can opt-in to calling if you want some particular feature such as using Pubsub or acquiring a distributed lock. It does not enforce any particular way for you to structure your application code"
+- https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/dapr-for-net-developers/Dapr-for-NET-Developers.pdf
+- https://learning.oreilly.com/library/view/practical-microservices-with/9781803248127/B18620_01.xhtml#_idParaDest-31
+- https://blog.dapr.io/posts/2021/01/26/observing-dapr-applications-with-new-relic-one/
+- https://dev.to/aaronblondeau/virtual-actors-dapr-vs-orleans-30f0
+ 
 
 [[c.Resource.Learning]]
 
