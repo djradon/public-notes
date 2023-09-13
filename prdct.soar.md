@@ -2,13 +2,14 @@
 id: imnxtawclhc9hpl80yboqf5
 title: Soar
 desc: ''
-updated: 1694371729694
+updated: 1694545644217
 created: 1694362703008
 ---
 
-- #url http://soar.eecs.umich.edu/ 
-- #repo 
 
+- #url http://soar.eecs.umich.edu/ 
+- #repo https://github.com/SoarGroup/Soar
+- [[p.writtenIn]] [[t.cs.languages.Cpp]] 
 ## [[c.Documentation]]
 
 ### https://arxiv.org/ftp/arxiv/papers/2205/2205.03854.pdf

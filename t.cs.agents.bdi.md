@@ -2,13 +2,16 @@
 id: w2aHesH8f6LrctkdYTrtr
 title: 'Belief, Desire, Intention'
 desc: ''
-updated: 1683139418724
+updated: 1694525749739
 created: 1637669903112
 ---
 
+## [[c.Implementation]]
 
+- https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/january/machine-learning-leveraging-the-beliefs-desires-intentions-agent-architecture
+  - [[p.writtenIn]] #c-sharp
 
-## Simplified BDI Algorithm
+### Simplified BDI Algorithm
 
 - [[p.hasSource]] https://www.inf.ed.ac.uk/teaching/courses/masws/lectures-14/16-full.pdf
 

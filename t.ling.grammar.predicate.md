@@ -2,9 +2,23 @@
 id: c47nnrkapzkq4p7caxvg7u8
 title: Predicate
 desc: ''
-updated: 1671318738478
+updated: 1694543736773
 created: 1671318708718
 ---
 
 - Predicates can be one verb or verb phrase (simple predicate), two or more verbs joined with a conjunction (compound predicate), or even all the words in the sentence that give more information about the subject (complete predicate)
   - [[p.hasSource]] https://grammar.yourdictionary.com/sentences/what/what-is-a-predicate.html
+
+- https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.html
+  - It is often convenient to identify arguments of (Fregean) predicates in terms of the following **thematic roles,** which are illustrated below.
+
+    -   [agent](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#agent)
+    -   [cause](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#cause)
+    -   [instrument](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#instrument)
+    -   [experiencer](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#experiencer)
+    -   [recipient](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#recipient)
+    -   [location](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#location)
+    -   [path](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#path)
+    -   [goal](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#goal)
+    -   [measure](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#measure)
+    -   [theme](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#theme)

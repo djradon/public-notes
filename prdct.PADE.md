@@ -2,7 +2,7 @@
 id: IJ5mEQacBu6Ux8Ukxm26D
 title: PADE
 desc: Python Agent DEvelopment framework
-updated: 1694359606787
+updated: 1694532658612
 created: 1637793632731
 ---
 
@@ -13,3 +13,4 @@ created: 1637793632731
 - [[p.hasSite]] https://pade.readthedocs.io/en/latest/
 - [[p.writtenIn]] [[t.cs.languages.Python]]
 - [[p.builtOn]] [[prdct.Twisted]]
+- [[p.isRelated]] [[vs.spade-vs-pade]]
