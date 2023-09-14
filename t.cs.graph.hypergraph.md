@@ -2,7 +2,7 @@
 id: cqtllme7cw60cs9vh18yb2s
 title: Hypergraph
 desc: ''
-updated: 1688223102523
+updated: 1694662433710
 created: 1652767633550
 ---
 
@@ -19,9 +19,16 @@ created: 1652767633550
 - [[p.hasRelatedTopic]]
   - [[t.cs.graph.hyperedge]]
 
+## [[c.Implementation]]
+
+- https://www.angioi.com/visualizing-hypergraphs-networkx/
+  - "edges should really be Python frozensets, so that a collection of them can also be a set, and the node set should also be a frozenset or a set"
+
 ## [[c.Thought]]
 
 - ![[daily.journal.2023.06.28#^vnkm9vka0yb7]]
+- "hyperedges are isomophic to Lisp S-expressions" [1]
+
 
 ## [[c.Resource]]
 
@@ -36,3 +43,8 @@ created: 1652767633550
 - [Two monads for graphs](https://arxiv.org/pdf/1804.09408.pdf) has some interested visualizations
   - ![](/assets/images/2023-07-01-06-45-50.png)
 - https://gitlab.com/graphviz/graphviz/-/issues/1911 talks about visualization, has this cool thing: ![](/assets/images/2023-07-01-07-06-16.png)
+
+
+## [[c.Reference]]
+
+[1]: https://graphbrain.net/overview/hypergraph.html#as-knowledge-modelsh.a

@@ -2,7 +2,7 @@
 id: xals7sokvxd069dv8jxerq6
 title: ErgoAI
 desc: 'object-oriented platform for knowledge representation and reasoning'
-updated: 1688259734785
+updated: 1694628267385
 created: 1683049532557
 ---
 
@@ -22,3 +22,9 @@ created: 1683049532557
 ## [[c.Feature]]
 
 - Frame syntax that somewhat resembles [[gd]], but in general it seems very triple-focused
+
+## [[c.Resource]]
+
+### [[c.Resource.Learning]]
+
+- https://sites.google.com/coherentknowledge.com/ergoai-tutorial/
