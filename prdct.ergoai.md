@@ -2,13 +2,14 @@
 id: xals7sokvxd069dv8jxerq6
 title: ErgoAI
 desc: 'object-oriented platform for knowledge representation and reasoning'
-updated: 1694628267385
+updated: 1694723923599
 created: 1683049532557
 ---
 
 - #repo https://github.com/ErgoAI
-- [[p.writtenIn]] [[t.cs.languages.Java]]
+- [[p.writtenIn]] [[t.cs.language.abl]] [[t.cs.languages.Java]]
 - [[p.isRelated]] [[t.phil.logic.f-logic]]
+- [[p.builtOn]] [[prdct.xsb]] [[t.cs.languages.prolog]]
 
 ## [[c.Composition]]
 
@@ -22,6 +23,7 @@ created: 1683049532557
 ## [[c.Feature]]
 
 - Frame syntax that somewhat resembles [[gd]], but in general it seems very triple-focused
+- [dynamic](https://sites.google.com/coherentknowledge.com/ergoai-tutorial/ergoai-tutorial/dynamic-knowledge-bases)
 
 ## [[c.Resource]]
 

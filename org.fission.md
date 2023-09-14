@@ -6,6 +6,7 @@ updated: 1687844909107
 created: 1682971803349
 ---
 
+
 ## [[c.Product]]
 
 - [[Odd Dev|prdct.odd-dev]]

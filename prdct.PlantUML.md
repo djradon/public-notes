@@ -2,10 +2,12 @@
 id: d0t596m2r7ic6mgao8byq5c
 title: PlantUML
 desc: ''
-updated: 1693254845116
+updated: 1694714952812
 created: 1685939721054
 ---
 
+- [[c.Software.Tools.Diagramming]]
+- 
 ## [[c.Resource.Learning]]
 
 - https://crashedmind.github.io/PlantUMLHitchhikersGuide/

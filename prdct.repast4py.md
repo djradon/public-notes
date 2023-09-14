@@ -2,12 +2,16 @@
 id: ud3oq1w0uu5pj702m9kjbbr
 title: Repast4py
 desc: ''
-updated: 1694623251823
+updated: 1694713889902
 created: 1694617862020
 ---
 
 - [[c.Software.Agent-Framework]] [[c.software.Simulation-Framework]]
 - #repo https://github.com/Repast/repast4py
+
+## [[c.Thought]]
+
+- "distributed" means that the simulation is spread over multiple computer processes none of which have access to each other’s memory, and communicate via message passing using the [[Message Passing Interface|prdct.mpi4py]].
 
 
 ## [[c.Resource]]

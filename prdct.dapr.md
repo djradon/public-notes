@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1694463298939
+updated: 1694725680243
 created: 1688397077910
 ---
 
@@ -46,7 +46,7 @@ created: 1688397077910
 - https://learning.oreilly.com/library/view/practical-microservices-with/9781803248127/B18620_01.xhtml#_idParaDest-31
 - https://blog.dapr.io/posts/2021/01/26/observing-dapr-applications-with-new-relic-one/
 - https://dev.to/aaronblondeau/virtual-actors-dapr-vs-orleans-30f0
- 
+ - https://medium.com/event-driven-utopia/5-reasons-why-you-should-use-microsoft-dapr-to-build-event-driven-microservices-cb2202c579a0
 
 [[c.Resource.Learning]]
 
