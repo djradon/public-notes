@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1694725680243
+updated: 1694754710485
 created: 1688397077910
 ---
 
@@ -15,6 +15,7 @@ created: 1688397077910
 
 - [[prdct.nats.jetstream]] (alpha for state, )
 - [[prdct.Postgres]]
+- [[t.cs.languages.Python]]: [[prdct.grpc]] [[prdct.fastapi]] [[prdct.flask]]
 
 ## [[c.UseCase]]
 
