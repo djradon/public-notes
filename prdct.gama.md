@@ -2,7 +2,7 @@
 id: yfdmxrwjycaz3db8uswe0b5
 title: Gama
 desc: ''
-updated: 1694710631136
+updated: 1694902797028
 created: 1694708152058
 ---
 
@@ -19,3 +19,9 @@ created: 1694708152058
 ## [[c.Example]]
 
 - [Kiss Nightclub simulation](https://www.comses.net/codebases/7ca5fbb1-9e3a-4ea1-a63f-87d2ba9f39d6/releases/1.1.0/)
+
+## [[c.Resource]]
+
+### [[c.Resource.Learning]]
+
+- https://unigis-salzburg.github.io/Opt_Spatial-Simulation/
