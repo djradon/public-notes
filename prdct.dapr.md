@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1694754710485
+updated: 1694803281391
 created: 1688397077910
 ---
 
@@ -51,5 +51,5 @@ created: 1688397077910
 
 [[c.Resource.Learning]]
 
-- https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?ref=daveabrock.com
+- https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/
 - [[book.practical-microservices-with-dapr-and-dotnet]]                                 
