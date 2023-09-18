@@ -1,8 +1,8 @@
 ---
 id: nhngdnzck8dbmx6tp2yjq9z
 title: Actor Vs Agent
-desc: ''
-updated: 1681691067046
+desc: 'agents are continuous, actors are turn-based'
+updated: 1695062039708
 created: 1669505273500
 ---
 
@@ -39,7 +39,7 @@ One can emulate Agents using Actors, but doing so requires a lot of framework an
 
 It seems to me that, as far as SoftwareEngineering properties go, Agents are superior to Actors in every way. Agents are generally 'pluggable' - you can easily drop them onto a system, or just as easily pull them out; many are even hot-pluggable or subject to LiveProgramming, which allows a shorter edit-test-debug cycle. **Dealing with combinations of continuous inputs, rather than permutations of concurrent messages, dodges a great deal of complexity (roughly '2^N' instead of 'N!') without preventing agents from introducing a bit of ordering where critical.** Agents avoid a considerable amount of state associated with hooking into a system, cache management, and concurrency control (i.e. where Actors would require use of serializers).
 
-A weakness of many agent systems is the use of a shared data space (tuple space, blackboard, constraint store) which raises many concurrency-control, authority, and confidentiality issues. Basically, with a central shared space, you must be very careful about inclusion of untrusted code. If one is not careful, it may also lead to a CentralPointOfFailure or a bottleneck, though those problems can be mitigated by distribution and replication of the space. But, if we reject a shared space, then we must answer: what do agents observe, how do agents affect the system, and how do we handle concurrency?
+A weakness of many agent systems is the use of a shared data space (tuple space, blackboard, constraint store) which raises many concurrency-control, authority, and confidentiality issues. Basically, with a central shared space, you must be very careful about inclusion of untrusted code. If one is not careful, it may also lead to a CentralPointOfFailure or a bottleneck, though those problems can be mitigated by distribution and replication of the space. But, if we reject a shared space, then we must answer: what do agents observe, how do agents affect the system, and how do we handle concurrency?   ^q42yd20t54qm
 
 Hybrid Actor-Agent Models
 
