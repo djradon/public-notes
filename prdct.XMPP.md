@@ -2,13 +2,18 @@
 id: eZRz4rR98ErmPpfrkEQgt
 title: XMPP
 desc: the universal messaging standard
-updated: 1683174978189
+updated: 1695143521994
 created: 1637794769657
 ---
 
 
 
 - [[p.hasSite]] https://xmpp.org/
+
+## [[c.Feature]]
+
+- a node is a particular "channel" or "feed" hosted at a publish-subscribe service, where the nature of the channel or feed is defined in part by the characteristic payload published at the node (e.g., Atom notifications) and in part by the focus or topic of such payloads
+
 
 ## [[c.Comparable]]
 
@@ -24,4 +29,8 @@ We think of Matrix and XMPP as being quite different; at its core Matrix can be 
 
 The whole area of XMPP vs Matrix is quite subjective. Rather than fighting over which open interoperable communication standard works the best, we should just collaborate and bridge everything together. The more federation and interoperability the better.
   - https://matrix.org/faq/
-- 
+  
+### [[prdct.websocket]]
+
+- https://www.wallarm.com/what/xmpp-vs-websocket-which-to-use-for-applications
+  - 
