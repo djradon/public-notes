@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1693700122393
+updated: 1695359979758
 created: 1643725570180
 ---
 
@@ -24,7 +24,8 @@ created: 1643725570180
 
 - "Concept Architecture"
   - ![](/assets/images/2022-03-14-14-26-10.png)
-  - 
+  - ![](/assets/images/2023-09-21-22-03-51.png)
+  - ![](/assets/images/2023-09-21-22-19-16.png)
 
 ## [[c.UseCase]]
 

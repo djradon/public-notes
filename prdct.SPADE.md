@@ -2,11 +2,11 @@
 id: 7YhDqhSgMhMtHv5SQqjil
 title: SPADE
 desc: ''
-updated: 1695144065629
+updated: 1695413013849
 created: 1637794683065
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.Software.Agent-Framework]] but "platform-less"
 - [[p.hasRepository]] https://github.com/javipalanca/spade
 - [[p.hasSite]] https://spade-mas.readthedocs.io
 - [[p.writtenIn]] [[t.cs.languages.Python]]
@@ -18,7 +18,14 @@ created: 1637794683065
 ## [[c.Feature]]
 
 - "you can develop your own agents in the programming language of your choice and use them with SPADE. The only requirement those agents must fulfill is to be able to communicate through the XMPP protocol."
-
+- "SPADE 3 is not planned to be FIPA compatible" but "Supports FIPA metadata using XMPP Data Forms "
+- "Currently there is no AMS or DF in SPADE, which are the agents that allow to search for other agents or services in JADE (FIPA, really). This is due to SPADE's platform-less approach, which tries to have a very small and fast core. However, the possibility of creating plugins for SPADE is explained in the documentation, so, if you think this is an interesting feature: just write a plugin! :)"
+- 
 ## [[c.Comparison]]
 
 [[vs.spade-vs-pade]]
+
+## [[c.Resource]]
+
+- https://github.com/javipalanca/spade/issues/54#issuecomment-475730896
+  - 

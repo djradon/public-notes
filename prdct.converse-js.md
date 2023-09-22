@@ -2,9 +2,9 @@
 id: ih27aq6m7mysg0a03nrk77u
 title: Converse JS
 desc: ''
-updated: 1695185791833
+updated: 1695328274094
 created: 1695185784889
 ---
 
-- [[c.Software.XMPP-Client]]
+- [[c.Software.XMPP-Client.web]]
 - #repo 
