@@ -2,7 +2,7 @@
 id: nk5xu5o53zmmnjggb61etvd
 title: Agent Based Modeling
 desc: ''
-updated: 1694718447479
+updated: 1695489809212
 created: 1672156863860
 ---
 
@@ -11,4 +11,4 @@ created: 1672156863860
 
 ## [[c.Resource.Learning]]
 
-- https://caam37830.github.io/book/09_computing/agent_based_models.html
+- https://caam37830.github.io/book/09_computing/agent_based_models.html [[game.game-of-life]]

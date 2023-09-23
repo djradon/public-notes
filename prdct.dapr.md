@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1694803281391
+updated: 1695486284326
 created: 1688397077910
 ---
 
@@ -13,9 +13,10 @@ created: 1688397077910
 
 ## [[p.supports]]
 
-- [[prdct.nats.jetstream]] (alpha for state, )
+- [[prdct.nats.jetstream]] (alpha for state)
 - [[prdct.Postgres]]
 - [[t.cs.languages.Python]]: [[prdct.grpc]] [[prdct.fastapi]] [[prdct.flask]]
+- [[prdct.mqtt]]
 
 ## [[c.UseCase]]
 
@@ -48,7 +49,8 @@ created: 1688397077910
 - https://blog.dapr.io/posts/2021/01/26/observing-dapr-applications-with-new-relic-one/
 - https://dev.to/aaronblondeau/virtual-actors-dapr-vs-orleans-30f0
  - https://medium.com/event-driven-utopia/5-reasons-why-you-should-use-microsoft-dapr-to-build-event-driven-microservices-cb2202c579a0
-
+- https://itnext.io/dapr-vs-envoy-when-to-use-what-6c2ac3caaed2
+- 
 [[c.Resource.Learning]]
 
 - https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/
