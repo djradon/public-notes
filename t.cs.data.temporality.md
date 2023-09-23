@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1665204427108
+updated: 1695485289607
 created: 1634620119007
 ---
 
@@ -28,5 +28,5 @@ created: 1634620119007
 - [[ar.psu.decision-time-in-temporal-databases]]
 - [[ar.au.semantics-of-temporal-models-with-multiple-temporal-dimensions]]
 - https://aclanthology.org/2021.naacl-main.67.pdf
-- [DESIGN AND IMPLEMENTATION OF HLA TIME MANAGEMENT
-IN THE RTI VERSION F.0](https://www.informs-sim.org/wsc97papers/0373.PDF)
+- [DESIGN AND IMPLEMENTATION OF HLA TIME MANAGEMENT IN THE RTI VERSION F.0](https://www.informs-sim.org/wsc97papers/0373.PDF)
+- https://robinpokorny.medium.com/why-developers-should-stop-using-iso-8601-for-date-time-e6ee5fc8ad87

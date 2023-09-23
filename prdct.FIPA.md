@@ -2,7 +2,7 @@
 id: sXAc6YNOEMFUcRv84RDFy
 title: FIPA
 desc: Foundation for Intelligent Physical Agents
-updated: 1680447269522
+updated: 1695482258145
 created: 1637666551697
 ---
 
@@ -16,6 +16,6 @@ created: 1637666551697
 - [[prdct.Jade]]
 - [[prdct.JADEX]]
 - [[prdct.JIAC]]
-- The SPADE Multiagent and Organizations Platform (Python)
-- JACK Intelligent Agents (Java)
+- [[prdct.SPADE]](Python)
+- [[prdct.jack]] Intelligent Agents (Java)
 
