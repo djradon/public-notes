@@ -4,7 +4,7 @@ title: Glamorous Toolkit
 desc: >-
   a live notebook. A fancy code editor. A software analysis platform. A data
   visualization engine. A knowledge management system. All in one.
-updated: 1674403635422
+updated: 1695918996539
 created: 1650122141316
 ---
 
@@ -13,9 +13,15 @@ created: 1650122141316
   - [[t.cs.sd.specification]]
   - [[t.cs.sd.assessment]]
   - [[t.cs.data.visualization]]
-- [[p.writtenIn]] [[t.cs.languages.pharo]]
+- [[p.writtenIn]] [[t.cs.languages.smalltalk.pharo]]
 
 ## [[p.hadDefinition]]
 
 - "live literate programming environment"
   - [[p.attributedTo]] @gilad-bracha
+
+
+## [[c.Resource]]
+
+- https://medium.com/feenk/one-rendering-tree-918eae49bcff
+  - 

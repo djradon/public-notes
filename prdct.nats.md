@@ -2,12 +2,17 @@
 id: iypvlwhcbuwo79fm2uayixf
 title: NATS
 desc: 'Neural Autonomic Transport System'
-updated: 1678547376854
+updated: 1696051851121
 created: 1678139747758
 ---
 
 - #url https://nats.io/
 
+## [[c.Host]]
+
+- [[prdct.fly-io]] #free-tier
+  - "While the cluster is only accessible from inside the Fly network, you can use Fly's Wireguard support to create a VPN into your Fly organisation and private network."
+- 
 
 ## [[p.hasFeature]]
 

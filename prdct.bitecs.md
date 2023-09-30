@@ -2,17 +2,17 @@
 id: qvf6or8j3nxcjz8sci4qwcu
 title: BitECS
 desc: ''
-updated: 1674961758358
+updated: 1696016925252
 created: 1672342730647
 ---
 
-[[t.cs.ecs]]
-
-#repo https://github.com/NateTheGreatt/bitECS
-
+- [[c.Software.Entity-Component-System]] [[t.cs.ecs]]
+- #repo https://github.com/NateTheGreatt/bitECS
+- [[p.writtenIn]] #javascript
 - [[p.usedBy]] [[prdct.ethereal-engine]] [[prdct.hubs]] [[prdct.matrix]] [[prdct.third-room]]
 - [[p.hasClientSupport]]
-  - [[prdct.element]]
+  - [[prdct.element]] [[prdct.babylon-js]]
+  - 
 
 ## [[p.hasFeature]]
 

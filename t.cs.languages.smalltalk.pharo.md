@@ -6,11 +6,11 @@ desc: >-
   programming language and runtime. It's based on the OpenSmalltalk virtual
   machine called Cog, which evaluates a dynamic, reflective, and object-oriented
   programming language with a syntax closely resembling Smalltalk-80
-updated: 1641363205078
+updated: 1695850872461
 created: 1638889994067
 ---
 
 
 
 - [[p.hasApplication]] [[prdct.lepiter]] 
-- [[p.]]  
+

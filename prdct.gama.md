@@ -2,7 +2,7 @@
 id: yfdmxrwjycaz3db8uswe0b5
 title: Gama
 desc: ''
-updated: 1695483689478
+updated: 1695836933590
 created: 1694708152058
 ---
 
@@ -31,3 +31,8 @@ created: 1694708152058
 ### [[c.Resource.Learning]]
 
 - https://unigis-salzburg.github.io/Opt_Spatial-Simulation/
+
+
+### [[c.Comparison]]
+
+- [[An Initial Comparison of Selected Agent Based Simulation Tools in the Context of Industrial Health and Safety Management|ar.acm.an-initial-comparison-of-selected-agent-based-simulation-tools-in-the-context-of-industrial-health-and-safety-management]]
