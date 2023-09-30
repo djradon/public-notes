@@ -2,7 +2,7 @@
 id: iypvlwhcbuwo79fm2uayixf
 title: NATS
 desc: 'Neural Autonomic Transport System'
-updated: 1696051851121
+updated: 1696085632714
 created: 1678139747758
 ---
 
@@ -16,7 +16,11 @@ created: 1678139747758
 
 ## [[p.hasFeature]]
 
-- [[prdct.nats.jetstream]]
+- three basic communication patterns
+  - Publish Subscribe
+  - Request/Reply
+  - Distributed Load Balanced Queue
+- [[prdct.nats.jetstream]] for persistence
 - [[p.supports]] [[prdct.cloudevents]]
   - https://github.com/cloudevents/spec/blob/main/cloudevents/bindings/nats-protocol-binding.md
 
