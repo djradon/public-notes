@@ -1,10 +1,8 @@
 ---
 id: EHe5gy8iGwSWZFMwymjar
 title: ECS
-desc: >-
-  Entity Component Systems are a paradigm of composable numeric
-  object-orientation for games and simulations
-updated: 1689054111224
+desc: runtime-flexible, highly compatible, safe, and easily composable approach to software
+updated: 1696193375578
 created: 1637846686838
 ---
 
@@ -29,6 +27,11 @@ created: 1637846686838
 -   Computing a simulation frame is an event
 -   A frame is divided into N phases
 -   Each system is assigned to a phase
+
+### https://forums.coregames.com/t/advanced-code-architecture-for-core-part-2-entity-component-system/3194
+
+- ECS game object is a DDD Entity; an ECS Entity is a DDD Identity; an ECS Component is a DDD Domain Model; and an ECS System is a DDD Service or Aggregate Root.
+- 
 
 ## [[c.Implementation]]
 
@@ -68,7 +71,9 @@ created: 1637846686838
 - https://ajmmertens.medium.com/why-vanilla-ecs-is-not-enough-d7ed4e3bebe5 td
   - "Consider creating a “Timer” component that removes a component after N seconds, for example to remove a buff from an entity. An entity can have multiple buffs at the same time, yet I can only add the Timer component once. Solutions to this problem get unwieldy (storing a map in the component value or creating a Timer component for each buff component). This is a serious limitation when applications want to implement generic systems."
   - "Any design language that does not allow me to specify the preconditions for something to work correctly is in my humble opinion flawed."
+- https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/79975.html
 
 ### [[c.Resource.List]]
 
 - https://github.com/Chillu1/CSharpECSComparison
+- 
