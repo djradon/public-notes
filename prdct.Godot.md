@@ -2,7 +2,7 @@
 id: BJZRQTTff77MsBb32oNf5
 title: Godot
 desc: ''
-updated: 1672310497423
+updated: 1696269809570
 created: 1637591669334
 ---
 
@@ -10,10 +10,10 @@ created: 1637591669334
 
 - [[p.hasRepository]] https://github.com/godotengine/godot
 - [[p.hasSite]] https://godotengine.org/
-- [[p.builtWith]] [[t.cs.languages.Cpp]]
+- [[p.builtWith]] #c++
 - [[p.hasScriptingLanguage]] 
   - [[t.cs.languages.GDScript]] 
   - [[t.cs.languages.C-sharp]]
-  - [[t.cs.languages.Cpp]]
+  - #c++
   - [[t.cs.languages.typescript]] via https://github.com/GodotExplorer/ECMAScript and [[prdct.quikckjs]]
 

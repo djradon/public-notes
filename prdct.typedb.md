@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1696107693002
+updated: 1696274888557
 created: 1643725570180
 ---
 
@@ -14,7 +14,7 @@ created: 1643725570180
 - [[p.ownedBy]] [[org.vaticle]]
 - [[p.hasRepository]] https://github.com/vaticle/typedb
 - [[p.hasRelatedSolution]] [[prdct.typeql]]
-- [[p.writtenIn]] [[t.cs.languages.Java]]
+- [[p.writtenIn]] #java
 - [[p.builtOn]] 
   - [[prdct.rocksdb]]
   - [[prdct.grpc]]

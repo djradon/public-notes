@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1674403635413
+updated: 1696274027588
 created: 1634426288630
 ---
 
@@ -16,3 +16,14 @@ created: 1634426288630
 ## To Do
 
 - [ ] [[p.summarized]] rdf-star use cases 
+
+## [[c.Issue]]
+
+- https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#sa-mode-and-pg-mode
+  - are quoted triples asserted?
+- https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#the-seminal-example
+  - 
+
+## [[c.Resource]]
+
+- https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf-star/

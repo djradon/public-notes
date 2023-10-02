@@ -2,12 +2,12 @@
 id: gc64mf9zjp3f71xygwr59ij
 title: Repast Simphony
 desc: ''
-updated: 1694617837508
+updated: 1696274888581
 created: 1694615633713
 ---
 
 - #repo https://github.com/Repast/repast.simphony
-- [[p.writtenIn]] [[t.cs.languages.Java]]
+- [[p.writtenIn]] #java
 
 ## [[c.Feature]]
 

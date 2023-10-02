@@ -2,12 +2,12 @@
 id: bHcvNZBwNgwGxdzjRotMH
 title: LevelDB
 desc: ''
-updated: 1694644813674
+updated: 1696269809574
 created: 1645158420618
 ---
 
 - #repo https://github.com/google/leveldb
-- [[p.writtenIn]] [[t.cs.languages.Cpp]]
+- [[p.writtenIn]] #c++
 
 
 ## [[c.Con]]

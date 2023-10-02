@@ -2,14 +2,14 @@
 id: imnxtawclhc9hpl80yboqf5
 title: Soar
 desc: ''
-updated: 1694710121293
+updated: 1696269809580
 created: 1694362703008
 ---
 
 - [[c.Software.Cognitive-Architecture]]
 - #url http://soar.eecs.umich.edu/ 
 - #repo https://github.com/SoarGroup/Soar
-- [[p.writtenIn]] [[t.cs.languages.Cpp]] 
+- [[p.writtenIn]] #c++ 
 
 
 ## [[c.Documentation]]

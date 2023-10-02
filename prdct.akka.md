@@ -2,13 +2,13 @@
 id: zi4wciqohwv30xiup8v1jak
 title: Akka
 desc: ''
-updated: 1683234169677
+updated: 1696274888559
 created: 1683232881555
 ---
 
 - #url https://akka.io/
 - [[p.supports]] 
-  - [[t.cs.languages.Java]] [[t.cs.languages.scala]] directly
+  - #java [[t.cs.languages.scala]] directly
   - 
 
 ## [[c.Feature]]

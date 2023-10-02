@@ -2,7 +2,7 @@
 id: K8eP8VwyVIoUwKljFKzky
 title: Multi-Agent System
 desc: aka MAS
-updated: 1694458095150
+updated: 1696274888585
 created: 1637793595094
 ---
 
@@ -24,7 +24,7 @@ created: 1637793595094
 - [[Mesa|prdct.Mesa]]
 
 
-### [[t.cs.languages.Java]]
+### #java
 
 - [[prdct.Jade]]
   - [[prdct.bdi4jade]]

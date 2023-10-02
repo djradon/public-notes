@@ -2,14 +2,14 @@
 id: yfdmxrwjycaz3db8uswe0b5
 title: Gama
 desc: ''
-updated: 1695836933590
+updated: 1696274888563
 created: 1694708152058
 ---
 
 - [[c.Software.Agent-Framework]] [[c.Software.Cognitive-Architecture]]
 - #url https://gama-platform.org/
 - #repo https://github.com/gama-platform/gama
-- [[p.writtenIn]] [[t.cs.languages.Java]]
+- [[p.writtenIn]] #java
 - [[p.implements]] [[prdct.FIPA.ACL]]
   - https://gama-platform.org/wiki/UsingFIPAACL
 - 

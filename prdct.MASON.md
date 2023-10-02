@@ -2,13 +2,13 @@
 id: YweN0jbaaOy5qNTTnkw3v
 title: MASON
 desc: Multiagent Simulation java library
-updated: 1694712551806
+updated: 1696274888573
 created: 1637836027173
 ---
 
 - #repo https://github.com/eclab/mason/
 - [[c.Software.Agent-Framework]]
-- [[p.writtenIn]] [[t.cs.languages.Java]]
+- [[p.writtenIn]] #java
 - [[p.hasApplication]] [[t.cs.simulation.abms]]
 - [[p.hasFeature]]
   - model library 
