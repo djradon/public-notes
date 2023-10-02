@@ -1,8 +1,10 @@
 ---
 id: EHe5gy8iGwSWZFMwymjar
 title: ECS
-desc: runtime-flexible, highly compatible, safe, and easily composable approach to software
-updated: 1696193375578
+desc: >-
+  runtime-flexible, highly compatible, safe, and easily composable approach to
+  software
+updated: 1696196419058
 created: 1637846686838
 ---
 
@@ -28,10 +30,10 @@ created: 1637846686838
 -   A frame is divided into N phases
 -   Each system is assigned to a phase
 
-### https://forums.coregames.com/t/advanced-code-architecture-for-core-part-2-entity-component-system/3194
+### https://forums.
 
-- ECS game object is a DDD Entity; an ECS Entity is a DDD Identity; an ECS Component is a DDD Domain Model; and an ECS System is a DDD Service or Aggregate Root.
-- 
+- ECS game object is a DDD Entity; an ECS Entity is a DDD Identity; an ECS Component is a DDD Domain Model; and an ECS System is a DDD Service or Aggregate Root. ^h56imtf2ip3n
+  - [[c.Thought]] i.e., an "ECS game object" is the entity (which is just an ID + list of components) + the functionality and data given by components?
 
 ## [[c.Implementation]]
 
