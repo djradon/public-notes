@@ -2,12 +2,12 @@
 id: ofgmsyl1k9u3fwqhmaf7kp0
 title: Molecular
 desc: ''
-updated: 1674360676552
+updated: 1696287929589
 created: 1674360309430
 ---
 
 [[c.Software.Microservice-Frameworks]]
-[[p.writtenIn]] [[t.cs.languages.JavaScript]]
+[[p.writtenIn]] #javascript
 
 #url https://moleculer.services/
 #repo https://github.com/moleculerjs/moleculer

@@ -1,14 +1,14 @@
 ---
 id: raYKMVnchliNlZdJjSo1z
 title: SimPy
-desc: 'process-based discrete-event simulation framework'
-updated: 1694622490434
+desc: process-based discrete-event simulation framework
+updated: 1696277008116
 created: 1637848786294
 ---
 
-- [[c.software.Simulation-Framework]]
+- [[c.Software.Simulation-Framework]]
 - #repo https://gitlab.com/team-simpy/simpy/
-- [[p.writtenIn]] [[t.cs.languages.Python]]
+- [[p.writtenIn]] #python
 - [[p.similarTo]] [[prdct.concurrentsim-jl]]
 
 

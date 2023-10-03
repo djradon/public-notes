@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1696274027588
+updated: 1696275217918
 created: 1634426288630
 ---
 
@@ -22,7 +22,8 @@ created: 1634426288630
 - https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#sa-mode-and-pg-mode
   - are quoted triples asserted?
 - https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#the-seminal-example
-  - 
+  - can you have multiple identical triples?
+    - [[c.Con]] nope! have to use standard reification, new relationship concept
 
 ## [[c.Resource]]
 

@@ -2,13 +2,13 @@
 id: ehdchcyvh344ho795viakjg
 title: Lively
 desc: ''
-updated: 1695935026768
+updated: 1696287929585
 created: 1695934089405
 ---
 - #dead ?
 - #url https://lively-next.org/
 - #repo https://github.com/LivelyKernel/LivelyKernel
-- [[p.writtenIn]] [[t.cs.languages.JavaScript]]
+- [[p.writtenIn]] #javascript
 
 ## [[c.Example]]
 

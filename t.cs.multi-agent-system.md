@@ -2,7 +2,7 @@
 id: K8eP8VwyVIoUwKljFKzky
 title: Multi-Agent System
 desc: aka MAS
-updated: 1696274888585
+updated: 1696287929612
 created: 1637793595094
 ---
 
@@ -10,14 +10,14 @@ created: 1637793595094
 
 ## [[c.Solution]]
 
-### [[t.cs.languages.JavaScript]]
+### #javascript
 
 - [[prdct.AgentFramework]]
 - [[prdct.js-son]]
 - [[prdct.js-simulator]]
 
 
-### [[t.cs.languages.Python]]
+### #python
 
 - [[prdct.SPADE]]
 - [[prdct.PADE]]

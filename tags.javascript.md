@@ -2,8 +2,8 @@
 id: tvafsq3dxzgjmk1qtqvihfa
 title: JavaScript
 desc: ''
-updated: 1683232847222
+updated: 1696287934361
 created: 1683232801410
 ---
 
-- [[p.references]] [[t.cs.languages.JavaScript]]
+- [[p.coreferences]] [[t.cs.languages.JavaScript]]

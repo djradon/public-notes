@@ -2,7 +2,7 @@
 id: q469lum2qr1r0cqoko919ck
 title: Mattermost
 desc: ''
-updated: 1655680652082
+updated: 1696299128812
 created: 1649603693183
 ---
 
@@ -12,11 +12,11 @@ created: 1649603693183
     - [[p.hadAtLeastOneOf]] 
       - server component 
         - runs as a server subprocess
-        - [[p.writtenIn]] [[t.cs.languages.go]]
+        - [[p.writtenIn]] #go
       - "web app" component
         - included in page, runs alongside the Mattermost web app code
           - desktop app is shim of web app
-        - [[p.writtenIn]] [[t.cs.languages.JavaScript]]
+        - [[p.writtenIn]] #javascript
         - [[p.builtOn]] 
           - [[prdct.React]]
           - [[prdct.redux-js]]

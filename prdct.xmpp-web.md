@@ -2,14 +2,14 @@
 id: mf7icgh2la8ts6ngsz84630
 title: Xmpp Web
 desc: ''
-updated: 1695328265794
+updated: 1696287929611
 created: 1695185387200
 ---
 
 - [[c.Software.XMPP-Client.web]]
 - #repo https://github.com/nioc/xmpp-web
 
-- [[p.writtenIn]] [[t.cs.languages.JavaScript]] [[prdct.vue]]
+- [[p.writtenIn]] #javascript [[prdct.vue]]
 
 ## [[p.builtOn]]
 

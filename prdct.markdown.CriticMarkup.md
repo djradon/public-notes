@@ -2,12 +2,12 @@
 id: O698yb57stRhT9DxOgZ2c
 title: CriticMarkup
 desc: basic editorial change tracking
-updated: 1634855774034
+updated: 1696277008104
 created: 1634855142838
 ---
 
 - [[p.hasRepository]] https://github.com/CriticMarkup/CriticMarkup-toolkit
-- [[usesComputerLanguage]] [[t.cs.languages.Python]]
+- [[usesComputerLanguage]] #python
 
 ## The Three Laws
 

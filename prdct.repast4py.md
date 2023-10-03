@@ -6,7 +6,7 @@ updated: 1694713889902
 created: 1694617862020
 ---
 
-- [[c.Software.Agent-Framework]] [[c.software.Simulation-Framework]]
+- [[c.Software.Agent-Framework]] [[c.Software.Simulation-Framework]]
 - #repo https://github.com/Repast/repast4py
 
 ## [[c.Thought]]

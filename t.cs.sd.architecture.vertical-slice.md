@@ -5,9 +5,3 @@ desc: ''
 updated: 1694375385411
 created: 1694375325556
 ---
-
-- [[c.Pattern.Architecture]]
-
-## [[p.hasImplementation]]
-
-- [[prdct.mediatr]]

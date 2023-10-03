@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1695486284326
+updated: 1696299128807
 created: 1688397077910
 ---
 
@@ -15,7 +15,7 @@ created: 1688397077910
 
 - [[prdct.nats.jetstream]] (alpha for state)
 - [[prdct.Postgres]]
-- [[t.cs.languages.Python]]: [[prdct.grpc]] [[prdct.fastapi]] [[prdct.flask]]
+- #python: [[prdct.grpc]] [[prdct.fastapi]] [[prdct.flask]]
 - [[prdct.mqtt]]
 
 ## [[c.UseCase]]
@@ -37,7 +37,7 @@ created: 1688397077910
 - https://github.com/kimcuhoang/dapr-tye-simple-microservices
 - https://github.com/thangchung/practical-dapr #dead
 - https://github.com/vietnam-devs/coolstore-microservices "Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce"
-- https://github.com/benc-uk/dapr-store [[t.cs.languages.go]]
+- https://github.com/benc-uk/dapr-store #go
 
 
 ## [[c.Resource]]

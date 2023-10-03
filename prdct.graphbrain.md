@@ -4,12 +4,12 @@ title: Graphbrain
 desc: >-
   an Artificial Intelligence open-source software library and scientific
   research tool
-updated: 1695501014426
+updated: 1696277008084
 created: 1644488300455
 ---
 
 - #url https://graphbrain.net/
-- [[p.writtenIn]] [[t.cs.languages.Python]]
+- [[p.writtenIn]] #python
 - #aka "An OpenCog that works"
 
 ![](/assets/images/2023-09-23-13-09-46.png)
@@ -27,3 +27,7 @@ created: 1644488300455
 
 - Graphbrain is built around a unifying concept: the [[Semantic Hypergraph (SH)|t.cs.graph.semantic-hypergraph]], which makes it possible to represent a natural language sentence such as “Einstein first published the theory of relativity in 1905” as an ordered, recursive hyperlink
   - http://graphbrain.net/manual/notation.html 
+
+## [[c.Resource]]
+
+- [[ar.linking-graph-databases-and-semantic-web-for-reasoning-in-library-domains]]

@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1643401811525
+updated: 1696284354009
 created: 1633160681527
 ---
 
@@ -22,7 +22,8 @@ created: 1633160681527
 - calls verbs properties / predicates
 - confuses properties and predicates
 - can't easily express intransitive relations (properties)
-- 
+- single triple / temporal problems
+  - see [[ar.a-temporal-rdf-model-for-multi-grained-time-information-modeling]]
 
 ## can be expressed as 
 

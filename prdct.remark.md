@@ -2,13 +2,13 @@
 id: bo51ococzpmze02asyrb8yy
 title: Remark
 desc: ''
-updated: 1671855690974
+updated: 1696287929603
 created: 1671854886923
 ---
 
 #url https://remark.js.org/
 
-- [[p.writtenIn]] [[t.cs.languages.JavaScript]]
+- [[p.writtenIn]] #javascript
 
 ## [[c.Resource]]
 

@@ -5,5 +5,3 @@ desc: ''
 updated: 1694374771933
 created: 1694374628975
 ---
-
-- [[c.Pattern.Architecture]]

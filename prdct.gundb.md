@@ -2,7 +2,7 @@
 id: 1f09QQTVfyREYHR2dLKZK
 title: GunDB
 desc: ''
-updated: 1675066629388
+updated: 1696287929579
 created: 1638654887501
 ---
 
@@ -10,7 +10,7 @@ created: 1638654887501
 - [[p.similarTo]] 
   - [[prdct.redwood]]
   - [[prdct.saphiredb]]
-- [[p.builtOn]] [[t.cs.languages.JavaScript]]
+- [[p.builtOn]] #javascript
 - [[p.hasExtension]] 
   - https://github.com/brysgo/graphql-gun
 

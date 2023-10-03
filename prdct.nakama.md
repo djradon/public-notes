@@ -4,17 +4,17 @@ title: Nakama
 desc: >-
   the first open-source distributed server for social and realtime games and
   apps
-updated: 1673840221828
+updated: 1696299128815
 created: 1656792485964
 ---
 
 [[c.Software.Game-Platform]]
 #repo https://github.com/heroiclabs/nakama
-[[p.writtenIn]] [[t.cs.languages.go]]
+[[p.writtenIn]] #go
 
  #description more buttoned-up than Colyseus
 
-- [[p.hasClientSupport]] [[prdct.Unity]] [[prdct.unreal]] [[prdct.Godot]] [[prdct.defold]] [[t.cs.languages.JavaScript]] [[prdct.cocos2d]]
+- [[p.hasClientSupport]] [[prdct.Unity]] [[prdct.unreal]] [[prdct.Godot]] [[prdct.defold]] #javascript [[prdct.cocos2d]]
 - [[p.hadPricing]] https://heroiclabs.com/pricing/
 - [[p.hadEtymology]]  In Japanese, the word nakama 仲間 means "someone who's in the same group as you," or can refer to the group itself.
 - [[p.writtenIn]] 

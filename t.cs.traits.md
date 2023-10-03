@@ -2,7 +2,7 @@
 id: cxy3sruhn88twl144ozfhnx
 title: Traits
 desc: ''
-updated: 1671633275850
+updated: 1696287977991
 created: 1671553437341
 ---
 
@@ -13,3 +13,8 @@ created: 1671553437341
 
 "A better, more modern way to implement OOP is using traits."
   - https://itnext.io/straits-9ef2b9a563cd
+
+## [[c.Implementation]]
+
+- #php has traits with properties
+  - https://stackoverflow.com/questions/47727003/can-traits-have-properties-methods-with-private-protected-visibility-can-tr
