@@ -2,7 +2,7 @@
 id: 7sn9ivupnu1642udjf7czhj
 title: CroquetOS
 desc: 'synchronization system for multiuser Metaverse experiences'
-updated: 1696298855786
+updated: 1696338609745
 created: 1696289301886
 ---
 
@@ -12,3 +12,7 @@ created: 1696289301886
 ## [[c.Feature]]
 
 - multi-user [[c.Software.Live-Programming]]
+
+## [[c.Thought]]
+
+- 

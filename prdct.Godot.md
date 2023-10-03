@@ -2,7 +2,7 @@
 id: BJZRQTTff77MsBb32oNf5
 title: Godot
 desc: ''
-updated: 1696269809570
+updated: 1696347173625
 created: 1637591669334
 ---
 
@@ -15,5 +15,9 @@ created: 1637591669334
   - [[t.cs.languages.GDScript]] 
   - [[t.cs.languages.C-sharp]]
   - #c++
-  - [[t.cs.languages.typescript]] via https://github.com/GodotExplorer/ECMAScript and [[prdct.quikckjs]]
+  - #typescript via https://github.com/GodotExplorer/ECMAScript and [[prdct.quikckjs]]
+  - #rust
 
+## [[c.Feature]]
+
+- dynamic execution

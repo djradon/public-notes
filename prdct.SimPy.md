@@ -2,7 +2,7 @@
 id: raYKMVnchliNlZdJjSo1z
 title: SimPy
 desc: process-based discrete-event simulation framework
-updated: 1696277008116
+updated: 1696350805648
 created: 1637848786294
 ---
 
@@ -14,6 +14,4 @@ created: 1637848786294
 
 ## [[c.Resource]]
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9912342/
-  - "components are of three types: 1) agents and their environments; 2) logging and data collection; and 3) simulation utility functions (e.g., random number management, input parameter parsing, and so on)"
-  - 
+- https://realpython.com/simpy-simulating-with-python/#when-to-change-things-up

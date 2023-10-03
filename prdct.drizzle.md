@@ -2,12 +2,12 @@
 id: kj43fz6i5mn5yoyq8q952tc
 title: Drizzle
 desc: ''
-updated: 1695140103255
+updated: 1696347173631
 created: 1695140052621
 ---
 
 - [[c.Software.Game-Platform]]
-- [[p.writtenIn]] [[t.cs.languages.typescript]]
+- [[p.writtenIn]] #typescript
 
 ## [[c.Resource]]
 

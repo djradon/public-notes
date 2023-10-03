@@ -2,12 +2,13 @@
 id: yyzrtxf5ji39keju7invw48
 title: Vvvv
 desc: ''
-updated: 1695936934413
+updated: 1696303022147
 created: 1695936736004
 ---
 
 - [[c.Software.Live-Programming]]
 - #url https://visualprogramming.net/
+- [[p.builtOn]] [[prdct.Stride]]
 
 ## [[c.Feature]]
 

@@ -2,7 +2,7 @@
 id: ud3oq1w0uu5pj702m9kjbbr
 title: Repast4py
 desc: ''
-updated: 1694713889902
+updated: 1696350842895
 created: 1694617862020
 ---
 
@@ -22,4 +22,4 @@ created: 1694617862020
   - event scheduling
     - "events are scheduled to occur at a particular tick. Ticks do not represent clock-time but rather the priority of its associated event"
     - A floating point tick, together with the ability to order the priority of events scheduled for the same tick, provides for flexible scheduling.
-    
+  - "components are of three types: 1) agents and their environments; 2) logging and data collection; and 3) simulation utility functions (e.g., random number management, input parameter parsing, and so on)"
