@@ -2,12 +2,11 @@
 id: 1j7zJamy6xne6ZZ6Y2PnK
 title: Svelto.ECS
 desc: ''
-updated: 1638158597688
+updated: 1696370370212
 created: 1638152420551
 ---
 
-
-
+- [[c.Software.Entity-Component-System]]
 - [[p.writtenIn]] [[t.cs.languages.c-sharp]]
 - [[p.hasRepository]] https://github.com/sebas77/Svelto.ECS
 - [[p.hasCreator]] @sebas77

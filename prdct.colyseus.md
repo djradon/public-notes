@@ -4,7 +4,7 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1695966061384
+updated: 1696397967126
 created: 1642897812921
 ---
 
@@ -15,7 +15,10 @@ created: 1642897812921
 - [[p.hasRelatedSolution]] https://github.com/endel/ecs #ecs
 - [[p.hasClientSupport]]
    - [[prdct.Unity]]
-   - 
+   - [[prdct.defold]] 
+   - [[prdct.babylon-js]]
+   - [[prdct.playcanvas]]
+   - [[prdct.phaser]]
 - [[p.hasExample]]
   - [[Tosios|game.tosios]]
   - https://forum.babylonjs.com/t/open-source-multiplayer-3d-rpg-using-colyseus/35733

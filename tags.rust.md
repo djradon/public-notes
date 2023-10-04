@@ -2,7 +2,7 @@
 id: fdqhhzcn9m5zj604dgasqi2
 title: Rust
 desc: ''
-updated: 1696310761762
+updated: 1696371560517
 created: 1696310701574
 ---
 
@@ -18,3 +18,5 @@ created: 1696310701574
 ## [[c.Feature]]
 
 - [traits](https://doc.rust-lang.org/book/ch10-02-traits.html)
+- [DSLs](https://doc.rust-lang.org/rust-by-example/macros/dsl.html)
+- 

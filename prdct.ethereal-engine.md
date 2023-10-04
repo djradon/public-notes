@@ -2,7 +2,7 @@
 id: 63kf9de9lbduuose19qiasc
 title: Ethereal Engine
 desc: ''
-updated: 1696356636415
+updated: 1696369387898
 created: 1672314344300
 ---
 
@@ -12,6 +12,12 @@ created: 1672314344300
 - [[p.writtenIn]] #typescript 
 - [[p.hadDependancy]] [[prdct.mediasoup]]
   
+## [[c.Feature]]
+
+- [metaverse control plane](https://www.etherealengine.com/post/ee-release-1)
+
 ## [[c.Resource]]
 
 - https://www.etherealengine.com/blog
+
+a vibrant ecosystem where content creators, facilitators, and players can easily collaborate to create spectacular computer-mediated experiences
