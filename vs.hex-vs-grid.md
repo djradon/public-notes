@@ -1,0 +1,17 @@
+---
+id: knq6iohcky6qemy6mmnl97o
+title: Hex Vs Grid
+desc: ''
+updated: 1696440770178
+created: 1696439871971
+---
+
+## [[c.Thought]]
+
+- grid allows cardinal movement easily, especially on the micro scale with steps. But in 3d, you don't move in cardinal anyway. 
+
+## [[c.Resource]]
+
+- https://www.reddit.com/r/RPGdesign/comments/74g0fo/question_hex_vs_squares_pros_and_cons_of_each/
+  - "Hexes are better for outdoors, because they don't have any weird diagonals. Squares are better for indoors because most buildings have walls at right angles."
+- https://www.redblobgames.com/grids/hexagons/

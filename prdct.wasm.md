@@ -2,7 +2,7 @@
 id: gumh48vac0xpkly050yoryl
 title: Wasm
 desc: 'Web Assembly: the future of computing?'
-updated: 1696366568163
+updated: 1696445460862
 created: 1696364249241
 ---
 
@@ -12,3 +12,5 @@ created: 1696364249241
 ## [[c.Goal]]
 
 - One of WebAssembly (and Wasmtime's) main goals is to execute untrusted code in a safe manner inside of a sandbox.
+
+## [[c.Product.Related]]

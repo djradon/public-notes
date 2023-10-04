@@ -2,13 +2,13 @@
 id: K8eP8VwyVIoUwKljFKzky
 title: Multi-Agent System
 desc: aka MAS
-updated: 1696287929612
+updated: 1696445518037
 created: 1637793595094
 ---
 
 
 
-## [[c.Solution]]
+## [[c.Implementation]]
 
 ### #javascript
 

@@ -2,7 +2,7 @@
 id: 1c425wcbnwh1esyiwydx1pw
 title: Owl
 desc: 'Web Ontology Language'
-updated: 1696281417926
+updated: 1696445460864
 created: 1696270955675
 ---
 
@@ -12,6 +12,6 @@ created: 1696270955675
 
 - OWL 2 ontologies themselves are primarily exchanged as RDF documents
 
-## [[c.Solution.Related]]
+## [[c.Product.Related]]
 
 - [[prdct.mod-ontology]]

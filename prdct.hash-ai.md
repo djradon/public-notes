@@ -2,7 +2,7 @@
 id: uacnq39zzzyrqnz0952e0az
 title: HASH.ai
 desc: 'open-core cloud platform for creating and exploring shared, structured knowledge'
-updated: 1696436759707
+updated: 1696445460856
 created: 1651162206896
 ---
 
@@ -12,7 +12,7 @@ created: 1651162206896
 - [[p.hasScriptingLanguage]] 
   - #python
   - #javascript
-- [[c.Solution.Related]] [[prdct.block-protocol]]
+- [[c.Product.Related]] [[prdct.block-protocol]]
 
 ## [[c.Feature]]
 
