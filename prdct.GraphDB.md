@@ -2,12 +2,11 @@
 id: RJuARDM7QgEnTon40cd13
 title: GraphDB
 desc: ''
-updated: 1696275010225
+updated: 1696446322898
 created: 1637954631007
 ---
 
-
-- [[c.Software.Graph-Database]]
+- [[c.Software.Database.Graph]]
 - [[p.instanceOf]] [[t.cs.data.DBMS.graph]]
 - [[p.writtenIn]] #java
 - [[p.supports]] [[prdct.RDF-star]]

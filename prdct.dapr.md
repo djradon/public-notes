@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1696299128807
+updated: 1696457053320
 created: 1688397077910
 ---
 
@@ -13,10 +13,22 @@ created: 1688397077910
 
 ## [[p.supports]]
 
+- #c-sharp #python #javascript #java #go #php #c++ #rust (see https://docs.dapr.io/developing-applications/sdks/)
 - [[prdct.nats.jetstream]] (alpha for state)
 - [[prdct.Postgres]]
 - #python: [[prdct.grpc]] [[prdct.fastapi]] [[prdct.flask]]
 - [[prdct.mqtt]]
+
+## [[p.hasNoSupportFor]]
+
+- #f-sharp or any functional language
+
+## [[c.Feature]]
+
+### State Store (Hot Data)
+
+- key-value only? can work with relational dbs, but not designed for all yer customer data (https://youtu.be/0y7ne6teHT4)
+  - [share state across applications](https://docs.dapr.io/developing-applications/building-blocks/state-management/howto-share-state/)
 
 ## [[c.UseCase]]
 
