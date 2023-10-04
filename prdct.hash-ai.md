@@ -1,8 +1,8 @@
 ---
 id: uacnq39zzzyrqnz0952e0az
 title: HASH.ai
-desc: 'open-core platform for creating and exploring shared, structured knowledge'
-updated: 1696374279027
+desc: 'open-core cloud platform for creating and exploring shared, structured knowledge'
+updated: 1696436759707
 created: 1651162206896
 ---
 
@@ -14,3 +14,16 @@ created: 1651162206896
   - #javascript
 - [[c.Solution.Related]] [[prdct.block-protocol]]
 
+## [[c.Feature]]
+
+- https://hash.ai/docs/simulation/concepts/designing-for-different-timescales
+  - Expressing multiple timescales in a simulation is a difficult problem that exists across platforms and frameworks. Often you're forced to break your representation of time and just ignore the different timescales.
+    - There are a couple of different ways you can solve this problem in HASH. Common approaches are:
+      - Add discrete event features to signal when agents should pause to allow for different computation times
+      - Add delays to normalize the actions across timescales.
+
+- The hCore API provides read and write access to the code and contents of simulation projects. This access can be used, amongst other things, to change the logic of a simulation based on external changes offline or in response to user-input outside of HASH. This unlocks the creation of domain-specific and custom user interfaces for building HASH models.
+
+## [[c.Con]]
+
+- 

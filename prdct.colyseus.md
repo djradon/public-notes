@@ -4,21 +4,26 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1696397967126
+updated: 1696433138641
 created: 1642897812921
 ---
 
 #repo https://github.com/colyseus/colyseus
-#contributors @endel-dreyer
+#creator @endel-dreyer
 
 - [[p.ownedBy]] [[org.lucid-sight]]
 - [[p.hasRelatedSolution]] https://github.com/endel/ecs #ecs
 - [[p.hasClientSupport]]
    - [[prdct.Unity]]
-   - [[prdct.defold]] 
+   - [[prdct.defold]]
+     - https://docs.colyseus.io/getting-started/defold-client/
    - [[prdct.babylon-js]]
+     - https://doc.babylonjs.com/guidedLearning/networking/Colyseus
    - [[prdct.playcanvas]]
+     - https://developer.playcanvas.com/en/tutorials/real-time-multiplayer-colyseus/
    - [[prdct.phaser]]
+     - https://github.com/colyseus/tutorial-phaser/tree/master
+     - https://learn.colyseus.io/phaser
 - [[p.hasExample]]
   - [[Tosios|game.tosios]]
   - https://forum.babylonjs.com/t/open-source-multiplayer-3d-rpg-using-colyseus/35733
