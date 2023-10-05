@@ -2,7 +2,7 @@
 id: 63kf9de9lbduuose19qiasc
 title: Ethereal Engine
 desc: ''
-updated: 1696369387898
+updated: 1696524320099
 created: 1672314344300
 ---
 
@@ -15,6 +15,7 @@ created: 1672314344300
 ## [[c.Feature]]
 
 - [metaverse control plane](https://www.etherealengine.com/post/ee-release-1)
+- state management uses [hookstate](https://hookstate.js.org/) and [react](https://react.dev/). Together, these tools give reactive, declarative, and controlled state management across any scope.
 
 ## [[c.Resource]]
 
