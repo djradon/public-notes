@@ -2,13 +2,13 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1638293032670
+updated: 1696474791132
 created: 1633596039729
 ---
 
 
 
-property graphs support key-value pairs
+property graphs support key-value pairs on entities and relationships
 
 - [[p.hasComparand]]
   - [[t.cs.graph.semantic-graph]]
@@ -19,7 +19,7 @@ property graphs support key-value pairs
 - [when semantic graphs support reification, aren't they essentially the same?][1]
   - maybe, and I think predicates are adequate to represent key-value pairs on
     - subjects/objects (aka "things" or, in graph theory, [[gd.concepts.nodes]])
-
+- for time travel, maybe could be nice to have properties for valid datetimes
 
 
 ## [[p.isRelated]]
@@ -27,3 +27,8 @@ property graphs support key-value pairs
 - [1]: [[ar.forbes.when-graphs-collide-the-coming-merger-of-property-and-semantic-graphs]]
 - [ ] http://blog.liu.se/olafhartig/2019/01/10/position-statement-rdf-star-and-sparql-star/
 - https://tdan.com/knowledge-graphs-vs-property-graphs-part-1/27140
+
+
+## [[c.Resource]]
+
+- https://www.wisecube.ai/blog/knowledge-graphs-rdf-or-property-graphs-which-one-should-you-pick/

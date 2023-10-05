@@ -2,7 +2,7 @@
 id: TIehWkHNVWQJk4RFT5EBX
 title: Property Graph
 desc: ''
-updated: 1694624869683
+updated: 1696473675886
 created: 1638293019662
 ---
 
@@ -15,3 +15,4 @@ created: 1638293019662
 
 - http://www.snee.com/bobdc.blog/2018/04/reification-is-a-red-herring.html
   - In RDF, "if you want to keep track of separate instances of a particular relationship, declare a class for that relationship and then create instances of it."
+
