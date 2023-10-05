@@ -2,7 +2,7 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1696474791132
+updated: 1696480014787
 created: 1633596039729
 ---
 
@@ -30,5 +30,6 @@ property graphs support key-value pairs on entities and relationships
 
 
 ## [[c.Resource]]
-
+- https://dzone.com/articles/rdf-triple-stores-vs-labeled-property-graphs-whats
+  - "RDF Can Have Multivalued Properties and the Labeled Property Graph Can Have Arrays"
 - https://www.wisecube.ai/blog/knowledge-graphs-rdf-or-property-graphs-which-one-should-you-pick/

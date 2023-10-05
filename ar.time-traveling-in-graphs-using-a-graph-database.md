@@ -2,7 +2,7 @@
 id: plzqijn9u7758ktbdfajvh5
 title: Time Traveling in Graphs Using a Graph Database
 desc: ''
-updated: 1696475922097
+updated: 1696478464399
 created: 1696474895633
 ---
 
@@ -17,4 +17,5 @@ created: 1696474895633
 ### single and multi edge representation
 
 - the single-edge approach: the lifespan of a node or edge is modeled using a label (i.e., an attribute or property) of the corresponding node or edge. Figure 1 shows an example of edge lifespans represented by a single label of type String. For example, the co-authorship between authors A, C in 2010, and 2012, is represented by the edge with label "2010,2012". Graph evolution can be tracked by processing the node and edge lifespan labels. Thus, to obtain the graph snapshot Gt for a time point t, we get all edges and nodes and then keep only those edges and nodes whose lifespan label contains t.
+  - for second-level precision, seems incredibly wasteful
 - the multi-edge approach uses a different edge type between two nodes for each time point of the lifespan of the edge. For instance, in order to represent co-authorship between authors A, B, C in 2010, 2012, and 2014, we use three different labeled types of edges to connect A, B, and C.
