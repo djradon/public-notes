@@ -2,7 +2,7 @@
 id: BJZRQTTff77MsBb32oNf5
 title: Godot
 desc: ''
-updated: 1696347173625
+updated: 1696536643489
 created: 1637591669334
 ---
 
@@ -21,3 +21,7 @@ created: 1637591669334
 ## [[c.Feature]]
 
 - dynamic execution
+- [[prdct.wasm]] [support](https://docs.godotengine.org/en/stable/contributing/development/compiling/compiling_for_web.html) via [[prdct.emscripten]]
+  - Using Go for WebAssembly offers several advantages. First, Go provides a familiar and straightforward programming environment for web developers, making it easy to transition from traditional Go development to web development.
+  - Secondly, Go’s performance and concurrency features are well-suited for building efficient web applications that can handle heavy workloads.
+  - Finally, the combination of Go and WebAssembly allows for cross-platform compatibility, enabling the deployment of applications on various browsers without the need for plugins or additional dependencies.

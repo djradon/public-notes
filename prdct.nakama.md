@@ -4,7 +4,7 @@ title: Nakama
 desc: >-
   the first open-source distributed server for social and realtime games and
   apps
-updated: 1696530982975
+updated: 1696531484004
 created: 1656792485964
 ---
 
@@ -61,3 +61,8 @@ The JavaScript runtime code is executed in instanced contexts (VM pool). You can
       - There is no support for libraries that require Node, web/browser APIs, or native support (e.g. via Node).
       - The use of multi-threaded processing is not supported in the JavaScript runtime.
 -   **Matchmaker**, **dashboard**, **metrics**, and [more](https://heroiclabs.com/docs).  
+
+## [[t.cs.sd.architecture]]
+
+- https://heroiclabs.com/docs/nakama/getting-started/architecture/
+  - "If data needs to be distributed to clients live, streams are the way it gets there. Individual player sessions join and leave streams, like subscribing and unsubscribing to a continuous flow of messages."
