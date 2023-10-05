@@ -2,15 +2,23 @@
 id: 1aj8c06a10o4fj4g0s9as5x
 title: Third Room
 desc: 'open, standards-based, decentralised vision of the metaverse for the open Web, built entirely on Matrix'
-updated: 1680905930579
+updated: 1696527901679
 created: 1672343537168
 ---
 
+- #dead See [](https://matrix.to/#/!rzmCByrDIhEbURWmyW:matrix.org/$Ma0FH-hEbXdTSdTFNCH5m-LhJ8zKgznnSi91g0K78dE?via=matrix.org&via=thirdroom.io&via=element.io)
 - [[c.Software.Metaverse-Platform]]
 
 - #url https://thirdroom.io/
+- #repo https://github.com/matrix-org/thirdroom
 
+- [[p.writtenIn]] #c #typescript
 - [[p.builtOn]] [[prdct.matrix]]
 - [[p.builtWith]] [[prdct.bitecs]] [[prdct.three-js]]
 - [[p.supports]] [[prdct.gltf]] [[prdct.Unity]]
 - [[p.similarTo]] [[prdct.hubs]]
+
+## [[c.Resource]]
+
+- https://matrix.org/blog/2023/06/07/introducing-third-room-tp-2-the-creator-update/
+  - in this update we’ve focused on building out the scripting, editing and authoring capabilities of Third Room to provide a solid platform for building and running collaborative 3D apps of any kind.

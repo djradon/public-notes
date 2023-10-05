@@ -2,7 +2,7 @@
 id: qvf6or8j3nxcjz8sci4qwcu
 title: BitECS
 desc: ''
-updated: 1696016925252
+updated: 1696524603555
 created: 1672342730647
 ---
 
@@ -12,7 +12,7 @@ created: 1672342730647
 - [[p.usedBy]] [[prdct.ethereal-engine]] [[prdct.hubs]] [[prdct.matrix]] [[prdct.third-room]]
 - [[p.hasClientSupport]]
   - [[prdct.element]] [[prdct.babylon-js]]
-  - 
+  - [[prdct.phaser]]
 
 ## [[p.hasFeature]]
 
@@ -32,8 +32,10 @@ created: 1672342730647
 - Is there a string type for components?
   - Strings are expensive and usually unnecessary to have the ECS handle. Instead, create a mapping of integers to strings, and store the integers in the component data as a reference to a string. This makes string serialization minimal and  
 
+## [[c.Resource]]
 
-## [[p.hasComparison]]
+### [[c.Resource.Learning]]
 
-- https://www.troopmessenger.com/blogs/mattermost-vs-matrix
-- 
+- https://github.com/ourcade/phaser3-bitecs-getting-started
+
+

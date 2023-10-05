@@ -2,10 +2,17 @@
 id: nkq30qqbvmvzshw0ecuxv4v
 title: Hubs
 desc: 'open source virtual world platform'
-updated: 1672343000537
+updated: 1696524979791
 created: 1649974346874
 ---
 
-- [[p.hasSite]] https://hubs.mozilla.com/
+- [[c.Software.Metaverse-Platform]]
+- #url  https://hubs.mozilla.com/
+- #repo https://github.com/mozilla/hubs
+- #docs https://hubs.mozilla.com/docs/welcome.html
+- [[p.publishedBy]] [[org.mozilla]]
+- [[p.supportedBy]] [[prdct.spoke]]
+
+- [[p.writtenIn]] #javascript #typescript
 - [[p.builtOn]] [[prdct.a-frame]]
 - [[p.builtOn]] [[prdct.janus]]

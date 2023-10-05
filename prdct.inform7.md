@@ -2,12 +2,12 @@
 id: bhy193j5t54nqgoxvx3aino
 title: Inform7
 desc: ''
-updated: 1662753983929
+updated: 1696530444807
 created: 1651302357861
 ---
 
 
-- [[p.instanceOf]] [[c.InteractiveFictionFramework]]
+- [[p.instanceOf]] [[c.Software.Game-Framework.InteractiveFiction]]
 - [[p.hasSite]] https://ganelson.github.io/inform/
   - [[p.hasHighlight]]
     - https://ganelson.github.io/inform/structure.html

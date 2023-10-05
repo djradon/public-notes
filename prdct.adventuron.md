@@ -2,10 +2,10 @@
 id: xgvsvpvf11zpg7wtr05maju
 title: Adventuron
 desc: ''
-updated: 1662753928224
+updated: 1696530444802
 created: 1662752791841
 ---
 
-- [[p.instanceOf]] [[c.InteractiveFictionFramework]]
+- [[p.instanceOf]] [[c.Software.Game-Framework.InteractiveFiction]]
 - [[p.hasURL]] https://adventuron.io/
 - 

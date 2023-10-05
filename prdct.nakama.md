@@ -4,17 +4,15 @@ title: Nakama
 desc: >-
   the first open-source distributed server for social and realtime games and
   apps
-updated: 1696299128815
+updated: 1696530982975
 created: 1656792485964
 ---
 
-[[c.Software.Game-Platform]]
-#repo https://github.com/heroiclabs/nakama
-[[p.writtenIn]] #go
-
- #description more buttoned-up than Colyseus
-
-- [[p.hasClientSupport]] [[prdct.Unity]] [[prdct.unreal]] [[prdct.Godot]] [[prdct.defold]] #javascript [[prdct.cocos2d]]
+- [[c.Software.Game-Platform]] [[c.Software.Game-Framework]]
+- #repo https://github.com/heroiclabs/nakama
+- [[p.writtenIn]] #go
+- [[p.hasScriptingLanguage]] #typescript [[prdct.lua]]
+- [[p.hasClientSupport]] [[prdct.Unity]] [[prdct.unreal]] [[prdct.Godot]] [[prdct.defold]] [[prdct.cocos2d]] #javascript #java #c #c++
 - [[p.hadPricing]] https://heroiclabs.com/pricing/
 - [[p.hadEtymology]]  In Japanese, the word nakama 仲間 means "someone who's in the same group as you," or can refer to the group itself.
 - [[p.writtenIn]] 
@@ -22,6 +20,15 @@ created: 1656792485964
   - Lua 5.1%
   - TypeScript 4.4%
 - [[p.wasBuiltBy]] [[org.heroic-labs]]
+
+## [[c.Feature]]
+-   Low-level control of real-time [routing and delivery](https://heroiclabs.com/docs/nakama/server-framework/streams/)
+-   -   Intercept and override functionality with [hooks](https://heroiclabs.com/docs/nakama/server-framework/introduction/#hooks)
+-   Define and call [RPC functions](https://heroiclabs.com/docs/nakama/server-framework/introduction/#rpc-functions)
+-   Run background server cron [jobs](https://heroiclabs.com/docs/nakama/guides/server-framework/background-jobs/)
+-   [Access controls](https://heroiclabs.com/docs/nakama/concepts/storage/permissions/) and [API guarding](https://heroiclabs.com/docs/nakama/guides/server-framework/guarding-apis/)
+-   Low-level control of real-time [routing and delivery](https://heroiclabs.com/docs/nakama/server-framework/streams/)
+
 
 ## [[c.Limitation]]
 
