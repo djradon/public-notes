@@ -2,7 +2,7 @@
 id: vhdqlggdtgl201etqavu5r1
 title: Pharo
 desc: 'dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk'
-updated: 1695934089071
+updated: 1696563592494
 created: 1695847863715
 ---
 
@@ -19,13 +19,21 @@ created: 1695847863715
 
 ## [[c.Solution.Related]]
 
+- [[prdct.glamorous-toolkit]]
+  - https://lepiter.io/feenk/glamorous-toolkit-and-pharo-9q25tavxwfq6z1drwvegd5u9o/
 - [[prdct.phratch]]
 - http://forum.world.st/Memory-mapped-files-and-Pharo-aka-Unreal-Engine-4-integration-with-Pharo-td4872049.html
 
-## [[c.Resource.List]]
+## [[c.Resource]]
 
-- http://books.pharo.org/
+- https://pavel-krivanek.github.io/famix/
+  - "The need for meta-model unification lead sometimes to bizarre design decisions that had no sense in particular languages."
 - https://richardeng.medium.com/python-vs-pharo-2c2c1a3b1afe
   - https://pharo.org/success/UXadvancedAtThales.html
   - [[p.references]] [[t.cs.languages.smalltalk.amber]]
-  - https://pharoweekly.wordpress.com/2016/11/13/scripting-unreal-with-pharo/ 
+  - https://pharoweekly.wordpress.com/2016/11/13/scripting-unreal-with-pharo/ #looks-complicated
+
+
+### [[c.Resource.List]]
+
+- http://books.pharo.org/

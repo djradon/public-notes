@@ -4,7 +4,7 @@ title: Glamorous Toolkit
 desc: >-
   a live notebook. A fancy code editor. A software analysis platform. A data
   visualization engine. A knowledge management system. All in one.
-updated: 1695918996539
+updated: 1696570341792
 created: 1650122141316
 ---
 
@@ -24,4 +24,4 @@ created: 1650122141316
 ## [[c.Resource]]
 
 - https://medium.com/feenk/one-rendering-tree-918eae49bcff
-  - 
+- [+] https://lepiter.io/feenk/glamorous-toolkit-and-pharo-9q25tavxwfq6z1drwvegd5u9o/
