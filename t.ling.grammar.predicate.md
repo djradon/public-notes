@@ -2,7 +2,7 @@
 id: c47nnrkapzkq4p7caxvg7u8
 title: Predicate
 desc: ''
-updated: 1696611734312
+updated: 1696611838086
 created: 1671318708718
 ---
 
@@ -19,13 +19,13 @@ created: 1671318708718
 - https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.html
   - It is often convenient to identify arguments of (Fregean) predicates in terms of the following **thematic roles,** which are illustrated below.
 
-    -   [agent](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#agent)
-    -   [cause](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#cause)
-    -   [instrument](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#instrument)
-    -   [experiencer](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#experiencer)
-    -   [recipient](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#recipient)
-    -   [location](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#location)
-    -   [path](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#path)
-    -   [goal](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#goal)
-    -   [measure](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#measure)
-    -   [theme](https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.htmlbox-thematic.html#theme)
+    agent
+    cause
+    instrument
+    experiencer
+    recipient
+    location
+    path
+    goal
+    measure
+    theme 

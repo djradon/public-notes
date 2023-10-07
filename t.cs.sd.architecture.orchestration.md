@@ -2,14 +2,16 @@
 id: 08k9bzf078nrt71hp1rxaao
 title: Orchestration
 desc: still need a component that is aware of the entire workflow
-updated: 1690178400588
+updated: 1696627252194
 created: 1680909338629
 ---
+
+![](/assets/images/2023-10-06-14-20-41.png)
 
 ## [[c.Implementation]]
 
 - [[prdct.workflow-core]]
-- [[Prefect|prdct.prefect]]
+- [[prdct.prefect]]
 
 
 ## [[c.Resource]]
