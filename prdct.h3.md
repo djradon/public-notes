@@ -2,7 +2,7 @@
 id: eqpfbn6ppca6xxa2dpyjmuk
 title: H3
 desc: ''
-updated: 1696440966230
+updated: 1696714991711
 created: 1696438166743
 ---
 
@@ -16,7 +16,7 @@ created: 1696438166743
 - #java with [[prdct.h3.java]]
 - [[prdct.Postgres]]
 
-## [[c.Description]]
+## #description
 
 - Since it is not possible to tile the icosahedron with only hexagons, we chose to introduce twelve pentagons, one at each of the icosahedron vertices. These vertices were positioned using the spherical icosahedron orientation by R. Buckminster Fuller, which places all the vertices in the water. This helps avoid pentagons surfacing in our work.
 - H3 supports sixteen resolutions. Each finer resolution has cells with one seventh the area of the coarser resolution. Hexagons cannot be perfectly subdivided into seven hexagons, so the finer cells are only approximately contained within a parent cell.

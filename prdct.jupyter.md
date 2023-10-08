@@ -2,9 +2,11 @@
 id: djlhv0za7cu8tdzg0ij67o9
 title: Jupyter
 desc: ''
-updated: 1694402622266
+updated: 1696738675083
 created: 1694114706090
 ---
+
+- [[c.Software.Computational-Notebook]]
 
 ## #related
 
