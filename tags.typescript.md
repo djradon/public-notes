@@ -1,8 +1,8 @@
 ---
 id: jpib8ij7qjndaia7168m70n
 title: TypeScript
-desc: ''
-updated: 1696788394884
+desc: 'inform the dev time language server and the compiler about the valid shapes'
+updated: 1696797022724
 created: 1696347104135
 ---
 
@@ -12,6 +12,7 @@ created: 1696347104135
 ## [[c.Resource]]
 
 - https://medium.com/codex/why-are-javascript-pros-saying-goodbye-to-typescript-8c4bc8ec82a1
+  - 
 
 ### [[c.Resource.Learning]]
 
