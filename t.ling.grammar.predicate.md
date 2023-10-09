@@ -2,7 +2,7 @@
 id: c47nnrkapzkq4p7caxvg7u8
 title: Predicate
 desc: ''
-updated: 1696611838086
+updated: 1696825379173
 created: 1671318708718
 ---
 
@@ -16,8 +16,9 @@ created: 1671318708718
 
 ## [[c.Idea]]
 
+- predicate arguments can have [[t.ling.grammar.thematic-roles]]
 - https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.html
-  - It is often convenient to identify arguments of (Fregean) predicates in terms of the following **thematic roles,** which are illustrated below.
+  - It is often convenient to identify arguments of (Fregean) predicates in terms of the following **thematic roles,** which are illustrated below. ^ft4hys2l0uwp
 
     agent
     cause
