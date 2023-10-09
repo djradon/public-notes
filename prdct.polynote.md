@@ -2,13 +2,13 @@
 id: 8q2u8jftsp9sx5akld4eaq3
 title: Polynote
 desc: ''
-updated: 1696277008113
+updated: 1696886924463
 created: 1694117982293
 ---
 
 - #url https://polynote.org
 - #repo https://github.com/polynote/polynote
-- [[p.supports]] [[prdct.vega]] [[t.cs.languages.scala]] #python
+- [[p.supports]] [[prdct.vega]] #scala #python
 
 ## [[prdct.windows.wsl]]
 

@@ -2,7 +2,7 @@
 id: N5L02WMR1umDBKH6ZwjYT
 title: Unity
 desc: the pre-eminent game-creation platform
-updated: 1696287929607
+updated: 1696892589680
 created: 1637842422618
 ---
 
@@ -11,6 +11,10 @@ created: 1637842422618
 - [[p.hasScriptingLanguage]] #javascript
   - [ ] [[prdct.jint]] https://pleasenophp.github.io/posts/using-real-javascript-with-unity.html
 
+
+## [[c.Feature]]
+
+- [script composition](https://gamedevbeginner.com/how-to-use-script-composition-in-unity/) ^2tiad033817r
 
 ## [[c.Resource]]
 

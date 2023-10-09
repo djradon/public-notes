@@ -2,7 +2,7 @@
 id: knr70d98u0tqx338yeii27u
 title: Rustconf Talk
 desc: ''
-updated: 1696709955131
+updated: 1696891769195
 created: 1696707625159
 ---
 
@@ -24,3 +24,4 @@ created: 1696707625159
   -   The dot operator or “postfix functions”. If you’re a haskeller this is “type directed name resolution” as opposed to the normal state of affairs which is “name directed type resolution”. A “powerful” way to avoid having to scope 100 different functions with very short common names, or have C style prefixes for everything. Great for IDEs too!
   -   Interfaces with laws (contracts) - Rust traits! No inheritance in sight, and they’re best when they’re small and come with meaningful rules around them, but if you squint they’re kind of C++ pure virtual classes. They’re _awesome_ in the same way Haskell typeclasses are awesome.
   -   Data hiding - Being able to hide data to maintain invariants is invaluable, making a safe interface to unsafe code would not be possible without it. Very useful in the small, and with “library” code.
+

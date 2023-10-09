@@ -4,11 +4,9 @@ title: Flutter
 desc: >-
   open source framework by Google for building beautiful, natively compiled,
   multi-platform applications from a single codebase
-updated: 1637565893054
+updated: 1696879228246
 created: 1637564105468
 ---
-
-
 
 - [[p.hasSite]] https://flutter.dev/
 - [[p.builtWith]] [[t.cs.languages.Dart]]
