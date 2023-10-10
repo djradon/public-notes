@@ -2,7 +2,7 @@
 id: mz1ui9fbuxwdmk7k1b23ly2
 title: Lua
 desc: game scripting language of choice
-updated: 1696892491763
+updated: 1696893076261
 created: 1658318758327
 ---
 
@@ -16,4 +16,4 @@ created: 1658318758327
 ## [[c.Resource]]
 
 - http://lua.space/webdev/why-we-rewrote-lua-in-js
-  - 
+- [[prdct.middleclass]]
