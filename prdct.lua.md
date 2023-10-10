@@ -2,7 +2,7 @@
 id: mz1ui9fbuxwdmk7k1b23ly2
 title: Lua
 desc: game scripting language of choice
-updated: 1696893076261
+updated: 1696954047646
 created: 1658318758327
 ---
 
@@ -11,9 +11,17 @@ created: 1658318758327
 ## c.Feature
 
 - [Metamethods](http://lua-users.org/wiki/MetamethodsTutorial)
-- 
+-  you can pass functions as arguments
 
 ## [[c.Resource]]
 
 - http://lua.space/webdev/why-we-rewrote-lua-in-js
 - [[prdct.middleclass]]
+
+## [[c.Reference]]
+
+![[Mixin|t.cs.sd.mixin#^wklu5ctv3kui]]
+
+## [[c.Implementation]]
+
+- [[prdct.moonsharp]]

@@ -2,7 +2,7 @@
 id: BJZRQTTff77MsBb32oNf5
 title: Godot
 desc: ''
-updated: 1696892811134
+updated: 1696953655929
 created: 1637591669334
 ---
 
@@ -44,3 +44,4 @@ created: 1637591669334
 
 - https://godotengine.org/article/whats-new-in-csharp-for-godot-4-0/
 - https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine/
+- https://programminghaven.home.blog/2020/01/30/designing-a-loosely-coupled-gdscript/
