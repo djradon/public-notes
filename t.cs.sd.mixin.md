@@ -2,7 +2,7 @@
 id: 0446pg8cq2w5q4nibe9xp11
 title: Mixin
 desc: 'a class that contains methods for use by other classes without having to be the parent class of those other classes'
-updated: 1696953933101
+updated: 1696969654877
 created: 1696197242241
 ---
 
@@ -29,3 +29,4 @@ created: 1696197242241
 - https://stackoverflow.com/questions/255553/is-it-possible-to-implement-mixins-in-c / https://www.c-sharpcorner.com/UploadFile/b942f9/how-to-create-mixin-using-C-Sharp-4-0/
 - https://www.reddit.com/r/csharp/comments/7uc6dt/ive_created_a_mixin_library_for_c_and_would_like/
 - [The Power of Lua and Mixins](https://github.com/a327ex/blog/issues/2) ^wklu5ctv3kui
+- https://stackoverflow.com/questions/28882903/uml-representation-of-php-trait

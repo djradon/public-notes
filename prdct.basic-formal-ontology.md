@@ -2,7 +2,7 @@
 id: u69ohenrjzegyb4ta4bp07j
 title: Basic Formal Ontology
 desc: 'a small, upper-level ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains'
-updated: 1696878754811
+updated: 1696963081879
 created: 1696610915530
 ---
 
@@ -19,9 +19,12 @@ material (domain-specific) universals represented in one or other domain ontolog
 a category in this sense; not however organism or weapon, or mortgage contract. Spatial, temporal and
 spatiotemporal region terms are counted as representing formal universals in this sense, since they apply in
 all domains.
+- is_a hierarchy
+![](/assets/images/2023-10-10-11-37-53.png)
   
 
 
 ## [[c.Resource]]
 
 - [[ar.bfo-2-0-specification-and-users-guide]]
+- https://therecouldbebadgers.wordpress.com/2018/06/27/endurants-perdurants-continuants-occurrents/
