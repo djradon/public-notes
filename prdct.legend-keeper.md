@@ -9,8 +9,9 @@ created: 1696976488065
 - [[c.Software.RPG]]
 - #url https://www.legendkeeper.com/
 - [[c.Mention]] [[prdct.dscryb]] [[prdct.here-be-taverns]]
+- [[c.Con]] JSON export is ugly and littered with html and css classnames
 
-## [[c.Model.logical]]
+## [[c.Model.conceptual]]
 
 - elements represent "anything", e.g. person, place, thing, event, a piece of lore, a chapter of a book
   - contain any number of wiki page, map, or whiteboard tabs

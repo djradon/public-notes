@@ -14,7 +14,7 @@ created: 1696438166743
 
 - #javascript with [[prdct.h3.js]]
 - #java with [[prdct.h3.java]]
-- [[prdct.Postgres]]
+- [[prdct.Postgres]] via https://github.com/zachasme/h3-pg
 
 ## #description
 
@@ -26,7 +26,9 @@ created: 1696438166743
 - [flow modeling](https://h3geo.org/docs/highlights/flowmodel)
   - H3 can create indexes that refer to the movement from one cell to a neighbor. These directed edge indexes share the advantages with their cell index counterparts, such as being 64 bit integers. The use of directed edges makes it possible to associate a weight with a movement in the grid.
 
+## #related
 
+- https://github.com/clupasq/h3-viewer
 
 ## [[c.Comparison]]
 
