@@ -15,5 +15,5 @@ created: 1697002853702
 
 ## [[c.Feature]]
 
-- [[c.Extension]]
-- SDK
+- [[c.Extension]]SDK! 
+  - [[c.requirement]] [[prdct.node]]

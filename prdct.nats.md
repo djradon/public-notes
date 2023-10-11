@@ -2,11 +2,14 @@
 id: iypvlwhcbuwo79fm2uayixf
 title: NATS
 desc: 'Neural Autonomic Transport System'
-updated: 1696085632714
+updated: 1697039439137
 created: 1678139747758
 ---
 
+- [[c.Software.message-bus]]
 - #url https://nats.io/
+- [[p.similarTo]] 
+- [[p.writtenIn]] #go
 
 ## [[c.Host]]
 

@@ -2,9 +2,11 @@
 id: cxy3sruhn88twl144ozfhnx
 title: Traits
 desc: ''
-updated: 1696287977991
+updated: 1697041248787
 created: 1671553437341
 ---
+
+- [[p.similarTo]] [[t.cs.sd.mixin]]
 
 ## [[p.hadDefinition]]
 

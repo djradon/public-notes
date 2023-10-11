@@ -2,11 +2,14 @@
 id: m3ejxost9j8l5gmsxuriws0
 title: Memphis
 desc: 'Event Processing For Developers'
-updated: 1681138389923
+updated: 1697040572824
 created: 1680467930113
 ---
 
+- [[c.Software.message-bus]]
 - #url https://memphis.dev/
+- [[p.writtenIn]] #go
+
 
 ## [[c.UseCase]]
 
@@ -22,13 +25,13 @@ created: 1680467930113
 
 ## [[c.Feature]]
 
-- 
+- Stream Enrichments: serverless-type functions or complete containerized applications that aggregate several stations and streams, decorate and enrich messages from different sources, write complex functions that cannot be achieved via SQL, and manipulate the schema.
 
 ### [[c.Feature.Possible]]
 
 - https://medium.com/memphis-dev/differences-between-nats-io-and-memphis-23ac8bd43d01
   - "Memphis is currently experimenting with creating that ability for consumers to be able to communicate with each other using gRPC or shared channels."
-
+- Data-Level Observability
 
 ## [[c.Comparison]]
 
