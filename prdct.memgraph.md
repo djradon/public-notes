@@ -2,7 +2,7 @@
 id: jeumrc1h3tqz6w187z16v55
 title: Memgraph
 desc: ''
-updated: 1697063097193
+updated: 1697079574818
 created: 1696481811073
 ---
 
@@ -21,5 +21,5 @@ created: 1696481811073
 
 ## [[c.Model.licensing]]
 
-- open-source community versino doesn't includ access control or multi-tenant architecture
+- open-source community version doesn't includ access control or multi-tenant architecture
 - cloud version from as low as $20/mo for 1GB memory instance

@@ -2,9 +2,13 @@
 id: 8faZ2Zql5HUvtNt2cA4rd
 title: FIPA-ACL
 desc: Agent Communication Language
-updated: 1695482558098
+updated: 1697084141764
 created: 1637853298785
 ---
+
+## [[c.Con]]
+
+- doesn't seem to cover deception
 
 ## [[c.Resource]]
 

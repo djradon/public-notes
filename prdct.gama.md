@@ -2,7 +2,7 @@
 id: yfdmxrwjycaz3db8uswe0b5
 title: Gama
 desc: ''
-updated: 1696274888563
+updated: 1697091631073
 created: 1694708152058
 ---
 
@@ -14,10 +14,18 @@ created: 1694708152058
   - https://gama-platform.org/wiki/UsingFIPAACL
 - 
 
+## #features
+
+- [[prdct.FIPA]], see https://gama-platform.org/wiki/1.8.1/UsingFIPAACL
+- supports [[t.cs.agents.bdi]] via [[prdct.gama.ben]]
 ## [[c.Thought]]
 
 - seems overly-attached to the UI; 
   - [headless mode](https://gama-platform.org/wiki/Headless-mode-for-dummies) is experiment-oriented, not interactive
+    - [[p.hadLimitation]]
+      - close the socket on client-side) gama-server will destroy all running simulations of that client, so you have to keep your client alive.
+      - communicates via websocket only? i.e., no http/s or grpc
+      - 
 
 ## [[c.Example]]
 

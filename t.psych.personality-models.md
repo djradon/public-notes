@@ -2,7 +2,7 @@
 id: sTyNYjlGIpve8IxDgXFCn
 title: Personality Models
 desc: ''
-updated: 1635726353474
+updated: 1697087642526
 created: 1635724858083
 ---
 
@@ -29,6 +29,10 @@ created: 1635724858083
 -   **Reserved:** People in this type are not open or neurotic but they are emotionally stable. They tend to be introverted, agreeable and conscientious.
 -   **Role-models:** These people are natural leaders with low levels of neuroticism and high levels of agreeableness, extraversion, openness and conscientiousness. They listen to new ideas and are reliable.
 -   **Self-centered:** While these people score high in extraversion they rank below average openness, agreeableness and conscientiousness.
+
+## #implementations
+
+- 
 
 ## [[c.Resource]]
 
