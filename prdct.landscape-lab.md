@@ -2,10 +2,11 @@
 id: 94ztvzmwd72rzabd3q4ngf6
 title: Landscape Lab
 desc: 'An open kit for developing game-based participatory planning tools.'
-updated: 1696889377225
+updated: 1697476572131
 created: 1696889060484
 ---
 
+- [[c.Software.Virtual-Reality]]
 #url https://landscapelab.boku.ac.at/
 
 ## [[c.Component]]

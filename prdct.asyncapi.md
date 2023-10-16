@@ -2,9 +2,10 @@
 id: 5izi3fbls7d833qc45ozeaq
 title: Asyncapi
 desc: ''
-updated: 1696014259413
+updated: 1697474116311
 created: 1673569081430
 ---
+
 
 
 ## [[c.Comparison]]
@@ -30,3 +31,8 @@ created: 1673569081430
 - https://nordicapis.com/7-protocols-good-for-documenting-with-asyncapi/
   - includes [[prdct.nats]]
 - https://blog.postman.com/asyncapi-joins-forces-with-postman-future-of-apis/
+- https://www.asyncapi.com/blog/designing_your_apis_with_asyncapi_part_1
+
+### #c-sharp
+
+- [[prdct.asyncapi.template.c-sharp]]

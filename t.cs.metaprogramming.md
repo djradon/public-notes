@@ -2,9 +2,10 @@
 id: 4IYqhZkvcgDskXUAioZuH
 title: Metaprogramming
 desc: ''
-updated: 1696269592948
+updated: 1697470295941
 created: 1637767107942
 ---
+
 
 
 
@@ -21,3 +22,4 @@ created: 1637767107942
   - [[c.Summary]] Python
 - https://news.ycombinator.com/item?id=19718015
   - [[c.Summary]] #julia
+- ![[Java|t.cs.languages.java#^ef3ln38s331c]]

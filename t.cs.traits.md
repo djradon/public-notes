@@ -2,7 +2,7 @@
 id: cxy3sruhn88twl144ozfhnx
 title: Traits
 desc: ''
-updated: 1697140200466
+updated: 1697476505880
 created: 1671553437341
 ---
 
@@ -23,3 +23,5 @@ created: 1671553437341
 - #javascript has traits with symbol:
   - "Recent versions of JavaScript (i.e. ECMAScript 6) added a new primitive data type, symbol, which can be used to implement traits effectively. A symbol is basically a unique identifier that can be used as a property and that will never collide with anything else... The standard calls this feature protocol."
     - https://itnext.io/straits-9ef2b9a563cd
+- [[t.cs.languages.GDScript]]
+  - [Add a Trait system for GDScript](https://github.com/godotengine/godot-proposals/issues/6416)
