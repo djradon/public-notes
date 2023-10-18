@@ -2,7 +2,7 @@
 id: imnxtawclhc9hpl80yboqf5
 title: Soar
 desc: ''
-updated: 1696269809580
+updated: 1697644853235
 created: 1694362703008
 ---
 
@@ -18,8 +18,7 @@ created: 1694362703008
 
 #### Ch. 1
 
-- all deliberate goal -oriented behavior can
-be cast as the selection and application of operators to a state
+- all deliberate goal -oriented behavior can be cast as the selection and application of operators to a state
 - Working memory is organized as objects. 
   - Objects are described in terms of their attributes; the values of the attributes may correspond to sub-objects, so the description of the state can have a hierarchical organization
 - A Soar program contains the knowledge to be used for solving a specific task 
