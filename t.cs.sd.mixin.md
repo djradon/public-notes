@@ -2,11 +2,13 @@
 id: 0446pg8cq2w5q4nibe9xp11
 title: Mixin
 desc: 'a class that contains methods for use by other classes without having to be the parent class of those other classes'
-updated: 1696969654877
+updated: 1697561175127
 created: 1696197242241
 ---
 
-- [[c.Comparable]] [[t.cs.ecs]] [[t.cs.programming.code-reuse]]
+- [[c.Comparable]] 
+  - [[t.cs.ecs]] [[t.cs.programming.code-reuse]]
+  - [[t.cs.traits]]
 
 ## [[c.Issue]]
 
@@ -22,7 +24,7 @@ created: 1696197242241
 
 ## c.Implementation
 
-- 
+- https://github.com/LokiMidgard/PartialMixins #c-sharp
 
 ## [[c.Resource]]
 

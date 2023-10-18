@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1695485289607
+updated: 1697490593572
 created: 1634620119007
 ---
 
@@ -30,3 +30,4 @@ created: 1634620119007
 - https://aclanthology.org/2021.naacl-main.67.pdf
 - [DESIGN AND IMPLEMENTATION OF HLA TIME MANAGEMENT IN THE RTI VERSION F.0](https://www.informs-sim.org/wsc97papers/0373.PDF)
 - https://robinpokorny.medium.com/why-developers-should-stop-using-iso-8601-for-date-time-e6ee5fc8ad87
+- https://medium.com/towards-nesy/temporal-logic-model-checking-cf05fc917688

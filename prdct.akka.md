@@ -2,14 +2,14 @@
 id: zi4wciqohwv30xiup8v1jak
 title: Akka
 desc: ''
-updated: 1696886924461
+updated: 1697491992302
 created: 1683232881555
 ---
 
 - #url https://akka.io/
 - [[p.supports]] 
   - #java #scala directly
-  - 
+- #related [[prdct.pekko]]
 
 ## [[c.Feature]]
 
@@ -19,4 +19,3 @@ created: 1683232881555
 ## [[c.Comparison]]
 
 - https://github.com/akka/akka-meta/blob/master/ComparisonWithOrleans.md
-  - 

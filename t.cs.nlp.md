@@ -2,16 +2,18 @@
 id: wjzh8rmr8opfxyhvwa7aum1
 title: Nlp
 desc: ''
-updated: 1694402468947
+updated: 1697491604487
 created: 1694357593591
 ---
+
+## [[c.Implementation]]
+
+- [[prdct.corenlp]]
 
 ## [[c.Resource]]
 
 
 ### https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk
-
-- [[p.references]] 
 
 #### Ambiguity and Uncertainty in Language
 
@@ -36,3 +38,5 @@ This kind of ambiguity arises due to the use of anaphora entities in discourse. 
 Pragmatic ambiguity
 
 Such kind of ambiguity refers to the situation where the context of a phrase gives it multiple interpretations. In simple words, we can say that pragmatic ambiguity arises when the statement is not specific. For example, the sentence “I like you too” can have multiple interpretations like I like you (just like you like me), I like you (just like someone else dose).
+
+

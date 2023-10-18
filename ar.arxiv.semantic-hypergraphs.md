@@ -3,7 +3,7 @@ id: petpwaw939hkf88n8p3jueo
 title: Semantic Hypergraphs
 desc: >-
   open-adaptive - a language representation that is convenient for both humans and machines can constitute a linguafranca, throughwhich systems of cognitive agents of different natures can cooperate in a way that is understandable and inspectable.
-updated: 1683273919168
+updated: 1697485887628
 created: 1682970702620
 ---
 
@@ -32,3 +32,4 @@ created: 1682970702620
 - [[prdct.atomspace]] / [[prdct.opencog]]
 - [[prdct.amr]]
 - [[prdct.opennlp]]
+- [[prdct.conceptnet]]

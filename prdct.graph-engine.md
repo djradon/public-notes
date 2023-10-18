@@ -2,7 +2,7 @@
 id: 3hewd9dhsn13txkisjvxvpq
 title: Graph Engine
 desc: 'supports RDF and HyperGraphs'
-updated: 1689397737531
+updated: 1697576990398
 created: 1682056527914
 ---
 
@@ -21,4 +21,7 @@ created: 1682056527914
     
 ## [[c.Resource]]
 
-- https://github.com/InKnowWorks/RDF-Graph-and-HyperGraph/ ^0qxsg2noq2s8
+- https://github.com/microsoft/GraphEngine/issues/328
+  - https://github.com/InKnowWorks/RDF-Graph-and-HyperGraph/ ^0qxsg2noq2s8
+- [ ] https://www3.nd.edu/~kogge/courses/cse60742-Fall2018/Public/StudentWork/ParadigmPaperv1/GraphEngine-Talukder.pdf
+- 

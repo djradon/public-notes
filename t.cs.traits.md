@@ -2,7 +2,7 @@
 id: cxy3sruhn88twl144ozfhnx
 title: Traits
 desc: ''
-updated: 1697476505880
+updated: 1697561236184
 created: 1671553437341
 ---
 
@@ -25,3 +25,8 @@ created: 1671553437341
     - https://itnext.io/straits-9ef2b9a563cd
 - [[t.cs.languages.GDScript]]
   - [Add a Trait system for GDScript](https://github.com/godotengine/godot-proposals/issues/6416)
+
+### #c-sharp
+
+- https://www.reddit.com/r/csharp/comments/7uc6dt/ive_created_a_mixin_library_for_c_and_would_like/
+- [[prdct.partial-mixins]]
