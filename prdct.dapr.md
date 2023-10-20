@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1697168627643
+updated: 1697756081671
 created: 1688397077910
 ---
 
@@ -43,6 +43,10 @@ created: 1688397077910
   -  Dapr is a comprehensive microservice sidecar that does lots of different things.
     - https://www.reddit.com/r/dotnet/comments/13t3tsf/is_dapr_actually_used_by_anyone/ 
       - "if you have a product that aspires to be vendor agnostic, it might help"
+
+## [[c.Notes]]
+
+- "Redis does not support transaction rollbacks and should not be used in production as an actor state store."
 
 ## [[c.Example]]
 
