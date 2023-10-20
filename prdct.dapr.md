@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1697756081671
+updated: 1697817281532
 created: 1688397077910
 ---
 
@@ -54,7 +54,10 @@ created: 1688397077910
 - https://github.com/thangchung/practical-dapr #dead
 - https://github.com/vietnam-devs/coolstore-microservices "Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce"
 - https://github.com/benc-uk/dapr-store #go
-
+- https://github.com/sjefvanleeuwen/showcase
+  - [[p.builtOn]] [[prdct.zeebe]] [[prdct.camunda.modeler]]
+- https://github.com/thangchung/coffeeshop-on-dapr
+- https://github.com/thangchung/clean-architecture-dotnet
 
 ## [[c.Resource]]
 

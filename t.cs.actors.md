@@ -2,7 +2,7 @@
 id: s1b2hshk9rfo7xvnozu5s03
 title: Actors
 desc: ''
-updated: 1690348682760
+updated: 1697665209015
 created: 1670267347423
 ---
 
@@ -17,7 +17,7 @@ created: 1670267347423
 - [[prdct.akka-net]]
 - [[prdct.ptolemy]]
 - [[prdct.dapr]] #c-sharp
-- [[prdct.protoactor]]
+- [[prdct.proto-actor]]
 - 
 ## [[c.Feature]]
 
