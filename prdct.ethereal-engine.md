@@ -2,7 +2,7 @@
 id: 63kf9de9lbduuose19qiasc
 title: Ethereal Engine
 desc: ''
-updated: 1696524665593
+updated: 1697817663295
 created: 1672314344300
 ---
 
@@ -12,6 +12,7 @@ created: 1672314344300
 - #license [[lic.cpal]] - source modifications must be published, attribution must be prominent
 - [[p.writtenIn]] #typescript 
 - [[p.hadDependancy]] [[prdct.mediasoup]]
+- [[p.basedOn]] [[prdct.bitecs]]
   
 ## [[c.Feature]]
 
