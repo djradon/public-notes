@@ -1,8 +1,10 @@
 ---
 id: EHe5gy8iGwSWZFMwymjar
 title: ECS
-desc: runtime-flexible, highly compatible, safe, and easily composable approach to software
-updated: 1696311031604
+desc: >-
+  runtime-flexible, highly compatible, safe, and easily composable approach to
+  software
+updated: 1697986701500
 created: 1637846686838
 ---
 
@@ -35,7 +37,7 @@ created: 1637846686838
 
 ## [[c.Implementation]]
 
-- [[prdct.Unity]]
+- [[prdct.unity]]
   - [[p.hasDocumentation]] https://docs.unity3d.com/Packages/com.unity.entities@0.1/manual/index.html
 - [[prdct.arch]] (C#)
 - [[prdct.bitecs]] (Javacript)

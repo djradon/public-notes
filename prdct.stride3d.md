@@ -2,14 +2,14 @@
 id: YEENs52Vldkdwe2jkkRpe
 title: Stride3d
 desc: ''
-updated: 1696536139615
+updated: 1697986701507
 created: 1637846271510
 ---
 
 - [[p.alsoKnownAs]] Xenko
 - #url https://www.stride3d.net/
 - #repo https://github.com/stride3d/stride
-- [[c.Comparable]] [[prdct.Unity]] [[prdct.Monogame]]
+- [[c.Comparable]] [[prdct.unity]] [[prdct.Monogame]]
 - [[p.writtenIn]] #c-sharp
 
 ## [[c.Feature]]

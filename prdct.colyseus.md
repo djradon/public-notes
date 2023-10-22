@@ -4,7 +4,7 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1696530274029
+updated: 1697986701477
 created: 1642897812921
 ---
 
@@ -15,7 +15,7 @@ created: 1642897812921
 - [[p.ownedBy]] [[org.lucid-sight]]
 - [[p.hasRelatedSolution]] https://github.com/endel/ecs #ecs
 - [[p.hasClientSupport]]
-   - [[prdct.Unity]]
+   - [[prdct.unity]]
    - [[prdct.defold]]
      - https://docs.colyseus.io/getting-started/defold-client/
    - [[prdct.babylon-js]]
