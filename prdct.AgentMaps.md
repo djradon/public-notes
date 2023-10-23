@@ -2,12 +2,11 @@
 id: gxsjxpY7Zz8hD2IfeaOWD
 title: AgentMaps
 desc: 'social simulations on interactive maps with Javascript'
-updated: 1696287929574
+updated: 1698087964685
 created: 1637812854424
 ---
 
-
-
+- #dead
 - [[p.hasRepository]] https://github.com/noncomputable/AgentMaps
 - [[p.hasApplication]] [[t.cs.multi-agent-system]]
 - [[p.writtenIn]] #javascript
