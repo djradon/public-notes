@@ -2,9 +2,12 @@
 id: jlpibocb0b3olc29fkhg03x
 title: Minecraft
 desc: ''
-updated: 1694638486603
+updated: 1698036025809
 created: 1694637832321
 ---
+
+- [[c.game.voxel]] [[c.game.sandbox]]
+
 
 ## [[c.Product]]
 
