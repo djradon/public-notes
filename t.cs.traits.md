@@ -2,7 +2,7 @@
 id: cxy3sruhn88twl144ozfhnx
 title: Traits
 desc: ''
-updated: 1697561236184
+updated: 1698162380498
 created: 1671553437341
 ---
 
@@ -15,6 +15,11 @@ created: 1671553437341
 
 "A better, more modern way to implement OOP is using traits."
   - https://itnext.io/straits-9ef2b9a563cd
+
+## [[p.vs]] [[t.cs.sd.mixin]]
+
+- The main difference between traits and alternative composition techniques such as multiple inheritance and mixins is that upon trait composition, name conflicts (a.k.a. name clashes) should be explicitly resolved by the composer. This is in contrast to mixins and multiple inheritance, which define various kinds of linearization schemes that impose an implicit precedence on the composed entities, with one entity overriding all of the methods of another entity. While such systems often work well in small reuse scenarios, they are not robust: small changes in the ordering of mixins/classes somewhere high up in the inheritance/mixin chain may impact the way name clashes are resolved further down the inheritance/mixin chain. In addition, the linearization imposed by mixins/multiple inheritance precludes a composer to give precedence to both a method m1 from one mixin/class A and a method m2 from another mixin/class B: either all of A's methods take precedence over B, or all of B's methods take precedence over A.
+  - https://github.com/traitsjs/traits.js
 
 ## [[c.Implementation]]
 

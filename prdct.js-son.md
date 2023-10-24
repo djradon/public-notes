@@ -1,14 +1,15 @@
 ---
 id: 0eutdl2f3fv209my6t8egj9
 title: JS-son
-desc: 'Light-weight reasoning-loop agent library for JavaScript'
-updated: 1696287929583
+desc: Light-weight reasoning-loop agent library for JavaScript
+updated: 1698101944260
 created: 1671517516905
 ---
 
+
 - [[c.Software.Agent-Framework]]
 - #url https://github.com/TimKam/JS-son
-
+- #author @tim-kampik
 - [[p.writtenIn]] #javascript
 - [[p.hasApplication]] web apps, [[Jupyter notebooks|prdct.jupyter]], grid worlds, and serverless (Function-as-a-Service) environments.
 - [[p.hasRoadmapFeature]] 
