@@ -6,4 +6,4 @@ updated: 1696269949895
 created: 1696269935466
 ---
 
-- [[p.coreferences]] [[t.cs.language.c]]
+- [[p.coreferences]] [[t.cs.languages.c]]

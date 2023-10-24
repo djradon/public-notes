@@ -2,7 +2,7 @@
 id: qAssYvqbBkF7D2JGChMHV
 title: Markdown
 desc: 'The "definitive" light-weight, human-readable markup language'
-updated: 1672094725183
+updated: 1698164596026
 created: 1633579231418
 ---
 
@@ -10,11 +10,11 @@ created: 1633579231418
 
 ## [[p.hasSense]] a markup language
 
-- [[p.instanceOf]] [[t.cs.language]] 
+- [[p.instanceOf]] [[t.cs.languages]] 
 
 ## [[p.hasSense]] the class of markup languages based on Markdown
 
-- [[p.subClassOf]] [[t.cs.language]]
+- [[p.subClassOf]] [[t.cs.languages]]
 
 ## to-do
 
