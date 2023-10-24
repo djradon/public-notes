@@ -2,7 +2,7 @@
 id: cxy3sruhn88twl144ozfhnx
 title: Traits
 desc: ''
-updated: 1698168477353
+updated: 1698172351263
 created: 1671553437341
 ---
 
@@ -33,6 +33,7 @@ created: 1671553437341
 - #scala 
   - but "Scala supports "traits", although these should have been called mixins (there is no explicit conflict resolution)." 
     - https://github.com/traitsjs/traits.js
+- #c-sharp has default interface methods, but no fields/data
 
 ### #c-sharp
 

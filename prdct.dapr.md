@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1698169484464
+updated: 1698176461847
 created: 1688397077910
 ---
 
@@ -29,6 +29,11 @@ created: 1688397077910
 
 - key-value only? can work with relational dbs, but not designed for all yer customer data (https://youtu.be/0y7ne6teHT4)
   - [share state across applications](https://docs.dapr.io/developing-applications/building-blocks/state-management/howto-share-state/)
+
+### Bindings
+
+- input bindings trigger endpoint methods
+- dapr executes operations on external systems via output bindings
 
 ## [[c.UseCase]]
 
