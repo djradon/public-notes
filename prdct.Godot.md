@@ -2,7 +2,7 @@
 id: BJZRQTTff77MsBb32oNf5
 title: Godot
 desc: ''
-updated: 1698262518363
+updated: 1698275345020
 created: 1637591669334
 ---
 
@@ -24,7 +24,7 @@ created: 1637591669334
 
 - publish to web
   - [[c.Issue]]  ^x343t4fze5lf
-    - #t.2023.10.09 Projects written in C# using Godot 4 currently cannot be exported to the web. To use C# on web platforms, use Godot 3 instead.
+    - t.2023.10.09 Projects written in C# using Godot 4 currently cannot be exported to the web. To use C# on web platforms, use Godot 3 instead.
     - Godot 4's HTML5 exports currently cannot run on macOS and iOS due to upstream bugs with SharedArrayBuffer and WebGL 2.0.
 - dynamic execution
   - @tool makes scripts execute in the editor  https://docs.godotengine.org/en/stable/tutorials/plugins/running_code_in_the_editor.html ^lk1riz8a7a5e

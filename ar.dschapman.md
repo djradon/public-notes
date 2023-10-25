@@ -2,7 +2,7 @@
 id: NVxW9YvTOsnDoISwDVqEJ
 title: dschapman.com
 desc: 'Im Daniel — Poet, Writer, and Tech Tinkerer'
-updated: 1671310411154
+updated: 1698275345033
 created: 1633198600307
 ---
 
@@ -14,4 +14,4 @@ created: 1633198600307
 
 ## [[p.hadTouch]]
 
-- #t.2022.11.30 because MDX and maggie
+- t.2022.11.30 because MDX and maggie

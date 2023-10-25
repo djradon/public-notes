@@ -2,11 +2,11 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1678571584470
+updated: 1698275345030
 created: 1672667912959
 ---
 
-## #t.2023.01.01
+## t.2023.01.01
   
 - Why use getters in Javascript?
   - [[p.hasAnswers]]
@@ -41,16 +41,16 @@ function identity<Type>(arg: Type): Type {
     - "any value is assignable to unknown; however, unlike any, you cannot access any properties on values with the type unknown, nor can you call/construct them. Furthermore, values of type unknown can only be assigned to unknown or any."
 - [[prdct.typescript.barrel-files]] might be over-used
 
-## #t.2023.01.02
+## t.2023.01.02
 
 - [-] would seem to be [[t.cs.game.loop.recursive]], but v8 took out [[t.cs.recursion.tail-call-optimization]]
 - Game has its own entities and all components; both can be awoken.
 
-## #t.2023.01.05
+## t.2023.01.05
 
 - Having a tool that can change the behavior of the game without diving too deep into the code can be a huge time saver.
 
-## #t.2023.01.06
+## t.2023.01.06
 
 - "Note, I don’t have access to Grid instance since it’s created and encapsulated by the Game. But I can rely on Grid.prototype to access Grid methods without an actual instance."
 - "The Component interface requires specifying which entity the component can be attached to. In this case, it’s the Node entity."
@@ -63,7 +63,7 @@ function identity<Type>(arg: Type): Type {
 - ` can be used for string with variable substitution
 - "Though neither Canvas nor CanvasLayer are singletons, static CanvasLayer ensures Canvas is instantiated only ones"
 
-## #t.2023.01.07
+## t.2023.01.07
 
 - [-] how does jest.mock('@/utils') work?
 - integer check: v % 1 !== 0
@@ -79,10 +79,10 @@ function identity<Type>(arg: Type): Type {
 - "Node is not a core feature of the Ship (it’s neither its property nor field)"
 - after breaking things, and messaging around with git, I did find a working commit in my own history.
 
-## #t.2023.01.08
+## t.2023.01.08
 
 - found it!, missing implementation of awake. wish I'd captured the test failures to confirm. 
-- #t.2023.01.08.13.23 wound up reverting to ships-3 and had to fix capitalization on Vector2D, so a bunch of git buggery, but I think I learned a little bit, and did my first merge to master
+- t.2023.01.08.13.23 wound up reverting to ships-3 and had to fix capitalization on Vector2D, so a bunch of git buggery, but I think I learned a little bit, and did my first merge to master
 - "Since it’s read-only, a constructor is the only place we can do it"
 - OK, failed at the same place... "Our code compiles again. Moreover, if you open it in the browser you can see this beautiful picture:" but this time I'm better off because
   - I'm looking at the browser console
@@ -108,7 +108,7 @@ function identity<Type>(arg: Type): Type {
 
 - !@#$ capitalization (vector2D folder vs vector2d file)
 
-## #t.2023.01.09
+## t.2023.01.09
 
 ### https://blog.gregsolo.me/articles/building-a-game-with-typescript-pathfinding-and-movement-27-highlighting-locomotion-range
 
@@ -120,13 +120,13 @@ function identity<Type>(arg: Type): Type {
   - [x] am I crazy
     - @rvk confirmed
 
-## #t.2023.01.10
+## t.2023.01.10
 
 ### https://blog.gregsolo.me/articles/building-a-game-with-typescript-pathfinding-and-movement-37-graph-and-priority-queue
 
 - [[Type Assertions|t.cs.languages.typescript.type-assertions]] in the interface method signature can be linked/referenced internally, e.g. `export interface IPriorityQueue<T>` and `Enqueue(item: T, priority: number): void` means that the implementing class has to have identical type assertion in both places
 
-## #t.2023.01.11
+## t.2023.01.11
 
 ### https://blog.gregsolo.me/articles/building-a-game-with-typescript-pathfinding-and-movement-57-finding-the-path
 

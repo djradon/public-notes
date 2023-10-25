@@ -2,7 +2,7 @@
 id: hqlgs32wh67aak9kh6258l0
 title: Memphis Dev
 desc: ''
-updated: 1698175338725
+updated: 1698275345027
 created: 1698086020054
 ---
 
@@ -11,7 +11,7 @@ created: 1698086020054
   - @yaniv-ben-hemo : Not at the moment. In case its a must, would love to explore ways to prioritize it
 
 
-#t.2023.10.24.12
+t.2023.10.24.12
 
 djradon — Today at 11:49 AM
 I've been looking for a messaging solution for my product-dream for a while, and was looking at NATS as a "better Kafka", so then naturally stumbled onto Memphis.
