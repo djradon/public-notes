@@ -4,7 +4,7 @@ title: Rust
 desc: |-
   language empowering everyone
   to build reliable and efficient software
-updated: 1697557805662
+updated: 1698252759344
 created: 1638132337360
 ---
 
@@ -18,7 +18,7 @@ created: 1638132337360
     - [[p.hasLearningResource]] https://rustwasm.github.io/docs/book/
   - [[t.cs.application.service.network]] 
 
-## [[c.Feature]]
+## Features
 
 - [traits](https://doc.rust-lang.org/book/ch10-02-traits.html)
 - [DSLs](https://doc.rust-lang.org/rust-by-example/macros/dsl.html)

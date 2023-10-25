@@ -4,7 +4,7 @@ title: Glamorous Toolkit
 desc: >-
   a live notebook. A fancy code editor. A software analysis platform. A data
   visualization engine. A knowledge management system. All in one.
-updated: 1696780428379
+updated: 1698252759231
 created: 1650122141316
 ---
 
@@ -25,7 +25,7 @@ created: 1650122141316
 - "It's a suite of extensions of the Pharo Smalltalk environment that are tailored for modeling behaviour and data in multiple ways, such that you can build your own toolkit for your own problem domain."
 
 
-## [[c.Feature]]
+## Features
 
 - Rust enabled runtime
   - The Glamorous Toolkit virtual machine is formed by a Rust runtime that wraps and runs the Pharo virtual machine as a library in a separate operating system thread. The runtime also comes with Rust plugins and with an infrastructure for creating Rust plugins.

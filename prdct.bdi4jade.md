@@ -2,13 +2,13 @@
 id: 95anc8rs4xyj8pmrbw06cpb
 title: Bdi4jade
 desc: ''
-updated: 1694457350055
+updated: 1698252759203
 created: 1694457296870
 ---
 
 - #repo https://github.com/ingridnunes/bdi4jade
 
-## [[c.Feature]]
+## Features
 
 - BDI abstractions 
 - reasoning cycle

@@ -2,7 +2,7 @@
 id: ylf6d6u64m1yre4jjr4mmhw
 title: Nextjournal
 desc: ''
-updated: 1694213258947
+updated: 1698252759292
 created: 1694194690268
 ---
 
@@ -10,7 +10,7 @@ created: 1694194690268
 - #url https://nextjournal.com/
 - [[c.Pricing]] 
 
-## [[c.Feature]]
+## Features
 
 -   Creating and sharing the entire file system as a docker image
 -   Docker containers that are orchestrated by separate application

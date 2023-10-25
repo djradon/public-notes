@@ -2,7 +2,7 @@
 id: 3xw9mbsg9r7yjrf6enf3bcf
 title: Yuka Ai
 desc: 'JavaScript library for developing Game AI'
-updated: 1698084220185
+updated: 1698252759326
 created: 1695966061818
 ---
 
@@ -15,7 +15,7 @@ created: 1695966061818
   - not exactly friendly
 - [[c.Publisher]] [[org.human-interactive]]
 
-## [[c.Feature]]
+## Features
 
 - standalone library and independent of a particular 3D engine. The idea is to implement the actual game logic with Yuka and the visual representation with your preferred JavaScript 3D library
 - A task is an isolated unit of work that is processed in an asynchronous way. Tasks are managed within a task queue.

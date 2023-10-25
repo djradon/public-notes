@@ -2,7 +2,7 @@
 id: ojx2sbje1tc61cefor2clb7
 title: Object Orientation
 desc: ''
-updated: 1696709994386
+updated: 1698262518373
 created: 1696709230874
 ---
 
@@ -15,6 +15,6 @@ created: 1696709230874
 
 ![[Rustconf Talk|ar.rustconf-talk#^c47v165vrmv6]] 
 
-## [[c.Reference]]  
+## References  
 
 - [[ar.rustconf-talk]]

@@ -2,7 +2,7 @@
 id: s1b2hshk9rfo7xvnozu5s03
 title: Actors
 desc: ''
-updated: 1697665209015
+updated: 1698252759332
 created: 1670267347423
 ---
 
@@ -20,7 +20,7 @@ created: 1670267347423
 - [[prdct.proto-actor]]
 - [[prdct.tarant]]  
 
-## [[c.Feature]]
+## Features
 
 - "Actor model services are stateless and reactive"
   - https://medium.com/nerd-for-tech/the-power-of-message-orchestration-b28f18da603a

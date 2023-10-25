@@ -2,7 +2,7 @@
 id: x0p8n2fs9sx22xrj2h0yous
 title: Playfab
 desc: ''
-updated: 1696287929598
+updated: 1698252759307
 created: 1672225977422
 ---
 
@@ -22,6 +22,6 @@ created: 1672225977422
 - https://playfab.com/pricing :
   - $0/month before your title passes 100K users
 
-## [[c.Feature]]
+## Features
 
 - [Cloudscript](https://learn.microsoft.com/en-us/gaming/playfab/features/automation/cloudscript/) : build server-side logic and functionality that scales to meet your demand, without worrying about servers or infrastructure.

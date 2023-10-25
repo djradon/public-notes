@@ -2,7 +2,7 @@
 id: bYuGhUNMCc1tbSkWFyJzG
 title: Graph Query Language
 desc: GQL is a query lanaguage for property graphs
-updated: 1638374743958
+updated: 1698262518384
 created: 1638374497732
 ---
 
@@ -16,6 +16,6 @@ created: 1638374497732
       - Current graph database products and projects often support a limited version of the model described here. For example, Apache Tinkerpop forces each node and each edge to have a single label; Cypher allows nodes to have zero to many labels, but relationships only have a single label (called a reltype). Neo4j's database supports undocumented graph-wide properties, Tinkerpop has graph values which play the same role, and also supports "metaproperties" or properties on properties. 
 
 
-## [[c.Reference]]
+## References
 
 - [[ar.postgresql-oracle-graph-query-language-standards-adoption-green]]

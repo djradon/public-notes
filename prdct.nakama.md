@@ -4,7 +4,7 @@ title: Nakama
 desc: >-
   the first open-source distributed server for social and realtime games and
   apps
-updated: 1697986701490
+updated: 1698252759288
 created: 1656792485964
 ---
 
@@ -21,7 +21,7 @@ created: 1656792485964
   - TypeScript 4.4%
 - [[p.wasBuiltBy]] [[org.heroic-labs]]
 
-## [[c.Feature]]
+## Features
 -   Low-level control of real-time [routing and delivery](https://heroiclabs.com/docs/nakama/server-framework/streams/)
 -   Intercept and override functionality with [hooks](https://heroiclabs.com/docs/nakama/server-framework/introduction/#hooks)
 -   Define and call [RPC functions](https://heroiclabs.com/docs/nakama/server-framework/introduction/#rpc-functions)

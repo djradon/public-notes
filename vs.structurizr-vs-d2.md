@@ -2,7 +2,7 @@
 id: appi20z9mr8h9pcwdx8fad5
 title: Structurizr Vs D2
 desc: ''
-updated: 1686238335680
+updated: 1698262518390
 created: 1686203518678
 ---
 
@@ -24,7 +24,7 @@ created: 1686203518678
 - are d2's multiple boards equivalent to multiple levels / containers in structurizr's model?
 
 
-## [[c.Reference]]
+## References
 
 - https://blog.logrocket.com/complete-guide-declarative-diagramming-d2/
 - https://www.baeldung.com/structurizr

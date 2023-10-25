@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1698184203151
+updated: 1698252759216
 created: 1688397077910
 ---
 
@@ -23,7 +23,7 @@ created: 1688397077910
 
 - #f-sharp or any functional language
 
-## [[c.Feature]]
+## Features
 
 ### State Store (Hot Data)
 

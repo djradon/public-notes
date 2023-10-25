@@ -2,7 +2,7 @@
 id: x13bm4xhdrln614wamciszm
 title: Proto.Actor
 desc: ''
-updated: 1698188017647
+updated: 1698252759311
 created: 1693696915552
 ---
 
@@ -15,7 +15,7 @@ created: 1693696915552
   -  https://github.com/asynkron/protoactor-dotnet #c-sharp
   -  https://github.com/asynkron/protoactor-kotlin #kotlin
 
-## [[c.Feature]]
+## Features
 
 - migration -> local affinity https://proto.actor/docs/local-affinity/
 - "Proto.Actor uses Protobuf for serialization, a decision that vastly simplifies the way Proto.Actor works. Message based systems should be about passing information, not passing complex OOP object graphs or code." 

@@ -2,7 +2,7 @@
 id: mvo83tedz9u6fkr22d687ru
 title: Bandersnatch
 desc: framework for Node.js CLI programs
-updated: 1673926935919
+updated: 1698252759201
 created: 1672804422577
 ---
 
@@ -10,7 +10,7 @@ created: 1672804422577
 - [[p.instanceOf]] [[c.Software.CLI-framework]]
 - #repo https://github.com/hongaar/bandersnatch
 
-## [[c.Feature]]
+## Features
 
 -   🌊 [Fluid](https://www.martinfowler.com/bliki/FluentInterface.html) syntax, intuitive to use
 -   🔜 Autocompletion of commands, arguments, options and choices

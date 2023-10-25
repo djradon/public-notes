@@ -2,7 +2,7 @@
 id: jeumrc1h3tqz6w187z16v55
 title: Memgraph
 desc: ''
-updated: 1697079574818
+updated: 1698252759282
 created: 1696481811073
 ---
 
@@ -12,7 +12,7 @@ created: 1696481811073
 - [[p.compatibleWith]] [[prdct.neo4j]]
 - [[p.writtenIn]] #c++
 
-## [[c.Feature]]
+## Features
 
 - in-memory storage engine, on-disk persistence/backup
 - connect to [[prdct.kafka]] [[prdct.pulsar]] [[prdct.redpanda]]

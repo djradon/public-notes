@@ -2,7 +2,7 @@
 id: uacnq39zzzyrqnz0952e0az
 title: HASH.ai
 desc: 'open-core cloud platform for creating and exploring shared, structured knowledge'
-updated: 1696445460856
+updated: 1698252759261
 created: 1651162206896
 ---
 
@@ -14,7 +14,7 @@ created: 1651162206896
   - #javascript
 - [[c.Product.Related]] [[prdct.block-protocol]]
 
-## [[c.Feature]]
+## Features
 
 - https://hash.ai/docs/simulation/concepts/designing-for-different-timescales
   - Expressing multiple timescales in a simulation is a difficult problem that exists across platforms and frameworks. Often you're forced to break your representation of time and just ignore the different timescales.

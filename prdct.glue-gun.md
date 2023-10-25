@@ -2,7 +2,7 @@
 id: 34h1rab0px1av5hqy4l631o
 title: Glue Gun
 desc: ''
-updated: 1680581583824
+updated: 1698252759233
 created: 1680581583824
 ---
 
@@ -11,7 +11,7 @@ created: 1680581583824
 - [[p.instanceOf]] [[c.Software.CLI-framework]]
 - #repo https://github.com/infinitered/gluegun
 
-## [[c.Feature]]
+## Features
 
 🌯 _parameters_ - command-line arguments and options  
 🎛 _template_ - generating files from templates  

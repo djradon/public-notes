@@ -2,13 +2,13 @@
 id: prgkc5diwsx9ypshbtaddjb
 title: Posthog
 desc: 'open-source Product OS'
-updated: 1681137323503
+updated: 1698252759309
 created: 1681136715846
 ---
 
 - #url https://posthog.com/
 
-## [[c.Feature]]
+## Features
 
 - [[t.pdm.analytics]]
 - [[t.pdm.session-replay]]

@@ -2,7 +2,7 @@
 id: eZRz4rR98ErmPpfrkEQgt
 title: XMPP
 desc: the universal messaging standard
-updated: 1695143521994
+updated: 1698252759328
 created: 1637794769657
 ---
 
@@ -10,7 +10,7 @@ created: 1637794769657
 
 - [[p.hasSite]] https://xmpp.org/
 
-## [[c.Feature]]
+## Features
 
 - a node is a particular "channel" or "feed" hosted at a publish-subscribe service, where the nature of the channel or feed is defined in part by the characteristic payload published at the node (e.g., Atom notifications) and in part by the focus or topic of such payloads
 

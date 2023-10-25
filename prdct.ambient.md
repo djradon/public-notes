@@ -4,7 +4,7 @@ title: Ambient
 desc: >-
   runtime for building high-performance multiplayer games and 3D applications,
   powered by WebAssembly, Rust and WebGPU
-updated: 1696788061877
+updated: 1698252759199
 created: 1696363752606
 ---
 
@@ -12,7 +12,7 @@ created: 1696363752606
 - #repo https://github.com/AmbientRun/Ambient
 - [[p.writtenIn]] #rust
 
-## [[c.Feature]]
+## Features
 
 - **Ambient Proxy**: An important part of building multiplayer projects is being able to share them with other people. Traditionally, this involves port forwarding, NAT punchthrough, running a dedicated server, and other complicated networking trickery. Ambient provides a solution to this problem: the Ambient Proxy.
 - Entities contain components, which are typed pieces of data, and these are acted upon with systems ^1nl6ma5m12zt

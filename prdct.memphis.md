@@ -2,7 +2,7 @@
 id: m3ejxost9j8l5gmsxuriws0
 title: Memphis
 desc: 'Event Processing For Developers'
-updated: 1697040572824
+updated: 1698252759284
 created: 1680467930113
 ---
 
@@ -23,7 +23,7 @@ created: 1680467930113
 -   N:N communication patterns
 -   Ingest Grafana Loki logs at scale
 
-## [[c.Feature]]
+## Features
 
 - Stream Enrichments: serverless-type functions or complete containerized applications that aggregate several stations and streams, decorate and enrich messages from different sources, write complex functions that cannot be achieved via SQL, and manipulate the schema.
 

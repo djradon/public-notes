@@ -2,7 +2,7 @@
 id: 7YhDqhSgMhMtHv5SQqjil
 title: SPADE
 desc: ''
-updated: 1696277008120
+updated: 1698252759342
 created: 1637794683065
 ---
 
@@ -15,7 +15,7 @@ created: 1637794683065
   - [[prdct.cloudevents]] has an XML spec: https://github.com/cloudevents/spec/blob/main/cloudevents/working-drafts/xml-format.md
 - [[p.isRelated]] [[prdct.spade.pubsub]] [[prdct.spade.bdi]] [[prdct.spade.artifact]]
 
-## [[c.Feature]]
+## Features
 
 - "you can develop your own agents in the programming language of your choice and use them with SPADE. The only requirement those agents must fulfill is to be able to communicate through the XMPP protocol."
 - "SPADE 3 is not planned to be FIPA compatible" but "Supports FIPA metadata using XMPP Data Forms "

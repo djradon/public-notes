@@ -2,7 +2,7 @@
 id: cqtllme7cw60cs9vh18yb2s
 title: Hypergraph
 desc: ''
-updated: 1694662433710
+updated: 1698262518382
 created: 1652767633550
 ---
 
@@ -45,6 +45,6 @@ created: 1652767633550
 - https://gitlab.com/graphviz/graphviz/-/issues/1911 talks about visualization, has this cool thing: ![](/assets/images/2023-07-01-07-06-16.png)
 
 
-## [[c.Reference]]
+## References
 
 [1]: https://graphbrain.net/overview/hypergraph.html#as-knowledge-modelsh.a

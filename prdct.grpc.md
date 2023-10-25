@@ -2,13 +2,13 @@
 id: j5knpdo4lzi35ewcdvtymar
 title: Grpc
 desc: ''
-updated: 1680982433666
+updated: 1698252759246
 created: 1669363277000
 ---
 
 - [[p.c.Resource.List]] https://github.com/grpc-ecosystem/awesome-grpc
 
-## [[c.Feature]]
+## Features
 
 - [Server Reflection](https://github.com/grpc/grpc/blob/master/doc/server-reflection.md)
 

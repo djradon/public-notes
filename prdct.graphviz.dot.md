@@ -1,8 +1,8 @@
 ---
 id: na41ixyevgpjipuvu8u1ke5
 title: Dot Language
-desc: ''
-updated: 1696569931646
+desc: 'Graph Description Language'
+updated: 1698255848887
 created: 1696566392333
 ---
 

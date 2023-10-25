@@ -2,7 +2,7 @@
 id: DyUK7zKrSwEaMNvad3NYh
 title: C4 Model
 desc: 'model a software system, at various levels of abstraction (context, containers, components and code)'
-updated: 1685940441002
+updated: 1698254907426
 created: 1645831289441
 ---
 
@@ -18,6 +18,8 @@ created: 1645831289441
 - [[p.hasRelatedSolution]]
   - [[prdct.structurizr]]
   - [[prdct.C4-PlantUML]]
+  - [[prdct.icepanel]]
+  - [[prdct.carbide]]
 - [[p.hasHighlight]]
   -  To document a library, framework or SDK, you might be better off using something like UML
   -  Sometimes diagrams work better showing dependency relationships (e.g. uses, reads from, etc), and sometimes data flow (e.g. customer update events) works better.

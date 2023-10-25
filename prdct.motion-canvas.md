@@ -2,7 +2,7 @@
 id: ot391hp3ufqvsaaixdcssaz
 title: Motion Canvas
 desc: 'Visualize Your Ideas With Code'
-updated: 1698090842593
+updated: 1698252759286
 created: 1698087161289
 ---
 
@@ -10,7 +10,7 @@ created: 1698087161289
 - #repo https://github.com/motion-canvas/motion-canvas
 - #writtenIn #typescript
   
-## [[c.Feature]]
+## Features
 
 - signals: represents a value that can change over time, and can define dependencies between values
 

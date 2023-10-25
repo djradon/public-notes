@@ -2,7 +2,7 @@
 id: wv2offynddltclkd893ely9
 title: Melange
 desc: 'language-based, model-oriented workbench that provides a modular approach for customizing, assembling and integrating multiple domain-specific language (DSL) specifications and implementations'
-updated: 1698096152398
+updated: 1698252759280
 created: 1698095923169
 ---
 
@@ -10,6 +10,6 @@ created: 1698095923169
 - #url http://melange.inria.fr/
 - [[p.compatibleWith]] [[prdct.sirius]]
 
-## [[c.Feature]]
+## Features
 
 - model-oriented type system

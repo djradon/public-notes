@@ -2,7 +2,7 @@
 id: vc2zh595cbr9z70mlf45qyh
 title: Kafka
 desc: ''
-updated: 1674621868081
+updated: 1698252759268
 created: 1662589413388
 ---
 
@@ -18,7 +18,7 @@ created: 1662589413388
 
 - [[t.cs.sd.event-sourcing]] is not a top-level architecture [^1]
 
-## [[c.Feature]]
+## Features
 
 - [dynamic routing](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing/)
 

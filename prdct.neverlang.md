@@ -2,7 +2,7 @@
 id: wski589b7qj59ady5zcp9si
 title: Neverlang
 desc: 'modularization allows the developer to introduce new language constructs in an agile way'
-updated: 1698101397865
+updated: 1698252759290
 created: 1698094999504
 ---
 
@@ -10,7 +10,7 @@ created: 1698094999504
 - #url https://neverlang.di.unimi.it/
 
 
-## [[c.Feature]]
+## Features
 
 - Feature-oriented programming in the context of language development is supported by language workbenches, such as [[prdct.mps]], [[prdct.rascal]], [[prdct.racket]], Neverlang, [[prdct.melange]], and [[prdct.spoofax]]
 

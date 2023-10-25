@@ -2,11 +2,11 @@
 id: gjt0hr70613sly8499j6aoy
 title: Frame
 desc: 'data structure used to divide knowledge into substructures by representing "stereotyped situations".'
-updated: 1694633520668
+updated: 1698252759334
 created: 1694633039923
 ---
 
-## [[c.Feature]]
+## Features
 
 - unlike semantic networks, they allow for exceptions in particular instances. This gives frames an amount of flexibility that allows representations of real-world phenomena to be reflected more accurately.
   - https://en.wikipedia.org/wiki/Frame_(artificial_intelligence)#Frame_language

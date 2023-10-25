@@ -2,7 +2,7 @@
 id: 23gw6h1twkmu2dp1dy6pc4v
 title: Defold
 desc: 'Lua-based game engine for high-performance cross-platform games'
-updated: 1696889503162
+updated: 1698252759218
 created: 1672300709043
 ---
 
@@ -12,7 +12,7 @@ created: 1672300709043
 - [[p.supports]] [[prdct.lua]]
 - [[p.writtenIn]] #c++ #c #clojure #java
 
-## [[c.Feature]]
+## Features
 
 - create and modify 3D geometry at runtime
 - Engine supports reactive-style Lua scripting for low overhead and great performance

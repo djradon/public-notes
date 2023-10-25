@@ -2,7 +2,7 @@
 id: vtq6sg56vkmi8457sar7ktc
 title: IcePanel
 desc: modeling and diagramming with links to source
-updated: 1698252180173
+updated: 1698255021872
 created: 1688015552902
 ---
 
@@ -12,3 +12,6 @@ created: 1688015552902
 - [[c.Software.Tools.Diagramming]] [[c.Software.Tools.Modeling]]
 
 ## Features
+
+- visualize events moving through the system #cool
+- export to json

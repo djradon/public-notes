@@ -2,7 +2,7 @@
 id: l7si3k21egbqfsxvt5gb6on
 title: MDX
 desc: write JSX in your markdown documents
-updated: 1683090467157
+updated: 1698252759274
 created: 1650749899099
 ---
 
@@ -13,7 +13,7 @@ created: 1650749899099
     - [[p.references]] [[prdct.unified]]
 - [[c.UseCase]] [[gd]]
 
-## [[c.Feature]]
+## Features
 
 - support YAML frontmatter (kinda) 
   - https://mdxjs.com/guides/frontmatter/

@@ -2,7 +2,7 @@
 id: YEENs52Vldkdwe2jkkRpe
 title: Stride3d
 desc: ''
-updated: 1697986701507
+updated: 1698252759319
 created: 1637846271510
 ---
 
@@ -12,7 +12,7 @@ created: 1637846271510
 - [[c.Comparable]] [[prdct.unity]] [[prdct.Monogame]]
 - [[p.writtenIn]] #c-sharp
 
-## [[c.Feature]]
+## Features
 
 - [[t.cs.ecs]]
 - [[p.isTopicOfDiscussion]] https://community.monogame.net/t/did-you-know-that-stride-is-basically-monogame-with-a-3d-editor/12250/4 

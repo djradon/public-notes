@@ -2,7 +2,7 @@
 id: zhdx5lpw26ayvi8zcfl1j5g
 title: Mediasoup
 desc: ''
-updated: 1696714991722
+updated: 1698252759276
 created: 1696356637338
 ---
 
@@ -13,7 +13,7 @@ created: 1696356637338
 
 - An SFU (Selective Forwarding Unit) receives audio and video streams from endpoints and relays them to everyone else (endpoints send one and receive many). Each receiver endpoint can select which streams and spatial/temporal layers it receives. Compared to a mixer or MCU (Multipoint Conferencing Unit) this design leads to a better performance, higher throughput and less latency. It's highly scalable and requires much less resources given that it does not transcode or mix media. Since endpoints get the other endpoints' media separately, they can have a personalized layout and choose which streams to render and how to display them.
 
-## [[c.Feature]]
+## Features
 
 - perfect choice for building multi-party video conferencing and real-time streaming apps.
 - Instead of creating yet another opinionated server, mediasoup can be used as Node.js module or Rust crate which can be integrated into a larger application.

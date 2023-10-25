@@ -2,13 +2,13 @@
 id: fduihffkcncqv40thx8vasf
 title: Snowflake
 desc: ''
-updated: 1697827393913
+updated: 1698252759318
 created: 1697826905320
 ---
 
 - [[p.mentionedOn]] https://interviewnoodle.com/how-discord-stores-billions-of-messages-big-surprises-in-system-design-e48fa07a2665 d
 
-## [[c.Feature]]
+## Features
 
 - tens of thousands of ids per second in a highly available manner. This naturally led us to choose an uncoordinated approach.
 

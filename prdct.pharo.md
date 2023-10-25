@@ -2,7 +2,7 @@
 id: vhdqlggdtgl201etqavu5r1
 title: Pharo
 desc: 'dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk'
-updated: 1696563592494
+updated: 1698252759301
 created: 1695847863715
 ---
 
@@ -11,7 +11,7 @@ created: 1695847863715
 - [[p.writtenIn]] [[t.cs.languages.smalltalk]]
 - [[p.similarTo]] [[prdct.lively]]
 
-## [[c.Feature]]
+## Features
 
 - https://www.pharo.org/features
   - Pharo is a simple meta-language where the programmer has all features required for the writing of custom readable domain-specific languages.

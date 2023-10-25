@@ -2,7 +2,7 @@
 id: eopna3j0z1ia26l77z1l70a
 title: Mechanics Dynamics Aesthetics Framework
 desc: Mechanics-Dynamics-Aesthetics
-updated: 1696814539591
+updated: 1698262518388
 created: 1696814097483
 ---
 
@@ -20,7 +20,7 @@ created: 1696814097483
         -   **Submission** (_Game as pastime_): Connection to the game, as a whole, despite constraints.
         -   **Competition**
 
-## [[c.Reference]]
+## References
 
 -   ["MDA: A Formal Approach to Game Design and Game Research"](http://www.cs.northwestern.edu/~hunicke/pubs/MDA.pdf) (PDF). Robin Hunicke, Marc LeBlanc, Robert Zubek.
 - ["Engineering emergence: applied theory for game design"](http://www.lindstaedt.com.br/simuljogos/file352033.pdf) (PDF). Joris Dormans.

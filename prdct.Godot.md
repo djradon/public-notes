@@ -2,7 +2,7 @@
 id: BJZRQTTff77MsBb32oNf5
 title: Godot
 desc: ''
-updated: 1696953655929
+updated: 1698262518363
 created: 1637591669334
 ---
 
@@ -20,7 +20,7 @@ created: 1637591669334
   - #python via [PythonScript](https://godotengine.org/asset-library/asset/179)
 
 
-## [[c.Feature]]
+## Features
 
 - publish to web
   - [[c.Issue]]  ^x343t4fze5lf
@@ -40,7 +40,7 @@ created: 1637591669334
 
 - does not support exception handling https://heroiclabs.com/docs/nakama/client-libraries/godot/ 
 
-## [[c.Reference]]
+## References
 
 - https://godotengine.org/article/whats-new-in-csharp-for-godot-4-0/
 - https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine/

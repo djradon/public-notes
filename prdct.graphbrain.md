@@ -4,7 +4,7 @@ title: Graphbrain
 desc: >-
   an Artificial Intelligence open-source software library and scientific
   research tool
-updated: 1696277008084
+updated: 1698252759238
 created: 1644488300455
 ---
 
@@ -14,7 +14,7 @@ created: 1644488300455
 
 ![](/assets/images/2023-09-23-13-09-46.png)
 
-## [[c.Feature]]
+## Features
 
 - provides an actual database system that allows for persistent storage and manipulation of semantic hypergraphs.
 - "Taxonomies can be built using type-of relations between hyperedges, with the help of the special predicate type_of/P/..", i.e., typeof = instanceOf

@@ -2,7 +2,7 @@
 id: 2h1kkq4odwv7ggxuzpse57m
 title: Diagrams (seflless)
 desc: 'command-line generation of diagrams from a variety of libraries'
-updated: 1696569915378
+updated: 1698252759220
 created: 1696568386668
 ---
 
@@ -11,7 +11,7 @@ created: 1696568386668
 - [[p.writtenIn]] #javascript
 
 
-## [[c.Feature]]
+## Features
 
 -   [flowchart](https://github.com/seflless/diagrams#flowchart#flowchart)
     -   [[p.basedOn]] [[prdct.flowchart-js]]

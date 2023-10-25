@@ -2,7 +2,7 @@
 id: 65ka8brej3il1d91ztcmlyc
 title: Entitas
 desc: ''
-updated: 1697571427672
+updated: 1698252759222
 created: 1697570695355
 ---
 
@@ -10,7 +10,7 @@ created: 1697570695355
 - #repo https://github.com/sschmid/Entitas
 - [[p.writtenIn]] #c-sharp
 
-## [[c.Feature]]
+## Features
 
 - https://github.com/sschmid/Entitas/wiki/Code-Generator
 - 

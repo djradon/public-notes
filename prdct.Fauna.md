@@ -4,7 +4,7 @@ title: Fauna
 desc: >-
   a flexible, developer-friendly, transactional database delivered as a secure
   and scalable cloud API with native GraphQL
-updated: 1689631672129
+updated: 1698252759226
 created: 1635666846021
 ---
 
@@ -13,6 +13,6 @@ created: 1635666846021
 - [[p.hasSite]] https://fauna.com/
 
 
-## [[c.Feature]]
+## Features
 
 - supports native joins, which is the number one missing feature in document databases

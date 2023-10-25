@@ -2,7 +2,7 @@
 id: 14tqetj2o4v2uq3v06racbc
 title: Concurrentsim Jl
 desc: ''
-updated: 1696269707177
+updated: 1698252759212
 created: 1694619438482
 ---
 
@@ -10,6 +10,6 @@ created: 1694619438482
 - #repo https://github.com/JuliaDynamics/ConcurrentSim.jl
 - [[p.writtenIn]] #julia
 
-## [[c.Feature]]
+## Features
 
 -  uses coroutines to make arbitrary jumps in time
