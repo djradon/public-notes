@@ -6,12 +6,12 @@ updated: 1696350805648
 created: 1637848786294
 ---
 
-- [[c.Software.Simulation-Framework]]
+- [[c.Software.Simulation-Framework.discrete-event]]
 - #repo https://gitlab.com/team-simpy/simpy/
 - [[p.writtenIn]] #python
-- [[p.similarTo]] [[prdct.concurrentsim-jl]]
+- [[p.similarTo]] [[prdct.concurrentsim-jl]] 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://realpython.com/simpy-simulating-with-python/#when-to-change-things-up

@@ -9,6 +9,6 @@ created: 1694373803397
 - 
 - #creator @trygve-reenskaug
 
-## [[c.Resource]]
+## Resources
 
 - https://en.wikipedia.org/wiki/Data,_context_and_interaction#cite_note-Artima-1

@@ -2,7 +2,7 @@
 id: h84q0yj7rh5yslw90n4mc3k
 title: Epistemic Status
 desc: 'exploratory, my best guess, authoritative'
-updated: 1671705916334
+updated: 1698262670443
 created: 1669802119187
 ---
 
@@ -20,7 +20,7 @@ created: 1669802119187
   - "They allow people to explore concepts that are a little odd without having to stake their identity to that idea. "
   - "An epistemic status offers dignity to recognition that you might be wrong."
 
-## [[c.Resource]] 
+## Resources 
 
 - https://devonzuegel.com/post/epistemic-statuses-are-lazy-and-that-is-a-good-thing
 

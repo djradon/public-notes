@@ -8,6 +8,6 @@ created: 1695421313943
 
 - [[p.supports]] [[prdct.cloudevents]]
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.hivemq]]

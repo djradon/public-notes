@@ -18,6 +18,6 @@ created: 1675206736367
 - Internal aggregate state exists so that we can make a decision if a command should be processed, and if yes then what are the new events that should be persisted (so the C from CQRS). 
 - On the other hand projections always answer a question about the facts that already happened to the system (the Q part of CQRS).
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.domaincentric.event-sourcing-projections]]

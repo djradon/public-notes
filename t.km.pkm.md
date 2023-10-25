@@ -10,7 +10,7 @@ created: 1636340292632
 
 - [[p.isRelated]] [[t.km.note-taking]] [[t.km.digital-gardening]] [[t.tm]]
 
-## [[c.Comparison]]
+## Comparison
 
 - https://www.pcmag.com/picks/ditching-evernote-here-are-your-top-alternatives
 - 

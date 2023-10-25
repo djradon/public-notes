@@ -16,6 +16,6 @@ created: 1683232881555
 - Akka Persistence is based upon event-sourcing, which means that the PersistentActor emits events that represent state changes to be applied. Snapshots may be used as an optimization to shorten recovery time.
   - https://github.com/akka/akka-meta/blob/master/ComparisonWithOrleans.md
   
-## [[c.Comparison]]
+## Comparison
 
 - https://github.com/akka/akka-meta/blob/master/ComparisonWithOrleans.md

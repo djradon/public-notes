@@ -6,7 +6,9 @@ updated: 1696106504020
 created: 1633200115228
 ---
 
-## [[c.Definition]]
+## Definition
+
+- a category is an intensional set (specifying necessary and sufficient conditions) with criteria for defining membership. A class is an extensional set where membership is explicitly asserted and specific properties can be defined as necessary.
 
 ### [[prdct.rdf]]
 
@@ -34,4 +36,5 @@ category, but it is also a set of objects.
 - [[Discussion|p.instanceOf#discussion]]
 
 - https://www.cerritos.edu/dwhitney/SitePages/CIS201/Lectures/IM-7ed-Chapter04.pdf
+- https://www.semanticarts.com/wp-content/uploads/2018/10/CategoriesandClassesDMc060515newtemplate.pdf
   - 

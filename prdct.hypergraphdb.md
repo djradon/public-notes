@@ -4,12 +4,12 @@ title: Hypergraphdb
 desc: >-
   a general purpose, extensible, portable, distributed, embeddable, open-source
   data storage mechanism
-updated: 1650068626067
+updated: 1698262670440
 created: 1650068576540
 ---
 
 - [[p.hasAuthor]] @boris-iordanov
 
-## [[c.Resource]]
+## Resources
 
 - https://blog.vaticle.com/meet-the-team-boris-iordanov-6a30a949cdab

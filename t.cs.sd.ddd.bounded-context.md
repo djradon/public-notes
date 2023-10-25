@@ -6,7 +6,7 @@ updated: 1696090800694
 created: 1696090473099
 ---
 
-## [[c.Resource]]
+## Resources
 
 - [Can a bounded context be made up of other bounded contexts?](https://softwareengineering.stackexchange.com/questions/379990/can-a-bounded-context-be-made-up-of-other-bounded-contexts)
   - "I associate the term domain more with the problem space, more with the business space, and the term bounded context more with the solution space, the automation that we bring to enhance the domain (or make the domain viable)."

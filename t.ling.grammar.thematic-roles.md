@@ -7,7 +7,7 @@ created: 1696825380073
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.linguisticsnetwork.com/semantics-thematic-roles/ has a [[c.example.bad]]:
   - "You can't say: 'the ball hit the child'"
@@ -16,7 +16,7 @@ created: 1696825380073
   - "Possible Universal Subject Hierarchy: – AGENT > RECIPIENT/BENEFICIARY > THEME/PATIENT > INSTRUMENT > LOCATION"
 - https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.html
 
-## [[c.Topic.Related]]
+## Related Topics
 
 - [[t.ling.grammar.theta-theory]]
 - 

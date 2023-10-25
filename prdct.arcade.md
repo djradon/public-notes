@@ -10,6 +10,6 @@ created: 1696287465655
 - #repo https://github.com/pythonarcade/arcade
 
 
-## [[c.Comparison]] 
+## Comparison 
 
 - https://api.arcade.academy/en/latest/pygame_comparison.html

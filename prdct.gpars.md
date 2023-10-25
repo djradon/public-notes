@@ -8,7 +8,7 @@ created: 1697492164631
 
 - #url 
 
-## [[c.Comparison]]
+## Comparison
 
 - [[c.Comparand]] [[prdct.pekko]]
   - GPars supports a mixture of styles, some offering less verbosity at the expense of capturing some errors at runtime rather than compile-time. Such code can be useful when wanting very succinct code using Groovy’s dynamic nature. When using Groovy’s static nature or Java, you might consider using select parts of the GPars API.

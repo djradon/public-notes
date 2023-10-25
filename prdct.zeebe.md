@@ -9,6 +9,6 @@ created: 1689655500732
 - #similar 
 - #docs https://docs.camunda.io/docs/components/zeebe/zeebe-overview/
 
-## [[c.Resource]]
+## Resources
 
 - https://a.com/blog/2020/08/orchestrating-cloud-events-with-zeebe/

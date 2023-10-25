@@ -6,7 +6,7 @@ updated: 1683087408456
 created: 1683049386707
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://direct.mit.edu/coli/article/45/4/765/93362/Argument-Mining-A-Survey
   - [[p.mentioned]] 

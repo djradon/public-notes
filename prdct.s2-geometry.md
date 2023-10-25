@@ -9,11 +9,11 @@ created: 1680430426947
 - #url https://s2geometry.io
 - #topic [[t.math.geometry]] 
 
-## [[c.Resource]]
+## Resources
 
 - https://s2geometry.io/resources/earthcube
 
-## [[c.Highlight]]
+## Highlights
 
 - In S2, points are represented internally as unit-length vectors (points on the surface of a three-dimensional unit sphere) as opposed to traditional (latitude, longitude) pairs. This is for two reasons:
 

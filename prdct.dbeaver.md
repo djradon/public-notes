@@ -8,6 +8,6 @@ created: 1684945402704
 
 - #url https://dbeaver.io/
 
-## [[c.Comparison]]
+## Comparison
 
 - https://medium.com/bright-days/choose-right-query-tool-dbeaver-vs-datagrip-1ca123926344

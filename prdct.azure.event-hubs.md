@@ -11,13 +11,13 @@ created: 1674583707505
 
 ## 
 
-## [[c.Comparison]]
+## Comparison
 - https://drive.google.com/open?id=1-M5ljqu4hi5t6bdeskRKL8TenWFYbBpy&authuser=dave%40towerofscience.com&usp=drive_fs
   - "Serverless cannot work with non-Java clients at all"
 
 ![[prdct.azure.event-grid#^tlbdk95pkgk8:#^e48anqzd79vy]]
 
 
-## [[c.Resource.Learning]]
+## Learning Resource
 
 - https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-frequently-asked-questions

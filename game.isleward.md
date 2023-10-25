@@ -2,7 +2,7 @@
 id: oSnlGDGC1UGDmUdcoVODV
 title: Isleward
 desc: no roles to play
-updated: 1644147495367
+updated: 1698262670437
 created: 1641626465625
 ---
 
@@ -14,7 +14,7 @@ created: 1641626465625
 - [[p.hasFeature]]
   - you can plan future moves by extending your path out faster than you can get there, e.g. buffering  
 
-## [[c.Resource]]
+## Resources
 
 - [Building the server infrastructure for an indie MMORPG](https://vildravn.dev/posts/indie-mmo-infra/) 2021-05-25
 - 

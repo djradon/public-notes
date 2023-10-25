@@ -11,6 +11,6 @@ created: 1693977641453
 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://stackoverflow.com/questions/2603134/what-are-the-main-differences-between-jetbrains-mps-and-eclipse-xtext

@@ -10,7 +10,7 @@ created: 1695934089405
 - #repo https://github.com/LivelyKernel/LivelyKernel
 - [[p.writtenIn]] #javascript
 
-## [[c.Example]]
+## Examples
 
 - https://lively-web.org/users/robertkrahn/poftp/polygons-gone-lively.html
   - 

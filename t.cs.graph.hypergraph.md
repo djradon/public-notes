@@ -19,18 +19,18 @@ created: 1652767633550
 - [[p.hasRelatedTopic]]
   - [[t.cs.graph.hyperedge]]
 
-## [[c.Implementation]]
+## Implementations
 
 - https://www.angioi.com/visualizing-hypergraphs-networkx/
   - "edges should really be Python frozensets, so that a collection of them can also be a set, and the node set should also be a frozenset or a set"
 
-## [[c.Thought]]
+## Thoughts
 
 - ![[daily.journal.2023.06.28#^vnkm9vka0yb7]]
 - "hyperedges are isomophic to Lisp S-expressions" [1]
 
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.thinkmind.the-typed-graph-model]]
 - [[Modelling Data with Hypergraphs. A closer look at the TypeDB hypergraph|ar.medium.modelling-data-with-hypergraphs]]

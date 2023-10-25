@@ -8,7 +8,7 @@ created: 1635400100798
 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://blog.sourcerer.io/problem-solution-vs-opportunity-4c4f70ce2fc0
   - "all problems are opportunities... but not all opportunities are problems"

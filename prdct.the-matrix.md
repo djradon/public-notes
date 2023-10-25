@@ -12,7 +12,7 @@ created: 1695416707929
 
 ![](/assets/images/2023-09-22-14-20-42.png)
 
-## [[c.Resource]]
+## Resources
 
 - https://parantapa.net/mypapers/bhattacharya-aamas19.pdf
   - [[p.mentioned]] [[t.cs.graph.graph-dynamical-system-model]]

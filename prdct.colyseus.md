@@ -4,7 +4,7 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1697986701477
+updated: 1698262670408
 created: 1642897812921
 ---
 
@@ -30,7 +30,7 @@ created: 1642897812921
   - https://forum.babylonjs.com/t/open-source-multiplayer-3d-rpg-using-colyseus/35733
     - [[p.mentioned]] [[prdct.yuka-ai]]
 
-## [[c.Resource]]
+## Resources
 
 - https://docs.google.com/presentation/d/e/2PACX-1vSjJtmU-SIkng_bFQ5z1000M6nPSoAoQL54j0Y_Cbg7R5tRe9FXLKaBmcKbY_iyEpnMqQGDjx_335QJ/embed?start=false&loop=false&delayms=3000#slide=id.p
 
@@ -46,7 +46,7 @@ created: 1642897812921
 - https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/
 - 
 
-## [[c.Implementation]]
+## Implementations
 
 - [[game.tosios]]
 

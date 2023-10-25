@@ -6,8 +6,8 @@ updated: 1696520453299
 created: 1696520419889
 ---
 
-## [[c.Resource]]
+## Resources
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - http://underpop.online.fr/j/java/help/multi-player-game-server-framework-multi-player-games-java.html.gz

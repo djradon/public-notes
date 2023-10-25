@@ -8,6 +8,6 @@ created: 1692202686393
 
 - #author @guy-kawasaki
 
-## [[c.Highlight]]
+## Highlights
 
 - "doing, not learning to do, is the essence of entrepreneurship"

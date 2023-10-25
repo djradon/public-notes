@@ -2,12 +2,12 @@
 id: i12uys2wcw5982dpnp7d2o6
 title: Rule of Fun
 desc: ''
-updated: 1671538015619
+updated: 1698262670388
 created: 1671536578791
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFun
   - [[p.hasHighlight]]

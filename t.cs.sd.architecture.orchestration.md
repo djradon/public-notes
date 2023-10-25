@@ -8,13 +8,13 @@ created: 1680909338629
 
 ![](/assets/images/2023-10-06-14-20-41.png)
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.workflow-core]]
 - [[prdct.prefect]]
 
 
-## [[c.Resource]]
+## Resources
 
 - https://dzone.com/articles/orchestration-pattern-managing-distributed-transac
   - "We have designed an appropriate architecture where all services operate within their bounded context. However, we still need a component that is aware of the entire business workflow."

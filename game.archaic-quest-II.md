@@ -11,7 +11,7 @@ created: 1694806790267
 - [[p.builtOn]] [[prdct.signalr]]
 
 
-## [[c.Thought]]
+## Thoughts
 
 - commands can take indirect objects and prepositions, e.g. "look [at] crate" vs "look in crate"ge
 - "look 2.crate" 

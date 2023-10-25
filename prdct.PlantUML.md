@@ -8,6 +8,6 @@ created: 1685939721054
 
 - [[c.Software.Tools.Diagramming]]
 - 
-## [[c.Resource.Learning]]
+## Learning Resource
 
 - https://crashedmind.github.io/PlantUMLHitchhikersGuide/

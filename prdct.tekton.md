@@ -35,11 +35,11 @@ created: 1689742141160
 -   **PipelineRun:** A PipelineRun, as its name implies, is a specific execution of a pipeline.
 -   **TaskRun:** A TaskRun is a specific execution of a task. TaskRuns are also available when you choose to run a task outside a pipeline, with which you may view the specifics of each step execution in a task.
 
-## [[c.Resource]]
+## Resources
 
 - https://www.redhat.com/en/blog/tekton-vs-jenkins-whats-better-cicd-pipelines-red-hat-openshift
   - "the notion of formal dev, test and UAT type environments is largely an old-world concept."
 
-## [[c.Comparison]]
+## Comparison
 
 - https://platform9.com/blog/argo-cd-vs-tekton-vs-jenkins-x-finding-the-right-gitops-tooling/

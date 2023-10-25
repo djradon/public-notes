@@ -7,7 +7,7 @@ created: 1688277612849
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://news.ycombinator.com/item?id=36260663
   - 

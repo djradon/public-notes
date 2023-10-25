@@ -6,7 +6,7 @@ updated: 1696457869659
 created: 1696457764606
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://github.com/dotnet/csharplang/discussions/236
   - [[p.mentioned]] [[prdct.dotnet.interactive]]

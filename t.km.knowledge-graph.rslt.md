@@ -8,6 +8,6 @@ created: 1694717062494
 
 - isomorphic to what some programmers call a "hypergraph"
 
-## [[c.Resource]]
+## Resources
 
 - https://github.com/JeffreyBenjaminBrown/hode/blob/master/docs/rslt/rslt.md

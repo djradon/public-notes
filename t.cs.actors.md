@@ -8,7 +8,7 @@ created: 1670267347423
 
 - [[prdct.orleans]] [[p.invented]] [[t.cs.actors.virtual]]
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.comedy]] #javascript
 - [[prdct.orleans]] #c-sharp 
@@ -28,12 +28,12 @@ created: 1670267347423
     - "Actor instances publish events when they need to tell interested subscribers about something."
     - 
 
-## [[c.Idea]]
+## Ideas
 
 - Primary actors initiate a use case and hence are somewhat independent. Secondary actors, on the other hand, are used by the system but they do not interact with the system on their own.
   - "The distinction between ‘’primary ‘’and’’ secondary ‘’lies in who triggers or is in charge of the conversation."
 
-## [[c.Resource]]
+## Resources
 
 - [43 years of actors: a taxonomy of actor models and their key properties](https://dl.acm.org/doi/abs/10.1145/3001886.3001890)
 - https://github.com/GetTech-io/awesome-actor

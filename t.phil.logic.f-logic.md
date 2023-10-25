@@ -6,6 +6,6 @@ updated: 1688272555133
 created: 1688259735149
 ---
 
-## [[c.Resource]]
+## Resources
 
   - [[ar.inheritance-in-rule-based-frame-systems]]

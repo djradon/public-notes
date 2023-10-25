@@ -16,7 +16,7 @@ created: 1672319985785
 - [[p.hasLearningResource]] https://learn.microsoft.com/en-us/azure/event-grid/overview
 - [[p.supports]] on-prem deployment via https://learn.microsoft.com/en-us/azure/event-grid/kubernetes/overview
 
-## [[c.Comparison]] 
+## Comparison 
 
 ### [[prdct.azure.event-grid]] vs. [[prdct.azure.event-hubs]] vs. [[prdct.azure.service-bus]]  ^tlbdk95pkgk8
 

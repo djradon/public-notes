@@ -12,6 +12,6 @@ created: 1637812854424
 - [[p.writtenIn]] #javascript
 - [ ] [[p.reviewed]] AgentMaps
 
-## [[c.Summary]]
+## Summary
 
 - functions as an extension of [[prdct.leaflet]]

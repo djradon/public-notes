@@ -29,7 +29,7 @@ property graphs support key-value pairs on entities and relationships
 - https://tdan.com/knowledge-graphs-vs-property-graphs-part-1/27140
 
 
-## [[c.Resource]]
+## Resources
 - https://dzone.com/articles/rdf-triple-stores-vs-labeled-property-graphs-whats
   - "RDF Can Have Multivalued Properties and the Labeled Property Graph Can Have Arrays"
 - https://www.wisecube.ai/blog/knowledge-graphs-rdf-or-property-graphs-which-one-should-you-pick/

@@ -10,7 +10,7 @@ created: 1645158420618
 - [[p.writtenIn]] #c++
 
 
-## [[c.Con]]
+## Cons
 
 -   This is not a SQL database. It does not have a relational data model, it does not support SQL queries, and it has no support for indexes.
 -   Only a single process (possibly multi-threaded) can access a particular database at a time.

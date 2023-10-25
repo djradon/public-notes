@@ -2,7 +2,7 @@
 id: prgkc5diwsx9ypshbtaddjb
 title: Posthog
 desc: 'open-source Product OS'
-updated: 1698252759309
+updated: 1698262670486
 created: 1681136715846
 ---
 
@@ -20,6 +20,6 @@ created: 1681136715846
 - free and pay per use
   - both plans get 1M events/mo and 15k session recordings/mo
 
-## [[c.Resource]]
+## Resources
 
 - https://memphis.dev/blog/how-to-integrate-posthog-with-memphis-dev/ ([[p.integratesWith]] [[prdct.memphis]])

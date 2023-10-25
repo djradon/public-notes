@@ -2,7 +2,7 @@
 id: qvf6or8j3nxcjz8sci4qwcu
 title: BitECS
 desc: ''
-updated: 1696524603555
+updated: 1698262670395
 created: 1672342730647
 ---
 
@@ -32,9 +32,9 @@ created: 1672342730647
 - Is there a string type for components?
   - Strings are expensive and usually unnecessary to have the ECS handle. Instead, create a mapping of integers to strings, and store the integers in the component data as a reference to a string. This makes string serialization minimal and  
 
-## [[c.Resource]]
+## Resources
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - https://github.com/ourcade/phaser3-bitecs-getting-started
 

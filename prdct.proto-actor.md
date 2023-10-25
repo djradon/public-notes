@@ -2,7 +2,7 @@
 id: x13bm4xhdrln614wamciszm
 title: Proto.Actor
 desc: ''
-updated: 1698252759311
+updated: 1698262670488
 created: 1693696915552
 ---
 
@@ -30,10 +30,10 @@ created: 1693696915552
 
 - Actors can change their behavior at any time. This is achieved through the Behavior class included with the core Proto.Actor library.
 
-## [[c.Resource]]
+## Resources
 
 - https://proto.actor/docs/what-is-protoactor/
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - https://proto.actor/docs/bootcamp/

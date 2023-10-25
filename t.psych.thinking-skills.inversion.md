@@ -8,6 +8,6 @@ created: 1638111628579
 
 
 
-## [[c.Resource]]
+## Resources
 
 - [[Inversion|ar.jamesclear.inversion]]

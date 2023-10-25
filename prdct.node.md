@@ -2,13 +2,13 @@
 id: yua3XXrlkXF5IDZ72OGXb
 title: NodeJS
 desc: ''
-updated: 1681690867215
+updated: 1698262670477
 created: 1644133705614
 ---
 
 - [[p.correspondsTo]] [[Node.js|t.cs.runtime-environment.node-js]]
   
-## [[c.Resource]]
+## Resources
 
 - [[ar.twilio.how-to-build-a-cli-with-node-js]] #cli
 

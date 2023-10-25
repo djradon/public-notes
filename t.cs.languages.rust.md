@@ -24,6 +24,6 @@ created: 1638132337360
 - [DSLs](https://doc.rust-lang.org/rust-by-example/macros/dsl.html)
 
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.rustconf-talk]] goes into detail about why to design a game with [[c.Software.Entity-Component-System]]

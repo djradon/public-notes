@@ -13,7 +13,7 @@ created: 1673909173721
 
 ## Comparison
 
-## [[c.Comparison]]  ^z5ldk0m6zjqx
+## Comparison  ^z5ldk0m6zjqx
 
 - https://medium.com/swlh/best-moment-js-alternatives-5dfa6861a1eb
 - https://dev.to/gulshanaggarwal/js-date-time-libraries-you-should-use-instead-of-traditional-methods-1lc4

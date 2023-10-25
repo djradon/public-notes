@@ -6,7 +6,7 @@ updated: 1674594799127
 created: 1674594762342
 ---
 
-## [[c.Definition]]
+## Definition
 
 - the main idea of your story
 - 

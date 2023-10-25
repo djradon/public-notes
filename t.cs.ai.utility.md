@@ -9,7 +9,7 @@ created: 1680906854583
 - #aka Infinite Axis Utility System
 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.tomlooman.com/unreal-engine-utility-ai-part1/ 
 - https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through #video

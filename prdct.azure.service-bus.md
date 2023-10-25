@@ -6,6 +6,6 @@ updated: 1674621712938
 created: 1674621407771
 ---
 
-## [[c.Comparison]] 
+## Comparison 
 
 ![[prdct.azure.event-grid#^tlbdk95pkgk8:#^e48anqzd79vy]]

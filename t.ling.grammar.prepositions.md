@@ -22,7 +22,7 @@ created: 1638112851712
 
 - [Some of the most common prepositions that begin prepositional phrases are to, of, about, at, before, after, by, behind, during, for, from, in, over, under, and with.][1]
 
-## [[c.Resource]]
+## Resources
 
 - [1]: https://www.grammarly.com/blog/prepositional-phrase/
 - http://www.lel.ed.ac.uk/~packema/teaching/msc-syntax/MSc%20Syntax%20lecture%203.pdf

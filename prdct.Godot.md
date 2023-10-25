@@ -36,7 +36,7 @@ created: 1637591669334
   - Finally, the combination of Go and WebAssembly allows for cross-platform compatibility, enabling the deployment of applications on various browsers without the need for plugins or additional dependencies.
 - [[c.Software.Entity-Component-System]] 
 
-## [[c.Con]]
+## Cons
 
 - does not support exception handling https://heroiclabs.com/docs/nakama/client-libraries/godot/ 
 

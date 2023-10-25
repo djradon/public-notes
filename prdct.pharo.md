@@ -2,7 +2,7 @@
 id: vhdqlggdtgl201etqavu5r1
 title: Pharo
 desc: 'dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk'
-updated: 1698252759301
+updated: 1698262670482
 created: 1695847863715
 ---
 
@@ -24,7 +24,7 @@ created: 1695847863715
 - [[prdct.phratch]]
 - http://forum.world.st/Memory-mapped-files-and-Pharo-aka-Unreal-Engine-4-integration-with-Pharo-td4872049.html
 
-## [[c.Resource]]
+## Resources
 
 - https://pavel-krivanek.github.io/famix/
   - "The need for meta-model unification lead sometimes to bizarre design decisions that had no sense in particular languages."

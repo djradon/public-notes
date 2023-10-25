@@ -2,7 +2,7 @@
 id: ofgmsyl1k9u3fwqhmaf7kp0
 title: Molecular
 desc: ''
-updated: 1696287929589
+updated: 1698262670465
 created: 1674360309430
 ---
 
@@ -37,6 +37,6 @@ created: 1674360309430
 -   official [API gateway](https://github.com/moleculerjs/moleculer-web), [Database access](https://github.com/moleculerjs/moleculer-db) and many other modules…
 
 
-## [[c.Resource]]
+## Resources
 
 - https://techblog.geekyants.com/migrating-your-molecular-project-to-ts

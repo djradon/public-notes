@@ -8,6 +8,6 @@ created: 1636467468074
 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.indeed.com/career-advice/career-development/types-of-negotiation

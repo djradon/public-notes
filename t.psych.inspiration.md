@@ -6,7 +6,7 @@ updated: 1683134884817
 created: 1683134758368
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://jamesclear.com/inspiration-types @james-clear
   - consuming the success and ideas of others is passive inspiration

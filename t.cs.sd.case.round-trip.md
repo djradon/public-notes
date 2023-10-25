@@ -19,6 +19,6 @@ created: 1685031025391
 - [[prdct.umodel]]
 - [[prdct.modelio]]
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.sciencedirect.a-systematic-comparison-of-roundtrip-software-engineering-approaches-applied-to-uml-class-diagram]]

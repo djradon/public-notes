@@ -8,8 +8,8 @@ created: 1694020682865
 
 - [[c.Software.Language-Workbench]]
 
-## [[c.Resource]]
+## Resources
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - https://tomassetti.me/spoofax-a-language-workbench/

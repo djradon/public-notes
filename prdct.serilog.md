@@ -8,6 +8,6 @@ created: 1688069416900
 
 - #url
 
-## [[c.Resource]]
+## Resources
 
 - https://onloupe.com/blog/serilog-vs-mel/

@@ -12,7 +12,7 @@ created: 1684995195092
 
 - [[prdct.umple]]
 
-### [[c.Comparison]]
+### Comparison
 
 - https://www.ionos.com/digitalguide/websites/web-development/the-best-uml-tools/
   - [[p.mentioned]]

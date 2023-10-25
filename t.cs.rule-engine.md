@@ -10,7 +10,7 @@ created: 1690558566709
   - https://kissflow.com/workflow/workflow-engine-business-rule-engine-difference/
 - #aka [[c.Software.DecisionEngine]]; Business Rule Management System; 
 
-## [[c.Implementation]]
+## Implementations
 
 ### generic 
 
@@ -29,12 +29,12 @@ created: 1690558566709
 - [[prdct.jint]]
 - [[prdct.dmn-engine]]
 - 
-## [[c.ValueProposition]]
+## Value Proposition
 
 - Business leaders with subject matter expertise can define and manage their own logic, independent of engineering.
 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.youtube.com/watch?v=_tUzQP3Q0rA
 - https://martinfowler.com/bliki/RulesEngine.html
@@ -61,5 +61,5 @@ some important caveats with rules engines in general:
 
 
 
-## [[c.Implementation]]
+## Implementations
 

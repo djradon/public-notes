@@ -8,7 +8,7 @@ created: 1696474895633
 
 - #url https://ceur-ws.org/Vol-1558/paper21.pdf
 
-## [[c.Highlight]]
+## Highlights
 
 - Historical graph queries are graph queries applied at past snapshots. For example, a historical graph reacha- bility query may ask whether two nodes were reachable at some time interval in the past. 
 - Historical time queries are graph queries that ask about the time point or the time interval that a query had a speci c result. For example, a historical time reachability query may ask for the time point at which two nodes become reachable for the rst time. 

@@ -13,7 +13,7 @@ created: 1696977369461
 - [[p.similarTo]] [[prdct.5e-tools]]
 
 
-## [[c.Example]]
+## Examples
 
 ```
     {

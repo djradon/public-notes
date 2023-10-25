@@ -18,6 +18,6 @@ created: 1696363752606
 - Entities contain components, which are typed pieces of data, and these are acted upon with systems ^1nl6ma5m12zt
 
 
-## [[c.Con]]
+## Cons
 
 - Networked components are automatically synchronized to all clients, ensuring a consistent experience across all players; instead of grappling with complex networking intricacies, developers can focus on building their server and client-side logic. ^zumxj8d7vwkb

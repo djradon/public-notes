@@ -2,7 +2,7 @@
 id: ot391hp3ufqvsaaixdcssaz
 title: Motion Canvas
 desc: 'Visualize Your Ideas With Code'
-updated: 1698252759286
+updated: 1698262670468
 created: 1698087161289
 ---
 
@@ -14,6 +14,6 @@ created: 1698087161289
 
 - signals: represents a value that can change over time, and can define dependencies between values
 
-## [[c.Resource]]
+## Resources
 
 - https://www.youtube.com/watch?v=H5GETOP7ivs

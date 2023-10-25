@@ -16,6 +16,6 @@ created: 1637852885141
 - https://github.com/motapinto/multi-agent-system-conquest 
   - uses Jade and its capabilities to develop a multi-agent system using FIPA Communication Protocols and ACL messages.
 
-## [[c.Comparison]]
+## Comparison
 
 - [[ar.exposing-agents-as-web-services-a-case-study-using-jade-and-spade]] 

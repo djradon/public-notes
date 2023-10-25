@@ -34,7 +34,7 @@ created: 1635724858083
 
 - 
 
-## [[c.Resource]]
+## Resources
 
 - [1]: [[The Sixth Model of Personality|ar.psychologytoday.the-sixth-model-personality]]
 - [2]: [[ar.today.personality-types-average-self-centered-role-model-or-reserved]]

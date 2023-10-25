@@ -2,13 +2,13 @@
 id: 5izi3fbls7d833qc45ozeaq
 title: Asyncapi
 desc: ''
-updated: 1697474116311
+updated: 1698262670392
 created: 1673569081430
 ---
 
 
 
-## [[c.Comparison]]
+## Comparison
 
 ## [[c.Comparand]] [[prdct.openapi]] 
 
@@ -25,7 +25,7 @@ created: 1673569081430
 - https://atamel.dev/posts/2023/05-23_asyncapi_cloudevents/
   - CloudEvents help to define the format of the events and AsyncAPI helps to define the event-driven APIs.
 
-## [[c.Resource]]
+## Resources
 
 - https://www.asyncapi.com/blog/websocket-part1
 - https://nordicapis.com/7-protocols-good-for-documenting-with-asyncapi/

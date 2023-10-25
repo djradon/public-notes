@@ -6,7 +6,7 @@ updated: 1693427183377
 created: 1693427128976
 ---
 
-## [[c.Highlight]]
+## Highlights
 
 - "If you’ve never tried to [“make your venture-backed startup profitable”], you probably under-appreciate just how psychologically demanding it is—in particular, how much fresh and unfettered thinking, win-win relationship building, emotional self-management, authentic conviction, earned self-trust, intellectual ambitiousness, and disciplined focus it requires."
 - 'people either get it or they don’t'—a kind of fixed mindset applied to the talents and capabilities of others.

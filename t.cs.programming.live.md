@@ -6,6 +6,6 @@ updated: 1696485076594
 created: 1696483989517
 ---
 
-## [[c.Resource]]
+## Resources
 
 - 

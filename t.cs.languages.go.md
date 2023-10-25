@@ -8,7 +8,7 @@ created: 1638032252097
 
 - [[p.coreferences.main]] #go 
 
-## [[c.Resource]]
+## Resources
 
 - Does Go support [[t.cs.multiple-inheritance]]? https://groups.google.com/g/golang-nuts/c/x8GEbutPhuc
 - [Golang concepts from an OOP point of view](https://github.com/luciotato/golang-notes/blob/master/OOP.md)

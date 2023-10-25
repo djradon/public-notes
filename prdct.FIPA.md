@@ -10,7 +10,7 @@ created: 1637666551697
 
 - [[p.writtenIn]] #java
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.Fetch-AI]]
 - [[prdct.Jade]]

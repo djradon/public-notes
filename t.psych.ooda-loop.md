@@ -9,7 +9,7 @@ created: 1687789984486
 - [[p.attributedTo]] @john-boyd
 - ![](/assets/images/2023-06-26-08-17-24.png)
 
-## [[c.Highlight]]
+## Highlights
 
 ### Orientation
 

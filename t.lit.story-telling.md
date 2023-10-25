@@ -6,7 +6,7 @@ updated: 1674594750090
 created: 1638331281432
 ---
 
-## [[c.Definition]]
+## Definition
 
 ### [[c.Element]]
 

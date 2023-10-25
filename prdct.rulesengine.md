@@ -11,6 +11,6 @@ created: 1690322558425
 - [[p.writtenIn]] #c-sharp
 
 
-## [[c.Resource]]
+## Resources
 
 - https://betterprogramming.pub/rule-engine-a-new-library-that-eradicates-if-else-statements-60e362a1ddb0

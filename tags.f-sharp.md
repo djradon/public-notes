@@ -6,7 +6,7 @@ updated: 1696457120727
 created: 1696456293432
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://news.ycombinator.com/item?id=16166800
 - 

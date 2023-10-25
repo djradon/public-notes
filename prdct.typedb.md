@@ -27,16 +27,16 @@ created: 1643725570180
   - ![](/assets/images/2023-09-21-22-03-51.png)
   - ![](/assets/images/2023-09-21-22-19-16.png)\
 
-### [[c.Thought]]
+### Thoughts
 
 - a little unusual for a thing to be a concept. My water bottle is not really a concept.
   - https://hydeandrugg.wordpress.com/2016/01/24/things-concepts-and-words/
 
-## [[c.UseCase]]
+## Use Cases
 
 - [[prdct.typedb-data-cti]]
 
-## [[c.Resource]]
+## Resources
 
 - https://victormorgante.medium.com/query-generation-for-typedb-67c7b4a88ee2
   - "TypeDB approaches the database market conceptualised as both a database and a rules-based knowledge graph combined as one. Operating over a key/value store the database encompasses the same sort of architecture used by FactEngine to effectively turn any compatible database into a natural language/hypergraph database."

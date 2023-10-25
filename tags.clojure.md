@@ -7,7 +7,7 @@ created: 1696451732326
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://clojure.org/about/state
   - "Identities are mental tools we use to superimpose continuity on a world which is constantly, functionally, creating new values of itself."

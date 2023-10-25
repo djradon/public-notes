@@ -7,6 +7,6 @@ created: 1689961600390
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://devblogs.microsoft.com/dotnet/creating-interactive-net-documentation/

@@ -6,7 +6,7 @@ updated: 1690237596612
 created: 1681824322236
 ---
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.masstransit]]
 - [[prdct.dapr]]

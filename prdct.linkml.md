@@ -2,7 +2,7 @@
 id: uhagejfd79c8isushtaciux
 title: LinkML
 desc: ' '
-updated: 1696742532404
+updated: 1698262670457
 created: 1696739554441
 ---
 
@@ -15,7 +15,7 @@ created: 1696739554441
   - [[prdct.typedb]] converter
 - [[c.Product.Related]] https://github.com/linkml/linkml-owl
 
-## [[c.Resource]]
+## Resources
 
 - https://www.linkedin.com/groups/14303246/
 - [LinkML: an open data modeling framework, grounded with ontologies](https://lnkd.in/gZv2TU6E)

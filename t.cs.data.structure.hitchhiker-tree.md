@@ -8,6 +8,6 @@ created: 1636376144240
 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://github.com/datacrypt-project/hitchhiker-tree

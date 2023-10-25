@@ -14,7 +14,7 @@ created: 1696521323235
 - [[p.writtenIn]] #javascript
 
 
-## [[c.Example]]
+## Examples
 
 ```
 		{

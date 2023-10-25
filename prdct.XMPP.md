@@ -15,9 +15,9 @@ created: 1637794769657
 - a node is a particular "channel" or "feed" hosted at a publish-subscribe service, where the nature of the channel or feed is defined in part by the characteristic payload published at the node (e.g., Atom notifications) and in part by the focus or topic of such payloads
 
 
-## [[c.Comparable]]
+## Comparable
 
-### [[c.Comparison]]
+### Comparison
 
 - https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protocol-is-best-for-your-chat-application
 

@@ -6,7 +6,7 @@ updated: 1694465510164
 created: 1689654775713
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://social.technet.microsoft.com/wiki/contents/articles/13215.blackboard-design-pattern.aspx
 - https://social.technet.microsoft.com/wiki/contents/articles/13461.blackboard-design-pattern-a-practical-c-example-radar-defence-system.aspx

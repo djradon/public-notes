@@ -11,7 +11,7 @@ created: 1654055504089
 - [[prdct.fastify]]
 - [[prdct.asyncapi]] via [[prdct.nestjs-asyncapi]]
 
-## [[c.UseCase]]
+## Use Cases
 
 - [[t.cs.programming.repl]]
   - https://docs.nestjs.com/recipes/repl

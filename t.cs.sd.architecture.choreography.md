@@ -10,10 +10,10 @@ created: 1689742269151
 
 - harder to reason about, because reactions can happen anywhere in the system
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.masstransit]] #c-sharp
 
-## [[c.Resource]]
+## Resources
 
 - https://www.infoworld.com/article/3687638/orchestration-and-choreography-in-net-microservices.html

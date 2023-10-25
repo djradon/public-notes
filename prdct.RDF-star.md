@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1696275217918
+updated: 1698262670494
 created: 1634426288630
 ---
 
@@ -17,7 +17,7 @@ created: 1634426288630
 
 - [ ] [[p.summarized]] rdf-star use cases 
 
-## [[c.Issue]]
+## Issues
 
 - https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#sa-mode-and-pg-mode
   - are quoted triples asserted?
@@ -25,6 +25,6 @@ created: 1634426288630
   - can you have multiple identical triples?
     - [[c.Con]] nope! have to use standard reification, new relationship concept
 
-## [[c.Resource]]
+## Resources
 
 - https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf-star/

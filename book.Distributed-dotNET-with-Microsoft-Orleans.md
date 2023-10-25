@@ -8,6 +8,6 @@ created: 1688071078021
 
 - #url https://www.oreilly.com/library/view/distributed-net-with/9781801818971
 
-## [[c.Summary]]
+## Summary
 
 ### 

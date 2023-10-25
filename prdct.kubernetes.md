@@ -2,7 +2,7 @@
 id: w1ytxedul5c2ulw0surjopf
 title: Kubernetes
 desc: ''
-updated: 1689975931076
+updated: 1698262670454
 created: 1652560121353
 ---
 
@@ -13,12 +13,12 @@ created: 1652560121353
 - **Cluster**: a set of nodes
 - **Namespace**: mechanism for isolating groups of resources within a single cluster
 
-## [[c.Resource]]
+## Resources
 
 - https://earthly.dev/blog/building-k8s-tekton/
 - https://redhat-scholars.github.io/tekton-tutorial/tekton-tutorial/setup.html#tekton-prerequisites
 
-### [[c.Comparison]]
+### Comparison
 
 - https://earthly.dev/blog/k8s-dev-solutions/ 
   - [[c.Comparand]] 

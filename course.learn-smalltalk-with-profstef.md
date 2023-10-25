@@ -8,7 +8,7 @@ created: 1695920455913
 
 - #url https://amber-lang.net/learn.html
 
-## [[c.Highlight]]
+## Highlights
 
 - "Literal arrays are created at parse time:" 
   - #( 1 2 3 #(4 5 6))

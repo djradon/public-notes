@@ -12,6 +12,6 @@ created: 1697117629979
 - [[p.extends]] [[prdct.geojson]]
 
 
-## [[c.Resource]]
+## Resources
 
 - https://fenixfox-studios.com/content/leaflet_geojson_&_topojson/

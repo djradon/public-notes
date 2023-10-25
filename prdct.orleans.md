@@ -2,7 +2,7 @@
 id: utmsc3ewjjs81fsgw9q48kf
 title: Orleans
 desc: ''
-updated: 1698183522099
+updated: 1698262670481
 created: 1670267305306
 ---
 
@@ -16,7 +16,7 @@ created: 1670267305306
   - [[prdct.orleans.silo]]
 - #description Instead of building a monolith, or a services-based architecture where the services are statically provisioned, it allows you to decompose your application into lots of small, stateful services that can be provisioned dynamically when you need them.
 
-## [[c.UseCase]]
+## Use Cases
 
 Orleans should be considered when:
 
@@ -31,11 +31,11 @@ Orleans should be considered when:
 -   Global coordination is not needed or on a smaller scale between a few entities at a time.
     -   Scalability and performance of execution are achieved by parallelizing and distributing a large number of mostly independent tasks with no single point of synchronization.
 
-## [[c.Example]]
+## Examples
 
 - https://learn.microsoft.com/en-us/dotnet/orleans/tutorials-and-samples/
 
-## [[c.Resource]]
+## Resources
 
 - https://www.infoq.com/articles/project-orleans-actor-based/
 

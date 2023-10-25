@@ -6,6 +6,6 @@ updated: 1694725127197
 created: 1694725049800
 ---
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.ergoai]]

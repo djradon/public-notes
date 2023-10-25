@@ -7,6 +7,6 @@ created: 1636688693125
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://campnab.com

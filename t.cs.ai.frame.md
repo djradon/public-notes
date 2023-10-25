@@ -14,7 +14,7 @@ created: 1694633039923
    -  https://www.linkedin.com/pulse/semantics-mans-search-computational-meaning-joshua-reuben/
 
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.amr]]
 - 

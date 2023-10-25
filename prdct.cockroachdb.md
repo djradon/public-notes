@@ -2,7 +2,7 @@
 id: nm4jr6dfqo2nb0d98v17u3d
 title: CockroachDB
 desc: ''
-updated: 1698252759207
+updated: 1698262670406
 created: 1672687090671
 ---
 
@@ -13,7 +13,7 @@ created: 1672687090671
 - [geometry and geography support](https://www.cockroachlabs.com/docs/v22.1/spatial-data)
 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.cockroachlabs.com/blog/living-without-atomic-clocks/
 - https://shijuvar.medium.com/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa

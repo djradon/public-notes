@@ -24,7 +24,7 @@ created: 1652563268801
     - [[prdct.jaeger]]
     - [[prdct.zipkin]]
 
-## [[c.Comparable]]
+## Comparable
 
 - [[prdct.sematext]]
 

@@ -6,6 +6,6 @@ updated: 1680428994722
 created: 1680428982835
 ---
 
-## [[c.Resource.Learning]]
+## Learning Resource
 
 - https://cesium.com/learn/cesiumjs-learn/

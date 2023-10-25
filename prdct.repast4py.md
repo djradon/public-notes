@@ -9,12 +9,12 @@ created: 1694617862020
 - [[c.Software.Agent-Framework]] [[c.Software.Simulation-Framework]]
 - #repo https://github.com/Repast/repast4py
 
-## [[c.Thought]]
+## Thoughts
 
 - "distributed" means that the simulation is spread over multiple computer processes none of which have access to each other’s memory, and communicate via message passing using the [[Message Passing Interface|prdct.mpi4py]].
 
 
-## [[c.Resource]]
+## Resources
 
 - [DISTRIBUTED AGENT-BASED SIMULATION WITH REPAST4PY](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9912342/)
   - "the user must implement a save method that returns the state of the agent as a tuple."

@@ -13,6 +13,6 @@ created: 1696289301886
 
 - multi-user [[c.Software.Live-Programming]]
 
-## [[c.Thought]]
+## Thoughts
 
 - 

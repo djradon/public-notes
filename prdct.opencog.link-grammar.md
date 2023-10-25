@@ -2,7 +2,7 @@
 id: tg4ybxj4xevu8uy1zejqqic
 title: Link Grammar
 desc: 'exhibits the linguistic (natural language) structure of English, Thai, Russian, Arabic, Persian and limited subsets of a half-dozen other languages'
-updated: 1698252759294
+updated: 1698262670479
 created: 1674838789858
 ---
 
@@ -20,7 +20,7 @@ created: 1674838789858
 
 - [[book.homotopy-type-theory]]
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.an-introduction-to-the-link-grammar-parser]]
 - http://www.abisource.com/projects/link-grammar/dict/summarize-links.html

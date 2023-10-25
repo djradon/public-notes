@@ -15,7 +15,7 @@ created: 1669463161648
 - [[t.cs.sd.event-sourcing]]
 
 
-## [[c.Resource]] 
+## Resources 
 
 - https://cloud.google.com/eventarc/docs/event-driven-architectures
 - https://medium.com/geekculture/event-sourcing-versus-event-driven-architecture-753aa5a5d0f6

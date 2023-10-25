@@ -6,6 +6,6 @@ updated: 1696356075174
 created: 1696355028277
 ---
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.sciencedirect.a-quadtree-based-synchronization-protocol-for-inter-server-game-state-synchronization]]

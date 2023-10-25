@@ -7,7 +7,7 @@ created: 1681137464532
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://docs.memphis.dev/memphis/memphis/comparisons/nats-vs-memphis
 - 

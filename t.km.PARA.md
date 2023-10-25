@@ -43,7 +43,7 @@ created: 1636342421204
 - how do areas relate to themes and initiatives
 - how do projects related to epics and stories
 
-## [[c.Resource]]
+## Resources
 
 - [[email.para-on-paper]]
 

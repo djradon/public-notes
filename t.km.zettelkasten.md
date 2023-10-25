@@ -27,7 +27,7 @@ created: 1631216404603
 - information
 - complexity
 
-## [[c.UseCase]]
+## Use Cases
 
 - [[t.lit.fiction.writing]]
   - [[c.Resource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
@@ -40,7 +40,7 @@ created: 1631216404603
 
 - https://zettelkasten.de/posts/overview/
 
-## [[c.Resource]]
+## Resources
 
 - https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten/
 

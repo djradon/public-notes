@@ -6,7 +6,7 @@ updated: 1694214781383
 created: 1694020875424
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://tomassetti.me/category/language-engineering/domain-specific-languages/
 - http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf

@@ -2,7 +2,7 @@
 id: 1f09QQTVfyREYHR2dLKZK
 title: GunDB
 desc: ''
-updated: 1696287929579
+updated: 1698262670431
 created: 1638654887501
 ---
 
@@ -18,7 +18,7 @@ created: 1638654887501
 
 - While testing it was really hard to get basic things running. GUN is open source, but because of how the source code is written, it is very difficult to understand what is going wrong.
 
-## [[c.Resource]]
+## Resources
 
   - https://medium.com/@ajmeyghani/data-modeling-with-gundb-15220cbfb8da
     - [[Data Modeling with GunDB|ar.medium.data-modeling-with-gundb]]

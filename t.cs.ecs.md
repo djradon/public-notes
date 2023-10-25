@@ -8,7 +8,7 @@ updated: 1697986701500
 created: 1637846686838
 ---
 
-## [[c.Definition]]
+## Definition
 
 ### @sander-mertens
 
@@ -35,7 +35,7 @@ created: 1637846686838
 - ECS game object is a DDD Entity; an ECS Entity is a DDD Identity; an ECS Component is a DDD Domain Model; and an ECS System is a DDD Service or Aggregate Root. ^h56imtf2ip3n
   - [[c.Thought]] i.e., an "ECS game object" is the entity (which is just an ID + list of components) + the functionality and data given by components?
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.unity]]
   - [[p.hasDocumentation]] https://docs.unity3d.com/Packages/com.unity.entities@0.1/manual/index.html
@@ -65,7 +65,7 @@ created: 1637846686838
   - https://forum.unity.com/threads/why-vanilla-ecs-is-not-enough.928287/
     - "Why not put the 'timer' in each component ? Yes you'll need to have one system to update the timer of each type of component having a time... it would be better to have a timmer logic that store the next tick time instead of storing aremaining time that you update every frame. It would allow to make use of the DidChange filtering. Also you could probably define a ITimer interface that your ComponentData would implement and taht should allow you to stream line the timer update systems a bit through generics."
 
-## [[c.Resource]]
+## Resources
 
 - https://maxwellforbes.com/posts/typescript-ecs-why/
   - [[p.hasHighlight]]

@@ -16,7 +16,7 @@ created: 1637403056694
     - "easy for machines to read and write"
       - can append to a TOML file without reading it first, which makes it a great data interchange format
 
-## [[c.Resource]] 
+## Resources 
 
 - https://stackoverflow.com/questions/65283208/toml-vs-yaml-vs-strictyaml
 - https://tomaszs2.medium.com/2023-may-be-a-year-of-toml-b3c5f0e37efc

@@ -6,7 +6,7 @@ updated: 1682972651794
 created: 1682972612189
 ---
 
-## [[c.Summary]]
+## Summary
 
 -   The application can update any replica independently, [concurrently](https://en.wikipedia.org/wiki/Concurrent_computing "Concurrent computing") and without [coordinating](https://en.wikipedia.org/wiki/Concurrency_control "Concurrency control") with other replicas.
 -   An algorithm (itself part of the data type) automatically resolves any inconsistencies that might occur.

@@ -6,8 +6,8 @@ updated: 1696287929577
 created: 1637848002193
 ---
 
-
-
+- [[c.Software.Simulation-Framework.discrete-event]]
 - [[p.hasRepository]] https://github.com/uia4w/uia-simjs
 - [[p.writtenIn]] #javascript
-- [[p.isRelated]] [[prdct.SimPy]]
+- [[p.isRelated]] [[prdct.SimPy]] [[prdct.sim-js]]
+

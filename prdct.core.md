@@ -2,7 +2,7 @@
 id: s498tiohye13ey5fk8hicjp
 title: Core
 desc: ''
-updated: 1696196012964
+updated: 1698262670409
 created: 1696194449222
 ---
 
@@ -11,7 +11,7 @@ created: 1696194449222
 - [[p.builtOn]] [[prdct.unreal]] [[prdct.lua]]
 
 
-## [[c.Resource]]
+## Resources
 
 - https://forums.coregames.com/t/advanced-code-architecture-for-core-part-2-entity-component-system/3194/1 and https://forums.coregames.com/t/advanced-code-architecture-for-core-part-1-model-view-controller/3188
   - [[p.mentioned]] [[t.cs.sd.architecture.mvc]]

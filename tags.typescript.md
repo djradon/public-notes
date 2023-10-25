@@ -9,12 +9,12 @@ created: 1696347104135
 - [[p.coreferences]] #typescript
 
 
-## [[c.Resource]]
+## Resources
 
 - https://medium.com/codex/why-are-javascript-pros-saying-goodbye-to-typescript-8c4bc8ec82a1
   - 
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - https://szaranger.medium.com/typescript-features-you-should-no-longer-use-82ede931243
 - https://javascript.plainenglish.io/advanced-typescript-generics-1b30d6b5dd49

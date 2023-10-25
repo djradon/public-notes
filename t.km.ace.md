@@ -22,7 +22,7 @@ created: 1693688268463
     - Sleeping
 
 
-## [[c.Resource]]
+## Resources
 
 - https://tfthacker.substack.com/p/ace-an-exciting-framework-for-pkm
 - 

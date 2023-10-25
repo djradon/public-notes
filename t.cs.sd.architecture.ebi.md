@@ -9,6 +9,6 @@ created: 1694376497876
 
 - [[c.Pattern.Architecture]]
 
-## [[c.Resource]]
+## Resources
 
 - https://herbertograca.com/2017/08/24/ebi-architecture/

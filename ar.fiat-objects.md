@@ -8,13 +8,13 @@ created: 1696613041047
 
 - #url http://ontology.buffalo.edu/smith/articles/fiatobjects.pdf
 
-## [[c.Highlight]]
+## Highlights
 
 - crisp vs scruffy (fuzzy, hazy, indeterminate)
 - fiat vs bona fide
 
 
-## [[c.Selection]]
+## Selections
 
 - A typology of entities  Thetime starting point for our categorial scheme is the  concept of extended entity. Two sorts of extended entity  are distinguished initially: objects, which are extended  in space; and processes, which are extended in time
 - Of course, you and I are in a sense extended not only in space but also in time. But we do not have temporal parts in the sense in which lives and headaches and orbits have temporal parts. This, at least, will be the assumption in what follows – sometimes called the [[t.phil.assumption-of three-dimensionalism]]

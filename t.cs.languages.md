@@ -6,7 +6,7 @@ updated: 1694020871671
 created: 1671551763589
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://tomassetti.me/category/language-engineering/
 - 

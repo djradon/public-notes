@@ -11,7 +11,7 @@ created: 1693155975058
 - [[p.inspiredBy]] [[prdct.xtext]]
 - [[p.writtenIn]] #python
 
-## [[c.Resource]]
+## Resources
 
 - https://tomassetti.me/domain-specific-languages-in-python-with-textx/
 - 

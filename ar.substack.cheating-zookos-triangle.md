@@ -8,7 +8,7 @@ created: 1694190547070
 
 - #url https://subconscious.substack.com/p/cheating-zookos-triangle
 
-## [[c.Summary]]
+## Summary
 
 - There are three ideal properties you want from a good naming system:
   -   **Secure.** The name reliably points to what it is supposed to, and not to an imposter.

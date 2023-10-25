@@ -9,7 +9,7 @@ created: 1696269593576
 - [[p.coreferences]] [[t.cs.languages.julia]]
 - [[p.supports]] [[prdct.llvm]] so [[prdct.wasm]] via [[prdct.emscripten]]
 
-## [[c.Resource]]
+## Resources
 
 ### Julia for Games
 

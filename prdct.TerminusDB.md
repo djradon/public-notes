@@ -14,7 +14,7 @@ created: 1637799658994
   - [[prdct.typedb]]
   - 
 
-## [[c.Resource]]
+## Resources
 
 - https://medium.com/terminusdb/6-reasons-why-terminusdb-is-the-right-toolkit-to-build-collaborative-apps-6fb9ae96ff4
 - https://terminusdb.com/blog/loading-data-in-turtle-rdf-format-to-terminusdb/

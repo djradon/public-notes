@@ -24,6 +24,6 @@ created: 1651162206896
 
 - The hCore API provides read and write access to the code and contents of simulation projects. This access can be used, amongst other things, to change the logic of a simulation based on external changes offline or in response to user-input outside of HASH. This unlocks the creation of domain-specific and custom user interfaces for building HASH models.
 
-## [[c.Con]]
+## Cons
 
 - 

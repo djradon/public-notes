@@ -6,7 +6,7 @@ updated: 1695144917592
 created: 1669928920177
 ---
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.taxonomy-of-actors]]
 - [[Actor Vs Agent|ar.c2.actor-vs-agent]]

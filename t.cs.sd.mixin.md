@@ -10,7 +10,7 @@ created: 1696197242241
   - [[t.cs.ecs]] [[t.cs.programming.code-reuse]]
   - [[t.cs.traits]]
 
-## [[c.Issue]]
+## Issues
 
 - where is the data? 
 
@@ -26,7 +26,7 @@ created: 1696197242241
 
 - https://github.com/LokiMidgard/PartialMixins #c-sharp
 
-## [[c.Resource]]
+## Resources
 
 - https://stackoverflow.com/questions/255553/is-it-possible-to-implement-mixins-in-c / https://www.c-sharpcorner.com/UploadFile/b942f9/how-to-create-mixin-using-C-Sharp-4-0/
 - https://www.reddit.com/r/csharp/comments/7uc6dt/ive_created_a_mixin_library_for_c_and_would_like/

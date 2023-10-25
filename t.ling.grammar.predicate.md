@@ -14,7 +14,7 @@ created: 1671318708718
 
 - [-] Is a simple predicate still a relation? I've seen where people say that a unary relation is basically a reflexive/recursive relationship, like "i slapped myself", as opposed to a property like, "i slept".
 
-## [[c.Idea]]
+## Ideas
 
 - predicate arguments can have [[t.ling.grammar.thematic-roles]]
 - https://www.ling.upenn.edu/~beatrice/syntax-textbook/box-thematic.html

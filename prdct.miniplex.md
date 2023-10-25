@@ -2,7 +2,7 @@
 id: j5i282dmcjdhdzpj8owma9h
 title: Miniplex
 desc: 'developer-friendly entity management system for 🕹 games and similarly demanding applications'
-updated: 1697483830601
+updated: 1698262670464
 created: 1697482272010
 ---
 
@@ -10,6 +10,6 @@ created: 1697482272010
 - [[p.writtenIn]] #typescript
 - #creator [[user.hendrik-mans]]
 
-## [[c.Resource]]
+## Resources
 
 - https://douges.dev/blog/simplifying-r3f-with-ecs

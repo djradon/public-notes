@@ -12,7 +12,7 @@ Over the past decades, the question of what text really is has been addressed by
 
 The Text-As-Graph (TAG) data model and the associated syntax [[prdct.TAGML]] are developed to express and store textual information as a network. To this end, TAG implements a hypergraph model. In the present contribution, we illustrate the benefits of TAG’s hypergraph for the modeling of features like nonlinearity, discontinuity, and overlap. In contrast to a tree model, a hypergraph accommodates these nonhierarchical structures naturally. By making them part of the data model and the syntax, a TAGML processor can process the features without having to resort to workarounds or schema-aware tools. This lowers the difficulty of working with digital editions and facilitates querying and interchange.
 
-## [[c.Summary]]
+## Summary
 
 - The regular edges in the TAG hypergraph model are directed; the hyperedges are undirected. Nodes in the hypergraph can be connected with either a hyperedge or a regular edge.
 - The TAG hypergraph consists of five types of nodes:
@@ -23,7 +23,7 @@ The Text-As-Graph (TAG) data model and the associated syntax [[prdct.TAGML]] are
   - Zero or more Branching nodes. A Branching node is connected to a Text node or another Branching node with a directed edge. It is used to mark the beginning and end of a nonlinear structure.
 
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.texts-as-hypergraphs-an-intuitive-representation-of-interpretations-of-text]]
 - [[t.cs.graph.hypergraph]]

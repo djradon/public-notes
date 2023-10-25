@@ -9,7 +9,7 @@ created: 1695933017036
 - #url https://www.scala-js.org/
 - #repo 
 
-## [[c.Resource]]
+## Resources
 
 ### [[c.Resource.List]]
 

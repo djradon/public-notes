@@ -8,8 +8,8 @@ created: 1696527216142
 
 - [[p.used]] [[prdct.quickjs]]
 
-## [[c.Resource]]
+## Resources
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - https://thirdroom.io/docs/guides/websg/basketball/part-1.html

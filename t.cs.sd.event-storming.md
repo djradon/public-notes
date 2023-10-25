@@ -8,10 +8,10 @@ created: 1692390392073
 
 
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.architecture-weekly.webinar-9-radek-maziarka-modularization]]
 
-## [[c.Example]]
+## Examples
 
 - [[ar.medium.event-storming-black-magic-or-real]]

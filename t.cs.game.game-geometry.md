@@ -6,7 +6,7 @@ updated: 1697044729763
 created: 1671553100835
 ---
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.earth-system-modeling-framework]]
 

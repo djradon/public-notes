@@ -6,6 +6,6 @@ updated: 1695922436958
 created: 1684777700132
 ---
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.karaspace]]

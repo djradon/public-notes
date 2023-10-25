@@ -6,7 +6,7 @@ updated: 1696561283815
 created: 1695851601806
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://lepiter.io/feenk/teaching-moldable-development-dkbj2hlidhiph2eodusb87ye6/
 

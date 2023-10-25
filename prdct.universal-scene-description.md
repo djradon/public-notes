@@ -6,7 +6,7 @@ updated: 1697001657115
 created: 1697001657115
 ---
 
-## [[c.Comparison]]
+## Comparison
 
 ### [[p.vs]] [[prdct.gltf]]
 

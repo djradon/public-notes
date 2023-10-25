@@ -7,6 +7,6 @@ created: 1695417204002
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - https://softwaresim.com/blog/introduction-to-discrete-time-simulation/

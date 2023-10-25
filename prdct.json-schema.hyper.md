@@ -7,7 +7,7 @@ created: 1674588427919
 ---
 
 
-## [[c.Example]]
+## Examples
 
 Here is an example hyper-schema that adds a single link, with the IANA-registered link relation type "self", that is built from an instance with one known object field named "id":
 

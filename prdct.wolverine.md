@@ -11,7 +11,7 @@ created: 1687933176283
 - [[p.workedWith]] [[prdct.marten]]
 - [[p.supports]] [[prdct.rabbitimq]]
 
-## [[c.Resource]]
+## Resources
 
 - https://www.dotnetrocks.com/details/1823
 

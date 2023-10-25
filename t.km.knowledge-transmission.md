@@ -6,6 +6,6 @@ updated: 1694470395603
 created: 1694470353643
 ---
 
-## [[c.Resource]]
+## Resources
 
 - [Model of Knowledge Transfer Within an Organisation](https://www.jasss.org/21/2/3.html)

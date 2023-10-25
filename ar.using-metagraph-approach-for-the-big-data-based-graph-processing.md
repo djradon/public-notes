@@ -12,7 +12,7 @@ created: 1652509245268
   - [[t.cs.graph.metagraph]]
   - [[t.cs.graph.hypergraph]]
 
-## [[c.Highlight]]
+## Highlights
 
 - "Thus, the metagraph is a complex graph model, whereas the hypergraph is a near flat graph model that does not fully implement the emergence principle."
 

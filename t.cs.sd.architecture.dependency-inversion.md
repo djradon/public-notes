@@ -18,6 +18,6 @@ created: 1690261969574
 - For Flow of Control Dependencies, inject dependencies as interfaces, or abstractions.
 - Ensure the abstractions, or interfaces, are defined in a higher level module and implemented in a lower level module to ensure the Source Code Dependency is Inverted.
 
-## [[c.Resource]]
+## Resources
 
 - 1: https://medium.com/codex/the-difference-between-dependency-inversion-and-dependency-injection-15935337ca1b

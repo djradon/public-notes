@@ -12,9 +12,9 @@ created: 1662589413388
 - [[p.supports]] [[prdct.cloudevents]]
   - https://github.com/cloudevents/spec/blob/main/cloudevents/bindings/kafka-protocol-binding.md
 
-## [[c.Pro]]
+## Pros
 
-## [[c.Con]]
+## Cons
 
 - [[t.cs.sd.event-sourcing]] is not a top-level architecture [^1]
 
@@ -22,12 +22,12 @@ created: 1662589413388
 
 - [dynamic routing](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing/)
 
-## [[c.UseCase]]
+## Use Cases
 
 - "Kafka is not an event store; rather, it is an enabler for building event stores."
   - https://towardsdatascience.com/the-design-of-an-event-store-8c751c47db6f
 
-## [[c.Resource.Learning]]
+## Learning Resource
 
 ## [[c.Footnote]]
 

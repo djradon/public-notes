@@ -9,6 +9,6 @@ created: 1694642425981
 - #url https://www.grammaticalframework.org/
 - [ ] needs evaluation
 
-## [[c.Resource.Learning]]
+## Learning Resource
 
 - https://www.grammaticalframework.org/doc/tutorial/gf-tutorial.html

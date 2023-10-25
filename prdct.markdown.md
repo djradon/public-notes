@@ -2,7 +2,7 @@
 id: qAssYvqbBkF7D2JGChMHV
 title: Markdown
 desc: 'The "definitive" light-weight, human-readable markup language'
-updated: 1698164596026
+updated: 1698262670459
 created: 1633579231418
 ---
 
@@ -20,7 +20,7 @@ created: 1633579231418
 
 - [c] summarize footnoting. using ^ seems scary give dendron references.
 
-## [[c.Resource]]
+## Resources
 
 - https://cirosantilli.com/markdown-style-guide/#top-level-header
   - a bunch of suggested best practices

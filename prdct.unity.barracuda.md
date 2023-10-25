@@ -6,7 +6,7 @@ updated: 1684775488636
 created: 1684775306430
 ---
 
-## [[c.UseCase]]
+## Use Cases
 
 - [[prdct.unity.ml-agent]]
 -   [MobileNet v1/v2](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md) image classifiers

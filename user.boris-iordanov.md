@@ -10,6 +10,6 @@ created: 1650068625972
   - [[org.vaticle]]
   - [[org.granthika]]
 
-## [[c.Resource]]
+## Resources
 
 - https://blog.vaticle.com/meet-the-team-boris-iordanov-6a30a949cdab

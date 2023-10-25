@@ -7,6 +7,6 @@ created: 1635664460592
 ---
 
 
-## [[c.Resource]]
+## Resources
   
 - https://rpgbot.net/general-tabletop/worldbuilding/

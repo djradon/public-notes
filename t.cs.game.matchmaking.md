@@ -6,6 +6,6 @@ updated: 1656746110284
 created: 1656746043376
 ---
 
-## [[c.Resource]]
+## Resources
 
 - [Skill, Matchmaking, and Ranking Systems Design - YouTube](https://www.youtube.com/watch?v=-pglxege-gU)

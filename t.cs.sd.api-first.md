@@ -8,7 +8,7 @@ created: 1696011559947
 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.postman.com/api-platform/api-design/
   - [[p.mentioned]] [[prdct.asyncapi]]

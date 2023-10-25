@@ -35,7 +35,7 @@ created: 1633160681527
 - [[prdct.rdf.aREF]]
 - [[prdct.rdf.turtle]]
  
-## [[c.Resource]]
+## Resources
 
 - https://www.w3.org/TR/rdf11-datasets/
   - [[p.begsQuestion]] [-] What is [[the difference betwee the union of the graphs and their merge|tasks.rdf.the-difference-betwee-the-union-of-the-graphs-and-their-merge]]? Is the distinction meaningful for [[prdct.dendron]]?

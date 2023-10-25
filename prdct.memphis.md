@@ -11,7 +11,7 @@ created: 1680467930113
 - [[p.writtenIn]] #go
 
 
-## [[c.UseCase]]
+## Use Cases
 
 -   Async task management
 -   Real-time streaming pipelines
@@ -33,7 +33,7 @@ created: 1680467930113
   - "Memphis is currently experimenting with creating that ability for consumers to be able to communicate with each other using gRPC or shared channels."
 - Data-Level Observability
 
-## [[c.Comparison]]
+## Comparison
 
 - [[vs.nats-jetstream-vs-memphis]]
 

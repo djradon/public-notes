@@ -8,6 +8,6 @@ created: 1693156176761
 
 - #url https://aws.amazon.com/qldb/
 
-## [[c.UseCase]]
+## Use Cases
 
 - 

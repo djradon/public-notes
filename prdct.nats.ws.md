@@ -2,7 +2,7 @@
 id: 8jb1no642qap15mfcny0wcd
 title: nats.ws
 desc: ''
-updated: 1698085936305
+updated: 1698262670469
 created: 1698085821687
 ---
 
@@ -10,6 +10,6 @@ created: 1698085821687
 - [[p.builtOn]] 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://nats.io/blog/getting-started-nats-ws/

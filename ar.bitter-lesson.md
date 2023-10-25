@@ -8,6 +8,6 @@ created: 1697491035086
 
 - #url http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 
-## [[c.Thought]]
+## Thoughts
 
 - if you want humans to participate, you can't depend on convolution

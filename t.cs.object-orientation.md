@@ -11,7 +11,7 @@ created: 1696709230874
 
 ![[Rustconf Talk|ar.rustconf-talk#^hkms0rjrw5lz]]
 
-## [[c.Idea]] 
+## Ideas 
 
 ![[Rustconf Talk|ar.rustconf-talk#^c47v165vrmv6]] 
 

@@ -8,11 +8,11 @@ created: 1645900311590
 
 
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.metagraph]]
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.opencog.graphs-metagraphs-ram-cpu]]
 - https://towardsdatascience.com/knowledge-hypergraphs-object-role-modeling-ef0f58f38066

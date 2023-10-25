@@ -10,7 +10,7 @@ created: 1674830694032
 - [[p.instanceOf]] [[c.Software.Workflow]]
 - #similar [[prdct.n8n]] [[prdct.dagster]] [[prdct.temporal]] [[prdct.prefect]] [[prdct.Airflow]]  ^xnxaubd7sqiw
 
-## [[c.Comparison]]
+## Comparison
 
 - https://jlgjosue.medium.com/alternatives-to-airflow-exist-bb2739a93b33 
 

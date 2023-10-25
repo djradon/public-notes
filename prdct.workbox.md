@@ -8,6 +8,6 @@ created: 1698077564033
 
 - #repo https://github.com/GoogleChrome/workbox
 
-## [[c.Resource]]
+## Resources
 
 - https://developer.chrome.com/docs/workbox/what-is-workbox/

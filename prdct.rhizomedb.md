@@ -8,6 +8,6 @@ created: 1682972045326
 
 - #related [[t.cs.distributed.crdt]]
 
-## [[c.Resource]]
+## Resources
 
 - https://fission.codes/blog/rhizomedb-querying-data/

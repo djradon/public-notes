@@ -8,6 +8,6 @@ created: 1690176131429
 
 - #url 
 
-## [[c.Resource]]
+## Resources
 
 - https://thenewstack.io/system-initiative-a-devops-makeover-by-ex-chef-adam-jacob/

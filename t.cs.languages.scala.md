@@ -7,7 +7,7 @@ created: 1683233611652
 ---
 
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.scala-for-game-server-development]]
 - https://gist.github.com/jackcviers/a7e74a3ad0a57f6ab97afd25c940f2b4

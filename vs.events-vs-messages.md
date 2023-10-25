@@ -18,7 +18,7 @@ An Event is some data emitted from a component for anyone listening to consume.
   - permissioned event queues are similar to broadcast messages
   - you could imagine 
 
-## [[c.Resource]]
+## Resources
 
 - https://azure.microsoft.com/en-us/blog/events-data-points-and-messages-choosing-the-right-azure-messaging-service-for-your-data/
 - https://thenewstack.io/supercharging-event-driven-integrations-using-apache-kafka-and-triggermesh/

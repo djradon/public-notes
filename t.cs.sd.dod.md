@@ -6,7 +6,7 @@ updated: 1694451257983
 created: 1694451218310
 ---
 
-## [[c.Resource]]
+## Resources
 
 - (The Data-Oriented Design Process for Game Development)[https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU]
   - 

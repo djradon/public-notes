@@ -12,6 +12,6 @@ created: 1686260852478
 - [[c.Solution.Similar]]  
 - #author @sander-mertens
 
-## [[c.Resource.Learning]]
+## Learning Resource
 
 - ![FLECS overview](https://github.com/SanderMertens/flecs/raw/master/docs/img/flecs-quickstart-overview.png)

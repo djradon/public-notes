@@ -8,7 +8,7 @@ created: 1694724826258
 
 - [[p.similarTo]] [[t.km.knowledge-graph.dynamic]]
 
-## [[c.Implementation]]
+## Implementations
 
 - https://github.com/INK-USC/DArtNet
 

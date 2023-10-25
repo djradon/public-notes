@@ -9,6 +9,6 @@ created: 1696529549445
 - #url https://unity.com/dots
 
 
-## [[c.Resource.Learning]]
+## Learning Resource
 
 - https://dots-tutorial.moetsi.com/dots-netcode/intro-to-dots-netcode

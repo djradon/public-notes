@@ -2,7 +2,7 @@
 id: zmv3vg9p80fuikx4xplwp8d
 title: PyReason
 desc: 'An explainable inference software supporting annotated, real valued, graph based and temporal logic '
-updated: 1697487269086
+updated: 1698262670491
 created: 1697486867689
 ---
 
@@ -11,6 +11,6 @@ created: 1697486867689
 - [[p.writtenIn]] #python
 - [[p.supports]] [[prdct.GraphML]] [[prdct.afsim]]
 
-## [[c.Resource]]
+## Resources
 
 - https://medium.com/towards-nesy/pyreason-software-for-open-world-temporal-logic-d67de751830e

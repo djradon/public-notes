@@ -11,4 +11,4 @@ created: 1673903518004
     - https://rpgmuseum.fandom.com/wiki/Setting
   - may have a [[sh.metaplot]]
 
-## [[c.Resource]]
+## Resources

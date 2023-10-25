@@ -6,6 +6,6 @@ updated: 1696530040296
 created: 1696530034605
 ---
 
-## [[c.Resource]]
+## Resources
 
 - https://meseta.medium.com/netcode-concepts-part-1-introduction-ec5763fe458c

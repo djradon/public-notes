@@ -8,7 +8,7 @@ created: 1672310376906
 
 [[c.Software.Game-Engine]]
 
-## [[c.Con]]
+## Cons
 
 - "Voxels or procedural mesh are the only things that sort of work at runtime." 
   - https://forums.unrealengine.com/t/dynamic-terrain-generation/253516/2

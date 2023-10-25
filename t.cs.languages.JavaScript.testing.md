@@ -8,6 +8,6 @@ created: 1637848157381
 
 
 
-## [[c.Resource]]
+## Resources
 
 - https://dimitr.im/testing-nodejs-tape

@@ -6,11 +6,11 @@ updated: 1697491604487
 created: 1694357593591
 ---
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.corenlp]]
 
-## [[c.Resource]]
+## Resources
 
 
 ### https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk

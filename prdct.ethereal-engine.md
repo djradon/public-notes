@@ -2,7 +2,7 @@
 id: 63kf9de9lbduuose19qiasc
 title: Ethereal Engine
 desc: ''
-updated: 1698252759224
+updated: 1698262670417
 created: 1672314344300
 ---
 
@@ -20,7 +20,7 @@ created: 1672314344300
 - state management uses [hookstate](https://hookstate.js.org/) and [react](https://react.dev/). Together, these tools give reactive, declarative, and controlled state management across any scope.
 - #ecs 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.etherealengine.com/blog
 

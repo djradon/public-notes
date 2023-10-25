@@ -6,7 +6,7 @@ updated: 1694810278682
 created: 1673284053604
 ---
 
-## [[c.Resource]]
+## Resources
 
 - [[book.game-programming-patterns]]
 - [[ar.gamedeveloper.what-i-ve-learned-about-designing-multiplayer-games-so-far]]

@@ -6,7 +6,7 @@ updated: 1690266514253
 created: 1690265849008
 ---
 
-## [[c.Resource]]
+## Resources
 
 ### [[On Being Lost|https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec]]
 

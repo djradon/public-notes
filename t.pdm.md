@@ -55,6 +55,6 @@ created: 1635700925535
   - Built-in user journey.
     - although, imagine a 3d visualization overlapping user journeys and their interaction points. 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.productplan.com/glossary

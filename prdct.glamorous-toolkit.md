@@ -4,7 +4,7 @@ title: Glamorous Toolkit
 desc: >-
   a live notebook. A fancy code editor. A software analysis platform. A data
   visualization engine. A knowledge management system. All in one.
-updated: 1698252759231
+updated: 1698262670423
 created: 1650122141316
 ---
 
@@ -31,17 +31,17 @@ created: 1650122141316
   - The Glamorous Toolkit virtual machine is formed by a Rust runtime that wraps and runs the Pharo virtual machine as a library in a separate operating system thread. The runtime also comes with Rust plugins and with an infrastructure for creating Rust plugins.
 - supports [[t.cs.sd.example-driven-development]], which is like [[t.cs.sd.test-driven-development]], but supports [[t.cs.sd.live-tutorials]]
 
-## [[c.UseCase]]
+## Use Cases
 
 - [[c.Software.Knowledge-Base]] for system documentation
 - Data Explorer
 
 
-## [[c.Con]]
+## Cons
 
 - "To get a living system + its real time perspectives and embedded live documentation it seems you must program the system in Pharo." ?
 
-## [[c.Resource]]
+## Resources
 
 - https://medium.com/feenk/one-rendering-tree-918eae49bcff
 - [+] https://lepiter.io/feenk/glamorous-toolkit-and-pharo-9q25tavxwfq6z1drwvegd5u9o/

@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1698252759216
+updated: 1698262670411
 created: 1688397077910
 ---
 
@@ -35,7 +35,7 @@ created: 1688397077910
 - input bindings trigger endpoint methods
 - dapr executes operations on external systems via output bindings
 
-## [[c.UseCase]]
+## Use Cases
 
 - "You want to work with single-threaded objects that do not require significant interaction from external components, including querying state across a set of actors."
 
@@ -49,7 +49,7 @@ created: 1688397077910
     - https://www.reddit.com/r/dotnet/comments/13t3tsf/is_dapr_actually_used_by_anyone/ 
       - "if you have a product that aspires to be vendor agnostic, it might help"
 
-## [[c.Issue]]
+## Issues
 
 -"You cannot dynamically add new programmatic subscriptions, only add new ones at compile time"
   - https://docs.dapr.io/developing-applications/building-blocks/pubsub/subscription-methods/
@@ -61,7 +61,7 @@ created: 1688397077910
   - https://maarten.mulders.it/2022/01/the-dapr-sdk-for-java-pubsub-distributed-tracing/
 - 
 
-## [[c.Example]]
+## Examples
 
 - https://github.com/dotnet-architecture/eShopOnDapr #showcase
 - [[prdct.dapr-traffic-control]]
@@ -74,7 +74,7 @@ created: 1688397077910
 - https://github.com/thangchung/coffeeshop-on-dapr
 - https://github.com/thangchung/clean-architecture-dotnet
 
-## [[c.Resource]]
+## Resources
 
 - https://www.reddit.com/r/dotnet/comments/13t3tsf/is_dapr_actually_used_by_anyone/
   - "just a set of APIs hosted in the sidecar that you can opt-in to calling if you want some particular feature such as using Pubsub or acquiring a distributed lock. It does not enforce any particular way for you to structure your application code"

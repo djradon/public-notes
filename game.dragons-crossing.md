@@ -9,7 +9,7 @@ created: 1682968967059
 - [[c.Software.Web3]]
 - #url https://www.dragonscrossing.com
 
-## [[c.Summary]]
+## Summary
 
 - limited number of actions per day: quests are the resource to be managed
 - w/death you lose all your quests (for the day), everything in the inventory except for 1 thing

@@ -2,7 +2,7 @@
 id: 85nltdweybeqpecpcjeyntw
 title: Noda Time
 desc: an alternative date and time API for .NET
-updated: 1689965610606
+updated: 1698262670475
 created: 1689963158118
 ---
 
@@ -16,6 +16,6 @@ created: 1689963158118
 - Instant is a good type to use for "when something happened" - a timestamp in a log file, for example. The instant can then be interpreted in a particular time zone and calendar system, in a way which is useful to the person looking at the log.
 - 
 
-## [[c.Resource]]
+## Resources
 
 - https://blog.nodatime.org/2011/08/what-wrong-with-datetime-anyway.html

@@ -16,7 +16,7 @@ These ids need to be roughly sortable, meaning that if tweets A and B are posted
 
 Additionally, these numbers have to fit into 64 bits.
 
-## [[c.Implementation]]
+## Implementations
 
 - https://github.com/AkashRajpurohit/snowflake-id #javascript
 - 

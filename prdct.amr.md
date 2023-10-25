@@ -10,7 +10,7 @@ created: 1682976801246
 - [[p.hasSpecification]] https://github.com/amrisi/amr-guidelines/blob/master/amr.md
 
 
-## [[c.Con]]
+## Cons
 
 * It does not represent quantifier scope, or even universal quantification at all.
 * It does not represent co-references that cross sentence boundaries.
@@ -18,7 +18,7 @@ created: 1682976801246
 * It does not deeply capture many noun-noun or noun-adjective relations.
 * It does not include deep frames such as Earthquake (with roles for magnitude, epicenter, casualties, etc) or Pregnancy (with roles for mother, father, baby gender, time since inception, etc). AMR 1.2 looks forward to AMR 2.0!
 
-## [[c.Example]]
+## Examples
 
 - "About 14,000 people fled their homes at the weekend after a local tsunami warning was issued, the UN said on its Web site"
 ```

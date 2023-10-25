@@ -10,6 +10,6 @@ created: 1692393101454
 - [[c.Comparand]] : [[t.cs.sd.event-sourcing]] [[t.cs.sd.ddd.domain-event]]
 
 
-## [[c.Highlight]]
+## Highlights
 
 - "the semantics of the fine-grained events from event sourcing is too low-level, both in terms of the event itself and the associated information (the “payload”) [to use those events in other contexts]"

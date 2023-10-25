@@ -11,6 +11,6 @@ created: 1696974070239
 - #repo https://github.com/UpstreetAI/upstreet-sdk
 - [[p.writtenIn]] #python #javascript
 
-## [[c.Highlight]]
+## Highlights
 
 -  [[prdct.zjs]] purpose-built adaptation of [[prdct.yjs]]

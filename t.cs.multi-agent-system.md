@@ -9,7 +9,7 @@ created: 1637793595094
 
 
 
-## [[c.Implementation]]
+## Implementations
 
 ### #javascript
 
@@ -36,7 +36,7 @@ created: 1637793595094
 
 - [[prdct.actress-mas]]
 
-## [[c.Implementation]]
+## Implementations
 
 - https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/july/csharp-applying-ai-to-a-multi-agent-mini-basketball-game
 

@@ -20,11 +20,11 @@ created: 1695966061818
 - standalone library and independent of a particular 3D engine. The idea is to implement the actual game logic with Yuka and the visual representation with your preferred JavaScript 3D library
 - A task is an isolated unit of work that is processed in an asynchronous way. Tasks are managed within a task queue.
 
-## [[c.Resource]]
+## Resources
 
 - https://forum.babylonjs.com/t/how-to-get-yuka-js-working-in-node-environment/36510/13
 
-## [[c.Example]]
+## Examples
 
 - https://mugen87.github.io/yuka/showcases/
   - https://github.com/Mugen87/kickoff

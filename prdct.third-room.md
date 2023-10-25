@@ -20,7 +20,7 @@ created: 1672343537168
 - [[p.supports]] [[prdct.gltf]] [[prdct.unity]]
 - [[p.similarTo]] [[prdct.hubs]]
 
-## [[c.Resource]]
+## Resources
 
 - https://matrix.org/blog/2023/06/07/introducing-third-room-tp-2-the-creator-update/
   - in this update we’ve focused on building out the scripting, editing and authoring capabilities of Third Room to provide a solid platform for building and running collaborative 3D apps of any kind.

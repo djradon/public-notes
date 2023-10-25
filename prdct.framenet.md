@@ -9,6 +9,6 @@ created: 1694639458600
 - #dead ?
 - #url ?
 
-## [[c.Con]]
+## Cons
 
 - not reference-aware (like [[prdct.amr]])

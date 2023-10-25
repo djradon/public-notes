@@ -2,7 +2,7 @@
 id: ANo6L7Z9rjkEKqwMO7dA2
 title: Mesa
 desc: Agent-based modeling in Python
-updated: 1696277008106
+updated: 1698262670462
 created: 1637813463159
 ---
 
@@ -11,15 +11,15 @@ created: 1637813463159
 - [[p.hasRepository]] https://github.com/projectmesa/mesa
 - [[p.writtenIn]] #python
 
-## [[c.Con]]
+## Cons
 
 - no communication, so netlogo-like
   - https://stackoverflow.com/questions/60126207/mas-platform-written-in-python
     - [[p.mentioned]] [[prdct.osbrain]]
 
 
-## [[c.Resource]]
+## Resources
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - https://towardsdatascience.com/intro-to-agent-based-modeling-3eea6a070b72

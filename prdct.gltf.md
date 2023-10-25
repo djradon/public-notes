@@ -11,6 +11,6 @@ created: 1672343813127
 - [[c.Publisher]] [[org.khronos-group]]
 - [[p.similarTo]] [[prdct.universal-scene-description]]
 
-## [[c.Implementation]]
+## Implementations
 
 - [[prdct.battlemap-io]]

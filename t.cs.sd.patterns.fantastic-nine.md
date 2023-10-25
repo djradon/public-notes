@@ -11,7 +11,7 @@ created: 1695140850298
   
 ![](/assets/images/2023-10-06-13-10-52.png)
 
-## [[c.Summary]]
+## Summary
 
 - Complexity is our enemy
 - Messaging: passing information across time [[t.cs.data.temporality]]
@@ -64,13 +64,13 @@ created: 1695140850298
 - [[t.cs.sd.architecture.orchestration]]
 - [[t.cs.sd.architecture.choreography]]
 
-## [[c.Highlight]]
+## Highlights
 
 - focus on information flow over time, not data structure
 - 3 types of information: command, event, state
 - 9 transition patterns
 
 
-## [[c.Resource]]
+## Resources
 
 - https://www.architecture-weekly.com/p/webinar-13-yves-goeleven-the-fantastic

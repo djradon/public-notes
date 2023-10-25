@@ -2,18 +2,18 @@
 id: shuux2j4chng8olowaxgxh6
 title: 3d Tiles
 desc: ''
-updated: 1680447148361
+updated: 1698262670391
 created: 1680429980998
 ---
 
-## [[c.Implementation]]
+## Implementations
 
-## [[c.Resource]]
+## Resources
 
 ### [[c.Resource.List]]
 
 - https://github.com/pka/awesome-3d-tiles
 
-### [[c.Resource.Learning]]
+### Learning Resource
 
 - https://cesium.com/blog/2015/08/10/introducing-3d-tiles/

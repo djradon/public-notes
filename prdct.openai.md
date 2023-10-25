@@ -9,6 +9,6 @@ created: 1674359616877
 - [[p.hasSolution]]
   - [[prdct.openai.playground]]
 
-## [[c.Comparison]]
+## Comparison
 
 - https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them

@@ -8,6 +8,6 @@ created: 1650070170340
 
 
 
-## [[c.Resource]]
+## Resources
 
 - [[ar.cmu.rti-the-role-of-time]]

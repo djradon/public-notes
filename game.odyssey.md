@@ -2,13 +2,13 @@
 id: m5wk4s2hyxq7b8s6tgo6p16
 title: Odyssey
 desc: 'the Compleat Apventure'
-updated: 1690610619962
+updated: 1698262670436
 created: 1671536709361
 ---
 
 - [[c.Documentation]] https://www.mocagh.org/synergistic/odysseycompleat-alt2.pdf
 - 
-## [[c.Resource]]
+## Resources
 
 - http://crpgaddict.blogspot.com/2013/05/game-99-odyssey-compleat-apventure-1980.html
   - "the men become analogous to hit points in a conventional RPG."
