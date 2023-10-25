@@ -2,7 +2,7 @@
 id: vtq6sg56vkmi8457sar7ktc
 title: IcePanel
 desc: modeling and diagramming with links to source
-updated: 1688015899662
+updated: 1698252180173
 created: 1688015552902
 ---
 
@@ -10,3 +10,5 @@ created: 1688015552902
 - [[p.supports]] [[t.cs.sd.c4-model]]
 - [[p.similarTo]] 
 - [[c.Software.Tools.Diagramming]] [[c.Software.Tools.Modeling]]
+
+## Features
