@@ -18,7 +18,8 @@ created: 1670267347423
 - [[prdct.ptolemy]]
 - [[prdct.dapr]] #c-sharp
 - [[prdct.proto-actor]]
-- 
+- [[prdct.tarant]]  
+
 ## [[c.Feature]]
 
 - "Actor model services are stateless and reactive"
@@ -35,4 +36,5 @@ created: 1670267347423
 ## [[c.Resource]]
 
 - [43 years of actors: a taxonomy of actor models and their key properties](https://dl.acm.org/doi/abs/10.1145/3001886.3001890)
+- https://github.com/GetTech-io/awesome-actor
 - 

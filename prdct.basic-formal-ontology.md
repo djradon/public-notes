@@ -19,6 +19,7 @@ created: 1696610915530
 - We use ‘category’ to refer to those universals at the most general and domain-neutral level. BFO treats only of categories in this sense. A category is a formal (= domain-neutral) universal, as contrasted with the material (domain-specific) universals represented in one or other domain ontology. BFO:fiat object part is a category in this sense; not however organism or weapon, or mortgage contract. Spatial, temporal and spatiotemporal region terms are counted as representing formal universals in this sense, since they apply in all domains.
 - is_a hierarchy
 ![](/assets/images/2023-10-10-11-37-53.png)
+- specifically dependent continuants are subject to the axiom of non-migration – they cannot migrate from one bearer to another. Generically dependent continuants, in contrast, can in a sense migrate, namely through a process of exact copying which allows, for example, the very same information artifact to be saved to multiple storage devices.
 - 
   
 

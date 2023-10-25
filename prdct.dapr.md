@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1698176461847
+updated: 1698184203151
 created: 1688397077910
 ---
 
@@ -49,12 +49,22 @@ created: 1688397077910
     - https://www.reddit.com/r/dotnet/comments/13t3tsf/is_dapr_actually_used_by_anyone/ 
       - "if you have a product that aspires to be vendor agnostic, it might help"
 
+## [[c.Issue]]
+
+-"You cannot dynamically add new programmatic subscriptions, only add new ones at compile time"
+  - https://docs.dapr.io/developing-applications/building-blocks/pubsub/subscription-methods/
+
 ## [[c.Notes]]
 
 - "Redis does not support transaction rollbacks and should not be used in production as an actor state store."
+- the Dapr SDK for Java builds upon Project Reactor, all methods are asynchronous. This means they return a Mono<T> or a Flux<T>, respectively a single item or a stream of items somewhere in the future. Since both a Mono<T> and a Flux<T> are “cold”, you have to “subscribe” on them. By subscribing, you tell the code that will produce the items that you are ready to process the items that they will produce. One of the ways to do this is by invoking .block() on the Mono<T> or Flux<T>.
+  - https://maarten.mulders.it/2022/01/the-dapr-sdk-for-java-pubsub-distributed-tracing/
+- 
 
 ## [[c.Example]]
 
+- https://github.com/dotnet-architecture/eShopOnDapr #showcase
+- [[prdct.dapr-traffic-control]]
 - https://github.com/kimcuhoang/dapr-tye-simple-microservices
 - https://github.com/thangchung/practical-dapr #dead
 - https://github.com/vietnam-devs/coolstore-microservices "Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce"
