@@ -5,7 +5,7 @@ desc: >-
   a small, upper-level, realist ontology that is designed for use in supporting
   information retrieval, analysis and integration in scientific and other
   domains
-updated: 1698262670402
+updated: 1698334327664
 created: 1696610915530
 ---
 
@@ -14,6 +14,7 @@ created: 1696610915530
 - #repo https://github.com/bfo-ontology/BFO/
 - #docs https://github.com/bfo-ontology/BFO/wiki
 - #similar [[prdct.gist]]
+- #related 
 - related [[t.km.ontology]]
 
 ## Description

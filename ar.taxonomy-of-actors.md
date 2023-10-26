@@ -1,8 +1,8 @@
 ---
 id: snrad0bldvms5ifxwbazlnz
-title: Taxonomy of Actors
+title: 43 Years of Actors - A Taxonomy of Actor Models and Their Key Properties
 desc: ''
-updated: 1670037938564
+updated: 1698333977313
 created: 1670037919787
 ---
 
