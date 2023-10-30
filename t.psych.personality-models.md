@@ -2,7 +2,7 @@
 id: sTyNYjlGIpve8IxDgXFCn
 title: Personality Models
 desc: ''
-updated: 1697087642526
+updated: 1698704342289
 created: 1635724858083
 ---
 
@@ -31,11 +31,7 @@ created: 1635724858083
 -   **Self-centered:** While these people score high in extraversion they rank below average openness, agreeableness and conscientiousness.
 
 ## #implementations
-
-- 
-
 ## Resources
 
 - [1]: [[The Sixth Model of Personality|ar.psychologytoday.the-sixth-model-personality]]
 - [2]: [[ar.today.personality-types-average-self-centered-role-model-or-reserved]]
-- 

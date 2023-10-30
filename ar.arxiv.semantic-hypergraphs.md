@@ -3,7 +3,7 @@ id: petpwaw939hkf88n8p3jueo
 title: Semantic Hypergraphs
 desc: >-
   open-adaptive - a language representation that is convenient for both humans and machines can constitute a linguafranca, throughwhich systems of cognitive agents of different natures can cooperate in a way that is understandable and inspectable.
-updated: 1697485887628
+updated: 1698704342199
 created: 1682970702620
 ---
 
@@ -24,8 +24,6 @@ created: 1682970702620
 - [[t.ling.nlp.argumentation-mining]]
 - hyperedges may be ordered [23] and recursive [32]. Ordering entails that the position in which a vertex participates in the hyperedge is relevant (as is the case with directed graphs). Recursivity means that hyperedges can participate as vertices in other hyperedges.
 - Metatrees and metagraphs are themselves too low a level to be suitable as a programming language which human beings would want to use on a daily basis. Instead, they have more in common with compiler intermediate languages, which are term rewriting systems used by machines (compilers) to perform transformations on data.
-- 
-
 ## Comparable
 
 - [[prdct.cyc]]

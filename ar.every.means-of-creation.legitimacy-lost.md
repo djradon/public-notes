@@ -2,7 +2,7 @@
 id: SWPQrmZgHhPlTXausE9Gv
 title: Legitimacy Lost
 desc: How Creator Platforms Are Eroding Their Most Important Resource
-updated: 1638338113116
+updated: 1698704342185
 created: 1638337323872
 ---
 
@@ -16,4 +16,3 @@ created: 1638337323872
   - it’s not just about money: it’s about agency and autonomy, and having the opportunity to participate in decisions that directly impact your livelihood. i.e., 
     - ownership and portability of data
     - Participatory decision-making and cooperative business models 
-    - 

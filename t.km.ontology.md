@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: ''
-updated: 1696606706497
+updated: 1698704342267
 created: 1633445910705
 ---
 
@@ -10,8 +10,6 @@ created: 1633445910705
 
 - intentional vs extensional
 - backbone: (is_a hierarchy) ^avyynlhzlbc4
-- 
-
 ## Related
 
 - @quine's ontological relativity

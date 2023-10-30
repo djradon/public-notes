@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1698262670411
+updated: 1698704342099
 created: 1688397077910
 ---
 
@@ -59,8 +59,6 @@ created: 1688397077910
 - "Redis does not support transaction rollbacks and should not be used in production as an actor state store."
 - the Dapr SDK for Java builds upon Project Reactor, all methods are asynchronous. This means they return a Mono<T> or a Flux<T>, respectively a single item or a stream of items somewhere in the future. Since both a Mono<T> and a Flux<T> are “cold”, you have to “subscribe” on them. By subscribing, you tell the code that will produce the items that you are ready to process the items that they will produce. One of the ways to do this is by invoking .block() on the Mono<T> or Flux<T>.
   - https://maarten.mulders.it/2022/01/the-dapr-sdk-for-java-pubsub-distributed-tracing/
-- 
-
 ## Examples
 
 - https://github.com/dotnet-architecture/eShopOnDapr #showcase
@@ -84,7 +82,6 @@ created: 1688397077910
 - https://dev.to/aaronblondeau/virtual-actors-dapr-vs-orleans-30f0
  - https://medium.com/event-driven-utopia/5-reasons-why-you-should-use-microsoft-dapr-to-build-event-driven-microservices-cb2202c579a0
 - https://itnext.io/dapr-vs-envoy-when-to-use-what-6c2ac3caaed2
-- 
 [[c.Resource.Learning]]
 
 - https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/

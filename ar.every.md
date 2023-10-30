@@ -2,7 +2,7 @@
 id: UDyKdrUPJBObO6lxqigxN
 title: Every
 desc: ''
-updated: 1638942666999
+updated: 1698704342187
 created: 1638336683527
 ---
 
@@ -14,7 +14,6 @@ created: 1638336683527
 ## Recently read
 
 ### 2021-12-07
-- 
 - [The Three Systems Beneath Network Effects](https://every.to/divinations/the-three-systems-beneath-network-effects)  
 - [Event: $10k Work with Khe Hy](https://every.to/superorganizers/event-10k-work-with-khe-hy)  
 - [Packy McCormick on Web3 (how he got sucked in)](https://every.to/means-of-creation/packy-mccormick-on-web3-how-he-got-sucked-in)  

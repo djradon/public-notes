@@ -2,15 +2,13 @@
 id: bCbHNvGI5XGE4s9mD5AMJ
 title: Log
 desc: ''
-updated: 1644849149597
+updated: 1698704342146
 created: 1641366235825
 ---
 
 
 
 ### 2022-01-04
-  - 
-
 Hi Thomas
 
     A side note about what a statement states and what it doesn’t state (unrelated to what I said above, 

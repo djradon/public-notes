@@ -2,14 +2,11 @@
 id: ey0x8ydxhsfcuptxska6fk2
 title: Assumption of Three Dimensionalism
 desc: ''
-updated: 1696614488100
+updated: 1698704342293
 created: 1696613358124
 ---
 
 ## Thoughts
-
-- 
-
 ## Resources
 
 - [Identity Across Time: A Defense of Three-Dimensionalism](https://people.umass.edu/~lrb/files/bak09ideM.pdf)

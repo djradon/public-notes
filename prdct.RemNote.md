@@ -2,7 +2,7 @@
 id: 0deUbUTA87xF5Npu5zw1s
 title: RemNote
 desc: cloud PKM with learning/memorization focus
-updated: 1671633275860
+updated: 1698704342173
 created: 1632454051411
 ---
 
@@ -33,8 +33,6 @@ a note-taking tool that helps your organize and remember what you learn
 - [[p.hadDefinition]] view a rem in multiple context
 - [[p.vs]] [[prdct.dendron#references]]
   - portal is a weird name
-  - 
-
 ## [[p.hasIssue]]
 
 - selecting text is hard/impossible

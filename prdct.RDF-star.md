@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1698320987700
+updated: 1698704342088
 created: 1634426288630
 ---
 
@@ -20,8 +20,6 @@ created: 1634426288630
 ## Implementations
 
 - [[prdct.ontotext-platform]]
-- 
-
 ## Issues
 
 - https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#sa-mode-and-pg-mode

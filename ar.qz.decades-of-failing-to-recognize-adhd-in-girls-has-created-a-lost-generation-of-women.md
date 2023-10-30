@@ -4,7 +4,7 @@ title: >-
   Decades of Failing to Recognize Adhd in Girls Has Created a Lost Generation of
   Women
 desc: ''
-updated: 1635723265637
+updated: 1698704342170
 created: 1635723129345
 ---
 
@@ -16,4 +16,3 @@ created: 1635723129345
     - a tendency toward daydreaming
     - trouble following instructions
     - making careless mistakes on homework and tests.
-    - 

@@ -4,7 +4,7 @@ title: Event Sourcing
 desc: >-
   a different way of persisting data where data changes are stored (and read?)
   as domain events
-updated: 1675528435786
+updated: 1698704342252
 created: 1658585055608
 ---
 
@@ -38,8 +38,6 @@ created: 1658585055608
 
 - "The external systems that your application communicates with are usually not prepared for event sourcing, so you should be careful when you replay your events... To solve this challenge, you should handle replays in your communication layers!"
   - [[p.hasSource]] [[Event Sourcing with Examples Node.js at Scale|ar.risingstack.event-sourcing-with-examples-node-js-at-scale]]
-- 
-
 ## Resources
 
 - https://medium.com/digitalfrontiers/the-good-the-bad-and-the-ugly-how-to-choose-an-event-store-f1f2a3b70b2d

@@ -2,7 +2,7 @@
 id: yMBMF4AbVvZWuiXz9aVxN
 title: Digital Gardening
 desc: ''
-updated: 1669798555396
+updated: 1698704342262
 created: 1632835407320
 ---
 
@@ -38,14 +38,10 @@ created: 1632835407320
 - opportunity cost
 - switching cost
 - There might be parts you don't want to be public
-- 
-
 ## [[p.hadHistory]]
 
 - "By late 2020 this whole concept had attracted enough attention for the MIT Tech Review to write [a short piece](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) on it. Perhaps this is the watershed moment when a Twitter buzzword has "made it."
   - [[p.hasSource]] https://maggieappleton.com/garden-history
-  - 
-
 ## References 
 
 - https://maggieappleton.com/garden-history @maggie-appleton

@@ -2,7 +2,7 @@
 id: s1b2hshk9rfo7xvnozu5s03
 title: Actors
 desc: ''
-updated: 1698252759332
+updated: 1698704342238
 created: 1670267347423
 ---
 
@@ -26,8 +26,6 @@ created: 1670267347423
   - https://medium.com/nerd-for-tech/the-power-of-message-orchestration-b28f18da603a
     - "Actor instances pass messages to other actor instances when they need them to do something."
     - "Actor instances publish events when they need to tell interested subscribers about something."
-    - 
-
 ## Ideas
 
 - Primary actors initiate a use case and hence are somewhat independent. Secondary actors, on the other hand, are used by the system but they do not interact with the system on their own.

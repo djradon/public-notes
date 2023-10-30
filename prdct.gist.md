@@ -2,7 +2,7 @@
 id: 5uzhou39b61cy865ruo4asn
 title: Gist
 desc: 'minimalist upper ontology for the enterprise'
-updated: 1698264570276
+updated: 1698704342107
 created: 1698264570276
 ---
 
@@ -17,7 +17,6 @@ created: 1698264570276
 - BFO is 
   - higher up / domain neutral
   - FOL
-    - 
 - gist is
   -  more focused on the enterprise
   -  OWL DL

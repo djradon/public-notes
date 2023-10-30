@@ -2,11 +2,9 @@
 id: lvjw71777k01racuyx0vis7
 title: DCI Architecture
 desc: 'Data, context and interaction'
-updated: 1694379421228
+updated: 1698704342249
 created: 1694373803397
 ---
-
-- 
 - #creator @trygve-reenskaug
 
 ## Resources

@@ -2,7 +2,7 @@
 id: s6wIZ5OWKd9fHQoaJ1gJM
 title: Aaron Lynn
 desc: ''
-updated: 1633220057534
+updated: 1698704342283
 created: 1633158453382
 ---
 
@@ -15,9 +15,6 @@ how-to-set-up-your-personal-task-management-system
 - https://aaronlynn.com/personal-task-management/ 
   - [[topic.tm]] 
   - distinction between tasks, information and trash
-  - 
-
-
 ## Personal Ops
 
 1. Mission/Purpose.

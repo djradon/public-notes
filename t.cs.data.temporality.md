@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1697490593572
+updated: 1698704342257
 created: 1634620119007
 ---
 
@@ -21,8 +21,6 @@ created: 1634620119007
 ## [[TimeML|prdct.timeml]]
 
 - functionInDocument ::= 'CREATION_TIME' | 'EXPIRATION_TIME' | 'MODIFICATION_TIME' | 'PUBLICATION_TIME' | 'RELEASE_TIME'| 'RECEPTION_TIME' | 'NONE' 
-- 
-
 ### Resources
 
 - [[ar.psu.decision-time-in-temporal-databases]]

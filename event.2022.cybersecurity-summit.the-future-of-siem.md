@@ -2,7 +2,7 @@
 id: wu1v0lv69y4a25gh2zc3wci
 title: The Future of Siem
 desc: 'Why Do Security Operations Miss'
-updated: 1666896501318
+updated: 1698704342137
 created: 1666895116935
 ---
 
@@ -36,5 +36,3 @@ created: 1666895116935
     - are you mapping log sources and events to the mitre attach chain
     - "[[first times are interesting|idea.first-times-are-interesting]]"
   - communicate the business value you are driving
-- 
-

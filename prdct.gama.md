@@ -2,7 +2,7 @@
 id: yfdmxrwjycaz3db8uswe0b5
 title: Gama
 desc: ''
-updated: 1698262670420
+updated: 1698704342105
 created: 1694708152058
 ---
 
@@ -12,8 +12,6 @@ created: 1694708152058
 - [[p.writtenIn]] #java
 - [[p.implements]] [[prdct.FIPA.ACL]]
   - https://gama-platform.org/wiki/UsingFIPAACL
-- 
-
 ## #features
 
 - [[prdct.FIPA]], see https://gama-platform.org/wiki/1.8.1/UsingFIPAACL
@@ -25,8 +23,6 @@ created: 1694708152058
     - [[p.hadLimitation]]
       - close the socket on client-side) gama-server will destroy all running simulations of that client, so you have to keep your client alive.
       - communicates via websocket only? i.e., no http/s or grpc
-      - 
-
 ## Examples
 
 - [Kiss Nightclub simulation](https://www.comses.net/codebases/7ca5fbb1-9e3a-4ea1-a63f-87d2ba9f39d6/releases/1.1.0/)

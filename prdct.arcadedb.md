@@ -2,7 +2,7 @@
 id: l9iuu3zbft8356ka2cbzb00
 title: ArcadeDB
 desc: ''
-updated: 1698605058575
+updated: 1698704342093
 created: 1696481284791
 ---
 
@@ -17,8 +17,6 @@ created: 1696481284791
 ## Pro
 
 - jvm-embeddable!
-- 
-
 ## References
 
 - [TinkerPop Wide: ArcadeDB - a Multi-Model Database with Gremlin](https://www.youtube.com/watch?v=X6qC-P-pkgs)

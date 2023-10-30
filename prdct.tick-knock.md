@@ -2,7 +2,7 @@
 id: n1ew222gxe96e4gxey1xfua
 title: Tick Knock
 desc: ''
-updated: 1674951227800
+updated: 1698704342212
 created: 1674283205769
 ---
 
@@ -22,6 +22,4 @@ created: 1674283205769
 ## [[p.hasLearningResource]]
 
 - https://medium.com/@rdolivo/ecs-for-gamedev-with-typescript-5a1204f594bc
-- 
-
 - [[p.implements]] [[t.cs.ecs]]

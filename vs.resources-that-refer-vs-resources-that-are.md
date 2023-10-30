@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1671120448491
+updated: 1698704342276
 created: 1633593028328
 ---
 
@@ -52,15 +52,11 @@ created: 1633593028328
 - notes/URIs/RRIs that are actual things (daily notes, task items, statements, (unpublished) articles, blogs)
     - could be called
       - resource notes
-- 
-
 ## what things that refer have in common with things that are
 - can have sense of 
   - "Bibliography": other resources related to the thing this note/resource refers to
   - "Footnote": the things that appear in this note can be attributedTo an external resource
 - need different predicates for both senses
-  - 
-
 ## Notes (in the Dendron sense)
 
 - differentiate between notes that represent something (e.g. topics, solutions) and notes that are something (vs, journal)
@@ -88,4 +84,3 @@ created: 1633593028328
 - [ ] [[p.summarized]] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
 - [ ] [[p.summarized]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation
 - [1]: [[ar.ontopia.curing-the-webs-identity-crisis]]
-- 

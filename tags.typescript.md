@@ -2,7 +2,7 @@
 id: jpib8ij7qjndaia7168m70n
 title: TypeScript
 desc: 'inform the dev time language server and the compiler about the valid shapes'
-updated: 1696797022724
+updated: 1698704342284
 created: 1696347104135
 ---
 
@@ -12,8 +12,6 @@ created: 1696347104135
 ## Resources
 
 - https://medium.com/codex/why-are-javascript-pros-saying-goodbye-to-typescript-8c4bc8ec82a1
-  - 
-
 ### Learning Resource
 
 - https://szaranger.medium.com/typescript-features-you-should-no-longer-use-82ede931243

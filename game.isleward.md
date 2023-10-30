@@ -2,7 +2,7 @@
 id: oSnlGDGC1UGDmUdcoVODV
 title: Isleward
 desc: no roles to play
-updated: 1698262670437
+updated: 1698704342130
 created: 1641626465625
 ---
 
@@ -17,4 +17,3 @@ created: 1641626465625
 ## Resources
 
 - [Building the server infrastructure for an indie MMORPG](https://vildravn.dev/posts/indie-mmo-infra/) 2021-05-25
-- 

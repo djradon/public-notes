@@ -2,7 +2,7 @@
 id: cp7ybekm5ikxrikg4glged6
 title: Subtext
 desc: ''
-updated: 1672094496163
+updated: 1698704342200
 created: 1653256544493
 ---
 
@@ -29,4 +29,3 @@ created: 1653256544493
       Subtext is an attempt to resolve the problem by radically simplifying it. Paradoxically, by limiting the format to a flat list of blocks, we radically expand what software can usefully do with it. Blocks are easy to parse, easy to work with, and you can do all sorts of interesting generative algorithmic things with them.
 
       The syntax is also simple, and hard to mess up, and I’m happy about that, too.
-      - 

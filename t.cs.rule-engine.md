@@ -2,7 +2,7 @@
 id: c837gn6flz973mbgg1g66ny
 title: Rule Engine
 desc: ''
-updated: 1693200757094
+updated: 1698704342247
 created: 1690558566709
 ---
 
@@ -15,8 +15,6 @@ created: 1690558566709
 ### generic 
 
 - [[prdct.aws.emr]] https://aws.amazon.com/blogs/apn/building-an-agile-business-rules-engine-on-aws/
-- 
-
 ### #java
 
 - [[prdct.drools]]
@@ -28,7 +26,6 @@ created: 1690558566709
 - [[prdct.json-rules-engine]]
 - [[prdct.jint]]
 - [[prdct.dmn-engine]]
-- 
 ## Value Proposition
 
 - Business leaders with subject matter expertise can define and manage their own logic, independent of engineering.

@@ -2,7 +2,7 @@
 id: am7RB3sQL3eQXnZfiVeN1
 title: Reputation Vault
 desc: ''
-updated: 1638075588489
+updated: 1698704342176
 created: 1638075357569
 ---
 
@@ -16,4 +16,3 @@ created: 1638075357569
     - From an agents perspective the interchange serves as a switchboard that allows them to control their reputation data as they hop across micro-collectives. More details about the process, and the channels that data is ported through are outlined in subsequent sections.
   - 3. Reputation Scores
     - Reputation data from across contexts is computed within a neighbourhood to generate what is known as a 'Reputation Score'. Reputation scores are calculated locally, in a specific neighbourhood, which means they are contextual, and not universally imposed as absolute snapshots of reality. 
-    - 

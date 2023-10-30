@@ -2,7 +2,7 @@
 id: eqpfbn6ppca6xxa2dpyjmuk
 title: H3
 desc: ''
-updated: 1698262670432
+updated: 1698704342110
 created: 1696438166743
 ---
 
@@ -37,9 +37,6 @@ created: 1696438166743
 - [[prdct.geohash]]
   - https://h3geo.org/docs/comparisons/geohash
 - [[prdct.hexbin]]
-  - 
-
-
 ## Resources
 
 - https://www.uber.com/blog/h3/

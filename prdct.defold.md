@@ -2,7 +2,7 @@
 id: 23gw6h1twkmu2dp1dy6pc4v
 title: Defold
 desc: 'Lua-based game engine for high-performance cross-platform games'
-updated: 1698252759218
+updated: 1698704342102
 created: 1672300709043
 ---
 
@@ -21,8 +21,6 @@ created: 1672300709043
 - publish to web
   - [[c.Issue]]
     - no hot reload
-- 
-
 ## c.Resource
 
 - [Building a Multiplayer Server](https://forum.defold.com/t/building-a-multiplayer-server/69010)

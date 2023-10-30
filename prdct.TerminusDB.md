@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1656458378993
+updated: 1698704342240
 created: 1637799658994
 ---
 
@@ -12,8 +12,6 @@ created: 1637799658994
 - [[p.builtWith]] [[prdct.rdf]]
 - [[p.similarTo]]
   - [[prdct.typedb]]
-  - 
-
 ## Resources
 
 - https://medium.com/terminusdb/6-reasons-why-terminusdb-is-the-right-toolkit-to-build-collaborative-apps-6fb9ae96ff4

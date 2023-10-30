@@ -2,7 +2,7 @@
 id: cti7q3wamobwofnw5r0nby9
 title: Emergence Sdk
 desc: 'game experiences on any EVM-compatible chain'
-updated: 1698339289939
+updated: 1698704342104
 created: 1697828368805
 ---
 
@@ -13,8 +13,6 @@ created: 1697828368805
 
 - [[prdct.emergence-sdk.emergence-avatar-service]]
 - [[prdct.emergence-sdk.inventory-service]]
-- 
-
 ## Use Cases
 
 - game collectibles that are interoperable across experiences

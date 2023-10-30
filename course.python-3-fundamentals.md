@@ -2,7 +2,7 @@
 id: 433qfhjejhiz03mrfwcnsfv
 title: Python 3 Fundamentals
 desc: ''
-updated: 1694146769830
+updated: 1698704342147
 created: 1694114392713
 ---
 
@@ -11,8 +11,6 @@ created: 1694114392713
 ## 2. Running Python
 
 - python is both a compiler (to bytecode) and interpreter 
-- 
-
 ## 3. Python Basics
 
 - floats are objects; shouldn't be compared, but they're faster and smaller than decimal

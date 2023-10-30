@@ -2,7 +2,7 @@
 id: o2vu2wH8CQEdqEmJU58XF
 title: Web Development for Beginners
 desc: even I probably should not start here
-updated: 1696287929572
+updated: 1698704342150
 created: 1642483433436
 ---
 
@@ -19,7 +19,6 @@ created: 1642483433436
   - initialize = declare + assign
   - `const` should get UPPER'd
     - The presence of const means the reference is protected from reassignment. But the value is not immutable and can change, especially if it's a complex construct like an object.
-  - 
 - [[t.cs.programming.readability]] 
   - camelCase your beautiful names
   - why not use verbs?

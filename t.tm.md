@@ -2,7 +2,7 @@
 id: DWqe0fMeyd4z2pCetcked
 title: Task Management
 desc: ''
-updated: 1644133335620
+updated: 1698704342287
 created: 1634185485262
 ---
 
@@ -15,8 +15,6 @@ created: 1634185485262
 ## [[p.hasSolution]]
 
 - [[prdct.meistertask]]
-- 
-
 ## [[p.hasQuote]] 
 
 - ![[proj.bia#^rxGIZrgVBtUO:#*]]

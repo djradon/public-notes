@@ -2,7 +2,7 @@
 id: xYlYASJCDqsMemVLAqkdy
 title: How to Maintain a Healthy Brain to Reduce the Risk of Dementia
 desc: ''
-updated: 1638108523701
+updated: 1698704342172
 created: 1638108038451
 ---
 
@@ -37,4 +37,3 @@ created: 1638108038451
   - Foods to be wary of:
     -   Processed and sugary foods
     -   Dairy and red meat
--   
