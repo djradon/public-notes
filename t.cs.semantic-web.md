@@ -15,3 +15,4 @@ created: 1633629215451
 ## Resources
 
 - https://www.w3.org/wiki/RdfThesaurus
+- [[book.design-and-implementation-of-ontologies-in-java-and-apache-jena]]

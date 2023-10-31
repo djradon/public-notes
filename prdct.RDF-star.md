@@ -36,3 +36,7 @@ created: 1634426288630
 ## Resources
 
 - https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf-star/
+
+## References
+
+- [[ar.medium.dallemang.why-im-not-excited-about-rdf-star]]

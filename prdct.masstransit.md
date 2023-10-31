@@ -7,4 +7,5 @@ created: 1690178549008
 ---
 
 - #url https://masstransit.io/
-- [[p.supports]] [[prdct.marten]]
+- [[p.supports]] [[prdct.marten]] [[prdct.rabbitimq]]
+- [[p.writtenIn]] #c-sharp
