@@ -2,13 +2,13 @@
 id: r4q8ystwpluezrvhx3y8m3s
 title: The Matrix ABM
 desc: ''
-updated: 1695417906367
+updated: 1698953779871
 created: 1695416707929
 ---
 
 - #dead
 - #repo https://github.com/NSSAC/matrixabm
-- [[p.builtOn]] [[prdct.rabbitimq]] [[prdct.ACT-R]]
+- [[p.builtOn]] [[prdct.rabbitimq]] [[prdct.act-r]]
 
 ![](/assets/images/2023-09-22-14-20-42.png)
 

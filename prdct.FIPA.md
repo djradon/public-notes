@@ -12,11 +12,11 @@ created: 1637666551697
 
 ## Implementations
 
-- [[prdct.Fetch-AI]]
-- [[prdct.Jade]]
-- [[prdct.JADEX]]
-- [[prdct.JIAC]]
-- [[prdct.SPADE]](Python)
+- [[prdct.fetch-ai]]
+- [[prdct.jade]]
+- [[prdct.jadex]]
+- [[prdct.jiac]]
+- [[prdct.spade]](Python)
 - [[prdct.jack]] Intelligent Agents (Java)
 - [[prdct.gama]]
 

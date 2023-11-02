@@ -12,7 +12,7 @@ created: 1633307850499
 ## [[p.integratesWith]]
 
 - [[prdct.dungeon-fog]]
-- [[prdct.Dungeon-Draft]]
-- [[prdct.WorldAnvil]] 
+- [[prdct.dungeon-draft]]
+- [[prdct.worldanvil]] 
 
 

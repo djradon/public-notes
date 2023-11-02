@@ -8,4 +8,4 @@ created: 1638370385411
 
 
 
-- [[p.canExportTo]] [[prdct.JSON-LD]] 
+- [[p.canExportTo]] [[prdct.json-ld]] 

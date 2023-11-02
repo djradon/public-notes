@@ -10,4 +10,4 @@ created: 1650951002903
 - [[p.providedBy]] [[org.lockheed-martin]]
 - [[p.supports]] [[prdct.enterprise-simulation-platform]]
 - [[p.hasVariant]] professional plus
-  - [[p.supports]] [[prdct.HLA]]
+  - [[p.supports]] [[prdct.hla]]

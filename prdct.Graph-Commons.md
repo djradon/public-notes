@@ -13,14 +13,14 @@ created: 1634613319294
 - [-]  [[p.summarized]] Graph Commons    
 - [[p.hasFeature]]
   - [[p.canImportFrom]]
-    - [[prdct.CSV]]
-    - [[prdct.Sheets]]
+    - [[prdct.csv]]
+    - [[prdct.sheets]]
   - [[p.canExportTo]]
-    - [[prdct.CSV]]
-    - [[prdct.Sheets]]
-    - [[prdct.JSON]]
-    - [[prdct.Cypher]]
-    - [[prdct.GraphML]]
+    - [[prdct.csv]]
+    - [[prdct.sheets]]
+    - [[prdct.json]]
+    - [[prdct.cypher]]
+    - [[prdct.graphml]]
   - [[p.hasAPI]] https://graphcommons.github.io/api-v1/
     - "Develop graph-driven smart applications"
 

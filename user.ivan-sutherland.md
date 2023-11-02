@@ -2,7 +2,7 @@
 id: xc0mzoakaa85ej386g0r00c
 title: Ivan Sutherland
 desc: ''
-updated: 1687982937855
+updated: 1698953780066
 created: 1687982725445
 ---
 

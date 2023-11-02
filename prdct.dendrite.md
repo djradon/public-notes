@@ -10,5 +10,5 @@ created: 1672343374446
 
 ## [[p.hadDependancy]]
 
-- [[prdct.Postgres]] or [[prdct.cockroachdb]]
+- [[prdct.postgres]] or [[prdct.cockroachdb]]
   - https://github.com/matrix-org/dendrite/discussions/1996

@@ -2,14 +2,14 @@
 id: HuSYSf2fKeFv3QXEswnhv
 title: so You Want Git for Data
 desc: ''
-updated: 1635728586385
+updated: 1698953779972
 created: 1633084022057
 ---
 
 
 
 - [[p.hasURL]] https://www.dolthub.com/blog/2020-03-06-so-you-want-git-for-data/
-- [[p.isRelated]] [[prdct.Dolt]]
+- [[p.isRelated]] [[prdct.dolt]]
 
 ## Aspects of "Git" that you might want for data 
 

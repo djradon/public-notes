@@ -10,11 +10,11 @@ created: 1694708152058
 - #url https://gama-platform.org/
 - #repo https://github.com/gama-platform/gama
 - [[p.writtenIn]] #java
-- [[p.implements]] [[prdct.FIPA.ACL]]
+- [[p.implements]] [[prdct.fipa.acl]]
   - https://gama-platform.org/wiki/UsingFIPAACL
 ## #features
 
-- [[prdct.FIPA]], see https://gama-platform.org/wiki/1.8.1/UsingFIPAACL
+- [[prdct.fipa]], see https://gama-platform.org/wiki/1.8.1/UsingFIPAACL
 - supports [[t.cs.agents.bdi]] via [[prdct.gama.ben]]
 ## Thoughts
 

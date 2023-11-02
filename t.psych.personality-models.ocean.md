@@ -2,7 +2,7 @@
 id: eog576bi1agqfo9o4b7h73o
 title: OCEAN Model
 desc: 'Openness, Conscientiousness, Extroversion, Agreeableness, and Neuroticism'
-updated: 1697088424285
+updated: 1698953780043
 created: 1694710461079
 ---
 

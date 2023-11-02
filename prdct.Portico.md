@@ -11,4 +11,4 @@ created: 1637839426175
 probably the best option for open source HLA
 
 - [[p.hasRepository]] https://github.com/openlvc/portico
-- [[p.implements]] [[prdct.HLA]]
+- [[p.implements]] [[prdct.hla]]

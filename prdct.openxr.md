@@ -10,7 +10,7 @@ created: 1696354349576
 
 - [[p.publishedBy]] [[org.khronos-group]]
 - [[p.supportedBy]]
-  - [[prdct.Godot]]
+  - [[prdct.godot]]
     - https://github.com/GodotVR/godot_openxr
   - [[prdct.unity]] 
   - [[prdct.unreal]] 

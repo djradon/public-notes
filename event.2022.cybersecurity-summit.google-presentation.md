@@ -2,7 +2,7 @@
 id: 743l6rlno8fj5xc9y5usy15
 title: Google Presentation
 desc: ''
-updated: 1666888916255
+updated: 1698953779891
 created: 1666888072987
 ---
 - browser is your first line of denfense 
@@ -17,4 +17,4 @@ created: 1666888072987
   - version reporting
 - security reporting to [[prdct.gcp.security-center]]
   - adding "extension events" and "crash events"
-- [[p.demonstrated]] [[prdct.chromeOS-flex]]
+- [[p.demonstrated]] [[prdct.chromeos-flex]]

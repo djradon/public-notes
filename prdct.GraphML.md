@@ -13,5 +13,5 @@ created: 1638129014927
 
 - [[p.hasURL]] http://graphml.graphdrawing.org/
 - [[p.instanceOf]] [[c.fileformat]]
-- [[p.builtOn]] [[prdct.XML]]
+- [[p.builtOn]] [[prdct.xml]]
 - [[p.supports]] [[t.cs.graph.hypergraph]]

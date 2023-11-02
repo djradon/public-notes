@@ -8,9 +8,9 @@ created: 1637793632731
 
 - [[c.software.agent-framework]]
 - #repo https://github.com/grei-ufc/pade
-- #similar [[prdct.SPADE]]
+- #similar [[prdct.spade]]
 
 - [[p.hasSite]] https://pade.readthedocs.io/en/latest/
 - [[p.writtenIn]] #python
-- [[p.builtOn]] [[prdct.Twisted]]
+- [[p.builtOn]] [[prdct.twisted]]
 - [[p.isRelated]] [[vs.spade-vs-pade]]

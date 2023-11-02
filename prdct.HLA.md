@@ -11,9 +11,9 @@ created: 1637838948809
 - [[p.hasApplication]] [[t.cs.simulation]] [[Distributed Interactive Simulation|t.cs.simulation.distributed-interactive-simulation]]
 - [[c.implementation]]
   - [[prdct.mak-rti]]
-  - [[prdct.CERTI]]
+  - [[prdct.certi]]
   - [[prdct.prepar3d]]
-- [[p.hasComponent]] [[prdct.RTI]]
+- [[p.hasComponent]] [[prdct.rti]]
 - [[p.hasTraining]] https://pitchtechnologies.com/hla-hands-on-training/
   - [[p.hasAuthor]] [[org.Pitch-Technologies]]
 

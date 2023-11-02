@@ -12,7 +12,7 @@ created: 1672670643859
 
 - [[prdct.typescript]]
 - [[prdct.node]]
-- [[prdct.React]]
+- [[prdct.react]]
 - [[prdct.babel]]
 - [[prdct.vue]]
 - [[prdct.angular]]

@@ -18,7 +18,7 @@ created: 1649603693183
           - desktop app is shim of web app
         - [[p.writtenIn]] #javascript
         - [[p.builtOn]] 
-          - [[prdct.React]]
+          - [[prdct.react]]
           - [[prdct.redux-js]]
   - app
     - lightweight interactive "add-ons" 

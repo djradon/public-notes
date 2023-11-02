@@ -15,7 +15,7 @@ created: 1634617777670
     - [[c.resource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ https://flur.ee/2021/07/08/time-traveling-with-fluree/
   - " optionally decentralized (e.g. using StorJ via Tardigrade)"
     - [[p.hasSource]] https://github.com/athensresearch/athens/issues/9#issuecomment-786844129
-  - [[prdct.JSON-LD]] support (alpha)
+  - [[prdct.json-ld]] support (alpha)
 
 ## Learning Resources
 

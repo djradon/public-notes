@@ -9,7 +9,7 @@ created: 1635693337681
 
 
 - [[p.instanceOf]] [[t.cs.data.DBMS]]
-- [[p.compatibleWith]] [[prdct.MySQL]]
+- [[p.compatibleWith]] [[prdct.mysql]]
 - [[p.hasFeature]] [[t.cs.version-control]] [[t.cs.data.time-travel]] [[t.cs.collaboration]]
 - [[p.hasRepository]] https://github.com/dolthub/dolt
 

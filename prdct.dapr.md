@@ -15,7 +15,7 @@ created: 1688397077910
 
 - #c-sharp #python #javascript #java #go #php #c++ #rust (see https://docs.dapr.io/developing-applications/sdks/)
 - [[prdct.nats.jetstream]] (alpha for state)
-- [[prdct.Postgres]]
+- [[prdct.postgres]]
 - #python: [[prdct.grpc]] [[prdct.fastapi]] [[prdct.flask]]
 - [[prdct.mqtt]]
 

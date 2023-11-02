@@ -8,4 +8,4 @@ created: 1637954357888
 
 
 
-- makes use of [[prdct.GraphDB]] ?
+- makes use of [[prdct.graphdb]] ?

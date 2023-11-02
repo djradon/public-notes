@@ -17,7 +17,7 @@ created: 1645831289441
       - [[prdct.rdb-model]]
 - [[p.hasRelatedSolution]]
   - [[prdct.structurizr]]
-  - [[prdct.C4-PlantUML]]
+  - [[prdct.c4-plantuml]]
   - [[prdct.icepanel]]
   - [[prdct.carbide]]
 - [[p.hasHighlight]]

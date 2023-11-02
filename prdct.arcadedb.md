@@ -10,7 +10,7 @@ created: 1696481284791
 - #repo https://github.com/ArcadeData/arcadedb
 - [[p.forkOf]] [[prdct.orientdb]]
 - [[p.writtenIn]] #java 
-- [[p.compatibleWith]] [[prdct.Cypher]] [[prdct.tinkerpop]]/[[prdct.gremlin]] [[prdct.redis]] [[prdct.Postgres]]
+- [[p.compatibleWith]] [[prdct.cypher]] [[prdct.tinkerpop]]/[[prdct.gremlin]] [[prdct.redis]] [[prdct.postgres]]
 - [[p.supports]] [[t.cs.gis.geospatial-querying]] [[t.cs.data.vector-embedding]]
 - embedd in JVM, so [[p.compatibleWith]] #scala#groovy #kotlin #clojure
 

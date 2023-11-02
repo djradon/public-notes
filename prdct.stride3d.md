@@ -2,14 +2,14 @@
 id: YEENs52Vldkdwe2jkkRpe
 title: Stride3d
 desc: ''
-updated: 1698252759319
+updated: 1698953779847
 created: 1637846271510
 ---
 
 - [[p.alsoKnownAs]] Xenko
 - #url https://www.stride3d.net/
 - #repo https://github.com/stride3d/stride
-- [[c.comparable]] [[prdct.unity]] [[prdct.Monogame]]
+- [[c.comparable]] [[prdct.unity]] [[prdct.monogame]]
 - [[p.writtenIn]] #c-sharp
 
 ## Features
@@ -29,7 +29,7 @@ created: 1637846271510
 
 - https://github.com/xen2/Xenko.ClientServerSample #dead
 
-## [[p.vs]] [[prdct.Godot]]
+## [[p.vs]] [[prdct.godot]]
 
 - "Godot is just older and more established, but Stride has a better render engine, software architecture and is a pure .NET project. So the engine and the scripting use the same technology. Godot has a C++ core and only "interprets" the scripting languages, which is conceptually quite different."
   - https://news.ycombinator.com/item?id=32300785

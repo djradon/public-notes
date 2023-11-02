@@ -14,7 +14,7 @@ created: 1696438166743
 
 - #javascript with [[prdct.h3.js]]
 - #java with [[prdct.h3.java]]
-- [[prdct.Postgres]] via https://github.com/zachasme/h3-pg
+- [[prdct.postgres]] via https://github.com/zachasme/h3-pg
 
 ## #description
 

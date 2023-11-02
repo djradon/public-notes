@@ -6,4 +6,4 @@ updated: 1670703517149
 created: 1670703316417
 ---
 
-- [[p.supports]] [[prdct.Supabase]]
+- [[p.supports]] [[prdct.supabase]]

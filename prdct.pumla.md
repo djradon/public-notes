@@ -7,4 +7,4 @@ created: 1685940229034
 ---
 
 - #repo https://github.com/DrMarkusVoss/pumla
-- [[p.hadDependancy]] [[prdct.PlantUML]]
+- [[p.hadDependancy]] [[prdct.plantuml]]

@@ -9,7 +9,7 @@ created: 1637954631007
 - [[c.software.database.graph]]
 - [[p.instanceOf]] [[t.cs.data.DBMS.graph]]
 - [[p.writtenIn]] #java
-- [[p.supports]] [[prdct.RDF-star]]
+- [[p.supports]] [[prdct.rdf-star]]
 
 
 ## Features

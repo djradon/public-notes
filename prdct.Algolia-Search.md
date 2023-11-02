@@ -8,5 +8,5 @@ created: 1635667102957
 
 
 
-- [[p.integratesWith]] [[prdct.React]] #static-site-revolution
+- [[p.integratesWith]] [[prdct.react]] #static-site-revolution
 - [[p.hasApplication]] [[t.cs.web.site.search]]

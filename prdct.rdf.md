@@ -30,7 +30,7 @@ created: 1633160681527
 - [Temporal RDF](http://www.dcc.uchile.cl/~cgutierr/papers/temporalRDF.pdf) introduces a fourth time component to the triple. I chose not to cover this approach in a lot of detail because it extends the RDF model in a way that no current triple store implements and it requires a numeric time to be associated with each triple, preventing relative times from being expressed.
 ## can be expressed as 
 
-- [[prdct.rdf.aREF]]
+- [[prdct.rdf.aref]]
 - [[prdct.rdf.turtle]]
  
 ## Resources

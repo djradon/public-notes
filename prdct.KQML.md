@@ -10,4 +10,4 @@ created: 1637853210958
 
 
 
-= [[p.supersededBy]] [[prdct.FIPA.ACL]]
+= [[p.supersededBy]] [[prdct.fipa.acl]]

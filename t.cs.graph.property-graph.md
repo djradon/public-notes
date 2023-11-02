@@ -2,7 +2,7 @@
 id: TIehWkHNVWQJk4RFT5EBX
 title: Property Graph
 desc: ''
-updated: 1698526999202
+updated: 1698953780046
 created: 1638293019662
 ---
 
@@ -16,7 +16,7 @@ created: 1638293019662
 - http://www.snee.com/bobdc.blog/2018/04/reification-is-a-red-herring.html
   - In RDF, "if you want to keep track of separate instances of a particular relationship, declare a class for that relationship and then create instances of it."
 
-## vs [[prdct.RDF-star]]
+## vs [[prdct.rdf-star]]
 
 - https://opencredo.com/blogs/making-sense-of-data-with-rdf-vs-lpg/
   - "In property graphs, attribute values are just strings not linked to any other nodes in the graph. They can only represent literal values, rather than relationships and things. In contrast, values of RDF* properties can be both literal values (RDF literals) or nodes connected to other nodes in the graph."
