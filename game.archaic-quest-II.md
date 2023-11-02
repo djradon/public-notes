@@ -1,8 +1,8 @@
 ---
 id: k92skio8cu6nqvv7su7a3ha
-title: archaic-quest-II
+title: Archaic Quest II
 desc: ''
-updated: 1694816431593
+updated: 1698959891458
 created: 1694806790267
 ---
 
