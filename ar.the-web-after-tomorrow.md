@@ -7,7 +7,7 @@ created: 1696447105422
 ---
 
 - #url https://tonsky.me/blog/the-web-after-tomorrow/
-- [[p.mentioned]] [[product.datomic]]
+- [[p.mentioned]] [[prdct.datomic]]
 
 ## Highlights
 
