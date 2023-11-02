@@ -2,14 +2,14 @@
 id: ivt1VAvLJWFhS9kqarqgU
 title: Digital Zettelkasten Principles Methods Examples
 desc: ''
-updated: 1635978009223
+updated: 1698958102791
 created: 1631574689382
 ---
 
 short book outlining the author's pragmatic [[t.km.zettelkasten]] process. Includes an interesting take on tags.
 
 - [[p.hasURL]] https://kadavy.net/blog/posts/zettelkasten-method-slip-box-digital-example/
-- [[p.hasCreator]] @David-Kadavy
+- [[p.hasCreator]] @david-kadavy
 - [[p.hasHighlightCollection]] https://readwise.io/bookreview/10829260
 
 ## [[p.hasHighlight]]

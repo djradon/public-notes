@@ -1,6 +1,6 @@
 ---
 id: oSjQJHBKTGQYYgUnKHjo0
-title: Eva-Thomas
+title: eva-thomas
 desc: >-
   Aspiring learner, passionate about physics, math and the world in between,
   writing about personal experiences, sharing inspiring discoveries

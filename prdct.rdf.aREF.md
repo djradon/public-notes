@@ -11,4 +11,4 @@ created: 1635703316873
 
 
 - [[p.hasSpecification]] https://gbv.github.io/aREF/aREF.html
-- [[p.hasAuthor]] @Jakob-Voss
+- [[p.hasAuthor]] @jakob-voss

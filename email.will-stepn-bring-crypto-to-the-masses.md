@@ -6,7 +6,7 @@ updated: 1650115527403
 created: 1650115360220
 ---
 
-- [[p.hasAuthor]] @Nat-Eliason
+- [[p.hasAuthor]] @nat-eliason
 	
 Will STEPN Bring Crypto to the Masses?
 How I made $357 today on walks with my family

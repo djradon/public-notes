@@ -8,7 +8,7 @@ created: 1636342421204
 
 
 
-- [[p.attributedTo]] @Tiago-Forte
+- [[p.attributedTo]] @tiago-forte
 
 ## [[p.hasRecipe]]
 

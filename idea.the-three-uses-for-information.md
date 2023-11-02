@@ -8,7 +8,7 @@ created: 1643957460762
 
 
 - [[c.resource]] 
-  - [[p.hasAuthor]] @Nat-Eliason
+  - [[p.hasAuthor]] @nat-eliason
 The Three Uses of Information
 
 Once upon a time, there was a limited amount of new information per day you had access to. You could sit down in the morning and read the paper and you were done. Kind of wild to imagine.

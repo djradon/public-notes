@@ -2,7 +2,7 @@
 id: sTyNYjlGIpve8IxDgXFCn
 title: Personality Models
 desc: ''
-updated: 1698704342289
+updated: 1698958116593
 created: 1635724858083
 ---
 
@@ -10,7 +10,7 @@ created: 1635724858083
 
 ## Six Main Views
 
-- [[p.assertedBy]] @Eric-Maisel-PhD [1]
+- [[p.assertedBy]] @eric-maisel-phd [1]
 
 1. biological
 2. psychological

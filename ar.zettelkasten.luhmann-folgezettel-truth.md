@@ -2,7 +2,7 @@
 id: V9zRD5gJdMNurYUDK95Rl
 title: Luhmann Folgezettel Truth
 desc: ''
-updated: 1637406121504
+updated: 1698958067655
 created: 1637404746474
 ---
 
@@ -10,7 +10,7 @@ created: 1637404746474
 
 - [[p.hasURL]] https://zettelkasten.de/posts/luhmann-folgezettel-truth/
 - [[p.refutes]]
-  - [[p.attributedTo]] @Daniel-Lüdecke
+  - [[p.attributedTo]] @daniel-lüdecke
     - 1. What most people think Luhmanns Zettelkasten is about: It is the linking through tags and cross-references.
     - 2. What it is actually about: It is mainly about the concept of Folgezettel. This means that you develop an idea in a linear way and branch off if the next thought doesn’t fit into the previous string of ideas.
 - [[p.argues]] no good reason for [[t.km.folgezettel]]

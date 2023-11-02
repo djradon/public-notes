@@ -9,7 +9,7 @@ created: 1635704433489
 
 
 - [[p.hasURL]] http://aboutdata.org/methods.html
-- [[p.hasAuthor]] @Jakob-Voss
+- [[p.hasAuthor]] @jakob-voss
 
 ## Categorization of Data Structuring Methods
 
