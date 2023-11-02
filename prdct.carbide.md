@@ -7,4 +7,4 @@ created: 1698254908171
 ---
 
 - #url https://carbide.dev/
-- [[c.Con]] no data export
+- [[c.con]] no data export

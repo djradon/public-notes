@@ -6,6 +6,6 @@ updated: 1695183585979
 created: 1695183454321
 ---
 
-- [[c.Software.XMPP-Server]]
+- [[c.software.xmpp-server]]
 - #repo https://github.com/processone/ejabberd
 - [[p.writtenIn]] [[cs.languages.erlang]]

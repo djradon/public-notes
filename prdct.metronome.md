@@ -6,7 +6,7 @@ updated: 1695183761663
 created: 1695183656149
 ---
 
-- [[c.Software.XMPP-Server]]
+- [[c.software.xmpp-server]]
 - #repo https://github.com/maranda/metronome
 - [[p.writtenIn]] [[prdct.lua]]
 - [[p.forkOf]] [[prdct.prosody]] 

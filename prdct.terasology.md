@@ -6,7 +6,7 @@ updated: 1698036216072
 created: 1697986265703
 ---
 
-- [[c.Software.Game-Maker]]
+- [[c.software.game-maker]]
 - [[c.game.voxel]] [[c.game.sandbox]]
 - #url https://terasology.org/
 - [[p.writtenIn]] #java

@@ -6,4 +6,4 @@ updated: 1634934429558
 created: 1634930257316
 ---
 
-- [[p.instanceOf]] [[c.Company]]
+- [[p.instanceOf]] [[c.company]]

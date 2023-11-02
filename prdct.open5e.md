@@ -6,7 +6,7 @@ updated: 1696977831868
 created: 1696977369461
 ---
 
-- [[c.Software.Game-Service.Data]]
+- [[c.software.game-service.data]]
 - #url https://open5e.com/
 - #api https://api.open5e.com/
 - #repo https://github.com/open5e/open5e-api

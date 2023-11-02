@@ -8,7 +8,7 @@ updated: 1698252759288
 created: 1656792485964
 ---
 
-- [[c.Software.Game-Platform]] [[c.Software.Game-Framework]]
+- [[c.software.game-platform]] [[c.software.game-framework]]
 - #repo https://github.com/heroiclabs/nakama
 - [[p.writtenIn]] #go
 - [[p.hasScriptingLanguage]] #typescript [[prdct.lua]]
@@ -30,7 +30,7 @@ created: 1656792485964
 -   Low-level control of real-time [routing and delivery](https://heroiclabs.com/docs/nakama/server-framework/streams/)
 
 
-## [[c.Limitation]]
+## [[c.limitation]]
 
 - The JavaScript runtime code is fully sandboxed and cannot access the filesystem, input/output devices, or spawn OS threads or processes.
 

@@ -6,6 +6,6 @@ updated: 1673891375849
 created: 1673891284701
 ---
 
-[[c.Problem]]
+[[c.problem]]
 
 - it's not effective your data if you can extract it from its host

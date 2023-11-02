@@ -7,6 +7,6 @@ created: 1673928551031
 ---
 
 #url https://processing.org/
-- [[c.Publisher]] [[org.processing]]
+- [[c.publisher]] [[org.processing]]
 - [[p.writtenIn]] #java
 - [[p.similarTo]] [[prdct.p5-js]]

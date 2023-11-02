@@ -7,7 +7,7 @@ created: 1685938014552
 ---
 
 - #url https://d2lang.com/
-- [[c.Software.Tools.Diagramming]]
+- [[c.software.tools.diagramming]]
   
 ## [[p.supportedBy]]
 

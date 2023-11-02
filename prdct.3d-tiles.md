@@ -10,7 +10,7 @@ created: 1680429980998
 
 ## Resources
 
-### [[c.Resource.List]]
+### [[c.resource.list]]
 
 - https://github.com/pka/awesome-3d-tiles
 

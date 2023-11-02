@@ -6,7 +6,7 @@ updated: 1698704342102
 created: 1672300709043
 ---
 
-[[c.Software.Game-Engine]]
+[[c.software.game-engine]]
 - #url https://defold.com/
 - #repo https://github.com/defold/defold
 - [[p.supports]] [[prdct.lua]]
@@ -19,7 +19,7 @@ created: 1672300709043
 - allows you to write extensions to the engine in C, C++, ObjectiveC, Java and JavaScript.
 - Integrated with tools such as Atom, VS Code, Spine and Tiled.
 - publish to web
-  - [[c.Issue]]
+  - [[c.issue]]
     - no hot reload
 ## c.Resource
 

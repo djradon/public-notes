@@ -6,6 +6,6 @@ updated: 1694362556388
 created: 1694362393199
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - #url http://www.sarl.io/runtime/janus/
 - [[p.writtenIn]] [[prdct.sarl]]

@@ -6,5 +6,5 @@ updated: 1695183956964
 created: 1695183809934
 ---
 
-- [[c.Software.XMPP-Server]]
+- [[c.software.xmpp-server]]
 - #closed-source

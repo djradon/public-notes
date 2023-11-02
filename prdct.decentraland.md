@@ -10,5 +10,5 @@ created: 1638301869864
 
 - [[p.vs]] [[prdct.Sandbox]]
 - [[p.hasApplication]] [[t.cs.metaverse]]
-- [[c.Resource]]
+- [[c.resource]]
   - https://github.com/decentraland-scenes/Colyseus-Tutorial 

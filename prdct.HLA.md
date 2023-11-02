@@ -9,7 +9,7 @@ created: 1637838948809
 
 
 - [[p.hasApplication]] [[t.cs.simulation]] [[Distributed Interactive Simulation|t.cs.simulation.distributed-interactive-simulation]]
-- [[c.Implementation]]
+- [[c.implementation]]
   - [[prdct.mak-rti]]
   - [[prdct.CERTI]]
   - [[prdct.prepar3d]]

@@ -6,7 +6,7 @@ updated: 1696029881053
 created: 1696017428889
 ---
 
-## [[c.Review]]
+## [[c.review]]
 
 - "It's a sort-of-roguelite sort-of-HOMM-like sort-of-fantasy-XCOM
 Where characters you play in one campaign ascend to be background/lore characters for following campaigns

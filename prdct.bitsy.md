@@ -6,7 +6,7 @@ updated: 1696480554068
 created: 1696478685019
 ---
 
-- [[c.Software.Database.Graph.Property]] [[c.Software.Database.Embedded]]
+- [[c.software.database.graph.property]] [[c.software.database.embedded]]
 - #repo https://github.com/lambdazen/bitsy
 - #docs https://github.com/lambdazen/bitsy/wiki
 - [[p.writtenIn]] #java

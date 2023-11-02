@@ -7,4 +7,4 @@ created: 1634770465006
 ---
 
 - [[p.hasURL]] https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour
-- [[p.instanceOf]] [[c.Software.IDE.Extension.VSCode]]
+- [[p.instanceOf]] [[c.software.ide.extension.vscode]]

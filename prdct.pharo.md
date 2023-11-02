@@ -17,7 +17,7 @@ created: 1695847863715
   - Pharo is a simple meta-language where the programmer has all features required for the writing of custom readable domain-specific languages.
   - Pharo classes use single inheritance, but they can use stateful traits for sharing of behavior with other classes.
 
-## [[c.Solution.Related]]
+## [[c.solution.related]]
 
 - [[prdct.glamorous-toolkit]]
   - https://lepiter.io/feenk/glamorous-toolkit-and-pharo-9q25tavxwfq6z1drwvegd5u9o/
@@ -34,6 +34,6 @@ created: 1695847863715
   - https://pharoweekly.wordpress.com/2016/11/13/scripting-unreal-with-pharo/ #looks-complicated
 
 
-### [[c.Resource.List]]
+### [[c.resource.list]]
 
 - http://books.pharo.org/

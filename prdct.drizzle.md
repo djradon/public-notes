@@ -6,7 +6,7 @@ updated: 1698262670414
 created: 1695140052621
 ---
 
-- [[c.Software.Game-Platform]]
+- [[c.software.game-platform]]
 - [[p.writtenIn]] #typescript
 
 ## Resources

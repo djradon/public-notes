@@ -8,4 +8,4 @@ created: 1696481099822
 
 - #aka Cypher
 - #url https://opencypher.org/
-- [[c.List.Implementations]] https://opencypher.org/projects/
+- [[c.list.implementations]] https://opencypher.org/projects/

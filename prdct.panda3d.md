@@ -6,7 +6,7 @@ updated: 1696951781233
 created: 1696908336171
 ---
 
-- [[c.Software.Game-Engine]]
+- [[c.software.game-engine]]
 - #url https://www.panda3d.org/
 - #repo https://github.com/panda3d/panda3d
 - [[p.writtenIn]] #c++ #python

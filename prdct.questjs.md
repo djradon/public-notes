@@ -6,7 +6,7 @@ updated: 1696530444813
 created: 1662753009547
 ---
 
-- [[p.instanceOf]] [[c.Software.Game-Framework.InteractiveFiction]]
+- [[p.instanceOf]] [[c.software.game-framework.interactivefiction]]
 - [[p.alsoKnownAs]] Quest6
 - [[p.hasLearningResource]]
   - https://github.com/ThePix/QuestJS/wiki

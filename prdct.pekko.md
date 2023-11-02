@@ -6,6 +6,6 @@ updated: 1698169397135
 created: 1697491993114
 ---
 
-- [[c.Software.Actor-Framework]]
+- [[c.software.actor-framework]]
 - #url https://pekko.apache.org/
 - [[p.similarTo]] [[prdct.gpars]]

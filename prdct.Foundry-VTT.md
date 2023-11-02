@@ -6,8 +6,8 @@ updated: 1696521595380
 created: 1633307850499
 ---
 
-- [[c.Software.RPG]]
-- [[c.Extension]] [[prdct.plutonium]]
+- [[c.software.rpg]]
+- [[c.extension]] [[prdct.plutonium]]
 
 ## [[p.integratesWith]]
 

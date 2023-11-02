@@ -10,6 +10,6 @@ created: 1684867594652
 
 - #url https://www.khronos.org/
 
-## [[c.Product]]
+## [[c.product]]
 
 - [[prdct.openxr]]

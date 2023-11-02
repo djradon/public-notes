@@ -6,18 +6,18 @@ updated: 1698252759307
 created: 1672225977422
 ---
 
-- [[c.Software.Game-Engine]]
+- [[c.software.game-engine]]
 - [[p.supports]]
   - #javascript
   - [[prdct.node]] 
   - [[prdct.deno]] 
     - [[p.hasSource]] https://deno.land/x/playfab_sdk@210511.0
 
-## [[c.Limitation]]
+## [[c.limitation]]
 
 - no/bad browser support
 
-## [[c.Pricing]]
+## [[c.pricing]]
 
 - https://playfab.com/pricing :
   - $0/month before your title passes 100K users

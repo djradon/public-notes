@@ -6,6 +6,6 @@ updated: 1695967509937
 created: 1695967494699
 ---
 
-- [[c.Software.Game-Platform.Multi-User-Dungeon]]
+- [[c.software.game-platform.multi-user-dungeon]]
 - #repo https://github.com/RanvierMUD/ranviermud
 - #url https://ranviermud.com/

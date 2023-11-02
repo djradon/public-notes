@@ -7,4 +7,4 @@ created: 1685032108468
 ---
 
 - [[p.alsoKnownAs]] 
-  - [[c.Publisher]]
+  - [[c.publisher]]

@@ -6,7 +6,7 @@ updated: 1694374859711
 created: 1644704541773
 ---
 
-- [[c.Pattern.Architecture]]
+- [[c.pattern.architecture]]
 
 ## Resources
 

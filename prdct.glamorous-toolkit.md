@@ -8,9 +8,9 @@ updated: 1698262670423
 created: 1650122141316
 ---
 
-- [[c.Software.Computational-Notebook]] [[c.Software.IDE]]
+- [[c.software.computational-notebook]] [[c.software.ide]]
 - [[p.hasRepository]] https://github.com/feenkcom/gtoolkit
-- [[c.UseCase]]
+- [[c.usecase]]
   - [[t.cs.sd.specification]]
   - [[t.cs.sd.assessment]]
   - [[t.cs.data.visualization]]
@@ -33,7 +33,7 @@ created: 1650122141316
 
 ## Use Cases
 
-- [[c.Software.Knowledge-Base]] for system documentation
+- [[c.software.knowledge-base]] for system documentation
 - Data Explorer
 
 

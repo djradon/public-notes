@@ -9,7 +9,7 @@ created: 1643725570180
 ---
 
 
-- [[c.Software.Database.Graph]] 
+- [[c.software.database.graph]] 
 - [[p.alsoKnownAs]] grakn
 - [[p.ownedBy]] [[org.vaticle]]
 - [[p.hasRepository]] https://github.com/vaticle/typedb

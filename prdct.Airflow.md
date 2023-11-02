@@ -7,4 +7,4 @@ created: 1637619008383
 ---
 
 ![[prdct.n8n#^xnxaubd7sqiw]]
-- [[p.instanceOf]] [[c.Software.Workflow]]
+- [[p.instanceOf]] [[c.software.workflow]]

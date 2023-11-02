@@ -6,12 +6,12 @@ updated: 1698704342138
 created: 1678139747758
 ---
 
-- [[c.Software.message-bus]]
+- [[c.software.message-bus]]
 - #url https://nats.io/
 - [[p.similarTo]] 
 - [[p.writtenIn]] #go
 
-## [[c.Host]]
+## [[c.host]]
 
 - [[prdct.fly-io]] #free-tier
   - "While the cluster is only accessible from inside the Fly network, you can use Fly's Wireguard support to create a VPN into your Fly organisation and private network."

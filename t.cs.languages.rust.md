@@ -14,7 +14,7 @@ created: 1638132337360
   - [[t.cs.ui.cli]] 
   - [[t.cs.application.webapp]] 
     - Use Rust to supercharge your JavaScript, one module at a time with [[prdct.webassembly]]. Publish to npm, bundle with webpack, and you’re off to the races.
-    - [[c.Resource]] https://www.rust-lang.org/what/wasm
+    - [[c.resource]] https://www.rust-lang.org/what/wasm
     - [[p.hasLearningResource]] https://rustwasm.github.io/docs/book/
   - [[t.cs.application.service.network]] 
 
@@ -26,4 +26,4 @@ created: 1638132337360
 
 ## Resources
 
-- [[ar.rustconf-talk]] goes into detail about why to design a game with [[c.Software.Entity-Component-System]]
+- [[ar.rustconf-talk]] goes into detail about why to design a game with [[c.software.entity-component-system]]

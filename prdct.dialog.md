@@ -6,4 +6,4 @@ updated: 1696530444809
 created: 1662754105773
 ---
 
-- [[p.instanceOf]] [[c.Software.Game-Framework.InteractiveFiction]]
+- [[p.instanceOf]] [[c.software.game-framework.interactivefiction]]

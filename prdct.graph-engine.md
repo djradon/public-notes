@@ -8,7 +8,7 @@ created: 1682056527914
 
 - #repo https://github.com/Microsoft/GraphEngine
 - #url https://www.graphengine.io/
-- [[c.Documentation]]
+- [[c.documentation]]
   - https://www.graphengine.io/docs/manual/index.html
     - "The most important building block provided by GE for distributed computation is declarative message passing. We can implement almost any distributed algorithm using the fine-grained event-driven message passing framework provided by GE."
     - "GE provides two methods for serving a service: REST APIs and GE protocols.

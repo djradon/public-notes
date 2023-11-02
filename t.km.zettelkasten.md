@@ -30,7 +30,7 @@ created: 1631216404603
 ## Use Cases
 
 - [[t.lit.fiction.writing]]
-  - [[c.Resource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
+  - [[c.resource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
 
 ## References
 

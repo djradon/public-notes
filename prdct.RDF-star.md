@@ -11,7 +11,7 @@ created: 1634426288630
 - [[p.hasURL]] https://w3c.github.io/rdf-star/
 - [[p.hasRepository]] https://github.com/w3c/rdf-star/
 - [[p.alsoKnownAs]] RDF-*
-- [[c.UseCase]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#submitted-use-cases
+- [[c.usecase]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#submitted-use-cases
 
 ## To Do
 
@@ -26,7 +26,7 @@ created: 1634426288630
   - are quoted triples asserted?
 - https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#the-seminal-example
   - can you have multiple identical triples?
-    - [[c.Con]] nope! have to use standard reification, new relationship concept
+    - [[c.con]] nope! have to use standard reification, new relationship concept
 
 ## Possible Features
 

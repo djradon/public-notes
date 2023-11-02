@@ -6,7 +6,7 @@ updated: 1674400017855
 created: 1674399879440
 ---
 
-[[c.Resource]]
+[[c.resource]]
 
 - https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case
   - [[prdct.kafka]] is pull-based; [[prdct.rabbitimq]] is push-baseed

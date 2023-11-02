@@ -6,6 +6,6 @@ updated: 1697001852776
 created: 1697001852776
 ---
 
-- [[c.Software.RPG]]
+- [[c.software.rpg]]
 - #url https://battlemapp.io/
 - #related [[prdct.questforge]]

@@ -8,4 +8,4 @@ created: 1696741342401
 
 - #url https://incatools.github.io/kgcl/
 - #repo https://github.com/INCATools/kgcl
-- [[c.Product.Related]] https://github.com/linkml/linkml-transformer
+- [[c.product.related]] https://github.com/linkml/linkml-transformer

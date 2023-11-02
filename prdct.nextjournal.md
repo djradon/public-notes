@@ -6,9 +6,9 @@ updated: 1698252759292
 created: 1694194690268
 ---
 
-- [[c.Software.Computational-Notebook]]
+- [[c.software.computational-notebook]]
 - #url https://nextjournal.com/
-- [[c.Pricing]] 
+- [[c.pricing]] 
 
 ## Features
 

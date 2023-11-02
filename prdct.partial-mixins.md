@@ -7,4 +7,4 @@ created: 1697561236875
 ---
 
 - #repo https://github.com/LokiMidgard/PartialMixins
-- [[c.Dependancy]] [[prdct.roslyn]]
+- [[c.dependancy]] [[prdct.roslyn]]

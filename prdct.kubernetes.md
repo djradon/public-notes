@@ -6,7 +6,7 @@ updated: 1698262670454
 created: 1652560121353
 ---
 
-## [[c.Term]]
+## [[c.term]]
 
 - **Context**: group of access parameters that specify which cluster you're interacting with
 - **Pod**: Kubernetes abstraction that represents a group of one or more application containers (such as Docker), and some shared resources for those containers.
@@ -21,7 +21,7 @@ created: 1652560121353
 ### Comparison
 
 - https://earthly.dev/blog/k8s-dev-solutions/ 
-  - [[c.Comparand]] 
+  - [[c.comparand]] 
     - [[prdct.k8s]]
     - [[prdct.kubernetes.kubeadm]]
     - [[prdct.kind]]

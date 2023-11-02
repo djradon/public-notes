@@ -10,4 +10,4 @@ created: 1669483382029
 
 - a challenge that [[t.pdm.solution]]s can be applied to
 - [[p.comparableTo]] [[t.pdm.desire]]
-- [[p.equivalentClass]] [[c.Problem]]
+- [[p.equivalentClass]] [[c.problem]]

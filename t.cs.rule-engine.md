@@ -8,7 +8,7 @@ created: 1690558566709
 
 - [[p.differentFrom]] [[t.cs.workflow]]
   - https://kissflow.com/workflow/workflow-engine-business-rule-engine-difference/
-- #aka [[c.Software.DecisionEngine]]; Business Rule Management System; 
+- #aka [[c.software.decisionengine]]; Business Rule Management System; 
 
 ## Implementations
 

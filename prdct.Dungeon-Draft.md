@@ -6,6 +6,6 @@ updated: 1635663879909
 created: 1635663789552
 ---
 
-- [[c.Software.RPG]]
+- [[c.software.rpg]]
 - [[p.hasURL]] https://dungeondraft.net/
 - [[p.hasApplication]] [[rpg.map-making]]

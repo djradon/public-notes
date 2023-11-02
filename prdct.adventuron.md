@@ -6,6 +6,6 @@ updated: 1696530444802
 created: 1662752791841
 ---
 
-- [[p.instanceOf]] [[c.Software.Game-Framework.InteractiveFiction]]
+- [[p.instanceOf]] [[c.software.game-framework.interactivefiction]]
 - [[p.hasURL]] https://adventuron.io/
 - 

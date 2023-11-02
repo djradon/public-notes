@@ -7,7 +7,7 @@ created: 1637813463159
 ---
 
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - [[p.hasRepository]] https://github.com/projectmesa/mesa
 - [[p.writtenIn]] #python
 

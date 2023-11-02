@@ -8,7 +8,7 @@ created: 1632921837510
 
 
 
-- [[p.instanceOf]] [[c.Application]]
+- [[p.instanceOf]] [[c.application]]
 
 ## tips
 

@@ -6,4 +6,4 @@ updated: 1684776818831
 created: 1684776797175
 ---
 
-- [[c.Role]] head of global gaming business marketing at [[org.tiktok]]
+- [[c.role]] head of global gaming business marketing at [[org.tiktok]]

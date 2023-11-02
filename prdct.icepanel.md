@@ -9,7 +9,7 @@ created: 1688015552902
 - #url https://icepanel.io/
 - [[p.supports]] [[t.cs.sd.c4-model]]
 - [[p.similarTo]] 
-- [[c.Software.Tools.Diagramming]] [[c.Software.Tools.Modeling]]
+- [[c.software.tools.diagramming]] [[c.software.tools.modeling]]
 
 ## Features
 

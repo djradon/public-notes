@@ -6,7 +6,7 @@ updated: 1684774939006
 created: 1670908740548
 ---
 
-## [[c.Model]] 
+## [[c.model]] 
 
 -   Entities, which are objects with unique identities that have a lifecycle.
 -   Aggregates, which are clusters of related objects that form a transactional consistency boundary.

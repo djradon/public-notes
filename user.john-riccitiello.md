@@ -6,4 +6,4 @@ updated: 1684775175528
 created: 1684775154809
 ---
 
-- [[c.Role]] CEO, [[org.unity-technologies]]
+- [[c.role]] CEO, [[org.unity-technologies]]

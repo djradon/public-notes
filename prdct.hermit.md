@@ -6,7 +6,7 @@ updated: 1696279906815
 created: 1696276376840
 ---
 
-- [[c.Software.Reasoner]]
+- [[c.software.reasoner]]
 - [[p.supports]] [[prdct.owl]]
 - #license [[lic.lgpl]]
 - [[p.used]] [[prdct.dk-brics-automaton]]

@@ -6,13 +6,13 @@ updated: 1637766814524
 created: 1634617777670
 ---
 
-- [[c.Software.Database.Graph]]
+- [[c.software.database.graph]]
 - [[p.writtenIn]] #clojure JVM!
 - [[p.hasApplication]] [[t.km]]
 - [[p.hasBlog]] https://flur.ee/blog/
 - [[p.hasFeature]] 
   - [[t.cs.data.time-travel]]
-    - [[c.Resource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ https://flur.ee/2021/07/08/time-traveling-with-fluree/
+    - [[c.resource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ https://flur.ee/2021/07/08/time-traveling-with-fluree/
   - " optionally decentralized (e.g. using StorJ via Tardigrade)"
     - [[p.hasSource]] https://github.com/athensresearch/athens/issues/9#issuecomment-786844129
   - [[prdct.JSON-LD]] support (alpha)

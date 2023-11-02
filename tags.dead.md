@@ -10,4 +10,4 @@ created: 1638853618350
 
 
 - [[p.hasSense]]
-  - a [[c.Product]] that is no longer actively developed
+  - a [[c.product]] that is no longer actively developed

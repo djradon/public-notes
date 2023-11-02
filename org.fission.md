@@ -7,12 +7,12 @@ created: 1682971803349
 ---
 
 
-## [[c.Product]]
+## [[c.product]]
 
 - [[Odd Dev|prdct.odd-dev]]
 - [[prdct.rhizomedb]]
 
-## [[c.Vision]]
+## [[c.vision]]
 
 Fission sees a world where:
 👤  People control their digital lives.

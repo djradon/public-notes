@@ -6,7 +6,7 @@ updated: 1698262670465
 created: 1674360309430
 ---
 
-[[c.Software.Microservice-Frameworks]]
+[[c.software.microservice-frameworks]]
 [[p.writtenIn]] #javascript
 
 #url https://moleculer.services/

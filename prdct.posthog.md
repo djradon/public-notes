@@ -15,7 +15,7 @@ created: 1681136715846
 - [[t.cs.sd.feature-flag]]
 - [[t.cs.sd.a-b-testing]]
 
-## [[c.Pricing]]
+## [[c.pricing]]
 
 - free and pay per use
   - both plans get 1M events/mo and 15k session recordings/mo

@@ -6,7 +6,7 @@ updated: 1696568262349
 created: 1694715092224
 ---
 
-- [[c.Software.Tools.Diagramming]]
+- [[c.software.tools.diagramming]]
 - [[p.writtenIn]] #python
 - #repo https://github.com/mingrammer/diagrams
 - #url https://diagrams.mingrammer.com/

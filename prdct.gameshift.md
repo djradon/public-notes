@@ -6,7 +6,7 @@ updated: 1698749558824
 created: 1698749558824
 ---
 
-- [[c.Software.Game-Framework]] [[c.Software.Web3]]
+- [[c.software.game-framework]] [[c.Software.Web3]]
 - url https://gameshift.solanalabs.com/
 - [[p.announcedOn]] 2023.07.19
 

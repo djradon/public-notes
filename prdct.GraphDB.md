@@ -6,7 +6,7 @@ updated: 1698252759241
 created: 1637954631007
 ---
 
-- [[c.Software.Database.Graph]]
+- [[c.software.database.graph]]
 - [[p.instanceOf]] [[t.cs.data.DBMS.graph]]
 - [[p.writtenIn]] #java
 - [[p.supports]] [[prdct.RDF-star]]

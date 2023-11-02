@@ -9,8 +9,8 @@ created: 1696364249241
 - #url https://webassembly.org/
 - [[p.isRelated]] [[prdct.wasi]]
 
-## [[c.Goal]]
+## [[c.goal]]
 
 - One of WebAssembly (and Wasmtime's) main goals is to execute untrusted code in a safe manner inside of a sandbox.
 
-## [[c.Product.Related]]
+## [[c.product.related]]

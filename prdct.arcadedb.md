@@ -6,7 +6,7 @@ updated: 1698704342093
 created: 1696481284791
 ---
 
-- [[c.Software.Database.Multi-Model]]  [[c.Software.Database.Graph.Property]][[c.Software.Database.Embedded]] [[c.Software.Database.Vector]]
+- [[c.software.database.multi-model]]  [[c.software.database.graph.property]][[c.software.database.embedded]] [[c.software.database.vector]]
 - #repo https://github.com/ArcadeData/arcadedb
 - [[p.forkOf]] [[prdct.orientdb]]
 - [[p.writtenIn]] #java 

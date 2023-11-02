@@ -8,7 +8,7 @@ created: 1638331281432
 
 ## Definition
 
-### [[c.Element]]
+### [[c.element]]
 
 - [[t.lit.character]]
 - [[t.lit.plot]]

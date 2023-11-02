@@ -6,7 +6,7 @@ updated: 1670386973180
 created: 1638941790934
 ---
 
-- [[p.had]] [[c.Copy]]  [[email.the-three-systems-beneath-network-effects]]
+- [[p.had]] [[c.copy]]  [[email.the-three-systems-beneath-network-effects]]
 - [[p.hasHighlight]]
   - “Acquisition Effect”:: the ability for a product to tap into its network to acquire new customers
   - “Engagement Effect”:: a denser (or more diverse) network creates higher stickiness and/or new use cases

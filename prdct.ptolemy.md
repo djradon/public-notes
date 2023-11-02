@@ -6,7 +6,7 @@ updated: 1698262670490
 created: 1683235434997
 ---
 
-- [[c.Software.Simulation-Framework.discrete-event]]
+- [[c.software.simulation-framework.discrete-event]]
 - #url https://ptolemy.berkeley.edu/ptolemyII/index.htm
 
 ## Resources

@@ -6,7 +6,7 @@ updated: 1696707221444
 created: 1696707000342
 ---
 
-- [[c.Software.Game-Engine]]
+- [[c.software.game-engine]]
 - #url https://amethyst.rs/
 - #repo 
 - [[p.builtOn]] [[prdct.specs]]

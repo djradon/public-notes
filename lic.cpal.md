@@ -6,4 +6,4 @@ updated: 1696351929819
 created: 1696351893394
 ---
 
-- [[c.Resource]] https://en.wikipedia.org/wiki/Common_Public_Attribution_License
+- [[c.resource]] https://en.wikipedia.org/wiki/Common_Public_Attribution_License

@@ -6,6 +6,6 @@ updated: 1696969063835
 created: 1696969045353
 ---
 
-- [[c.Software.Game-Engine]]
+- [[c.software.game-engine]]
 - #repo https://github.com/clibequilibrium/EquilibriumEngine-CSharp
 - [[p.writtenIn]] #c-sharp

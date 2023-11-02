@@ -6,6 +6,6 @@ updated: 1696707236060
 created: 1696707154362
 ---
 
-- [[c.Software.Entity-Component-System]]
+- [[c.software.entity-component-system]]
 - #url https://github.com/amethyst/specs
 - [[p.writtenIn]] #rust

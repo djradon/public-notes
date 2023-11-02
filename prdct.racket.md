@@ -6,7 +6,7 @@ updated: 1698095901122
 created: 1698095311873
 ---
 
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 - #url https://racket-lang.org/
-- [[c.Software.IDE]] [[prdct.racket.dr-racket]] 
+- [[c.software.ide]] [[prdct.racket.dr-racket]] 
 - [[p.supportedBy]] [[prdct.racket.scribble]]

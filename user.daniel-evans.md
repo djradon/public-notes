@@ -6,4 +6,4 @@ updated: 1684868808346
 created: 1684868797974
 ---
 
-- [[c.Role]] CEO [[org.reely]]
+- [[c.role]] CEO [[org.reely]]

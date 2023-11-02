@@ -9,7 +9,7 @@ created: 1672343537168
 ---
 
 - #dead See [](https://matrix.to/#/!rzmCByrDIhEbURWmyW:matrix.org/$Ma0FH-hEbXdTSdTFNCH5m-LhJ8zKgznnSi91g0K78dE?via=matrix.org&via=thirdroom.io&via=element.io)
-- [[c.Software.Metaverse-Platform]]
+- [[c.software.metaverse-platform]]
 
 - #url https://thirdroom.io/
 - #repo https://github.com/matrix-org/thirdroom

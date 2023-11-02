@@ -6,5 +6,5 @@ updated: 1696569787723
 created: 1696569766044
 ---
 
-- [[c.Software.Tools.Diagramming]]
+- [[c.software.tools.diagramming]]
 - #repo https://github.com/magjac/d3-graphviz

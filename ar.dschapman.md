@@ -8,7 +8,7 @@ created: 1633198600307
 
 - [[p.hasURL]] https://www.dschapman.com/
 - [[p.builtWith]] [[prdct.dendron]] [[prdct.Gatsby]]
-- [[p.instanceOf]] [[c.DigitalGarden]]
+- [[p.instanceOf]] [[c.digitalgarden]]
 - [[p.hasHighlight]]
   - [[ar.dschapman.using-dendron-and-gatsby-together]]
 

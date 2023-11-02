@@ -6,4 +6,4 @@ updated: 1671702835235
 created: 1671701008154
 ---
 
-- [[p.wasNamespaceFor]] [[c.Feature]]s
+- [[p.wasNamespaceFor]] [[c.feature]]s

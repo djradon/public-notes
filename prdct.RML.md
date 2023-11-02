@@ -12,4 +12,4 @@ created: 1637438742335
 
 - [[p.hasSpecification]] https://rml.io/specs/rml/
 - [[p.vs]] [[prdct.R2RML]]
-  - [[c.Resource]] https://rml.io/docs/rml/rmlvsr2rml/
+  - [[c.resource]] https://rml.io/docs/rml/rmlvsr2rml/

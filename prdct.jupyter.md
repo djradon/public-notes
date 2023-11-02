@@ -6,7 +6,7 @@ updated: 1698262670450
 created: 1694114706090
 ---
 
-- [[c.Software.Computational-Notebook]]
+- [[c.software.computational-notebook]]
 
 ## #related
 

@@ -6,7 +6,7 @@ updated: 1698704342250
 created: 1694379366251
 ---
 
-## [[c.Caveat]]
+## [[c.caveat]]
 
 - he use of domain events proper, should be delayed as long as possible, opting instead for a carefully designed aggregate structure and use cases.
   - https://medium.com/unil-ci-software-engineering/be-careful-with-domain-events-2ef8866f6cd6

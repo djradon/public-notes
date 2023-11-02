@@ -8,7 +8,7 @@ created: 1686202148140
 
 - #url https://marp.app/
 
-## [[c.Limitation]]
+## [[c.limitation]]
 
 - no footnotes?
 - 

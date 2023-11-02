@@ -6,6 +6,6 @@ updated: 1635659870604
 created: 1633316886239
 ---
 
-- [[c.Software.RPG]]
+- [[c.software.rpg]]
 - [[p.hasURL]] https://www.dungeonfog.com/
 - [[p.hasApplication]] [[t.cs.game.rpg]] 

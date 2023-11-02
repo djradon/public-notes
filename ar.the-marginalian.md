@@ -6,7 +6,7 @@ updated: 1698704342164
 created: 1667806609355
 ---
 
-- [[p.instanceOf]] [[c.DigitalGarden]] [[c.Blog]]
+- [[p.instanceOf]] [[c.digitalgarden]] [[c.blog]]
 - [[p.hasSite]] https://www.themarginalian.org
 - [[p.hasAuthor]] @maria-popova
 - [[p.hasHighlight]] 

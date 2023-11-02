@@ -6,6 +6,6 @@ updated: 1694457616165
 created: 1694452336060
 ---
 
-- [[c.Software.Agent-Framework]] #dead
+- [[c.software.agent-framework]] #dead
 - #repo https://github.com/florinleon/ActressMas
 - [[p.writtenIn]] [[t.cs.languages.c-sharp]]

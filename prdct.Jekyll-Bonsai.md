@@ -9,4 +9,4 @@ created: 1637439146231
 
 
 - [[p.hasSite]] https://manunamz.github.io/jekyll-bonsai/
-  - [[p.instanceOf]] [[c.DigitalGarden]]
+  - [[p.instanceOf]] [[c.digitalgarden]]

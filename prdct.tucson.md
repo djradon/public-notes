@@ -6,11 +6,11 @@ updated: 1694456750585
 created: 1694456388293
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - #dead
 - #repo https://github.com/TuCSoN-Coord/TuCSoN
 - [[p.supportedBy]] [[prdct.tucson.respect]]
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - https://apice.unibo.it/xwiki/bin/view/TuCSoN/Publications/

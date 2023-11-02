@@ -9,7 +9,7 @@ created: 1696436773735
 - #url https://hash.ai/platform/engine
 - #repo https://github.com/hashintel/hash
 
-## [[c.Product.Related]]
+## [[c.product.related]]
 
 - [[prdct.wasm]] 
   - https://hash.dev/blog/wasm-ai

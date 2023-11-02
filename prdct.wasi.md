@@ -7,4 +7,4 @@ created: 1696365118658
 ---
 
 - #url https://wasi.dev/
-- [[c.Implementation]] [[prdct.wasmtime]]
+- [[c.implementation]] [[prdct.wasmtime]]

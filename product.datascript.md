@@ -8,7 +8,7 @@ updated: 1696446348810
 created: 1636376595070
 ---
 
-- [[c.Software.Database.Graph]]
+- [[c.software.database.graph]]
 - [[p.hasRepository]] https://github.com/tonsky/DataScript
 - [[p.hostedOn]] [[t.cs.web.browser]]
 - [[p.hasApplication]] 

@@ -6,7 +6,7 @@ updated: 1698704342158
 created: 1685939721054
 ---
 
-- [[c.Software.Tools.Diagramming]]
+- [[c.software.tools.diagramming]]
 ## Learning Resource
 
 - https://crashedmind.github.io/PlantUMLHitchhikersGuide/

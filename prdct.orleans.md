@@ -6,7 +6,7 @@ updated: 1698262670481
 created: 1670267305306
 ---
 
-- [[c.Software.Distributed-Systems-Runtime]]
+- [[c.software.distributed-systems-runtime]]
 - #summary https://learn.microsoft.com/en-us/dotnet/orleans/overview
   - [[p.hasHighlight]]
     - based on [[t.cs.actors]]

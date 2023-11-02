@@ -8,4 +8,4 @@ created: 1653453887574
 
 - [[p.hasSite]] http://webseitz.fluxent.com
 - [[p.hasCreator]] @bill-seitz
-- [[p.instanceOf]] [[c.DigitalGarden]]
+- [[p.instanceOf]] [[c.digitalgarden]]

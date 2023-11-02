@@ -6,6 +6,6 @@ updated: 1698351633408
 created: 1698351615714
 ---
 
-- [[c.Game.Sandbox]]
+- [[c.game.sandbox]]
 - url http://anyland.com/
 - 

@@ -7,7 +7,7 @@ created: 1671517516905
 ---
 
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - #url https://github.com/TimKam/JS-son
 - #author @tim-kampik
 - [[p.writtenIn]] #javascript

@@ -8,7 +8,7 @@ created: 1633704037700
 
 
 
-- [[c.Software.Library]]
+- [[c.software.library]]
 - [[p.writtenIn]] #javascript
 - [[p.hasApplication]] [[gd.specification]]
 - [[p.hasRepository]] https://github.com/w3c/respec

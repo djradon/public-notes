@@ -7,7 +7,7 @@ created: 1637836027173
 ---
 
 - #repo https://github.com/eclab/mason/
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - [[p.writtenIn]] #java
 - [[p.hasApplication]] [[t.cs.simulation.abms]]
 - [[p.hasFeature]]
@@ -16,4 +16,4 @@ created: 1637836027173
   - can output data streams
 
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]

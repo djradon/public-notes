@@ -6,7 +6,7 @@ updated: 1694457024439
 created: 1694456958282
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - #dead
 - #related klava2
 - 

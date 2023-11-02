@@ -6,7 +6,7 @@ updated: 1673284562915
 created: 1673281277187
 ---
 
-[[c.Blog]]
+[[c.blog]]
 #url https://simblob.blogspot.com/
 [[p.publishedBy]] [[org.red-blob-games]]
 

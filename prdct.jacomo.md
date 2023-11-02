@@ -6,7 +6,7 @@ updated: 1696274888565
 created: 1694360138732
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - #dead (or nearly)
 - #repo https://sourceforge.net/projects/jacamo/
 - [[p.writtenIn]] #java

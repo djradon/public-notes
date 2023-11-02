@@ -8,5 +8,5 @@ created: 1650071759373
 
 #product-management
 
-- [[p.correspondsTo]] [[c.Solution]]
-- [[p.equivalentClass]] [[c.Solution]]
+- [[p.correspondsTo]] [[c.solution]]
+- [[p.equivalentClass]] [[c.solution]]

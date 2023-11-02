@@ -8,4 +8,4 @@ created: 1638848827818
 
 
 
-- [[c.Resource]] https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe
+- [[c.resource]] https://javascript.plainenglish.io/rest-is-dying-get-rid-of-it-d43e6ef80cbe

@@ -6,7 +6,7 @@ updated: 1698262670485
 created: 1696521595945
 ---
 
-- [[c.Feature]] allowing players and Dungeon Masters to easily import [[prdct.5e-tools]] content
+- [[c.feature]] allowing players and Dungeon Masters to easily import [[prdct.5e-tools]] content
 
 ## Resources
 

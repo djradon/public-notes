@@ -8,5 +8,5 @@ created: 1687924772581
 
 
 - an germinating system for decentralized naming
-- [[c.Publisher]] [[org.fission]]
+- [[c.publisher]] [[org.fission]]
 

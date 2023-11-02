@@ -9,7 +9,7 @@ created: 1638031977724
 
 
 - [[p.vs]] [[prdct.Vercel]]  ^uUZD1OtrpGRW
-  - [[c.Resource]] https://dev.to/maxniederman/netlify-vs-vercel-a-comparison-5643
+  - [[c.resource]] https://dev.to/maxniederman/netlify-vs-vercel-a-comparison-5643
     - Netlify bills based on the number of invocations, whereas Vercel bills based on GB-hours since you can customize your serveless function instances. 
 - [[p.hasFeature]] 
   - [[t.cs.serverless]]

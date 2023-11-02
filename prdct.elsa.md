@@ -6,6 +6,6 @@ updated: 1690558649410
 created: 1680579451412
 ---
 
-- [[p.instanceOf]] [[c.Software.Workflow]]
+- [[p.instanceOf]] [[c.software.workflow]]
 - #repo https://github.com/elsa-workflows
 - 

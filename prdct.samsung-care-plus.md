@@ -7,7 +7,7 @@ created: 1692680424282
 ---
 
 
-## [[c.Term]]
+## [[c.term]]
 
 - https://us.servify.tech/termsandconditions/samsung/samsung-b2c/samsungcareplusnew t.2023.08.21
 

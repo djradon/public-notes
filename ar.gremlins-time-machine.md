@@ -7,4 +7,4 @@ created: 1696473072912
 ---
 
 - #url https://www.datastax.com/blog/gremlins-time-machine
-- [[c.Reference]] [[prdct.gremlin]]
+- [[c.reference]] [[prdct.gremlin]]

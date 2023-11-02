@@ -8,4 +8,4 @@ created: 1638051291481
 
 - #url https://www.sacred.capital/technology
 - #docs https://neighbourhooods.gitbook.io/sacred-capital/ 
-- [[p.instanceOf]] [[c.DSL]]
+- [[p.instanceOf]] [[c.dsl]]

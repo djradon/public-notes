@@ -6,5 +6,5 @@ updated: 1696277008097
 created: 1694754713399
 ---
 
-- [[c.Software.Web-Framework]]
+- [[c.software.web-framework]]
 - [[p.writtenIn]] #python

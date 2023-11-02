@@ -8,4 +8,4 @@ created: 1635728997569
 
 
 
-- [[c.Resource]] https://githooks.com/
+- [[c.resource]] https://githooks.com/

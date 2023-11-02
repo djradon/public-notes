@@ -7,7 +7,7 @@ created: 1636341447987
 stub: true
 ---
 
-- [[p.instanceOf]] [[c.Website]]
+- [[p.instanceOf]] [[c.website]]
 - [[p.ownedBy]] [[p.hasCreator]] @Nat-Eliason
 - [[p.hasURL]] https://www.nateliason.com/members/home
   - members homepage

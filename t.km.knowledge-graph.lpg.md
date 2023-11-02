@@ -8,7 +8,7 @@ created: 1638654053180
 
 
 
-- [[c.Resource]] https://medium.com/neo4j/graph-modeling-labels-71775ff7d121
+- [[c.resource]] https://medium.com/neo4j/graph-modeling-labels-71775ff7d121
   - a label in Neo4j is just a “set membership marker”
   - Use labels to indicate semantic class of information and set membership, and use them to get the speed-ups of “semi-free” indexing
   - Don’t design a data model if you don’t know what queries you want to ask of the database

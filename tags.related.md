@@ -6,4 +6,4 @@ updated: 1682972523530
 created: 1682972486167
 ---
 
-- [[p.equivalentPredicate]] [[c.Topic.Related]]
+- [[p.equivalentPredicate]] [[c.topic.related]]

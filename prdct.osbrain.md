@@ -6,7 +6,7 @@ updated: 1695144148146
 created: 1694380482490
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - #dead
 - #docs https://osbrain.readthedocs.io/
 - #repo https://github.com/opensistemas-hub/osbrain

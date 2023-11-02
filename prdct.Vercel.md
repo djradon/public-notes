@@ -17,4 +17,4 @@ created: 1637953955466
   - [[t.cs.web.ssr]]
   - Fetch API
     - SWR (stale-while-revalidate)
-      - [[c.Resource]] https://javascript.plainenglish.io/stop-using-fetch-api-directly-swr-is-way-better-588976ef6782
+      - [[c.resource]] https://javascript.plainenglish.io/stop-using-fetch-api-directly-swr-is-way-better-588976ef6782

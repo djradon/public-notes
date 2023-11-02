@@ -6,5 +6,5 @@ updated: 1696016589095
 created: 1696016563397
 ---
 
-- [[c.Software.Entity-Component-System]]
+- [[c.software.entity-component-system]]
 - #repo https://github.com/JaimeGensler/thyseus

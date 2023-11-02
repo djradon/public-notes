@@ -6,6 +6,6 @@ updated: 1698704342277
 created: 1648253722125
 ---
 
-## [[c.Quotes]]
+## [[c.quotes]]
 
 - Arguably the most important skill is controlling your attention.

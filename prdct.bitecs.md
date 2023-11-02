@@ -6,7 +6,7 @@ updated: 1698262670395
 created: 1672342730647
 ---
 
-- [[c.Software.Entity-Component-System]] [[t.cs.ecs]]
+- [[c.software.entity-component-system]] [[t.cs.ecs]]
 - #repo https://github.com/NateTheGreatt/bitECS
 - [[p.writtenIn]] #javascript
 - [[p.usedBy]] [[prdct.ethereal-engine]] [[prdct.hubs]] [[prdct.matrix]] [[prdct.third-room]]
@@ -27,7 +27,7 @@ created: 1672342730647
 ❤ Made with love 	
 🔺 glMatrix support
 
-## [[c.FAQ]]
+## [[c.faq]]
 
 - Is there a string type for components?
   - Strings are expensive and usually unnecessary to have the ECS handle. Instead, create a mapping of integers to strings, and store the integers in the component data as a reference to a string. This makes string serialization minimal and  

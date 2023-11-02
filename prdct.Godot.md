@@ -6,7 +6,7 @@ updated: 1698275345020
 created: 1637591669334
 ---
 
-[[c.Software.Game-Engine]]
+[[c.software.game-engine]]
 
 - [[p.hasRepository]] https://github.com/godotengine/godot
 - [[p.hasSite]] https://godotengine.org/
@@ -23,7 +23,7 @@ created: 1637591669334
 ## Features
 
 - publish to web
-  - [[c.Issue]]  ^x343t4fze5lf
+  - [[c.issue]]  ^x343t4fze5lf
     - t.2023.10.09 Projects written in C# using Godot 4 currently cannot be exported to the web. To use C# on web platforms, use Godot 3 instead.
     - Godot 4's HTML5 exports currently cannot run on macOS and iOS due to upstream bugs with SharedArrayBuffer and WebGL 2.0.
 - dynamic execution
@@ -34,7 +34,7 @@ created: 1637591669334
   - Using Go for WebAssembly offers several advantages. First, Go provides a familiar and straightforward programming environment for web developers, making it easy to transition from traditional Go development to web development.
   - Secondly, Go’s performance and concurrency features are well-suited for building efficient web applications that can handle heavy workloads.
   - Finally, the combination of Go and WebAssembly allows for cross-platform compatibility, enabling the deployment of applications on various browsers without the need for plugins or additional dependencies.
-- [[c.Software.Entity-Component-System]] 
+- [[c.software.entity-component-system]] 
 
 ## Cons
 

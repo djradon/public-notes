@@ -7,4 +7,4 @@ created: 1688395167528
 ---
 
 - #url https://github.com/OrleansContrib/Orleans.Indexing
-- [[c.TimePeriod]]
+- [[c.timeperiod]]

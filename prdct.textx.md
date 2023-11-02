@@ -6,7 +6,7 @@ updated: 1696277008121
 created: 1693155975058
 ---
 
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 - #repo http://textx.github.io/textX/
 - [[p.inspiredBy]] [[prdct.xtext]]
 - [[p.writtenIn]] #python

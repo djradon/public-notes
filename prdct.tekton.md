@@ -11,7 +11,7 @@ created: 1689742141160
 
 - [[t.cs.sd.architecture.orchestration]] vs [[t.cs.sd.architecture.choreography]]
 
-## [[c.Component]]
+## [[c.component]]
 
 -   **Pipeline:** Pipeline defines a set of Kubernetes [Custom Resources](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/) that act as building blocks you use to assemble your CI/CD pipelines.
 -   **Triggers:** Triggers is a Kubernetes Custom Resource that allows you to create pipelines based on information extracted from event payloads. For example, you can trigger the instantiation and execution of a pipeline every time a merge request gets opened against a Git repository.
@@ -23,7 +23,7 @@ created: 1689742141160
 -   **Chains:** Chains is a Kubernetes Custom Resource Definition (CRD) controller that allows you to manage your supply chain security in Tekton. It is currently a work-in-progress.
 -   **Results:** Results aims to help users logically group CI/CD workload history and separate out long-term result storage away from the pipeline controller.
 
-## [[c.Term]]
+## [[c.term]]
 
   -   **Step:** A step is the most basic entity in a CI/CD workflow, such as running some unit tests for a Python web app or compiling a Java program. Tekton performs each step with a provided container image.
 -   **Task:** A task is a collection of steps in a specific order. Tekton runs a task in the form of a [Kubernetes pod](https://kubebyexample.com/en/concept/pods), where each step becomes a running container in the pod.

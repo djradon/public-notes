@@ -8,7 +8,7 @@ updated: 1698252759199
 created: 1696363752606
 ---
 
-- [[c.Software.Game-Engine]] [[c.Software.Entity-Component-System]]
+- [[c.software.game-engine]] [[c.software.entity-component-system]]
 - #repo https://github.com/AmbientRun/Ambient
 - [[p.writtenIn]] #rust
 

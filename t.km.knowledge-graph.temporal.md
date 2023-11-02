@@ -12,6 +12,6 @@ created: 1694724826258
 
 - https://github.com/INK-USC/DArtNet
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - https://github.com/topics/temporal-knowledge-graph

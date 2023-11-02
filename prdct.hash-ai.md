@@ -12,7 +12,7 @@ created: 1651162206896
 - [[p.hasScriptingLanguage]] 
   - #python
   - #javascript
-- [[c.Product.Related]] [[prdct.block-protocol]]
+- [[c.product.related]] [[prdct.block-protocol]]
 
 ## Features
 

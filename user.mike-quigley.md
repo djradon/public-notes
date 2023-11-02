@@ -6,4 +6,4 @@ updated: 1684776738838
 created: 1684776718030
 ---
 
-- [[c.Role]] CMO, [[org.niantic]]
+- [[c.role]] CMO, [[org.niantic]]

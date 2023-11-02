@@ -11,7 +11,7 @@ These terms are commonly used in a consistent way for describing things in notes
 
 
 Resources
-: [[c.Resource]]
+: [[c.resource]]
 : #resources
 
 URL

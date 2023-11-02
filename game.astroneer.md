@@ -6,6 +6,6 @@ updated: 1698352009312
 created: 1698351903989
 ---
 
-- [[c.Game.Sandbox]]
+- [[c.game.sandbox]]
 - url https://astroneer.space/
 - 

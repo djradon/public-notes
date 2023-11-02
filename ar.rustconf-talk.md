@@ -7,7 +7,7 @@ created: 1696707625159
 ---
 
 - #url https://kyren.github.io/2018/09/14/rustconf-talk.html
-- [[c.Actor.Speaker]] @kyren
+- [[c.actor.speaker]] @kyren
 
 ## [[c.text.exerpt]]
 

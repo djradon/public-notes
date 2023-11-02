@@ -6,6 +6,6 @@ updated: 1684867593929
 created: 1684866809230
 ---
 
--  [[c.Role]] 
+-  [[c.role]] 
    -  initial chair, [[org.metaverse-standards-forum]]
    -  president, [[org.khronos-group]]

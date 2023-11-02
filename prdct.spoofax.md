@@ -6,7 +6,7 @@ updated: 1694020751881
 created: 1694020682865
 ---
 
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 
 ## Resources
 

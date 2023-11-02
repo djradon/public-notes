@@ -8,7 +8,7 @@ created: 1673460274900
 
 - [[p.hostedBy]] @joshua-robinson @alyssa-osterback
 - [[p.hadPanelist]] @zach-saul @tyler-entingh 
-- [[c.Resource]] https://boardgamegeek.com
+- [[c.resource]] https://boardgamegeek.com
 
 - Where is the overlap between product design and tabletop game design
   - user psychology: 

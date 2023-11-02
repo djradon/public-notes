@@ -6,7 +6,7 @@ updated: 1698262670472
 created: 1698094999504
 ---
 
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 - #url https://neverlang.di.unimi.it/
 
 

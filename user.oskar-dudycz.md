@@ -6,4 +6,4 @@ updated: 1692391414524
 created: 1692391397628
 ---
 
-- [[c.Publisher]] [[ar.architecture-weekly]]
+- [[c.publisher]] [[ar.architecture-weekly]]

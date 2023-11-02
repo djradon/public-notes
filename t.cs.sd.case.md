@@ -8,7 +8,7 @@ created: 1684995195092
 
 ## 
 
-## [[c.Software.Tools]]
+## [[c.software.tools]]
 
 - [[prdct.umple]]
 

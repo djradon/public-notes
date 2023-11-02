@@ -9,5 +9,5 @@ created: 1698035645394
 - [[c.game.voxel]] [[c.game.sandbox]]
 - #url https://www.minetest.net/
 - [[p.hasAPI]] [[prdct.lua]]
-- [[c.Exchange]]
+- [[c.exchange]]
 - [[p.writtenIn]] #c++

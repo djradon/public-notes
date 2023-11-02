@@ -7,5 +7,5 @@ created: 1680580292912
 ---
 
 - #url https://github.com/fgnass/typed-rpc
-- [[p.instanceOf]]  [[c.Software.RPC]]
+- [[p.instanceOf]]  [[c.software.rpc]]
 - [[p.writtenIn]] [[prdct.typescript]]

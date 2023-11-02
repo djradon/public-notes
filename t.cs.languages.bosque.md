@@ -8,6 +8,6 @@ created: 1698164639450
 
 - [[p.writtenIn]] #typescript #c++
 
-## [[c.Vision]]
+## [[c.vision]]
 
 - "mechanization and automated reasoning, along with human and AI agents that leverage them, are the ideas that will define the next era of software development."

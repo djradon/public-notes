@@ -7,4 +7,4 @@ created: 1636178998742
 ---
 
 - [[p.hasURL]] https://maggieappleton.com/garden
-- [[p.instanceOf]] [[c.DigitalGarden]]
+- [[p.instanceOf]] [[c.digitalgarden]]

@@ -7,5 +7,5 @@ created: 1637898879441
 ---
 
 - #dead
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - [[p.writtenIn]] #java

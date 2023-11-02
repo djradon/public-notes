@@ -7,8 +7,8 @@ created: 1672343813127
 ---
 
 - #url https://www.khronos.org/gltf/
-- [[c.Extension]] [[prdct.ee-variant]]
-- [[c.Publisher]] [[org.khronos-group]]
+- [[c.extension]] [[prdct.ee-variant]]
+- [[c.publisher]] [[org.khronos-group]]
 - [[p.similarTo]] [[prdct.universal-scene-description]]
 
 ## Implementations

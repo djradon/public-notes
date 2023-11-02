@@ -6,7 +6,7 @@ updated: 1688273716791
 created: 1688273452908
 ---
 
-- [[c.Example]]  ^498lymlvqisb
+- [[c.example]]  ^498lymlvqisb
   - facial expressions, laughter, eye contact, gestures
   - metadata?
   - prosodic: pitch, intonation and stress; loudness, timbre, speech rate, pauses

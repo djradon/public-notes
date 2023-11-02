@@ -14,7 +14,7 @@ created: 1645831419986
   - [[prdct.ilograph]]
   - [[prdct.d2]]
   - [[prdct.terrastruct]]
-- [[c.Pricing]]
+- [[c.pricing]]
   - free
     - 10 diagrams, 3 most recent versions, no sharing, 1 workspace
   - $5/workspace/month, minimum of 5 workspaces so minimum $25/mo

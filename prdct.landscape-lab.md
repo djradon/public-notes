@@ -6,10 +6,10 @@ updated: 1697476572131
 created: 1696889060484
 ---
 
-- [[c.Software.Virtual-Reality]]
+- [[c.software.virtual-reality]]
 #url https://landscapelab.boku.ac.at/
 
-## [[c.Component]]
+## [[c.component]]
 
 -   The geodata for the game board are pre-processed with [QGIS](https://www.qgis.org/de/site/). QGIS is also used to send the map as a video stream for the projection.
 -   The object recognition of the game tokens is realised with [OpenCV](https://opencv.org/) and Python.

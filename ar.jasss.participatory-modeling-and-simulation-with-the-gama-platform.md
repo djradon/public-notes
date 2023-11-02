@@ -7,4 +7,4 @@ created: 1695847620036
 ---
 
 - #url https://www.jasss.org/22/2/3.html
-- [[c.Mention]] [[prdct.cormas]] [[prdct.netlogo]]
+- [[c.mention]] [[prdct.cormas]] [[prdct.netlogo]]

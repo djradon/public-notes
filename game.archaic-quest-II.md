@@ -18,7 +18,7 @@ created: 1694806790267
 - I've been so ready to give up the [[t.cs.game.persistent-room]] thing... with good auto-DMing, it shouldn't be necessary. 
 - "Don't forget to read descriptions and pay attention it's easy to miss something interesting if you rush." - uh, this is a bad sign. i have to read all these boring descriptions. And they persist each time I come back to the "room".
 
-## [[c.Command]]
+## [[c.command]]
 
 ### Movement
 

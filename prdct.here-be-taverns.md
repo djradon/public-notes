@@ -6,11 +6,11 @@ updated: 1696979159688
 created: 1696979159688
 ---
 
-- [[c.Software.RPG]]
+- [[c.software.rpg]]
 - #url https://www.herebetaverns.com
 - [[p.won]] [[t.cs.game.rpg.award.ennie]]
 - #related [[prdct.sword-and-source]]
 
-## [[c.Model.licensing]]
+## [[c.model.licensing]]
 
 - https://github.com/CompVis/stable-diffusion/blob/main/LICENSE

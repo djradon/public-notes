@@ -7,6 +7,6 @@ created: 1692937335119
 ---
 
 - inkscape + gimp + scribus + blender
-  - [[c.Resource.Learning]] https://www.open-of-course.org/courses/course/view.php?id=102
+  - [[c.resource.learning]] https://www.open-of-course.org/courses/course/view.php?id=102
 - [[prtdct.natron]]
 - 

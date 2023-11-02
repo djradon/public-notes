@@ -12,6 +12,6 @@ created: 1696270955675
 
 - OWL 2 ontologies themselves are primarily exchanged as RDF documents
 
-## [[c.Product.Related]]
+## [[c.product.related]]
 
 - [[prdct.mod-ontology]]

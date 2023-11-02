@@ -40,6 +40,6 @@ created: 1637793595094
 
 - https://learn.microsoft.com/en-us/archive/msdn-magazine/2016/july/csharp-applying-ai-to-a-multi-agent-mini-basketball-game
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - [Overview of Software Agent Platforms Available in 2023](https://www.mdpi.com/2078-2489/14/6/348)

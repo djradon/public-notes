@@ -6,7 +6,7 @@ updated: 1698704342194
 created: 1637794683065
 ---
 
-- [[c.Software.Agent-Framework]] but "platform-less"
+- [[c.software.agent-framework]] but "platform-less"
 - [[p.hasRepository]] https://github.com/javipalanca/spade
 - [[p.hasSite]] https://spade-mas.readthedocs.io
 - [[p.writtenIn]] #python

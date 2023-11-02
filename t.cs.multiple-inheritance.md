@@ -6,7 +6,7 @@ updated: 1698178067551
 created: 1698177762620
 ---
 
-## [[c.Summary.Bot]]
+## [[c.summary.bot]]
 
     C++: C++ is one of the most well-known languages that supports multiple inheritance. It allows a class to inherit from multiple base classes, and it uses a combination of virtual inheritance and access specifiers to handle potential issues like the diamond problem.
 

@@ -8,4 +8,4 @@ updated: 1668754441061
 created: 1668754231451
 ---
 
-- [[p.instanceOf]] [[c.Concept]], 
+- [[p.instanceOf]] [[c.concept]], 

@@ -10,14 +10,14 @@ created: 1673569081430
 
 ## Comparison
 
-## [[c.Comparand]] [[prdct.openapi]] 
+## [[c.comparand]] [[prdct.openapi]] 
 
 - https://www.asyncapi.com/blog/openapi-vs-asyncapi-burning-questions
   - ![](/assets/images/2023-09-29-11-33-20.png)
 - https://stackoverflow.com/questions/67055564/how-to-document-a-mixture-of-synchronous-and-asynchronous-apis-do-we-use-asynca
 - https://bump.sh/blog/asyncapi-vs-openapi
 
-## [[c.Comparand]] [[prdct.cloudevents]]
+## [[c.comparand]] [[prdct.cloudevents]]
 
 - https://www.asyncapi.com/blog/asyncapi-cloud-events
   - "Unlike CloudEvents —who focuses on the message— AsyncAPI does not impose how your event must look like but, instead, allows you to strictly define its shape."

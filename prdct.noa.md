@@ -6,5 +6,5 @@ updated: 1695967047975
 created: 1695966955997
 ---
 
-- [[c.Software.Game-Engine]]
+- [[c.software.game-engine]]
 - #repo https://github.com/fenomas/noa

@@ -17,4 +17,4 @@ created: 1696269593576
   - live-code new game rules while my children are playing it
   - Change the game logic and game state interactively via RemoteREPL.jl
   - " I use @louisponet’s [[prdct.overseer-jl]] 93 and this hugely cleaned up the game logic in my game."
-  - [[c.Mention]] [[game.gameoji]]
+  - [[c.mention]] [[game.gameoji]]

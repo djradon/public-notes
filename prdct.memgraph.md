@@ -6,7 +6,7 @@ updated: 1698252759282
 created: 1696481811073
 ---
 
-- [[c.Software.Database.Graph.Property]]
+- [[c.software.database.graph.property]]
 - #url https://memgraph.com/
 - #repo https://github.com/memgraph/memgraph
 - [[p.compatibleWith]] [[prdct.neo4j]]
@@ -19,7 +19,7 @@ created: 1696481811073
 - [[p.supports]] #python #c #rust [[prdct.node]] #c-sharp #go #haskell #java #javascript #php #ruby]
 - custom procedures in #python and #c / #c++
 
-## [[c.Model.licensing]]
+## [[c.model.licensing]]
 
 - open-source community version doesn't includ access control or multi-tenant architecture
 - cloud version from as low as $20/mo for 1GB memory instance

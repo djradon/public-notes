@@ -6,7 +6,7 @@ updated: 1675207472910
 created: 1675206736367
 ---
 
-## [[c.Claim]]
+## [[c.claim]]
 
 ###  projection implementations tend to have a couple of moving parts
 

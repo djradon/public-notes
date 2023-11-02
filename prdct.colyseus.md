@@ -8,7 +8,7 @@ updated: 1698704342098
 created: 1642897812921
 ---
 
-- [[c.Software.Game-Platform]]
+- [[c.software.game-platform]]
 #repo https://github.com/colyseus/colyseus
 #creator @endel-dreyer
 

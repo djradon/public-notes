@@ -6,7 +6,7 @@ updated: 1673645124252
 created: 1673645071185
 ---
 
-[[c.Software.Game-Engine]]
+[[c.software.game-engine]]
 
 #repo https://github.com/jondubois/iogrid
 

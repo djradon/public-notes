@@ -6,7 +6,7 @@ updated: 1696277008110
 created: 1637793632731
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - #repo https://github.com/grei-ufc/pade
 - #similar [[prdct.SPADE]]
 

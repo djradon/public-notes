@@ -6,6 +6,6 @@ updated: 1696274888567
 created: 1637898932058
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - [[p.writtenIn]] #java
 - #repo https://github.com/actoron/jadex

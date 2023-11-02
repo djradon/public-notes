@@ -12,5 +12,5 @@ created: 1645299168806
   - [[prdct.node]]
   - [[prdct.React]]
   - [[prdct.svelte]]
-- [[c.Implementation]]
+- [[c.implementation]]
   - [[prdct.asp-net]]

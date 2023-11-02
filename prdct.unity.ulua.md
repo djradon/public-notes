@@ -6,5 +6,5 @@ updated: 1698041016694
 created: 1698040994510
 ---
 
-- [[c.Software.Game-Framework]]
+- [[c.software.game-framework]]
 - #repo https://github.com/antUnity/uLua-docs

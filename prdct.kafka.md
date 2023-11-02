@@ -29,6 +29,6 @@ created: 1662589413388
 
 ## Learning Resource
 
-## [[c.Footnote]]
+## [[c.footnote]]
 
 [^1]: https://itnext.io/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c

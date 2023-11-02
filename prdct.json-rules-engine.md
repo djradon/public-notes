@@ -7,4 +7,4 @@ created: 1692988184367
 ---
 
 - #repo https://github.com/CacheControl/json-rules-engine/tree/master
-- [[c.Software.Rules-Engine]]
+- [[c.software.rules-engine]]

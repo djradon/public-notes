@@ -7,4 +7,4 @@ created: 1685940058441
 ---
 
 - #url https://github.com/goadesign/model
-- [[c.Software.Tools.Diagramming]]
+- [[c.software.tools.diagramming]]

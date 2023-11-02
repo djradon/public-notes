@@ -6,7 +6,7 @@ updated: 1698252759212
 created: 1694619438482
 ---
 
-- [[c.Software.Simulation-Framework]]
+- [[c.software.simulation-framework]]
 - #repo https://github.com/JuliaDynamics/ConcurrentSim.jl
 - [[p.writtenIn]] #julia
 

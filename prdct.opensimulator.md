@@ -6,7 +6,7 @@ updated: 1696299086915
 created: 1696288162596
 ---
 
-- [[c.Software.Virtual-Reality]]
+- [[c.software.virtual-reality]]
 - #url opensimulator.org
 - #repo https://github.com/opensim/opensim
 - [[p.writtenIn]] #c-sharp

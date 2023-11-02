@@ -6,6 +6,6 @@ updated: 1694718475809
 created: 1694718450173
 ---
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - https://github.com/topics/agent-based-simulation

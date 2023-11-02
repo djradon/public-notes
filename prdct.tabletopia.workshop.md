@@ -6,6 +6,6 @@ updated: 1673465702432
 created: 1673462482579
 ---
 
-[[c.Software.Game-Maker]]
+[[c.software.game-maker]]
 
 #url https://tabletopia.com/workshop

@@ -9,6 +9,6 @@ created: 1637439575240
 
 
 - [[p.hasSite]] https://ogp.me/
-- [[c.Resource]]
+- [[c.resource]]
   - https://jessie.codes/article/seo-blog-ogp-jsonld/
     - [[p.isRelated]] [[prdct.JSON-LD]]

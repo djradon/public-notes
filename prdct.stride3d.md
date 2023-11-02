@@ -9,7 +9,7 @@ created: 1637846271510
 - [[p.alsoKnownAs]] Xenko
 - #url https://www.stride3d.net/
 - #repo https://github.com/stride3d/stride
-- [[c.Comparable]] [[prdct.unity]] [[prdct.Monogame]]
+- [[c.comparable]] [[prdct.unity]] [[prdct.Monogame]]
 - [[p.writtenIn]] #c-sharp
 
 ## Features

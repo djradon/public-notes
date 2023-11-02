@@ -7,4 +7,4 @@ created: 1647828624810
 ---
 
 
-- [[c.Resource]] [[ar.real-time-multiplayer-colyseus]]
+- [[c.resource]] [[ar.real-time-multiplayer-colyseus]]

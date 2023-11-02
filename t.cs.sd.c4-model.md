@@ -8,7 +8,7 @@ created: 1645831289441
 
 
 - [[p.hasURL]] https://c4model.com/
-- [[c.Resource]]
+- [[c.resource]]
   - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab
   - https://c4model.com/
     - [[p.mentioned]]

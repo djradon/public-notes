@@ -6,11 +6,11 @@ updated: 1698262670488
 created: 1693696915552
 ---
 
-- [[c.Software.Actor-Framework]]
+- [[c.software.actor-framework]]
 - #url https://proto.actor
-- [[c.Software.Distributed-Systems-Runtime]]
+- [[c.software.distributed-systems-runtime]]
 - [[p.similarTo]] [[prdct.orleans]]
-- [[c.Implementation]]
+- [[c.implementation]]
   -  https://github.com/asynkron/protoactor-go #go 
   -  https://github.com/asynkron/protoactor-dotnet #c-sharp
   -  https://github.com/asynkron/protoactor-kotlin #kotlin

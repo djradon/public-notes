@@ -6,7 +6,7 @@ updated: 1696976252868
 created: 1696974070239
 ---
 
-- [[c.Software.Metaverse-Platform]]
+- [[c.software.metaverse-platform]]
 - #docs https://docs.upstreet.ai/
 - #repo https://github.com/UpstreetAI/upstreet-sdk
 - [[p.writtenIn]] #python #javascript

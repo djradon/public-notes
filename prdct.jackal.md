@@ -6,6 +6,6 @@ updated: 1696299128809
 created: 1695183726541
 ---
 
-- [[c.Software.XMPP-Server]]
+- [[c.software.xmpp-server]]
 - #repo https://github.com/ortuman/jackal
 - [[p.writtenIn]] #go

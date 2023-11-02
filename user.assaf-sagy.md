@@ -6,4 +6,4 @@ updated: 1684776785533
 created: 1684776766396
 ---
 
-- [[c.Role]] global head of gaming, [[org.tiktok]]
+- [[c.role]] global head of gaming, [[org.tiktok]]

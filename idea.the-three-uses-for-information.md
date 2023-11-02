@@ -7,7 +7,7 @@ created: 1643957460762
 ---
 
 
-- [[c.Resource]] 
+- [[c.resource]] 
   - [[p.hasAuthor]] @Nat-Eliason
 The Three Uses of Information
 

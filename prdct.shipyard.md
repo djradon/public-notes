@@ -6,7 +6,7 @@ updated: 1697168407746
 created: 1697168352385
 ---
 
-- [[c.Software.Entity-Component-System]]
+- [[c.software.entity-component-system]]
 - #url https://crates.io/crates/shipyard
 - #repo https://github.com/leudz/shipyard
 - #writtenIn #rust

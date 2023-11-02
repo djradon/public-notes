@@ -6,7 +6,7 @@ updated: 1698262518390
 created: 1686203518678
 ---
 
-## [[c.Comparand]]
+## [[c.comparand]]
 
 - [[prdct.structurizr]]
   - layers

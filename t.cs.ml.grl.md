@@ -8,5 +8,5 @@ created: 1638665473323
 
 
 
-- [[c.Resource]]
+- [[c.resource]]
   - https://towardsdatascience.com/introduction-to-graph-representation-learning-a51c963d8d11

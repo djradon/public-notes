@@ -7,4 +7,4 @@ created: 1668883637134
 ---
 
 - [[p.hasURL]] https://andymatuschak.org/
-- [[p.instanceOf]] [[c.DigitalGarden]]
+- [[p.instanceOf]] [[c.digitalgarden]]

@@ -6,7 +6,7 @@ updated: 1696540911545
 created: 1695969311938
 ---
 
-- [[c.Software.Game-Engine]]
+- [[c.software.game-engine]]
 - #repo https://github.com/orion3dgames/t5c
 - [[t.edu.learning-in-public]]
 - [[p.writtenIn]] [[prdct.typescript]]

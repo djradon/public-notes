@@ -13,7 +13,7 @@ created: 1690261969574
 - We invert a Source Code Dependency when we identify that the rate of change of a project is more than the project that depends on it.
 - an Abstraction is an interface and a Detail is an implementation.
 
-## [[c.Conclusion]]
+## [[c.conclusion]]
 
 - For Flow of Control Dependencies, inject dependencies as interfaces, or abstractions.
 - Ensure the abstractions, or interfaces, are defined in a higher level module and implemented in a lower level module to ensure the Source Code Dependency is Inverted.

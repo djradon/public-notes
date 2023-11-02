@@ -8,9 +8,9 @@ created: 1632842564955
 
 
 
-- [[p.instanceOf]] [[c.WebSite]] 
+- [[p.instanceOf]] [[c.website]] 
 - [[p.hasPart]] http://www.moehrbetter.com/blog
-- http://www.moehrbetter.com/blog [[p.instanceOf]] [[c.Blog]]
+- http://www.moehrbetter.com/blog [[p.instanceOf]] [[c.blog]]
 - [[p.ownedBy]] @scott-moehring
   
 ## [[p.hasHighlight]] 

@@ -6,7 +6,7 @@ updated: 1698252759280
 created: 1698095923169
 ---
 
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 - #url http://melange.inria.fr/
 - [[p.compatibleWith]] [[prdct.sirius]]
 

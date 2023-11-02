@@ -7,4 +7,4 @@ created: 1694114810403
 ---
 
 - #url https://www.hyperquery.ai
-- [[c.Pricing]] free for individuals
+- [[c.pricing]] free for individuals

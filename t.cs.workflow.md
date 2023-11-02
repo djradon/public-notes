@@ -6,6 +6,6 @@ updated: 1690565993934
 created: 1690382238505
 ---
 
-## [[c.Resource.List]]
+## [[c.resource.list]]
 
 - https://github.com/meirwah/awesome-workflow-engines

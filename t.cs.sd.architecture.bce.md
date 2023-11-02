@@ -6,4 +6,4 @@ updated: 1694374521129
 created: 1694374473857
 ---
 
-- [[c.Pattern.Architecture]]
+- [[c.pattern.architecture]]

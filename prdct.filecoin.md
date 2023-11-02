@@ -7,7 +7,7 @@ created: 1644162349003
 ---
 
 
-- [[c.Resource]] https://docs.filecoin.io/build/
+- [[c.resource]] https://docs.filecoin.io/build/
 
 -   [Use Glif nodes](https://lotus.filecoin.io/docs/developers/hosted-lotus/)
 - Build with [[Lotus|prdct.lotus]] for users looking to interact with their own, local Lotus nodes.

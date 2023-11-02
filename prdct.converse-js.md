@@ -6,5 +6,5 @@ updated: 1695328274094
 created: 1695185784889
 ---
 
-- [[c.Software.XMPP-Client.web]]
+- [[c.software.xmpp-client.web]]
 - #repo 

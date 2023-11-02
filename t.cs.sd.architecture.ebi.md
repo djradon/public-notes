@@ -7,7 +7,7 @@ created: 1694376497876
 ---
 
 
-- [[c.Pattern.Architecture]]
+- [[c.pattern.architecture]]
 
 ## Resources
 

@@ -6,7 +6,7 @@ updated: 1696980147170
 created: 1696980147170
 ---
 
-- [[c.Software.RPG]]
+- [[c.software.rpg]]
 - #url https://www.storycraft.gg/
 - #description Our product is an AI-Generated-Content (AIGC) gaming platform that reimagines how story driven video games are created, by letting creators deliver daily, episodic game content to their player base. Storycraft uses generative AI to create maps, characters, in-game objects, and to power a new type of creative gameplay where truly anything can happen.
 - [[p.writtenIn]] #typescript

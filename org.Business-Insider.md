@@ -8,5 +8,5 @@ created: 1634930259616
 
 
 
-- [[p.instanceOf]] [[c.Company]]
-- [[c.Resource]] https://www.businessinsider.com/about
+- [[p.instanceOf]] [[c.company]]
+- [[c.resource]] https://www.businessinsider.com/about

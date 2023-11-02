@@ -11,4 +11,4 @@ created: 1697491604929
 - [[p.writtenIn]] #java
 - #description provide the foundational building blocks for higher-level and domain-specific text understanding applications
 - [[p.usedBy]] https://nlp4j.org/ 
-  - [[c.Reference]] https://groovy.apache.org/blog/natural-language-processing-with-groovy
+  - [[c.reference]] https://groovy.apache.org/blog/natural-language-processing-with-groovy

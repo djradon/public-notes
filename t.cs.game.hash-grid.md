@@ -6,7 +6,7 @@ updated: 1680447269537
 created: 1653624676107
 ---
 
-- [[c.Implementation]]
+- [[c.implementation]]
   - https://github.com/hmans/ingrid
 - [[p.hasLearningResource]]
   - https://www.youtube.com/watch?v=oewDaISQpw0

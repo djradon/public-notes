@@ -6,7 +6,7 @@ updated: 1698252759220
 created: 1696568386668
 ---
 
-- [[c.Software.Tools.Diagramming]]
+- [[c.software.tools.diagramming]]
 - #repo https://github.com/seflless/diagrams#flowchart
 - [[p.writtenIn]] #javascript
 

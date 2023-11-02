@@ -7,7 +7,7 @@ created: 1696709230874
 ---
 
 
-## [[c.Principle]] 
+## [[c.principle]] 
 
 ![[Rustconf Talk|ar.rustconf-talk#^hkms0rjrw5lz]]
 

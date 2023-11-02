@@ -11,6 +11,6 @@ created: 1695933017036
 
 ## Resources
 
-### [[c.Resource.List]]
+### [[c.resource.list]]
 
 - https://www.scala-js.org/doc/tutorial/index.html

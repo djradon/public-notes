@@ -6,14 +6,14 @@ updated: 1698252759326
 created: 1695966061818
 ---
 
-- [[c.Software.Agent-Framework]] [[c.Software.Game-Engine]]
+- [[c.software.agent-framework]] [[c.software.game-engine]]
 - #url https://mugen87.github.io/yuka/
 - [[p.hadDependancy]]
   - [[prdct.three-js]] or [[prdct.babylon-js]]
 - [[discord.yuka]]
 - https://mugen87.github.io/yuka/docs 
   - not exactly friendly
-- [[c.Publisher]] [[org.human-interactive]]
+- [[c.publisher]] [[org.human-interactive]]
 
 ## Features
 

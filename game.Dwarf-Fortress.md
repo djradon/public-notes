@@ -6,7 +6,7 @@ updated: 1670865899135
 created: 1633158873243
 ---
 
-- [[p.instanceOf]] [[c.ComputerGame]]
+- [[p.instanceOf]] [[c.computergame]]
 - #creator @tarn-adams @zach-adams
 
 Dwarf Fortress begins and ends with stories.

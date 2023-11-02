@@ -13,7 +13,7 @@ created: 1694708715914
 - species can be constructed in a compositional way with the notion of skills, bundles of attributes and actions that can be shared between different species and inherited by their children. ^8jzl8r4hwjj2
 
 
-## [[c.Model.conceptual]]
+## [[c.model.conceptual]]
   
 - defining a model in GAML amounts to defining a model species, which later allows to instantiate a model agent (aka a simulation), which may or may not contain micro-species, and which can be flanked by experiment plans in order to be simulated.
 

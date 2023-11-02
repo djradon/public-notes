@@ -7,4 +7,4 @@ created: 1688053861944
 ---
 
 - #url https://stytch.com
-- [[c.Software.Authentication]] [[c.Software.IAM]]
+- [[c.software.authentication]] [[c.software.iam]]

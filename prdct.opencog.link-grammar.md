@@ -16,7 +16,7 @@ created: 1674838789858
 
 [[p.hasDocumentation]]
 
-## [[c.Mention]]
+## [[c.mention]]
 
 - [[book.homotopy-type-theory]]
 

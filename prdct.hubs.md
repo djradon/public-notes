@@ -6,7 +6,7 @@ updated: 1696524979791
 created: 1649974346874
 ---
 
-- [[c.Software.Metaverse-Platform]]
+- [[c.software.metaverse-platform]]
 - #url  https://hubs.mozilla.com/
 - #repo https://github.com/mozilla/hubs
 - #docs https://hubs.mozilla.com/docs/welcome.html

@@ -7,5 +7,5 @@ created: 1694060725389
 ---
 
 - [[p.supports]] [[prdct.vscode]]
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 - 

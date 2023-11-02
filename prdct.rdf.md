@@ -7,14 +7,14 @@ created: 1633160681527
 ---
 
 
-- [[p.instanceOf]] [[c.Specification]]
+- [[p.instanceOf]] [[c.specification]]
 
 ## to do
 
 - [-] [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
   - the concept of the "unnamed default graph"/master-graph is interesting; 
     - seems like dendron.yml is the master graph. expressed as yaml
-  - [[c.Resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
+  - [[c.resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
 
 ## [[p.hasIssue]]
 

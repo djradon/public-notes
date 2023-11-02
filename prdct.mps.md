@@ -6,7 +6,7 @@ updated: 1694061154717
 created: 1693977693737
 ---
 
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 - #repo https://github.com/JetBrains/MPS
 
 

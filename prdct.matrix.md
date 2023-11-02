@@ -6,8 +6,8 @@ updated: 1696524561698
 created: 1672343162451
 ---
 
-- [[c.Software.Communication-Server]]
-- [[c.Implementation]] [[prdct.dendrite]]
+- [[c.software.communication-server]]
+- [[c.implementation]] [[prdct.dendrite]]
 
 ## [[p.hasComparison]]
 

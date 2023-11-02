@@ -6,4 +6,4 @@ updated: 1695489875395
 created: 1695489809600
 ---
 
-- [[c.Software.Cellular-Automoton]]
+- [[c.software.cellular-automoton]]

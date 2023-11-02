@@ -6,12 +6,12 @@ updated: 1698252759214
 created: 1696289301886
 ---
 
-- [[c.Software.Virtual-Reality]]
+- [[c.software.virtual-reality]]
 - #url https://croquet.io/croquet-os/
 
 ## Features
 
-- multi-user [[c.Software.Live-Programming]]
+- multi-user [[c.software.live-programming]]
 
 ## Thoughts
 

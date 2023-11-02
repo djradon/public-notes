@@ -33,7 +33,7 @@ created: 1637846686838
 ### https://forums.coregames.com/t/advanced-code-architecture-for-core-part-2-entity-component-system/3194
 
 - ECS game object is a DDD Entity; an ECS Entity is a DDD Identity; an ECS Component is a DDD Domain Model; and an ECS System is a DDD Service or Aggregate Root. ^h56imtf2ip3n
-  - [[c.Thought]] i.e., an "ECS game object" is the entity (which is just an ID + list of components) + the functionality and data given by components?
+  - [[c.thought]] i.e., an "ECS game object" is the entity (which is just an ID + list of components) + the functionality and data given by components?
 
 ## Implementations
 
@@ -77,7 +77,7 @@ created: 1637846686838
   - "Any design language that does not allow me to specify the preconditions for something to work correctly is in my humble opinion flawed."
 - https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/79975.html
 
-### [[c.Resource.List]]
+### [[c.resource.list]]
 
 - https://github.com/Chillu1/CSharpECSComparison
 - 

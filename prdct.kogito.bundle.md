@@ -6,6 +6,6 @@ updated: 1690521140249
 created: 1690517552192
 ---
 
-- [[c.Software.IDE.Extension.VSCode]] 
+- [[c.software.ide.extension.vscode]] 
 - #similar [[prdct.rulesengine.editor]]
 - [[p.supports]] [[prdct.bpmn]] [[prdct.dmn]]

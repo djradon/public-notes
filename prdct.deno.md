@@ -7,7 +7,7 @@ created: 1645899638124
 ---
 
 
-- [[c.Resource]]
+- [[c.resource]]
   - https://www.imaginarycloud.com/blog/deno-vs-node/
   - https://medium.com/deno-the-complete-reference/denos-past-present-and-future-40e4d5683ce5 [[p.mentioned]] [[prdct.deno.deploy]]
 

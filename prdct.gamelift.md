@@ -6,7 +6,7 @@ updated: 1672301306248
 created: 1672301144494
 ---
 
-[[c.Software.Game-Engine]]
+[[c.software.game-engine]]
 #url https://aws.amazon.com/gamelift/
 
 - [[p.similarTo]] [[prdct.playfab]] [[prdct.nakama]]

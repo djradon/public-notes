@@ -6,7 +6,7 @@ updated: 1698252759338
 created: 1637842422618
 ---
 
-[[c.Software.Game-Engine]]
+[[c.software.game-engine]]
 
 - [[p.hasScriptingLanguage]] #javascript
   - [ ] [[prdct.jint]] https://pleasenophp.github.io/posts/using-real-javascript-with-unity.html

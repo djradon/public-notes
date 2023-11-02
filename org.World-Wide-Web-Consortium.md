@@ -8,4 +8,4 @@ created: 1634925553986
 
 
 
-- [[p.instanceOf]] [[c.Organization]]
+- [[p.instanceOf]] [[c.organization]]

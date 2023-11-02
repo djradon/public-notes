@@ -6,6 +6,6 @@ updated: 1696274888578
 created: 1695182640943
 ---
 
-- [[c.Software.XMPP-Server]]
+- [[c.software.xmpp-server]]
 - #repo
 - [[p.writtenIn]] #java

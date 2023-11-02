@@ -6,7 +6,7 @@ updated: 1673886033456
 created: 1673749623693
 ---
 
-[[c.Software.Game-Platform]] 
+[[c.software.game-platform]] 
 
 ## [[p.supports]]
 

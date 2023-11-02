@@ -8,4 +8,4 @@ created: 1636178784864
 
 
 - [[p.hasURL]] https://notes.andymatuschak.org/
-- [[p.instanceOf]] [[c.DigitalGarden]]
+- [[p.instanceOf]] [[c.digitalgarden]]

@@ -12,6 +12,6 @@ created: 1636566613428
   - file:///C:/Users/drichardson/Downloads/16604-Article%20Text-20098-1-2-20210518.pdf
 - https://analyticsindiamag.com/all-you-need-to-know-about-temporal-knowledge-graphs/
 
-## [[c.Specialization]]
+## [[c.specialization]]
 
 - [[t.km.knowledge-graph.temporal]]

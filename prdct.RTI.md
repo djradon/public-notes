@@ -10,7 +10,7 @@ created: 1637839939735
 
 
 
-- [[p.instanceOf]] [[c.Middleware]]
+- [[p.instanceOf]] [[c.middleware]]
 - [[p.c.Resource.List]] https://en.wikipedia.org/wiki/Run-time_infrastructure_(simulation)
 
 ## Resources

@@ -6,7 +6,7 @@ updated: 1696274888570
 created: 1637852885141
 ---
 
-- [[c.Software.Agent-Framework]]
+- [[c.software.agent-framework]]
 - [[p.hasApplication]] [[t.cs.multi-agent-system]]
 - [[p.writtenIn]] #java
 - [[p.implements]] [[prdct.FIPA]]

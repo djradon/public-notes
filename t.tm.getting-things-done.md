@@ -14,7 +14,7 @@ a personal productivity paradigm originated by @David-Allen
 
 - [[p.hasURL]] https://gettingthingsdone.com/
 - [[p.references]] [[book.getting-things-done-2nd-edition]]
-- [[c.PodcastSeries]] [[podcast.gtd]]
+- [[c.podcastseries]] [[podcast.gtd]]
 
 ## advanced workflow poster
 

@@ -6,6 +6,6 @@ updated: 1684866871662
 created: 1684866784901
 ---
 
-- [[c.Role]] 
+- [[c.role]] 
   - GM, the Linux Foundation
   - VP Developer Platforms, [[org.nvidia]]

@@ -6,7 +6,7 @@ updated: 1696977862298
 created: 1696521323235
 ---
 
-- [[c.Software.Game-Service.Data]]
+- [[c.software.game-service.data]]
 - #url https://5e.tools
 - #repo https://github.com/5etools-mirror-1/5etools-mirror-1.github.io
 - #docs https://wiki.tercept.net/en/home

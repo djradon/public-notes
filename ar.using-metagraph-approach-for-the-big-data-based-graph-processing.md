@@ -16,7 +16,7 @@ created: 1652509245268
 
 - "Thus, the metagraph is a complex graph model, whereas the hypergraph is a near flat graph model that does not fully implement the emergence principle."
 
-## [[c.Conclusion]]
+## [[c.conclusion]]
 
 - The key element of the metagraph model is metavertex. From the general system theory point of view, a metavertex is a particular case of the manifestation of the emergence principle, which means that a metavertex with its private attributes and connections becomes a whole that cannot be separated into its component parts.
 - The metagraph model is a complex graph model, whereas the hypergraph is a near flat graph model that does not fully implement the emergence principle. Also, the metagraph model is more flexible than the hypernetwork model.

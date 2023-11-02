@@ -6,5 +6,5 @@ updated: 1698527960000
 created: 1696480873297
 ---
 
-- [[c.Software.Database.Multi-Model]]
+- [[c.software.database.multi-model]]
 - [[p.writtenIn]] #c++ #javascript

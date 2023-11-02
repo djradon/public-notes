@@ -8,7 +8,7 @@ created: 1696966494444
 
 
 
-### [[c.Resource.List]]
+### [[c.resource.list]]
 
 - https://github.com/szarnyasg/gql-sql-pgq-pointers
 - https://www.linkedin.com/pulse/postgresql-oracle-graph-query-language-standards-adoption-green/

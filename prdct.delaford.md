@@ -6,7 +6,7 @@ updated: 1695968056224
 created: 1695967764328
 ---
 
-- [[c.Software.Game-Platform]]
+- [[c.software.game-platform]]
 - #repo https://github.com/delaford/game
 - #url https://beta.delaford.com/
 

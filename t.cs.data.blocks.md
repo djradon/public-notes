@@ -5,6 +5,6 @@ desc: ''
 updated: 1698704342242
 created: 1694206638654
 ---
-- [[c.Implementation]]
+- [[c.implementation]]
   - [[prdct.block-protocol]]
   - [[prdct.github.blocks]]

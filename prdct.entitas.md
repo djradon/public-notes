@@ -6,7 +6,7 @@ updated: 1698252759222
 created: 1697570695355
 ---
 
-- [[c.Software.Entity-Component-System]]
+- [[c.software.entity-component-system]]
 - #repo https://github.com/sschmid/Entitas
 - [[p.writtenIn]] #c-sharp
 

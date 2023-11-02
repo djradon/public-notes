@@ -7,4 +7,4 @@ created: 1694380812689
 ---
 
 - #repo https://github.com/AliceRoselia/Nebula.jl
-  - [[c.Mention]] [[prdct.modeling-toolkit]] [[prdct.overseer]]
+  - [[c.mention]] [[prdct.modeling-toolkit]] [[prdct.overseer]]

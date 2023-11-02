@@ -7,11 +7,11 @@ created: 1652735164588
 ---
 
 
-- [[c.Resource]]
+- [[c.resource]]
   - https://decentralized-id.com/web-standards/object-capabilities/
 
 
-[[c.Implementation]]
+[[c.implementation]]
 Notable research and commercial systems employing capability-based security include the following:
 
 -   [Tahoe-LAFS](https://en.wikipedia.org/wiki/Tahoe-LAFS "Tahoe-LAFS"), an open-source capability-based filesystem

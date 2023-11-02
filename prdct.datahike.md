@@ -7,6 +7,6 @@ created: 1636376215367
 ---
 
 
-- [[c.Software.Database.Graph]]
+- [[c.software.database.graph]]
 - [[p.hasRepository]] https://github.com/replikativ/datahike
 - [[p.isPortOf]] [[product.datascript]]

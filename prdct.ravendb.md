@@ -6,7 +6,7 @@ updated: 1698262670493
 created: 1681138400217
 ---
 
-- [[c.Comparison]] https://ravendb.net/comparison
+- [[c.comparison]] https://ravendb.net/comparison
 
 ## Cons
 

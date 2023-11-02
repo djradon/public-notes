@@ -6,5 +6,5 @@ updated: 1697639484588
 created: 1697639440417
 ---
 
-- [[c.Software.Library.Metaprogramming]]
+- [[c.software.library.metaprogramming]]
 - #repo https://github.com/RickStrahl/Westwind.Scripting

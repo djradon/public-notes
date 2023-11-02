@@ -7,4 +7,4 @@ created: 1671484551359
 ---
 
 - [[p.supports]] #javascript
-- [[p.instanceOf]] [[c.Software.Game-Platform]]
+- [[p.instanceOf]] [[c.software.game-platform]]

@@ -6,7 +6,7 @@ updated: 1698262670417
 created: 1672314344300
 ---
 
-- [[c.Software.Metaverse-Platform]]
+- [[c.software.metaverse-platform]]
 - #url https://www.etherealengine.org/
 - #repo https://github.com/XRFoundation/XREngine-Control-Center#readme
 - #license [[lic.cpal]] - source modifications must be published, attribution must be prominent

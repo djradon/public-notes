@@ -6,7 +6,7 @@ updated: 1694817532526
 created: 1693977641453
 ---
 
-- [[c.Software.Language-Workbench]]
+- [[c.software.language-workbench]]
 - #url https://eclipse.dev/Xtext/
 
 

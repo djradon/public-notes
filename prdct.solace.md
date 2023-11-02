@@ -8,7 +8,7 @@ created: 1672319782724
 
 - #closed-source
 - #url https://solace.com
-- [[c.Pricing]] "contact sales"
+- [[c.pricing]] "contact sales"
 
 - [[p.similarTo]] [[prdct.azure.event-grid]]
 - [[p.supports]] [[t.cs.sd.rest]]

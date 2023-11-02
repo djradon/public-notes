@@ -6,7 +6,7 @@ updated: 1698609770758
 created: 1637853501507
 ---
 
-- [[c.Software.Web3]] [[c.Software.Agent-Framework]]
+- [[c.Software.Web3]] [[c.software.agent-framework]]
 - [[p.hasSite]] https://fetch.ai/
 - [[p.hasComponent]] [[prdct.Fetch-AI.aea]] [[prdct.Fetch-AI.agentverse]]
 - ![](/assets/images/2021-11-25-19-52-26.png)

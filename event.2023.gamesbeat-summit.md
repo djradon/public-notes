@@ -6,7 +6,7 @@ updated: 1684869845440
 created: 1684773649705
 ---
 
-- [[c.Sponsor]] [[org.spectrum]]
+- [[c.sponsor]] [[org.spectrum]]
 
 ## the future of mobile gaming
 
@@ -15,8 +15,8 @@ created: 1684773649705
 
 ## transforming gaming experiences with [[t.cs.ai]]
 
-- [[c.Host]] @joost-van-dreunen
-- [[c.Panelist]] @john-riccitiello
+- [[c.host]] @joost-van-dreunen
+- [[c.panelist]] @john-riccitiello
   - built an inference engine ([[prdct.unity.barracuda]]) inside the runtime 
   - web3 is not going to be a big impact; vr/xr only by end of decade
   - creation of content (ways we make games)
@@ -33,7 +33,7 @@ created: 1684773649705
 
 ## Ready Player All: Launching Games at the Forefront of Culture
 
-- [[c.Panelist]] @mike-quigley @assaf-sagy @rema-vasan
+- [[c.panelist]] @mike-quigley @assaf-sagy @rema-vasan
 - privacy considerations make [[t.cs.game.user-acquisition]] into marketers
 - @rema-vasan
   - it's discovering through intersectionality (film creator, fashion designer, etc all have a role) beyond core gaming community
@@ -49,7 +49,7 @@ created: 1684773649705
 
 ## From Niche to Mainstream: The Path to Mass Adoption of Blockchain in Gaming
 
-- [[c.Panelist]] @mark-otero
+- [[c.panelist]] @mark-otero
 
 - @paul-bettner
   - making [[game.wildcard]]
@@ -81,7 +81,7 @@ created: 1684773649705
 
 ## Power to the People
 
-- [[c.Panelist]] @emmanuel-de-amistre @jordan-weisman
+- [[c.panelist]] @emmanuel-de-amistre @jordan-weisman
 - @jordan-weisman ceo of [[org.endless-adventures]]
   - "ai-cautious game creator"; it's about the human artform; it's about how do we empower without overcoming; genies don't go back into bottles
   - "I want more people to be gamedevs"
@@ -102,7 +102,7 @@ created: 1684773649705
 
 ## Building the metaverse with open standards
 
-- [[c.Panelist]] @marc-petit @royal-obrien @neil-trevett
+- [[c.panelist]] @marc-petit @royal-obrien @neil-trevett
 - @neil-trevett 
   - metaverse bringing together many disruptive technologies, each field interetsing in its own right 
   - "open standard" is just a contract between two entities about how they will communicate / interoperate

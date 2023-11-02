@@ -8,5 +8,5 @@ created: 1638050588130
 
 
 
-- [[c.Resource]]
+- [[c.resource]]
   - https://psyche.co/ideas/childhood-shyness-can-be-advantageous-dont-pathologise-it

@@ -6,7 +6,7 @@ updated: 1680308322422
 created: 1680306061571
 ---
 
-## [[c.Abstract]]
+## [[c.abstract]]
 
 Over the past decades, the question of what text really is has been addressed by a large number of conferences, workshops, articles, and blog posts. If there is one thing that, taken together, those contributions illustrate, it is that our understanding of text is—and has been—constantly in flux and open to many interpretations. Still, there is often a gap between how an editor conceptualizes a source text and how this text is encoded and stored on a computer: using TEI XML, editors are compelled to model their text as a single tree (a hierarchy), whether this structure corresponds with their intellectual understanding or not. Textual features that do not fit naturally into the XML data model require additional layers of code, which hinders processing, querying, and interchange.
 

@@ -8,7 +8,7 @@ created: 1637843141306
 
 
 
-- [[c.Implementation]] [[prdct.open-dis-javascript]]
+- [[c.implementation]] [[prdct.open-dis-javascript]]
 
 - PDU: Protocol Data Units
 

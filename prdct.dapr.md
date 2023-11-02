@@ -6,10 +6,10 @@ updated: 1698704342099
 created: 1688397077910
 ---
 
-- [[c.Software.Distributed-Systems-Runtime]] [[c.Software.Actor-Framework]]
+- [[c.software.distributed-systems-runtime]] [[c.software.actor-framework]]
 - #url https://dapr.io
 - #repo https://github.com/dapr
-- [[c.Documentation]] https://docs.dapr.io
+- [[c.documentation]] https://docs.dapr.io
 
 ## [[p.supports]]
 
@@ -39,7 +39,7 @@ created: 1688397077910
 
 - "You want to work with single-threaded objects that do not require significant interaction from external components, including querying state across a set of actors."
 
-## [[c.FAQ]]
+## [[c.faq]]
 
 - "What is the relationship between Dapr, Orleans and Service Fabric Reliable Actors?"
   - Dapr's actor framework is  similar to Orleans
@@ -54,7 +54,7 @@ created: 1688397077910
 -"You cannot dynamically add new programmatic subscriptions, only add new ones at compile time"
   - https://docs.dapr.io/developing-applications/building-blocks/pubsub/subscription-methods/
 
-## [[c.Notes]]
+## [[c.notes]]
 
 - "Redis does not support transaction rollbacks and should not be used in production as an actor state store."
 - the Dapr SDK for Java builds upon Project Reactor, all methods are asynchronous. This means they return a Mono<T> or a Flux<T>, respectively a single item or a stream of items somewhere in the future. Since both a Mono<T> and a Flux<T> are “cold”, you have to “subscribe” on them. By subscribing, you tell the code that will produce the items that you are ready to process the items that they will produce. One of the ways to do this is by invoking .block() on the Mono<T> or Flux<T>.
@@ -82,7 +82,7 @@ created: 1688397077910
 - https://dev.to/aaronblondeau/virtual-actors-dapr-vs-orleans-30f0
  - https://medium.com/event-driven-utopia/5-reasons-why-you-should-use-microsoft-dapr-to-build-event-driven-microservices-cb2202c579a0
 - https://itnext.io/dapr-vs-envoy-when-to-use-what-6c2ac3caaed2
-[[c.Resource.Learning]]
+[[c.resource.learning]]
 
 - https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/
 - [[book.practical-microservices-with-dapr-and-dotnet]]                            - https://www.freshbrewed.science/dapr-getting-started/index.html

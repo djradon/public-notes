@@ -34,7 +34,7 @@ created: 1635700925535
 
 ### Requirements
 
-- [[c.Resource]] https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories
+- [[c.resource]] https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories
 
 ### User Stories
 
@@ -42,7 +42,7 @@ created: 1635700925535
 
 ### Story Maps
 
-- [[c.Resource]] https://www.altexsoft.com/blog/uxdesign/a-complete-guide-to-user-story-mapping-process-tips-advantages-and-use-cases-in-product-management/
+- [[c.resource]] https://www.altexsoft.com/blog/uxdesign/a-complete-guide-to-user-story-mapping-process-tips-advantages-and-use-cases-in-product-management/
 - [[p.attributedTo]] [Jeff Patton](https://www.scrumalliance.org/community/profile/jpatton)
 - [[p.hasElements]]
   - Items are arranged in two dimensions

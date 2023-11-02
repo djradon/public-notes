@@ -8,12 +8,12 @@ created: 1697002853702
 
 - #url https://www.owlbear.rodeo/
 
-## [[c.Model.conceptual]]
+## [[c.model.conceptual]]
 
 - Rooms: a space to connect to your players
 - Scenes: A scene is an infinite space for you to lay out images, drawings, fog and more. 
 
 ## Features
 
-- [[c.Extension]]SDK! 
+- [[c.extension]]SDK! 
   - [[c.requirement]] [[prdct.node]]

@@ -6,7 +6,7 @@ updated: 1698704342105
 created: 1694708152058
 ---
 
-- [[c.Software.Agent-Framework]] [[c.Software.Cognitive-Architecture]]
+- [[c.software.agent-framework]] [[c.software.cognitive-architecture]]
 - #url https://gama-platform.org/
 - #repo https://github.com/gama-platform/gama
 - [[p.writtenIn]] #java

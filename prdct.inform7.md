@@ -7,7 +7,7 @@ created: 1651302357861
 ---
 
 
-- [[p.instanceOf]] [[c.Software.Game-Framework.InteractiveFiction]]
+- [[p.instanceOf]] [[c.software.game-framework.interactivefiction]]
 - [[p.hasSite]] https://ganelson.github.io/inform/
   - [[p.hasHighlight]]
     - https://ganelson.github.io/inform/structure.html

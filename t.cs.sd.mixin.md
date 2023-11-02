@@ -6,7 +6,7 @@ updated: 1697561175127
 created: 1696197242241
 ---
 
-- [[c.Comparable]] 
+- [[c.comparable]] 
   - [[t.cs.ecs]] [[t.cs.programming.code-reuse]]
   - [[t.cs.traits]]
 

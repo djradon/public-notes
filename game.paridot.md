@@ -7,4 +7,4 @@ created: 1684777428469
 ---
 
 - [[t.cs.augmented-reality]]
-- [[c.Publisher]] [[org.niantic]]
+- [[c.publisher]] [[org.niantic]]

@@ -34,7 +34,7 @@ created: 1669463161648
 - https://azure.microsoft.com/en-us/blog/events-data-points-and-messages-choosing-the-right-azure-messaging-service-for-your-data/
   - "Events largely fall into two big categories: They either hold information about specific actions that have been carried out by the publishing application, or they carry informational data points as elements of a continuously published stream."
 - https://serverlessland.com/event-driven-architecture/visuals/document-event-driven-architectures
-  - [[c.Mention]] [[prdct.event-catalog]]
+  - [[c.mention]] [[prdct.event-catalog]]
 
 ### [[p.hasLearningResource]]
 

@@ -6,5 +6,5 @@ updated: 1685984411533
 created: 1685984360831
 ---
 
-- [[c.Website]] https://feval.ca/
+- [[c.website]] https://feval.ca/
 - [[p.workedFor]] [[org.microsoft]]

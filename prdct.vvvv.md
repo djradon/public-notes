@@ -6,7 +6,7 @@ updated: 1698252759336
 created: 1695936736004
 ---
 
-- [[c.Software.Live-Programming]]
+- [[c.software.live-programming]]
 - #url https://visualprogramming.net/
 - [[p.builtOn]] [[prdct.stride3d]]
 

@@ -6,7 +6,7 @@ updated: 1697986701497
 created: 1672301401340
 ---
 
-[[c.Software.Game-Platform]]
+[[c.software.game-platform]]
 #url https://playerio.com/
 
 - [[p.hasClientSupport]] [[prdct.unity]] #java #javascript 

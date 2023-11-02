@@ -6,6 +6,6 @@ updated: 1698255848887
 created: 1696566392333
 ---
 
-- [[c.Software.Tools.Diagramming]]
+- [[c.software.tools.diagramming]]
 - [[c.grammar.abstract]]
 - #url https://graphviz.org/doc/info/lang.html
