@@ -12,7 +12,7 @@ created: 1637591669334
 - [[p.hasSite]] https://godotengine.org/
 - [[p.builtWith]] #c++
 - [[p.hasScriptingLanguage]] 
-  - [[t.cs.languages.GDScript]] 
+  - [[t.cs.languages.gdscript]] 
   - [[t.cs.languages.C-sharp]]
   - #c++
   - #typescript via https://github.com/GodotExplorer/ECMAScript and [[prdct.quickjs]]

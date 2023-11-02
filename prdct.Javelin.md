@@ -12,4 +12,4 @@ created: 1637568084807
 - [[p.hasRepository]] https://github.com/3mcd/javelin
 - [[p.hasSite]] https://javelin.games
   - [[p.references]] https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine
-    - "[[Godot|prdct.Godot]] does composition at a higher level than in a traditional ECS."
+    - "[[Godot|prdct.godot]] does composition at a higher level than in a traditional ECS."

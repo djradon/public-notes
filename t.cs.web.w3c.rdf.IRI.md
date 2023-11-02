@@ -1,6 +1,6 @@
 ---
 id: iPmGRChUgfLhzeUTlfXef
-title: IRI
+title: Iri
 desc: ''
 updated: 1634943750639
 created: 1634922765107
