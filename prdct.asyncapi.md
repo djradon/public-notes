@@ -2,7 +2,7 @@
 id: 5izi3fbls7d833qc45ozeaq
 title: AsyncAPI
 desc: ''
-updated: 1699054125418
+updated: 1699199448853
 created: 1673569081430
 ---
 
@@ -46,7 +46,11 @@ created: 1673569081430
   - "I always start with the basics and define all the different channels for which the game server should produce events over."
   - mentions: Nic Townsend's post about [Demystifying the Semantics of Publish and Subscribe](https://www.asyncapi.com/blog/publish-subscribe-semantics).
 - https://icepanel.medium.com/asyncapi-for-event-driven-architectures-b08d6ee952fc
+- https://www.asyncapi.com/blog/publish-subscribe-semantics
+  - "When reading an AsyncAPI document:
 
+    publish means publish an event to the channel and this application will receive it
+    subscribe means subscribe to this channel to receive events published by this application"
 
 ### #c-sharp
 
