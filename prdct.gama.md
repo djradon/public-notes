@@ -2,9 +2,10 @@
 id: yfdmxrwjycaz3db8uswe0b5
 title: Gama
 desc: ''
-updated: 1698704342105
+updated: 1699151840703
 created: 1694708152058
 ---
+
 
 - [[c.software.agent-framework]] [[c.software.cognitive-architecture]]
 - #url https://gama-platform.org/
