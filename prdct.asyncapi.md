@@ -1,12 +1,20 @@
 ---
 id: 5izi3fbls7d833qc45ozeaq
-title: Asyncapi
+title: AsyncAPI
 desc: ''
-updated: 1698262670392
+updated: 1699054125418
 created: 1673569081430
 ---
 
+- related: [[prdct.asyncapi.modelina]]
 
+## Highlights
+
+- "Like with OpenAPI, an AsyncAPI documents an application from the client perspective."
+- "there is no client/server paradigm... AsyncAPI approaches this by describing an application as having two potential roles:
+  - If it sends messages to a channel, it's a “Publisher".
+  - If it is interested in receiving messages from a channel, it is a “Subscriber"...
+  - The exception to the rule is websockets - there is a client/server paradigm rather than a messaging infrastructure - so other applications will connect directly to the server."
 
 ## Comparison
 
@@ -16,6 +24,8 @@ created: 1673569081430
   - ![](/assets/images/2023-09-29-11-33-20.png)
 - https://stackoverflow.com/questions/67055564/how-to-document-a-mixture-of-synchronous-and-asynchronous-apis-do-we-use-asynca
 - https://bump.sh/blog/asyncapi-vs-openapi
+- https://www.asyncapi.com/docs/tutorials/getting-started/coming-from-openapi
+  - 
 
 ## [[c.comparand]] [[prdct.cloudevents]]
 
@@ -32,6 +42,11 @@ created: 1673569081430
   - includes [[prdct.nats]]
 - https://blog.postman.com/asyncapi-joins-forces-with-postman-future-of-apis/
 - https://www.asyncapi.com/blog/designing_your_apis_with_asyncapi_part_1
+- [](https://github.com/jonaslagoni/asyncapi-miniseries/blob/master/docs/Part%201%20-%20Designing%20the%20API's.md)
+  - "I always start with the basics and define all the different channels for which the game server should produce events over."
+  - mentions: Nic Townsend's post about [Demystifying the Semantics of Publish and Subscribe](https://www.asyncapi.com/blog/publish-subscribe-semantics).
+- https://icepanel.medium.com/asyncapi-for-event-driven-architectures-b08d6ee952fc
+
 
 ### #c-sharp
 

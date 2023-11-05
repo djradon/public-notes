@@ -2,11 +2,13 @@
 id: ehflhupgftjncjisnmcxyzy
 title: Event Driven Architecture
 desc: 'Event-driven architecture uses events to communicate notable data changes between service boundaries'
-updated: 1696014883613
+updated: 1699053895904
 created: 1669463161648
 ---
 
 ## [[p.hadDefinition]]
+
+- "In an event driven architecture there is no client/server paradigm."
 
 ### https://www.confluent.io/kafka-summit-san-francisco-2019/building-event-driven-architectures-with-kafka-and-cloud-events/
 

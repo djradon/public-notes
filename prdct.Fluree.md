@@ -2,7 +2,7 @@
 id: joiwdd2KjBWzPf68G3vot
 title: Fluree
 desc: 'Open source semantic graph database that guarantees data integrity, facilitates secure data sharing, and powers connected data insights.'
-updated: 1637766814524
+updated: 1699143994040
 created: 1634617777670
 ---
 
@@ -16,6 +16,10 @@ created: 1634617777670
   - " optionally decentralized (e.g. using StorJ via Tardigrade)"
     - [[p.hasSource]] https://github.com/athensresearch/athens/issues/9#issuecomment-786844129
   - [[prdct.json-ld]] support (alpha)
+
+## Features
+
+- a query peer "runs as an in-memory database peer to the ledger it's subscribed to. But like you mention, it doesn't only need (or need at all) to do so because it's intended to answer Fluree queries from other clients. It could very usefully just subscribe to a ledger in order to monitor data events like newly committed blocks and then to evaluate if that data meets a certain criteria, and--if so--to then trigger some downstream function or additional side effect... the NodeJS peer subscribes to the ledger as a particular cryptographic identity, which means that the listener itself will only be privy to data updates that that identity SHOULD be able to access."
 
 ## Learning Resources
 
