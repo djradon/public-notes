@@ -2,7 +2,7 @@
 id: ehflhupgftjncjisnmcxyzy
 title: Event Driven Architecture
 desc: 'Event-driven architecture uses events to communicate notable data changes between service boundaries'
-updated: 1699053895904
+updated: 1699289503724
 created: 1669463161648
 ---
 
@@ -37,6 +37,9 @@ created: 1669463161648
   - "Events largely fall into two big categories: They either hold information about specific actions that have been carried out by the publishing application, or they carry informational data points as elements of a continuously published stream."
 - https://serverlessland.com/event-driven-architecture/visuals/document-event-driven-architectures
   - [[c.mention]] [[prdct.event-catalog]]
+- https://www.architecture-weekly.com/p/architecture-weekly-152-6th-november
+  - "
+
 
 ### [[p.hasLearningResource]]
 
