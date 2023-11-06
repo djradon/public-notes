@@ -4,7 +4,7 @@ title: Property Vs Attribute Vs Field
 desc: >-
   confusing, because the OOP context is different the metaphysical/linguistic
   conventions ?
-updated: 1638026509666
+updated: 1699217379908
 created: 1638024748401
 ---
 
@@ -19,6 +19,13 @@ created: 1638024748401
   - [[t.phil.metaphysics]]
     - property: something inherent about a thing, especially how it behaves under particular conditions, e.g. hardness
     - attribute: additional info about a thing, e.g. applicability for furniture making
+
+
+## Thoughts
+
+- strength: 18 
+  - may look like an attribute, but is has a very specific context. you could specify that in a schema, but given how special strength is, each possible value is its own thing, not just a primitive, but a hook to hang your hat on.
+  - although, Strength scores cap out at 30 (20 for PCs relying on ability score increases).
 
 
 ## Resources
