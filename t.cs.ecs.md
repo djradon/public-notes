@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   runtime-flexible, highly compatible, safe, and easily composable approach to
   software
-updated: 1697986701500
+updated: 1699303073988
 created: 1637846686838
 ---
 
@@ -72,7 +72,7 @@ created: 1637846686838
     - "the idea isn’t that there’s a fixed target called a “game engine” that you go out and build, and then you build the game on top of it. For my case at least, the engine is the broader codebase that evolves around the game as you build it."
     - "People like building shit. It’s fun. It’s really fun."
 - [[course.gamedev-patterns-ts]]
-- https://ajmmertens.medium.com/why-vanilla-ecs-is-not-enough-d7ed4e3bebe5 td
+- https://ajmmertens.medium.com/why-vanilla-ecs-is-not-enough-d7ed4e3bebe5 
   - "Consider creating a “Timer” component that removes a component after N seconds, for example to remove a buff from an entity. An entity can have multiple buffs at the same time, yet I can only add the Timer component once. Solutions to this problem get unwieldy (storing a map in the component value or creating a Timer component for each buff component). This is a serious limitation when applications want to implement generic systems."
   - "Any design language that does not allow me to specify the preconditions for something to work correctly is in my humble opinion flawed."
 - https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/79975.html

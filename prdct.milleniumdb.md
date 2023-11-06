@@ -2,7 +2,7 @@
 id: 89gf0cjq73ftfn7ezvgrthq
 title: Milleniumdb
 desc: ''
-updated: 1699302486726
+updated: 1699305501743
 created: 1699302091247
 ---
 
@@ -11,4 +11,4 @@ created: 1699302091247
 
 ## References
 
-- https://watermark.silverchair.com/dint_a_00209.pdf
+- [[ar.millennium-db-an-open-source-graph-database-system]]

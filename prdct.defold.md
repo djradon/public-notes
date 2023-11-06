@@ -2,7 +2,7 @@
 id: 23gw6h1twkmu2dp1dy6pc4v
 title: Defold
 desc: 'Lua-based game engine for high-performance cross-platform games'
-updated: 1698704342102
+updated: 1699306938232
 created: 1672300709043
 ---
 
@@ -14,13 +14,15 @@ created: 1672300709043
 
 ## Features
 
-- create and modify 3D geometry at runtime
+- create and modify 3D geometry at runtime ^camw7v2l0zve
 - Engine supports reactive-style Lua scripting for low overhead and great performance
 - allows you to write extensions to the engine in C, C++, ObjectiveC, Java and JavaScript.
 - Integrated with tools such as Atom, VS Code, Spine and Tiled.
 - publish to web
   - [[c.issue]]
     - no hot reload
+
+
 ## c.Resource
 
 - [Building a Multiplayer Server](https://forum.defold.com/t/building-a-multiplayer-server/69010)

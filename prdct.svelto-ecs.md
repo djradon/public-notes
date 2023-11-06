@@ -2,7 +2,7 @@
 id: 1j7zJamy6xne6ZZ6Y2PnK
 title: Svelto.ECS
 desc: ''
-updated: 1696370370212
+updated: 1699313383730
 created: 1638152420551
 ---
 
@@ -10,6 +10,7 @@ created: 1638152420551
 - [[p.writtenIn]] [[t.cs.languages.c-sharp]]
 - [[p.hasRepository]] https://github.com/sebas77/Svelto.ECS
 - [[p.hasCreator]] @sebas77
+- [[p.supports]] [[prdct.stride3d]]
 - [[c.resource]] 
   - [[ar.sebaslab.the-quest-for-maintainable-code-and-the-path-to-ecs]]
   - [[ar.sebaslab.whats-new-in-svelto-ecs-3-0]]

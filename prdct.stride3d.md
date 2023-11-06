@@ -1,16 +1,18 @@
 ---
 id: YEENs52Vldkdwe2jkkRpe
 title: Stride3d
-desc: ''
-updated: 1698953779847
+desc: 'Open-source C# Game Engine'
+updated: 1699307971102
 created: 1637846271510
 ---
 
+- [[c.software.game-engine]]
 - [[p.alsoKnownAs]] Xenko
 - #url https://www.stride3d.net/
 - #repo https://github.com/stride3d/stride
 - [[c.comparable]] [[prdct.unity]] [[prdct.monogame]]
 - [[p.writtenIn]] #c-sharp
+- [[p.usedBy]] [[prdct.vvvv]]
 
 ## Features
 
@@ -38,3 +40,8 @@ created: 1637846271510
 
 - https://www.sebaslab.com/svelto-miniexample-7-stride-engine-demo/
   - [[p.isRelated]] [[prdct.svelto-ecs]]
+
+## References
+
+- [Code-Only Approach](https://github.com/stride3d/stride/issues/1295)
+- [Stride3D - Life beyond Unity?](https://www.i-programmer.info/news/144-graphics-and-games/16120-stride3d-life-beyond-unity.html)
