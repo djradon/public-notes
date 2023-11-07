@@ -2,7 +2,7 @@
 id: 0446pg8cq2w5q4nibe9xp11
 title: Mixin
 desc: 'a class that contains methods for use by other classes without having to be the parent class of those other classes'
-updated: 1697561175127
+updated: 1699374345657
 created: 1696197242241
 ---
 
@@ -21,6 +21,12 @@ created: 1696197242241
   - but "Traits are Mixins just with some slightly different properties from a programming language designers point of view like Mixins require [[t.cs.sd.mixin.linearization]] while Traits are flattened and Traits traditionally don’t contain states."
 - #rust Rust makes extensive use of mixins via traits. Traits, like in Scala, allow users to implement behaviours for a defined type. They are also used for generics and dynamic dispatch, which allow for types with same traits to be used interchangeably statically or dynamically at runtime respectively
 - #java http://hannesdorfmann.com/android/java-mixins/
+- javascript
+  - https://javascript.info/mixins
+```
+// copy the methods
+Object.assign(User.prototype, sayHiMixin);
+```
 
 ## c.Implementation
 
