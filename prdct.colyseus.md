@@ -4,13 +4,13 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1698704342098
+updated: 1699482977817
 created: 1642897812921
 ---
 
-- [[c.software.game-platform]]
-#repo https://github.com/colyseus/colyseus
-#creator @endel-dreyer
+
+- repo: https://github.com/colyseus/colyseus
+- creator: @endel-dreyer
 
 - [[p.ownedBy]] [[org.lucid-sight]]
 - [[p.hasRelatedSolution]] https://github.com/endel/ecs #ecs
@@ -30,12 +30,14 @@ created: 1642897812921
   - https://forum.babylonjs.com/t/open-source-multiplayer-3d-rpg-using-colyseus/35733
     - [[p.mentioned]] [[prdct.yuka-ai]]
 
+## Issues
+
+- [Ability to serialize/deserialize Schema on the server side](https://github.com/colyseus/schema/issues/115)
+  - "So I guess the option at this point would be to serialize the state to the database continually, but only as a backup. If the server crashes it can reread the state and would send the full update to the clients to ensure they are back in sync. Which is probably what you want anyway."
+
 ## Resources
 
-- https://docs.google.com/presentation/d/e/2PACX-1vSjJtmU-SIkng_bFQ5z1000M6nPSoAoQL54j0Y_Cbg7R5tRe9FXLKaBmcKbY_iyEpnMqQGDjx_335QJ/embed?start=false&loop=false&delayms=3000#slide=id.p
-
-
-### [[p.hasLearningResource]] 
+### Learning Resources
 - https://drive.google.com/file/d/19EyfO5xQUNx4ejxFTz1KYDjzfGo7UPHA/view
   - [full doc available for $10](https://endel.gumroad.com/l/mazmorra)
   - [[p.hasAuthor]] @endel-dreyer
@@ -44,9 +46,11 @@ created: 1642897812921
 - [[Real Time Multiplayer Colyseus Tutorial|ar.real-time-multiplayer-colyseus]]
 - https://blog.logrocket.com/building-a-multiplayer-game-with-colyseus-io/
 - https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/
+
 ## Implementations
 
 - [[game.tosios]]
+- [[prdct.t5c]]
 
 ## [[prdct.windows.wsl]]
 

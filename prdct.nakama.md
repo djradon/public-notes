@@ -66,3 +66,5 @@ The JavaScript runtime code is executed in instanced contexts (VM pool). You can
 
 - https://heroiclabs.com/docs/nakama/getting-started/architecture/
   - "If data needs to be distributed to clients live, streams are the way it gets there. Individual player sessions join and leave streams, like subscribing and unsubscribing to a continuous flow of messages."
+
+- [[c.software.game-platform]] [[c.software.game-framework]]
