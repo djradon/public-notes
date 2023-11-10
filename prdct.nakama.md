@@ -4,7 +4,7 @@ title: Nakama
 desc: >-
   the first open-source distributed server for social and realtime games and
   apps
-updated: 1698252759288
+updated: 1699485497154
 created: 1656792485964
 ---
 
@@ -27,8 +27,6 @@ created: 1656792485964
 -   Define and call [RPC functions](https://heroiclabs.com/docs/nakama/server-framework/introduction/#rpc-functions)
 -   Run background server cron [jobs](https://heroiclabs.com/docs/nakama/guides/server-framework/background-jobs/)
 -   [Access controls](https://heroiclabs.com/docs/nakama/concepts/storage/permissions/) and [API guarding](https://heroiclabs.com/docs/nakama/guides/server-framework/guarding-apis/)
--   Low-level control of real-time [routing and delivery](https://heroiclabs.com/docs/nakama/server-framework/streams/)
-
 
 ## [[c.limitation]]
 

@@ -4,7 +4,7 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1699482977817
+updated: 1699486832159
 created: 1642897812921
 ---
 
@@ -25,6 +25,8 @@ created: 1642897812921
    - [[prdct.phaser]]
      - https://github.com/colyseus/tutorial-phaser/tree/master
      - https://learn.colyseus.io/phaser
+   - [[prdct.construct]]
+   - [[prdct.haxe]]
 - [[p.hasExample]]
   - [[Tosios|game.tosios]]
   - https://forum.babylonjs.com/t/open-source-multiplayer-3d-rpg-using-colyseus/35733
