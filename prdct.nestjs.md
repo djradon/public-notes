@@ -2,7 +2,7 @@
 id: krvp9kr9zbsr8ivk7bgnjbm
 title: NestJS
 desc: typescript framework based on Express
-updated: 1674415768499
+updated: 1699897388675
 created: 1654055504089
 ---
 
@@ -21,3 +21,8 @@ created: 1654055504089
 
 - https://javascript.plainenglish.io/a-beginners-introduction-to-kafka-with-typescript-using-nestjs-7c92fe78f638
 
+
+## Comparisons
+
+- https://innovation.alteryx.com/choosing-an-api-framework-for-your-typescript-backend/
+  - vs. [[prdct.tsoa]]
