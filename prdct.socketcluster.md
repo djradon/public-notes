@@ -2,7 +2,7 @@
 id: vu9hxlph0g31un1u07nsvs1
 title: Socketcluster
 desc: 'Highly scalable pub/sub and RPC toolkit optimized for async/await'
-updated: 1673628241857
+updated: 1699905476531
 created: 1673341364472
 ---
 
@@ -14,6 +14,7 @@ created: 1673341364472
 - [[prdct.webrpc]]
   - "
   - https://github.com/sinclairzx81/smoke
+- [[prdct.socket-io]]
 
 ## [[p.hasComparison]]
 

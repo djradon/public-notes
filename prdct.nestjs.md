@@ -2,14 +2,15 @@
 id: krvp9kr9zbsr8ivk7bgnjbm
 title: NestJS
 desc: typescript framework based on Express
-updated: 1699897388675
+updated: 1699903208464
 created: 1654055504089
 ---
 
 ## [[p.supports]]
 
-- [[prdct.fastify]]
+- [[prdct.fastify]] or [[prdct.express]]
 - [[prdct.asyncapi]] via [[prdct.nestjs-asyncapi]]
+- [[prdct.angular]]
 
 ## Use Cases
 
@@ -26,3 +27,4 @@ created: 1654055504089
 
 - https://innovation.alteryx.com/choosing-an-api-framework-for-your-typescript-backend/
   - vs. [[prdct.tsoa]]
+    - "Nest is the smarter choice for most use cases."

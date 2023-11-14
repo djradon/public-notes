@@ -2,7 +2,7 @@
 id: eqpfbn6ppca6xxa2dpyjmuk
 title: H3
 desc: ''
-updated: 1698704342110
+updated: 1699987636179
 created: 1696438166743
 ---
 
@@ -14,12 +14,13 @@ created: 1696438166743
 
 - #javascript with [[prdct.h3.js]]
 - #java with [[prdct.h3.java]]
-- [[prdct.postgres]] via https://github.com/zachasme/h3-pg
+- [[prdct.postgres]] via [[prdct.postgres.h3-pg]]
 
-## #description
+## Descriptions
 
 - Since it is not possible to tile the icosahedron with only hexagons, we chose to introduce twelve pentagons, one at each of the icosahedron vertices. These vertices were positioned using the spherical icosahedron orientation by R. Buckminster Fuller, which places all the vertices in the water. This helps avoid pentagons surfacing in our work.
 - H3 supports sixteen resolutions. Each finer resolution has cells with one seventh the area of the coarser resolution. Hexagons cannot be perfectly subdivided into seven hexagons, so the finer cells are only approximately contained within a parent cell.
+- "Hexagons (unlike say, squares or triangles) approximate various shapes like neighborhoods and city blocks more accurately."[1]
 
 ## Features
 
@@ -32,11 +33,15 @@ created: 1696438166743
 
 ## Comparison
 
-- [[prdct.s2-geometry]]
+- [[prdct.s2-geometry|S2 Geometry]] 
   - https://h3geo.org/docs/comparisons/s2
 - [[prdct.geohash]]
   - https://h3geo.org/docs/comparisons/geohash
 - [[prdct.hexbin]]
+
+
 ## Resources
 
 - https://www.uber.com/blog/h3/
+- https://betterprogramming.pub/playing-with-ubers-hexagonal-hierarchical-spatial-index-h3-ed8d5cd7739d
+- [1]: https://afi.io/blog/uber-h3-js-tutorial-how-to-draw-hexagons-on-a-map/

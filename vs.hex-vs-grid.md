@@ -2,7 +2,7 @@
 id: knq6iohcky6qemy6mmnl97o
 title: Hex Vs Grid
 desc: ''
-updated: 1696440770178
+updated: 1699986876904
 created: 1696439871971
 ---
 
@@ -15,3 +15,4 @@ created: 1696439871971
 - https://www.reddit.com/r/RPGdesign/comments/74g0fo/question_hex_vs_squares_pros_and_cons_of_each/
   - "Hexes are better for outdoors, because they don't have any weird diagonals. Squares are better for indoors because most buildings have walls at right angles."
 - https://www.redblobgames.com/grids/hexagons/
+- [[prdct.h3]]

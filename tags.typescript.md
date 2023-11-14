@@ -2,12 +2,16 @@
 id: jpib8ij7qjndaia7168m70n
 title: TypeScript
 desc: 'inform the dev time language server and the compiler about the valid shapes'
-updated: 1698704342284
+updated: 1699910031818
 created: 1696347104135
 ---
 
 - [[p.coreferences]] #typescript
 
+
+## Features
+
+- "it is possible and common to use TypeScript for type definitions while still writing the actual functionality in JavaScript."
 
 ## Resources
 

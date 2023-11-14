@@ -5,7 +5,7 @@ desc: >-
   a small, upper-level, realist ontology that is designed for use in supporting
   information retrieval, analysis and integration in scientific and other
   domains
-updated: 1698704342089
+updated: 1699985196780
 created: 1696610915530
 ---
 
@@ -66,3 +66,7 @@ created: 1696610915530
 - [[ar.bfo-2-0-specification-and-users-guide]]
 - https://therecouldbebadgers.wordpress.com/2018/06/27/endurants-perdurants-continuants-occurrents/
 - [[ar.basic-formal-ontology-july-2023]]
+
+## References
+
+- https://www.youtube.com/watch?v=uflMfvI-ZxI
