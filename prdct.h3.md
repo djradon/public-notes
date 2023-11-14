@@ -2,7 +2,7 @@
 id: eqpfbn6ppca6xxa2dpyjmuk
 title: H3
 desc: ''
-updated: 1699987636179
+updated: 1699987854781
 created: 1696438166743
 ---
 
@@ -33,7 +33,7 @@ created: 1696438166743
 
 ## Comparison
 
-- [[prdct.s2-geometry|S2 Geometry]] 
+- [[prdct.s2-geometry|S2 Geometry]] test
   - https://h3geo.org/docs/comparisons/s2
 - [[prdct.geohash]]
   - https://h3geo.org/docs/comparisons/geohash
