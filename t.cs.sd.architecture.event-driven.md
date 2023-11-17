@@ -1,8 +1,10 @@
 ---
 id: ehflhupgftjncjisnmcxyzy
 title: Event Driven Architecture
-desc: 'Event-driven architecture uses events to communicate notable data changes between service boundaries'
-updated: 1699289503724
+desc: >-
+  Event-driven architecture uses events to communicate notable data changes
+  between service boundaries
+updated: 1700151509240
 created: 1669463161648
 ---
 
@@ -19,6 +21,7 @@ created: 1669463161648
 
 ## Resources 
 
+- https://serverlessland.com/event-driven-architecture/visuals #cool
 - https://cloud.google.com/eventarc/docs/event-driven-architectures
 - https://medium.com/geekculture/event-sourcing-versus-event-driven-architecture-753aa5a5d0f6
   - [[p.hasHighlight]]  ^973t2iqz9www
@@ -28,7 +31,7 @@ created: 1669463161648
 - https://thenewstack.io/supercharging-event-driven-integrations-using-apache-kafka-and-triggermesh/
   - "The difference between a message and an event can be confusing at first. An event is a notification that a state has changed. A message, however, contains additional information that represents more than just a notification. There is additional data associated with a message. Eventing is like a phone call, but it doesn’t tell you who is on the line or what their message is. A message provides the details of the call — e.g. who called and a transcription of what was discussed."
 - https://danieltammadge.com/2021/11/message-brokers-vs-event-brokers/
-  - "Often people don’t separate brokers, but in the book Building Event-Driven Microservices, the author divides the two into two different camps: Message brokers [[t.cs.sd.architecture.event-driven.event-broker]]"
+  - "Often people don’t separate brokers, but in the book Building Event-Driven Microservices, the author div
   - "I have seen a Kafka being used to send time-sensitive events that needed to be consumed by all running subscribers when a non-log based broker should have been used, such as RabbitMQ, AWS SQS or AWS SNS or even REDIS."
 - https://danieltammadge.com/2022/07/why-not-having-a-schema-registry-can-be-a-fatal-mistake-in-event-driven-architecture/
 - https://apisix.apache.org/blog/2022/09/23/build-event-driven-api/

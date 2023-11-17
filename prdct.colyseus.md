@@ -4,7 +4,7 @@ title: Colyseus
 desc: >-
   multiplayer framework and cloud solution with multi-client support, including
   unity
-updated: 1699486832159
+updated: 1700075797057
 created: 1642897812921
 ---
 
@@ -36,6 +36,19 @@ created: 1642897812921
 
 - [Ability to serialize/deserialize Schema on the server side](https://github.com/colyseus/schema/issues/115)
   - "So I guess the option at this point would be to serialize the state to the database continually, but only as a backup. If the server crashes it can reread the state and would send the full update to the clients to ensure they are back in sync. Which is probably what you want anyway."
+
+### Best Practices Limitations
+
+-   Keep your room classes as small as possible, delegating game-specific functionality to other composable structures.
+-   Keep your synchronizeable data structures as small as possible
+    -   Ideally, each class extending `Schema` should only have field definitions.
+    -   Do not implement _heavy_ game logic inside `Schema` structures. _Some_ logic is fine, specially if they're self-contained within the scope of the structure itself, mutating only its own properties.
+-   Rooms should have as little code as possible, and forward actions to other structures
+-   Your game logic should be handled by other structures, such as:
+    -   Custom external functions
+    -   The [Command Pattern](https://docs.colyseus.io/best-practices//#the-command-pattern).
+    -   An [Entity-Component System](https://docs.colyseus.io/best-practices//#entity-component-system-ecs).
+
 
 ## Resources
 

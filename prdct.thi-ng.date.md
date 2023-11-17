@@ -1,8 +1,8 @@
 ---
 id: 8b7oif88ri1e33oqdo8u7j7
-title: Date
+title: Thi-Ng Date
 desc: 'Datetime types, relative dates, math, iterators, composable formatters, locales.'
-updated: 1699639637451
+updated: 1699994754372
 created: 1699639603453
 ---
 

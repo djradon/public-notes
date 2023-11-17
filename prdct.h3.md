@@ -2,7 +2,7 @@
 id: eqpfbn6ppca6xxa2dpyjmuk
 title: H3
 desc: ''
-updated: 1699987854781
+updated: 1699990424527
 created: 1696438166743
 ---
 
@@ -45,3 +45,4 @@ created: 1696438166743
 - https://www.uber.com/blog/h3/
 - https://betterprogramming.pub/playing-with-ubers-hexagonal-hierarchical-spatial-index-h3-ed8d5cd7739d
 - [1]: https://afi.io/blog/uber-h3-js-tutorial-how-to-draw-hexagons-on-a-map/
+  - mentions [[prdct.react-map-gl]]
