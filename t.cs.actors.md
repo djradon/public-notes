@@ -2,7 +2,7 @@
 id: s1b2hshk9rfo7xvnozu5s03
 title: Actors
 desc: ''
-updated: 1698704342238
+updated: 1700254867315
 created: 1670267347423
 ---
 
@@ -35,4 +35,4 @@ created: 1670267347423
 
 - [43 years of actors: a taxonomy of actor models and their key properties](https://dl.acm.org/doi/abs/10.1145/3001886.3001890)
 - https://github.com/GetTech-io/awesome-actor
-- 
+- https://forums.ni.com/t5/Actor-Framework-Documents/Justifying-The-Actor-Framework/ta-p/4207018

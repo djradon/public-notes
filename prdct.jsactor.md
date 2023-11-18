@@ -2,7 +2,7 @@
 id: xfyk329jkq9pi4cmr1060hv
 title: jsActor
 desc: ''
-updated: 1700249297732
+updated: 1700254699446
 created: 1671827253842
 ---
 
@@ -13,6 +13,9 @@ created: 1671827253842
 - repo: https://github.com/jsactor/ams
 - [[p.builtOn]] [[prdct.hapi]]
   
+## Thoughts
+
+- Actor is a class of objects representing GUI components.
 
 ## Resources
 
