@@ -10,4 +10,4 @@ created: 1637567956835
 
 - [[p.hasURL]] https://javelin.hashnode.dev/ecs-in-js-storage-mechanisms
 - [[p.hasAuthor]] @eric-mcdaniel
-- [[p.hasTopic]] [[t.cs.ecs]]
+- [[p.hasTopic]] [[t.cs.entity-component-system]]

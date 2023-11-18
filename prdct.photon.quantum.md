@@ -6,7 +6,7 @@ updated: 1698252759303
 created: 1688658689137
 ---
 
-- [[t.cs.ecs]]
+- [[t.cs.entity-component-system]]
 - [[p.writtenIn]] [[t.cs.languages.c-sharp]] #c-sharp
 
 ## Features

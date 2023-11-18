@@ -6,7 +6,7 @@ updated: 1698262670395
 created: 1672342730647
 ---
 
-- [[c.software.entity-component-system]] [[t.cs.ecs]]
+- [[c.software.entity-component-system]] [[t.cs.entity-component-system]]
 - #repo https://github.com/NateTheGreatt/bitECS
 - [[p.writtenIn]] #javascript
 - [[p.usedBy]] [[prdct.ethereal-engine]] [[prdct.hubs]] [[prdct.matrix]] [[prdct.third-room]]

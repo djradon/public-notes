@@ -1,7 +1,7 @@
 ---
 id: YEENs52Vldkdwe2jkkRpe
 title: Stride3d
-desc: 'Open-source C# Game Engine'
+desc: Open-source C# Game Engine
 updated: 1699307971102
 created: 1637846271510
 ---
@@ -16,7 +16,7 @@ created: 1637846271510
 
 ## Features
 
-- [[t.cs.ecs]]
+- [[t.cs.entity-component-system]]
 - [[p.isTopicOfDiscussion]] https://community.monogame.net/t/did-you-know-that-stride-is-basically-monogame-with-a-3d-editor/12250/4 
 
 ## Cons

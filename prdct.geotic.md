@@ -8,4 +8,4 @@ created: 1652769310728
 
 
 - [[p.hasRepository]] https://github.com/ddmills/geotic
-- [[p.solvesProblem]] [[t.cs.ecs]]
+- [[p.solvesProblem]] [[t.cs.entity-component-system]]

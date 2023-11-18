@@ -8,7 +8,7 @@ created: 1637568084807
 
 
 
-- [[p.instanceOf]] [[t.cs.ecs]]
+- [[p.instanceOf]] [[t.cs.entity-component-system]]
 - [[p.hasRepository]] https://github.com/3mcd/javelin
 - [[p.hasSite]] https://javelin.games
   - [[p.references]] https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine

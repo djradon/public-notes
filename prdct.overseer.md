@@ -6,5 +6,5 @@ updated: 1694381084612
 created: 1694381049469
 ---
 
-- [[t.cs.ecs]]
+- [[t.cs.entity-component-system]]
 - #repo https://github.com/louisponet/Overseer.jl

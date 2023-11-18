@@ -7,4 +7,4 @@ created: 1647829062793
 ---
 
 
-- [[p.hasRelatedTopic]] [[t.cs.ecs]]
+- [[p.hasRelatedTopic]] [[t.cs.entity-component-system]]

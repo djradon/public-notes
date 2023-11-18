@@ -7,7 +7,7 @@ created: 1674283205769
 ---
 
 - #repo https://github.com/mayakwd/tick-knock
-- - [[p.implements]] [[t.cs.ecs]]
+- - [[p.implements]] [[t.cs.entity-component-system]]
 
 ## [[p.hasConcept]]
 
@@ -22,4 +22,4 @@ created: 1674283205769
 ## [[p.hasLearningResource]]
 
 - https://medium.com/@rdolivo/ecs-for-gamedev-with-typescript-5a1204f594bc
-- [[p.implements]] [[t.cs.ecs]]
+- [[p.implements]] [[t.cs.entity-component-system]]

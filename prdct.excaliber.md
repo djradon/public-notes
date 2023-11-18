@@ -11,7 +11,7 @@ created: 1673749623693
 ## [[p.supports]]
 
 - [[t.cs.actors]]
-- [[t.cs.ecs]]
+- [[t.cs.entity-component-system]]
 
 #url https://excaliburjs.com/
 
@@ -27,7 +27,7 @@ created: 1673749623693
 
 - ![](/assets/images/2023-01-15-19-39-31.png)
 
-### [[t.cs.ecs]]
+### [[t.cs.entity-component-system]]
 
 #### Built-in Systems
 

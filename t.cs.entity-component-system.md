@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   runtime-flexible, highly compatible, safe, and easily composable approach to
   software
-updated: 1699303073988
+updated: 1700275135216
 created: 1637846686838
 ---
 
@@ -76,7 +76,7 @@ created: 1637846686838
   - "Consider creating a “Timer” component that removes a component after N seconds, for example to remove a buff from an entity. An entity can have multiple buffs at the same time, yet I can only add the Timer component once. Solutions to this problem get unwieldy (storing a map in the component value or creating a Timer component for each buff component). This is a serious limitation when applications want to implement generic systems."
   - "Any design language that does not allow me to specify the preconditions for something to work correctly is in my humble opinion flawed."
 - https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/79975.html
-
+- 
 ### [[c.resource.list]]
 
 - https://github.com/Chillu1/CSharpECSComparison

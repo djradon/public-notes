@@ -1,13 +1,15 @@
 ---
 id: 0446pg8cq2w5q4nibe9xp11
 title: Mixin
-desc: 'a class that contains methods for use by other classes without having to be the parent class of those other classes'
+desc: >-
+  a class that contains methods for use by other classes without having to be
+  the parent class of those other classes
 updated: 1700153413586
 created: 1696197242241
 ---
 
 - [[c.comparable]] 
-  - [[t.cs.ecs]] [[t.cs.programming.code-reuse]]
+  - [[t.cs.entity-component-system]] [[t.cs.programming.code-reuse]]
   - [[t.cs.traits]]
 
 ## Issues
