@@ -1,11 +1,12 @@
 ---
 id: jkozo873mfud24q8gwyi5bi
 title: Streamr
-desc: ''
-updated: 1695425411459
+desc: 'fully decentralised and scalable protocol for many to many data pipelines, network analytics and instant messaging'
+updated: 1700329691747
 created: 1695420244772
 ---
 
+- [[c.software.web3.protocol]]
 - #url https://streamr.network
 - [[p.supports]] [[prdct.typescript]]
   - [[prdct.mqtt]] (via Broker node)
