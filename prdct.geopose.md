@@ -1,8 +1,8 @@
 ---
 id: abb9e98k7o1d5jh3lpn3jb2
 title: Geopose
-desc: ''
-updated: 1698262670422
+desc: 'Standard for exchanging the location and orientation of real or virtual geometric objects (“Poses”) within reference frames anchored to the earth’s surface (“Geo”) or within other astronomical coordinate systems.'
+updated: 1700417445827
 created: 1696352359233
 ---
 
@@ -11,6 +11,7 @@ created: 1696352359233
 ## Implementations
 
 - [[prdct.ethar-geopose]]
+- [[prdct.cesium.cesiumjs]]
 
 ## Resources
 
