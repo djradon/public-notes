@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1697478473812
+updated: 1700514492343
 created: 1643725570180
 ---
 
@@ -35,6 +35,11 @@ created: 1643725570180
 ## Use Cases
 
 - [[prdct.typedb-data-cti]]
+
+## Tips
+
+- When inserting instances of a relation, it is not necessary to define all of its role players. But this represents an incomplete information state, such as a marriage in which only one of the spouses is known.
+- 
 
 ## Resources
 
