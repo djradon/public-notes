@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   runtime-flexible, highly compatible, safe, and easily composable approach to
   software
-updated: 1700275135216
+updated: 1700494755293
 created: 1637846686838
 ---
 
@@ -76,7 +76,8 @@ created: 1637846686838
   - "Consider creating a “Timer” component that removes a component after N seconds, for example to remove a buff from an entity. An entity can have multiple buffs at the same time, yet I can only add the Timer component once. Solutions to this problem get unwieldy (storing a map in the component value or creating a Timer component for each buff component). This is a serious limitation when applications want to implement generic systems."
   - "Any design language that does not allow me to specify the preconditions for something to work correctly is in my humble opinion flawed."
 - https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/79975.html
-- 
+- https://gamedev.stackexchange.com/questions/56937/how-to-avoid-blob-systems-in-an-entity-component-system
+  - "There's no reason to have fine-grained components like 'movement'. There is no generic movement in your game. You have paddles, whose movement is tightly tied to input or AI (and don't really use velocity, acceleration, restitution, etc.), and you have the ball, which has a well-defined movement algorithm. Just have a PaddleController component and a BouncingBall component or something along those lines. If/when you get a more complicated game then you can worry about having a more generic PhysicsBody component (which in 'real' engines is basically just a link between the game object and whatever internal API object is used by Havok/PhysX/Bullet/Box2D/etc.) that handles a wider variety of situations."
 ### [[c.resource.list]]
 
 - https://github.com/Chillu1/CSharpECSComparison

@@ -2,7 +2,7 @@
 id: wfxjhap9zcdg7a58wv83l5i
 title: CesiumJS
 desc: 'Open source 3D visualization for the web'
-updated: 1700421482265
+updated: 1700426278006
 created: 1680428982835
 ---
 
@@ -25,3 +25,4 @@ The height in CesiumJS is in meters relative to the WGS84 ellipsoid. We’ve pre
 
 - https://cesium.com/learn/cesiumjs-learn/
 - https://cesium.com/learn/cesiumjs-learn/cesiumjs-flight-tracker/
+  - "you can later extend this code to parse the original data or even visualize live air traffic as samples are passed to your app from a server"
