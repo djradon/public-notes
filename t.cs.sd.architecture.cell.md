@@ -2,7 +2,7 @@
 id: 1qpleih1ss9tzbjti0v88b9
 title: Cell
 desc: 'split your system into cells, a collection of components, grouped from design and implementation into deployment. A cell is independently deployable, manageable, and observable'
-updated: 1700495567529
+updated: 1700495645721
 created: 1700495349102
 ---
 
@@ -16,4 +16,4 @@ A cell can have 1:n components grouped. Components inside the cells are reusable
 
 ## References
 
-- https://medium.com/@raphael.moutard/forget-your-microservices-the-unparalleled-benefits-of-pool-architecture-63b462989856
+- https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md

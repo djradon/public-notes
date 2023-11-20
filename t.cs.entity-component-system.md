@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   runtime-flexible, highly compatible, safe, and easily composable approach to
   software
-updated: 1700494755293
+updated: 1700498015928
 created: 1637846686838
 ---
 
@@ -54,7 +54,7 @@ created: 1637846686838
   - [[p.supports]] [[prdct.networked-aframe]]
 
 
-## [[p.hasCon]]
+## Issues
 
 - https://medium.com/@rdolivo/ecs-for-gamedev-with-typescript-5a1204f594bc
   - Systems are highly dependent on the order in which they are added because their logic works out consistently. Adding new systems between existing ones can be a difficult task.
@@ -64,6 +64,8 @@ created: 1637846686838
 - "Anything that needs a dynamic ordering of execution is not very intuitive in ECS" 
   - https://forum.unity.com/threads/why-vanilla-ecs-is-not-enough.928287/
     - "Why not put the 'timer' in each component ? Yes you'll need to have one system to update the timer of each type of component having a time... it would be better to have a timmer logic that store the next tick time instead of storing aremaining time that you update every frame. It would allow to make use of the DidChange filtering. Also you could probably define a ITimer interface that your ComponentData would implement and taht should allow you to stream line the timer update systems a bit through generics."
+- "One of the biggest "obstacles" (questions) I see is that there will always inevitably be the need to interface with long-running "continuous" processes (maybe because of networking with a much different frequency than the one ECS pipeline of systems is being executed with, maybe because devs will want to use an already written external library spawing own threads without any poll-like API, maybe because there will be a separate event loop system which will not easily integrate with the ECS event loop, etc.)."
+  - https://github.com/traffaillac/traffaillac.github.io/issues/1
 
 ## Resources
 
