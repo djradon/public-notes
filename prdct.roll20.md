@@ -8,4 +8,4 @@ created: 1637838743438
 
 
 - [[c.software.rpg.virtual-tabletop]]
-- [[p.hasApplication]] [[rpg.campaign-management]]
+- [[p.hasApplication]] [[t.rpg.campaign-management]]

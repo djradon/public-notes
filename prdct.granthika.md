@@ -7,9 +7,9 @@ created: 1650069850721
 ---
 
 - [[p.hasCapability]]
-  - [[rpg.world-building]]
+  - [[t.rpg.world-building]]
 - [[p.hasFeature]] [[p.hasSource]] https://granthika.co/features
-  - [[rpg.timeline-management]]
-  - [[rpg.character-management]]
-  - [[rpg.location-management]]
-  - [[rpg.item-management]]
+  - [[t.rpg.timeline-management]]
+  - [[t.rpg.character-management]]
+  - [[t.rpg.location-management]]
+  - [[t.rpg.item-management]]

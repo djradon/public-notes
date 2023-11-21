@@ -11,6 +11,6 @@ created: 1673893459106
 - [[p.hadDefinition]]
   - a set of [[sh.t.participant]]s 
 
-- [[p.comparableTo]] [[rpg.squad]] 
-  - a party is "in-game" and may have [[rpg.npcs]]
+- [[p.comparableTo]] [[t.rpg.squad]] 
+  - a party is "in-game" and may have [[t.rpg.npcs]]
   - 
