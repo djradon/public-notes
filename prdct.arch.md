@@ -1,8 +1,8 @@
 ---
 id: cg73kyz46jl5mkp6ulq5raw
 title: Arch
-desc: ''
-updated: 1696968674530
+desc: 'C# based Archetype Entity Component System'
+updated: 1700520204974
 created: 1680566146922
 ---
 

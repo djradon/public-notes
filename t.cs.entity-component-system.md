@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   runtime-flexible, highly compatible, safe, and easily composable approach to
   software
-updated: 1700498015928
+updated: 1700521875289
 created: 1637846686838
 ---
 
@@ -53,6 +53,14 @@ created: 1637846686838
   - https://stackoverflow.com/questions/43944365/how-to-do-multiuser-in-a-frame
   - [[p.supports]] [[prdct.networked-aframe]]
 
+## Wish List
+
+### Entity Relations
+
+- [[prdct.flecs]] has 'em
+- [[prdct.bevy]] doesn't seem to
+  - see https://github.com/bevyengine/bevy/issues/3742
+  - 
 
 ## Issues
 
@@ -66,9 +74,18 @@ created: 1637846686838
     - "Why not put the 'timer' in each component ? Yes you'll need to have one system to update the timer of each type of component having a time... it would be better to have a timmer logic that store the next tick time instead of storing aremaining time that you update every frame. It would allow to make use of the DidChange filtering. Also you could probably define a ITimer interface that your ComponentData would implement and taht should allow you to stream line the timer update systems a bit through generics."
 - "One of the biggest "obstacles" (questions) I see is that there will always inevitably be the need to interface with long-running "continuous" processes (maybe because of networking with a much different frequency than the one ECS pipeline of systems is being executed with, maybe because devs will want to use an already written external library spawing own threads without any poll-like API, maybe because there will be a separate event loop system which will not easily integrate with the ECS event loop, etc.)."
   - https://github.com/traffaillac/traffaillac.github.io/issues/1
+- Spatial Storage
+  - "How to store spatial data in ECS?
+
+Spatial data structures like quadtrees and octrees are usually not directly stored in an ECS, as their layout does not match well with the typical ECS layout.
+
+One approach that works well for narrow-phase spatial queries in combination with an ECS is to create a query that iterates relevant entities and stores them in a spatial structure at the beginning (or end) of each frame.
+
+For broad-phase spatial queries an application could leverage runtime tags (if the ECS supports it) where a tag corresponds with a cell in a spatial grid. Combined with queries that match the tag, an application can quickly discard large groups of entities that are not in a certain area."
 
 ## Resources
 
+- https://github.com/SanderMertens/ecs-faq #cool
 - https://maxwellforbes.com/posts/typescript-ecs-why/
   - [[p.hasHighlight]]
     - "the idea isn’t that there’s a fixed target called a “game engine” that you go out and build, and then you build the game on top of it. For my case at least, the engine is the broader codebase that evolves around the game as you build it."
@@ -80,6 +97,8 @@ created: 1637846686838
 - https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/79975.html
 - https://gamedev.stackexchange.com/questions/56937/how-to-avoid-blob-systems-in-an-entity-component-system
   - "There's no reason to have fine-grained components like 'movement'. There is no generic movement in your game. You have paddles, whose movement is tightly tied to input or AI (and don't really use velocity, acceleration, restitution, etc.), and you have the ball, which has a well-defined movement algorithm. Just have a PaddleController component and a BouncingBall component or something along those lines. If/when you get a more complicated game then you can worry about having a more generic PhysicsBody component (which in 'real' engines is basically just a link between the game object and whatever internal API object is used by Havok/PhysX/Bullet/Box2D/etc.) that handles a wider variety of situations."
+
+
 ### [[c.resource.list]]
 
 - https://github.com/Chillu1/CSharpECSComparison
