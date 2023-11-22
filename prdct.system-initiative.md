@@ -2,11 +2,11 @@
 id: lz4aou12bw4vmczc4jzma0p
 title: System Initiative
 desc: ''
-updated: 1690176146833
+updated: 1700695227521
 created: 1690176131429
 ---
 
-- #url 
+- url: https://www.systeminit.com
 
 ## Resources
 

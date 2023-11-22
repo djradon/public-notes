@@ -1,11 +1,8 @@
 ---
 id: rsqds8jgt1igv9c2hr5bp0j
 title: Tekton
-desc: >-
-  it would be nice to have something that had a very small footprint, that could
-  be decentralized to each team while strongly encouraging all pipelines to look
-  similar.
-updated: 1689743607696
+desc: 'Cloud Native CI/CD'
+updated: 1700694176492
 created: 1689742141160
 ---
 

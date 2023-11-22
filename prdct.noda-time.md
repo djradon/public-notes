@@ -2,13 +2,14 @@
 id: 85nltdweybeqpecpcjeyntw
 title: Noda Time
 desc: an alternative date and time API for .NET
-updated: 1698704342143
+updated: 1700694328963
 created: 1689963158118
 ---
 
-#url  https://nodatime.org
+- [[c.software.library.temporal]]
+- url:  https://nodatime.org
 
-## c.Documentation
+## Documentation
 
 ### https://nodatime.org/3.1.x/userguide/concepts
 

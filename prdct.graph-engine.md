@@ -2,10 +2,11 @@
 id: 3hewd9dhsn13txkisjvxvpq
 title: Graph Engine
 desc: 'supports RDF and HyperGraphs'
-updated: 1698262670428
+updated: 1700693138356
 created: 1682056527914
 ---
 
+- [[c.software.database.graph]] [[c.software.database.graph.property]] [[c.software.database.graph.rdf]] 
 - #repo https://github.com/Microsoft/GraphEngine
 - #url https://www.graphengine.io/
 - [[c.documentation]]
@@ -23,5 +24,6 @@ created: 1682056527914
 
 - https://github.com/microsoft/GraphEngine/issues/328
   - https://github.com/InKnowWorks/RDF-Graph-and-HyperGraph/ ^0qxsg2noq2s8
-- [ ] https://www3.nd.edu/~kogge/courses/cse60742-Fall2018/Public/StudentWork/ParadigmPaperv1/GraphEngine-Talukder.pdf
-- 
+- [-] https://www3.nd.edu/~kogge/courses/cse60742-Fall2018/Public/StudentWork/ParadigmPaperv1/GraphEngine-Talukder.pdf
+- [-] https://github.com/InKnowWorks/RDF-Graph-and-HyperGraph
+- https://www.graphengine.io/docs/manual/TSL/tsl-basics.html
