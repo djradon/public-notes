@@ -7,7 +7,7 @@ created: 1696976488065
 ---
 
 - [[c.software.rpg]]
-- #url https://www.legendkeeper.com/
+- url: https://www.legendkeeper.com/
 - [[c.mention]] [[prdct.dscryb]] [[prdct.here-be-taverns]]
 - [[c.con]] JSON export is ugly and littered with html and css classnames
 

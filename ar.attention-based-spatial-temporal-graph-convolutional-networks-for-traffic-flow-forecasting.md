@@ -8,4 +8,4 @@ updated: 1696436481177
 created: 1696436476232
 ---
 
-- #url https://guoshnbjtu.github.io/pdfs/AAAI2019-GuoS.2690.pdf
+- url: https://guoshnbjtu.github.io/pdfs/AAAI2019-GuoS.2690.pdf

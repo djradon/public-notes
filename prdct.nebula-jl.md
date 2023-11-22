@@ -6,5 +6,5 @@ updated: 1694381048652
 created: 1694380812689
 ---
 
-- #repo https://github.com/AliceRoselia/Nebula.jl
+- repo: https://github.com/AliceRoselia/Nebula.jl
   - [[c.mention]] [[prdct.modeling-toolkit]] [[prdct.overseer]]

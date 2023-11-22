@@ -6,5 +6,5 @@ updated: 1698255009777
 created: 1698254908171
 ---
 
-- #url https://carbide.dev/
+- url: https://carbide.dev/
 - [[c.con]] no data export

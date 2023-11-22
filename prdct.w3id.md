@@ -6,4 +6,4 @@ updated: 1696283343710
 created: 1696283341304
 ---
 
-- #url https://w3id.org/
+- url: https://w3id.org/

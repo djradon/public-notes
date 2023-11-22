@@ -6,5 +6,5 @@ updated: 1696964263390
 created: 1696964240252
 ---
 
-- #url http://obofoundry.org/
+- url: http://obofoundry.org/
   

@@ -6,7 +6,7 @@ updated: 1680430443407
 created: 1680430426947
 ---
 
-- #url https://s2geometry.io
+- url: https://s2geometry.io
 - #topic [[t.math.geometry]] 
 
 ## Resources

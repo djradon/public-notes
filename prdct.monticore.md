@@ -7,6 +7,6 @@ created: 1694817061620
 ---
 
 - [[c.software.language-workbench]]
-- #url https://monticore.github.io/monticore/
+- url: https://monticore.github.io/monticore/
 - [[p.writtenIn]] #java
 - [[p.supports]] [[prdct.intellij]] [[prdct.eclipse]]

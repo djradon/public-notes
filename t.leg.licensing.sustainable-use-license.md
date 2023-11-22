@@ -6,7 +6,7 @@ updated: 1674832849983
 created: 1674832741571
 ---
   
-#url https://github.com/n8n-io/n8n/blob/master/LICENSE.md#sustainable-use-license
+url: https://github.com/n8n-io/n8n/blob/master/LICENSE.md#sustainable-use-license
 
 ## Sustainable Use License
 

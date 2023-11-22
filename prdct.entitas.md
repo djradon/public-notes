@@ -7,7 +7,7 @@ created: 1697570695355
 ---
 
 - [[c.software.entity-component-system]]
-- #repo https://github.com/sschmid/Entitas
+- repo: https://github.com/sschmid/Entitas
 - [[p.writtenIn]] #c-sharp
 
 ## Features

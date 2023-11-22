@@ -6,5 +6,5 @@ updated: 1696969411614
 created: 1696968680805
 ---
 
-- #url https://www.archimatetool.com/
+- url: https://www.archimatetool.com/
 - [[p.similarTo]] [[prdct.argouml]]

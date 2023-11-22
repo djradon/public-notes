@@ -7,7 +7,7 @@ created: 1695416707929
 ---
 
 - #dead
-- #repo https://github.com/NSSAC/matrixabm
+- repo: https://github.com/NSSAC/matrixabm
 - [[p.builtOn]] [[prdct.rabbitimq]] [[prdct.act-r]]
 
 ![](/assets/images/2023-09-22-14-20-42.png)

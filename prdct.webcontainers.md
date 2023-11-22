@@ -6,7 +6,7 @@ updated: 1673627915605
 created: 1673626908310
 ---
 
-#repo https://github.com/stackblitz/webcontainer-core
+repo: https://github.com/stackblitz/webcontainer-core
 
 
 

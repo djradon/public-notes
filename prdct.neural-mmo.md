@@ -6,8 +6,8 @@ updated: 1700347054075
 created: 1697644344211
 ---
 
-- #url https://openai.com/research/neural-mmo
-- #repo https://github.com/NeuralMMO/environment
+- url: https://openai.com/research/neural-mmo
+- repo: https://github.com/NeuralMMO/environment
 - [[p.writtenIn]] #python
 
 ## Supports

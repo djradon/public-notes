@@ -6,5 +6,5 @@ updated: 1696277008118
 created: 1694372572976
 ---
 
-- #repo https://github.com/singnet/ai-dsl
+- repo: https://github.com/singnet/ai-dsl
 - [[p.writtenIn]] [[t.cs.languages.idris]] #python

@@ -6,4 +6,4 @@ updated: 1673628790239
 created: 1673628560708
 ---
 
-#repo https://github.com/flamewow/nestjs-asyncapi
+repo: https://github.com/flamewow/nestjs-asyncapi

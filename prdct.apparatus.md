@@ -6,6 +6,6 @@ updated: 1695933958386
 created: 1695933847598
 ---
 
-- #url http://aprt.us/
-- #repo https://github.com/cdglabs/apparatus
+- url: http://aprt.us/
+- repo: https://github.com/cdglabs/apparatus
 - [[p.similarTo]] [[prdct.scratch]]

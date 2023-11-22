@@ -9,8 +9,8 @@ created: 1674360309430
 [[c.software.microservice-frameworks]]
 [[p.writtenIn]] #javascript
 
-#url https://moleculer.services/
-#repo https://github.com/moleculerjs/moleculer
+url: https://moleculer.services/
+repo: https://github.com/moleculerjs/moleculer
 
 ## [[p.hasFeature]]
 

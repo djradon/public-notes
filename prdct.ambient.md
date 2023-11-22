@@ -9,7 +9,7 @@ created: 1696363752606
 ---
 
 - [[c.software.game-engine]] [[c.software.entity-component-system]]
-- #repo https://github.com/AmbientRun/Ambient
+- repo: https://github.com/AmbientRun/Ambient
 - [[p.writtenIn]] #rust
 
 ## Features

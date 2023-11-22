@@ -6,4 +6,4 @@ updated: 1684868317204
 created: 1684868314396
 ---
 
-- #url https://openwallet.foundation/
+- url: https://openwallet.foundation/

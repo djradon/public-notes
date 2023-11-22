@@ -6,8 +6,8 @@ updated: 1698262670484
 created: 1672721308132
 ---
 
-#url  https://getpino.io/
-#repo https://github.com/pinojs/pino
+url:  https://getpino.io/
+repo: https://github.com/pinojs/pino
 
 
 ## Resources

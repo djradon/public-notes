@@ -6,4 +6,4 @@ updated: 1694723660442
 created: 1694723633445
 ---
 
-- #repo https://sourceforge.net/projects/xsb/
+- repo: https://sourceforge.net/projects/xsb/

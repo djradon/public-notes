@@ -6,8 +6,8 @@ updated: 1698262670449
 created: 1683231567207
 ---
 
-- #repo https://github.com/vtrushin/json-to-ast
-- #url https://astexplorer.net/
+- repo: https://github.com/vtrushin/json-to-ast
+- url: https://astexplorer.net/
 
 ## Resources
 

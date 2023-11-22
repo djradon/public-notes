@@ -6,7 +6,7 @@ updated: 1696478464399
 created: 1696474895633
 ---
 
-- #url https://ceur-ws.org/Vol-1558/paper21.pdf
+- url: https://ceur-ws.org/Vol-1558/paper21.pdf
 
 ## Highlights
 

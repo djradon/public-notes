@@ -6,4 +6,4 @@ updated: 1689915786293
 created: 1689915782825
 ---
 
-- #url https://krew.sigs.k8s.io/
+- url: https://krew.sigs.k8s.io/

@@ -6,7 +6,7 @@ updated: 1672671145746
 created: 1672670643859
 ---
 
-#url https://jestjs.io/
+url: https://jestjs.io/
 
 ## [[p.supports]]
 

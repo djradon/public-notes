@@ -6,7 +6,7 @@ updated: 1673284669060
 created: 1673281717427
 ---
 
-#repo https://github.com/mapbox/delaunator
+repo: https://github.com/mapbox/delaunator
 #demo https://mapbox.github.io/delaunator/demo.html
   - amazing, #cool, you can add points interactively
 

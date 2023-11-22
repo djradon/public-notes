@@ -6,7 +6,7 @@ updated: 1697491063295
 created: 1697491035086
 ---
 
-- #url http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+- url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 
 ## Thoughts
 

@@ -6,7 +6,7 @@ updated: 1688586210791
 created: 1688581893082
 ---
 
-- #url https://www.relyance.ai/
+- url: https://www.relyance.ai/
 
 ![](/assets/images/2023-07-05-11-53-17.png)
 ![](/assets/images/2023-07-05-11-56-53.png)

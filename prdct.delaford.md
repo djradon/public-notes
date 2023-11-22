@@ -7,6 +7,6 @@ created: 1695967764328
 ---
 
 - [[c.software.game-platform]]
-- #repo https://github.com/delaford/game
-- #url https://beta.delaford.com/
+- repo: https://github.com/delaford/game
+- url: https://beta.delaford.com/
 

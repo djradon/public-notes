@@ -6,7 +6,7 @@ updated: 1698262670405
 created: 1672335135527
 ---
 
-#url https://cloudevents.io/
+url: https://cloudevents.io/
 
 - [[p.supportedBy]] [[prdct.openfaas]] [[prdct.triggermesh]] [[prdct.kafka]] [[prdct.quarkus]]
 - [[p.supports]] [XML](https://github.com/cloudevents/spec/blob/main/cloudevents/working-drafts/xml-format.md)

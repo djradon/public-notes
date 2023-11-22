@@ -6,4 +6,4 @@ updated: 1673494509030
 created: 1673494501207
 ---
 
-#url https://xra.org
+url: https://xra.org

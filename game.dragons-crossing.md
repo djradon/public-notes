@@ -7,7 +7,7 @@ created: 1682968967059
 ---
 
 - [[c.Software.Web3]]
-- #url https://www.dragonscrossing.com
+- url: https://www.dragonscrossing.com
 
 ## Summary
 

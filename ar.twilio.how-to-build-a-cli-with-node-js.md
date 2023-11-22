@@ -6,7 +6,7 @@ updated: 1672964848098
 created: 1672964746972
 ---
 
-#url https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
+url: https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
 
 ## [[p.hasRelatedSolution]]
 

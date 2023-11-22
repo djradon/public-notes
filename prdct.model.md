@@ -6,5 +6,5 @@ updated: 1685940148453
 created: 1685940058441
 ---
 
-- #url https://github.com/goadesign/model
+- url: https://github.com/goadesign/model
 - [[c.software.tools.diagramming]]

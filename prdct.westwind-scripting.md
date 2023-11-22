@@ -7,4 +7,4 @@ created: 1697639440417
 ---
 
 - [[c.software.library.metaprogramming]]
-- #repo https://github.com/RickStrahl/Westwind.Scripting
+- repo: https://github.com/RickStrahl/Westwind.Scripting

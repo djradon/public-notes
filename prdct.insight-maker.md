@@ -6,7 +6,7 @@ updated: 1672156912858
 created: 1672156763234
 ---
 
-#url https://insightmaker.com/
+url: https://insightmaker.com/
 
 - [[p.supports]] 
   - [[t.cs.agents.agent-based-modeling]]

@@ -8,5 +8,5 @@ created: 1671706763618
 
 #effective-altruism
 
-#description https://www.lesswrong.com/about
+description: https://www.lesswrong.com/about
   

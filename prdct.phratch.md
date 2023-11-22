@@ -7,5 +7,5 @@ created: 1695849528037
 ---
 
 - #dead
-- #repo https://github.com/janniklaval/phratch
+- repo: https://github.com/janniklaval/phratch
 - a visual programming language based on [[prdct.scratch]] on top of [[prdct.pharo]]

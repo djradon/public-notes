@@ -6,5 +6,5 @@ updated: 1673627467157
 created: 1673627224538
 ---
 
-#repo https://github.com/jcubic/git
+repo: https://github.com/jcubic/git
 #demo https://git-terminal.js.org/

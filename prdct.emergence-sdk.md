@@ -7,7 +7,7 @@ created: 1697828368805
 ---
 
 - [[c.Software.Web3]]
-- #url https://www.emergence.site/
+- url: https://www.emergence.site/
 
 ## Components
 

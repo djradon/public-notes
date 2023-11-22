@@ -8,7 +8,7 @@ created: 1696974070239
 
 - [[c.software.metaverse-platform]]
 - #docs https://docs.upstreet.ai/
-- #repo https://github.com/UpstreetAI/upstreet-sdk
+- repo: https://github.com/UpstreetAI/upstreet-sdk
 - [[p.writtenIn]] #python #javascript
 
 ## Highlights

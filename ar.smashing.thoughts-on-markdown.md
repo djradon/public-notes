@@ -6,5 +6,5 @@ updated: 1682916802351
 created: 1682916795910
 ---
 
-- #url https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/
+- url: https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/
 - 

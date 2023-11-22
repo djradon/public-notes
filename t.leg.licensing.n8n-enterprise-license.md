@@ -6,7 +6,7 @@ updated: 1674832726723
 created: 1674832685648
 ---
 
-#url https://github.com/n8n-io/n8n/blob/master/LICENSE_EE.md
+url: https://github.com/n8n-io/n8n/blob/master/LICENSE_EE.md
 
 # The n8n Enterprise License (the “Enterprise License”)
 

@@ -6,4 +6,4 @@ updated: 1698442250206
 created: 1698442206773
 ---
 
-- #repo https://github.com/linuxmint/timeshift
+- repo: https://github.com/linuxmint/timeshift

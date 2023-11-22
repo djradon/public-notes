@@ -6,5 +6,5 @@ updated: 1677739837830
 created: 1677739744227
 ---
 
-- #url https://every.to/divinations/how-ideas-grow
+- url: https://every.to/divinations/how-ideas-grow
 - 

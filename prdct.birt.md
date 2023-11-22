@@ -6,5 +6,5 @@ updated: 1694442006134
 created: 1694441962479
 ---
 
-- #url https://download.eclipse.org/birt/updates/release/latest/
+- url: https://download.eclipse.org/birt/updates/release/latest/
 - 

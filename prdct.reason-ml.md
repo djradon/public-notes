@@ -6,5 +6,5 @@ updated: 1698177000780
 created: 1698176927291
 ---
 
-- #url https://reasonml.github.io/
+- url: https://reasonml.github.io/
 - [[p.supports]] [[t.cs.languages.ocaml]]

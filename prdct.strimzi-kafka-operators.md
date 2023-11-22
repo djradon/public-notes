@@ -6,4 +6,4 @@ updated: 1674457678469
 created: 1674457667400
 ---
 
-#repo https://github.com/strimzi/strimzi-kafka-operator/releases/tag/0.32.0
+repo: https://github.com/strimzi/strimzi-kafka-operator/releases/tag/0.32.0

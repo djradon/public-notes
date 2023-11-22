@@ -6,5 +6,5 @@ updated: 1690569209435
 created: 1690567765535
 ---
 
-- #repo https://github.com/adamecr/Common.DMN.Engine
+- repo: https://github.com/adamecr/Common.DMN.Engine
 - [[p.used]] [[prdct.dynamic-expresso]]

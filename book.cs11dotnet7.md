@@ -6,5 +6,5 @@ updated: 1683913423561
 created: 1683913371784
 ---
 
-- #repo  https://github.com/markjprice/cs11dotnet7
+- repo:  https://github.com/markjprice/cs11dotnet7
 - #author @mark-price

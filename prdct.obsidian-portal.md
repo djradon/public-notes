@@ -6,5 +6,5 @@ updated: 1696263076974
 created: 1696263074065
 ---
 
-- #url https://www.obsidianportal.com/
+- url: https://www.obsidianportal.com/
 - 

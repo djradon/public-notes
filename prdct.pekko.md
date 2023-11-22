@@ -7,5 +7,5 @@ created: 1697491993114
 ---
 
 - [[c.software.actor-framework]]
-- #url https://pekko.apache.org/
+- url: https://pekko.apache.org/
 - [[p.similarTo]] [[prdct.gpars]]

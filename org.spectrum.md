@@ -6,5 +6,5 @@ updated: 1684783931846
 created: 1650431149238
 ---
 
-- #url (https://www.spectrumlabsai.com/)
+- url: (https://www.spectrumlabsai.com/)
 

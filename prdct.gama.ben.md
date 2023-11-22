@@ -6,5 +6,5 @@ updated: 1697088393925
 created: 1697088314206
 ---
 
-- #url https://gama-platform.org/wiki/next/Using-BEN-simple-bdi
+- url: https://gama-platform.org/wiki/next/Using-BEN-simple-bdi
 - [[p.builtOn]] 

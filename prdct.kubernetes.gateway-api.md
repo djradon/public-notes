@@ -6,4 +6,4 @@ updated: 1674480676975
 created: 1673990252258
 ---
 
-#url https://gateway-api.sigs.k8s.io/
+url: https://gateway-api.sigs.k8s.io/

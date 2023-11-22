@@ -6,7 +6,7 @@ updated: 1694642336962
 created: 1682976801246
 ---
 
-- #url https://amr.isi.edu https://catalog.ldc.upenn.edu/LDC2020T02
+- url: https://amr.isi.edu https://catalog.ldc.upenn.edu/LDC2020T02
 - [[p.hasSpecification]] https://github.com/amrisi/amr-guidelines/blob/master/amr.md
 
 

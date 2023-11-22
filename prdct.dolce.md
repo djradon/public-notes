@@ -7,5 +7,5 @@ created: 1698268244398
 ---
 
 - [[c.ontology]]
-- #url http://www.loa.istc.cnr.it/dolce/overview.html
+- url: http://www.loa.istc.cnr.it/dolce/overview.html
   - mentions [[prdct.unified-foundational-ontology]]

@@ -6,5 +6,5 @@ updated: 1696281435180
 created: 1696281418619
 ---
 
-- #url https://github.com/FAIR-IMPACT/MOD
-- #description Metadata for Ontology Description and Publication
+- url: https://github.com/FAIR-IMPACT/MOD
+- description: Metadata for Ontology Description and Publication

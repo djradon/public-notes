@@ -7,7 +7,7 @@ created: 1695936736004
 ---
 
 - [[c.software.live-programming]]
-- #url https://visualprogramming.net/
+- url: https://visualprogramming.net/
 - [[p.builtOn]] [[prdct.stride3d]]
 
 ## Features

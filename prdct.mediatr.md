@@ -6,7 +6,7 @@ updated: 1694379022145
 created: 1694375386102
 ---
 
-- #repo https://github.com/jbogard/MediatR
+- repo: https://github.com/jbogard/MediatR
 - [[p.writtenIn]] [[t.cs.languages.c-sharp]]
 
 ## Cons

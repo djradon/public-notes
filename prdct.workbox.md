@@ -6,7 +6,7 @@ updated: 1698077590379
 created: 1698077564033
 ---
 
-- #repo https://github.com/GoogleChrome/workbox
+- repo: https://github.com/GoogleChrome/workbox
 
 ## Resources
 

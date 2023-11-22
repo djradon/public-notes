@@ -7,5 +7,5 @@ created: 1695268974316
 ---
 
 - #dead
-- #repo https://github.com/swift/swift
+- repo: https://github.com/swift/swift
 - [[p.writtenIn]] #c++

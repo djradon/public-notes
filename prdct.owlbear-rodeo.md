@@ -6,7 +6,7 @@ updated: 1698252759297
 created: 1697002853702
 ---
 
-- #url https://www.owlbear.rodeo/
+- url: https://www.owlbear.rodeo/
 
 ## [[c.model.conceptual]]
 

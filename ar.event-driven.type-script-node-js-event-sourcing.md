@@ -6,5 +6,5 @@ updated: 1675528467639
 created: 1675528436714
 ---
 
-- #url https://event-driven.io/pl/type_script_node_Js_event_sourcing/
+- url: https://event-driven.io/pl/type_script_node_Js_event_sourcing/
 - [[p.hasExample]]  defining events in typescript

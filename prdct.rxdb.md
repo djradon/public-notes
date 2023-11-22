@@ -7,7 +7,7 @@ created: 1675064548284
 ---
 
 #similar [[prdct.rxdb]] [[prdct.rethinkdb]] [[prdct.supabase]] [[prdct.pouchdb]] [[prdct.lokijs]] [[prdct.gundb]] [[prdct.dexiejs]] ^pnjx84u9yrqy
-- #url https://rxdb.info/
+- url: https://rxdb.info/
 - #author @daniel-meyer
 
 - [[p.hasComparison]]

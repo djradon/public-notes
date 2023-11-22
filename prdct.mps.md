@@ -7,7 +7,7 @@ created: 1693977693737
 ---
 
 - [[c.software.language-workbench]]
-- #repo https://github.com/JetBrains/MPS
+- repo: https://github.com/JetBrains/MPS
 
 
 ## [[p.vs]]

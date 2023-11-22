@@ -7,7 +7,7 @@ created: 1696016563397
 ---
 
 - [[c.software.entity-component-system]]
-- #repo https://github.com/JaimeGensler/thyseus
+- repo: https://github.com/JaimeGensler/thyseus
 
 
 ## Examples

@@ -6,4 +6,4 @@ updated: 1694372664581
 created: 1694372644868
 ---
 
-- #url https://www.idris-lang.org/
+- url: https://www.idris-lang.org/

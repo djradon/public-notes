@@ -6,7 +6,7 @@ updated: 1698252759266
 created: 1674535875329
 ---
 
-#repo https://js-joda.github.io/js-joda/
+repo: https://js-joda.github.io/js-joda/
 
 ## Features
 

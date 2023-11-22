@@ -7,5 +7,5 @@ created: 1696092001247
 ---
 
 - [[c.service.startup-formation]]
-- #url https://www.clerky.com/
+- url: https://www.clerky.com/
 - 

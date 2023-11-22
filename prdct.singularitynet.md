@@ -6,7 +6,7 @@ updated: 1698252759316
 created: 1694372436207
 ---
 
-- #url https://singularitynet.io/
+- url: https://singularitynet.io/
 
 ## Features
 

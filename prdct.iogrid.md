@@ -8,7 +8,7 @@ created: 1673645071185
 
 [[c.software.game-engine]]
 
-#repo https://github.com/jondubois/iogrid
+repo: https://github.com/jondubois/iogrid
 
 ## [[p.builtOn]]
 

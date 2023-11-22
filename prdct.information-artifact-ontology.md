@@ -8,5 +8,5 @@ created: 1696963500378
 
 - [[c.ontology]]
 - #aka IAO
-- #repo https://github.com/information-artifact-ontology/IAO
+- repo: https://github.com/information-artifact-ontology/IAO
 - 

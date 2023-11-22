@@ -7,4 +7,4 @@ created: 1674833275685
 ---
 
 ![[prdct.n8n#^xnxaubd7sqiw]]
-#url https://temporal.io/
+url: https://temporal.io/

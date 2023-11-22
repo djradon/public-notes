@@ -6,6 +6,6 @@ updated: 1673585966604
 created: 1673583382945
 ---
 
-#repo https://github.com/jcubic/wayne
+repo: https://github.com/jcubic/wayne
 #demo https://jcubic.github.io/wayne/demo/
   - #broken

@@ -6,6 +6,6 @@ updated: 1694533573051
 created: 1694533326295
 ---
 
-- #url https://pypi.org/project/negmas/
-- #repo https://github.com/yasserfarouk/negmas
+- url: https://pypi.org/project/negmas/
+- repo: https://github.com/yasserfarouk/negmas
 - 

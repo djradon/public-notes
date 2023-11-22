@@ -6,4 +6,4 @@ updated: 1695960491288
 created: 1695960485464
 ---
 
-- #url https://thenodeinstitute.org/product/ws23-vvvv-beginner-class/
+- url: https://thenodeinstitute.org/product/ws23-vvvv-beginner-class/

@@ -6,5 +6,5 @@ updated: 1672684720009
 created: 1644300706129
 ---
 
-#repo https://github.com/gamestdio/discord-webgame-toolkit
+repo: https://github.com/gamestdio/discord-webgame-toolkit
 #contributors @endel-dreyer

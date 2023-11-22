@@ -6,5 +6,5 @@ updated: 1695851032508
 created: 1683049532557
 ---
 
-- #repo https://github.com/ErgoAI/ErgoEngine
+- repo: https://github.com/ErgoAI/ErgoEngine
 - [[p.writtenIn]] [[t.cs.languages.abl]]

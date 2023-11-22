@@ -6,7 +6,7 @@ updated: 1698270191582
 created: 1698270191582
 ---
 
-- #repo https://github.com/forax/loom-actor
+- repo: https://github.com/forax/loom-actor
 
 ## Features
 

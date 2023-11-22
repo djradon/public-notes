@@ -6,7 +6,7 @@ updated: 1674365719703
 created: 1674364991040
 ---
 
-#url https://www.otherlife.co/francisbacon/
+url: https://www.otherlife.co/francisbacon/
 #author @justin-murphy
 
 - [[p.hasHighlight]]

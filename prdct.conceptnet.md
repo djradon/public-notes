@@ -6,5 +6,5 @@ updated: 1697486407793
 created: 1697485888228
 ---
 
-- #url https://conceptnet.io/
-- #repo https://github.com/commonsense/conceptnet5
+- url: https://conceptnet.io/
+- repo: https://github.com/commonsense/conceptnet5

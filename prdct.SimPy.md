@@ -7,7 +7,7 @@ created: 1637848786294
 ---
 
 - [[c.software.simulation-framework.discrete-event]]
-- #repo https://gitlab.com/team-simpy/simpy/
+- repo: https://gitlab.com/team-simpy/simpy/
 - [[p.writtenIn]] #python
 - [[p.similarTo]] [[prdct.concurrentsim-jl]] 
 

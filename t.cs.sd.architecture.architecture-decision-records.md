@@ -6,7 +6,7 @@ updated: 1698960112063
 created: 1678352469247
 ---
 
-- #url https://adr.github.io/
+- url: https://adr.github.io/
 - [[p.hasSolution]] [[prdct.madr]]
 
 ## Resources

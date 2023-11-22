@@ -6,4 +6,4 @@ updated: 1694402509334
 created: 1694402481872
 ---
 
-- #url https://spacy.io/
+- url: https://spacy.io/

@@ -6,7 +6,7 @@ updated: 1698262518370
 created: 1696964374658
 ---
 
-- #url https://raw.githubusercontent.com/oborel/obo-relations/master/core.owl
+- url: https://raw.githubusercontent.com/oborel/obo-relations/master/core.owl
 
 ## References
 

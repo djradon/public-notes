@@ -6,6 +6,6 @@ updated: 1695922214496
 created: 1695921675130
 ---
 
-- #url https://amber-lang.net/
+- url: https://amber-lang.net/
 - #license MIT
 - [[p.compatibleWith]] [[prdct.babylon-js]]

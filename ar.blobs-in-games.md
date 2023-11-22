@@ -7,7 +7,7 @@ created: 1673281277187
 ---
 
 [[c.blog]]
-#url https://simblob.blogspot.com/
+url: https://simblob.blogspot.com/
 [[p.publishedBy]] [[org.red-blob-games]]
 
 - [ ] [[p.read]] #game-design

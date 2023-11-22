@@ -6,7 +6,7 @@ updated: 1696269809574
 created: 1645158420618
 ---
 
-- #repo https://github.com/google/leveldb
+- repo: https://github.com/google/leveldb
 - [[p.writtenIn]] #c++
 
 

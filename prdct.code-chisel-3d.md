@@ -7,8 +7,8 @@ created: 1695933620523
 ---
 
 - #dead
-- #url https://robert.kra.hn/past-projects/live-programming-with-three-and-webvr.html
-- #repo  https://github.com/cdglabs/CodeChisel3D
+- url: https://robert.kra.hn/past-projects/live-programming-with-three-and-webvr.html
+- repo:  https://github.com/cdglabs/CodeChisel3D
 - [[p.similarTo]] [[prdct.apparatus]]
 
 

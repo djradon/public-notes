@@ -6,4 +6,4 @@ updated: 1672839662910
 created: 1672839645662
 ---
 
-#repo https://github.com/LitoMore/chalk-pipe
+repo: https://github.com/LitoMore/chalk-pipe

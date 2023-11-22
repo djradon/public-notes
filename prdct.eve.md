@@ -7,6 +7,6 @@ created: 1694191371735
 ---
 
 - #dead since 2019
-- #url https://witheve.com/
+- url: https://witheve.com/
 - [[t.cs.sd.literate-programming]]
 - 

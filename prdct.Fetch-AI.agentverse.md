@@ -6,7 +6,7 @@ updated: 1698609496386
 created: 1698608745633
 ---
 
-- #url https://agentverse.ai/
+- url: https://agentverse.ai/
 
 ## Pricing
 

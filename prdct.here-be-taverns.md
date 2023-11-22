@@ -7,7 +7,7 @@ created: 1696979159688
 ---
 
 - [[c.software.rpg]]
-- #url https://www.herebetaverns.com
+- url: https://www.herebetaverns.com
 - [[p.won]] [[t.rpg.award.ennie]]
 - #related [[prdct.sword-and-source]]
 

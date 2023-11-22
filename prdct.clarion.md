@@ -7,5 +7,5 @@ created: 1694709311346
 ---
 
 - #closed-source
-- #url https://sites.google.com/site/clarioncognitivearchitecture
+- url: https://sites.google.com/site/clarioncognitivearchitecture
 - 

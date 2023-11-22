@@ -6,4 +6,4 @@ updated: 1671853340541
 created: 1671853316913
 ---
 
-#url https://www.npmjs.com/package/markdown-json
+url: https://www.npmjs.com/package/markdown-json

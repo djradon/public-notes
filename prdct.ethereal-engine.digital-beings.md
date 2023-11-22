@@ -6,6 +6,6 @@ updated: 1696353075135
 created: 1696352726611
 ---
 
-- #repo https://github.com/etherealengine/Digital-Beings
+- repo: https://github.com/etherealengine/Digital-Beings
 - [[p.writtenIn]] #typescript #python
 - [[p.supports]] [[prdct.discord]] [[prdct.twitter]] [[prdct.instagram]] [[prdct.facebook.messenger]] [[prdct.reddit]] [[prdct.telegram]] [[prdct.twilio]] [[prdct.ethereal-engine]] [[prdct.zoom]]

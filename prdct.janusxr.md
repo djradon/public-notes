@@ -5,5 +5,5 @@ desc: ''
 updated: 1696976058789
 created: 1696975954243
 ---
-- #url https://janusxr.org
+- url: https://janusxr.org
 - 

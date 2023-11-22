@@ -6,7 +6,7 @@ updated: 1698262670448
 created: 1695485117339
 ---
 
-- #url https://www.cs.usc.edu/academic-programs/masters/game-development/
+- url: https://www.cs.usc.edu/academic-programs/masters/game-development/
 
 ## Resources
 

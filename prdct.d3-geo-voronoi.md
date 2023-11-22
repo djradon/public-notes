@@ -6,7 +6,7 @@ updated: 1673283691503
 created: 1673283611065
 ---
 
-#repo https://github.com/Fil/d3-geo-voronoi
+repo: https://github.com/Fil/d3-geo-voronoi
 
 ## [[p.hasAPI]]
 

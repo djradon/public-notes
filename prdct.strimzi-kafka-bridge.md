@@ -6,7 +6,7 @@ updated: 1674456548072
 created: 1674456445601
 ---
 
-#repo https://github.com/strimzi/strimzi-kafka-bridge
+repo: https://github.com/strimzi/strimzi-kafka-bridge
 
 ## [[p.supports]]
 

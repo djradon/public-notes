@@ -6,5 +6,5 @@ updated: 1675255068511
 created: 1675254838210
 ---
 
-- #url https://www.osti.gov/servlets/purl/1830117
+- url: https://www.osti.gov/servlets/purl/1830117
 - [[p.mentioned]] [[prdct.hypernetx]]

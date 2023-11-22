@@ -6,7 +6,7 @@ updated: 1671701173462
 created: 1669803908499
 ---
 
-#url https://maggieappleton.com/programming-portals
+url: https://maggieappleton.com/programming-portals
 
 
 ## [[p.hasHighlight]] 

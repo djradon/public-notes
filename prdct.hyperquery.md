@@ -6,5 +6,5 @@ updated: 1694117568100
 created: 1694114810403
 ---
 
-- #url https://www.hyperquery.ai
+- url: https://www.hyperquery.ai
 - [[c.pricing]] free for individuals

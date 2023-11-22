@@ -6,4 +6,4 @@ updated: 1678139966473
 created: 1678139934403
 ---
 
-- #url https://docs.nats.io/nats-concepts/jetstream
+- url: https://docs.nats.io/nats-concepts/jetstream

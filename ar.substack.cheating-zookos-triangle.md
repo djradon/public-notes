@@ -6,7 +6,7 @@ updated: 1694190661174
 created: 1694190547070
 ---
 
-- #url https://subconscious.substack.com/p/cheating-zookos-triangle
+- url: https://subconscious.substack.com/p/cheating-zookos-triangle
 
 ## Summary
 

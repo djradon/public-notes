@@ -6,7 +6,7 @@ updated: 1698252759314
 created: 1694615633713
 ---
 
-- #repo https://github.com/Repast/repast.simphony
+- repo: https://github.com/Repast/repast.simphony
 - [[p.writtenIn]] #java
 
 ## Features

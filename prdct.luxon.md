@@ -6,8 +6,8 @@ updated: 1698252759272
 created: 1673909173721
 ---
 
-#url https://moment.github.io/luxon/#/
-#repo https://github.com/moment/luxon
+url: https://moment.github.io/luxon/#/
+repo: https://github.com/moment/luxon
 
 - [[p.similarTo]] [[prdct.momentjs]] [[prdct.js-joda]]
 

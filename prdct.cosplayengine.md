@@ -6,6 +6,6 @@ updated: 1696886924457
 created: 1694458517053
 ---
 
-- #url https://cosplayengine.com/
-- #repo https://github.com/nivanov/cosplay
+- url: https://cosplayengine.com/
+- repo: https://github.com/nivanov/cosplay
 - [[p.writtenIn]] #scala

@@ -6,7 +6,7 @@ updated: 1673048794570
 created: 1672965500329
 ---
 
-#url https://nest-commander.jaymcdoniel.dev/en/introduction/intro/
-#repo https://github.com/jmcdo29/nest-commander
+url: https://nest-commander.jaymcdoniel.dev/en/introduction/intro/
+repo: https://github.com/jmcdo29/nest-commander
 
 [[p.builtOn]] [[prdct.commander]]

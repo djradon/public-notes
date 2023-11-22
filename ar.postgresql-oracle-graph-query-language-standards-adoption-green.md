@@ -6,7 +6,7 @@ updated: 1697062283955
 created: 1697062045265
 ---
 
-- #url https://www.linkedin.com/pulse/postgresql-oracle-graph-query-language-standards-adoption-green/
+- url: https://www.linkedin.com/pulse/postgresql-oracle-graph-query-language-standards-adoption-green/
 
 [[c.reference]]
 

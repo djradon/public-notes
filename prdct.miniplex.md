@@ -7,7 +7,7 @@ created: 1697482272010
 ---
 
 - [[c.software.entity-component-system]]
-- #repo https://github.com/hmans/miniplex
+- repo: https://github.com/hmans/miniplex
 - [[p.writtenIn]] #typescript
 - #creator [[user.hendrik-mans]]
 

@@ -6,7 +6,7 @@ updated: 1673927662728
 created: 1672900642072
 ---
 
-#repo https://github.com/oclif/oclif
+repo: https://github.com/oclif/oclif
 
 #javascript-cli-framework
 

@@ -7,7 +7,7 @@ created: 1683235434997
 ---
 
 - [[c.software.simulation-framework.discrete-event]]
-- #url https://ptolemy.berkeley.edu/ptolemyII/index.htm
+- url: https://ptolemy.berkeley.edu/ptolemyII/index.htm
 
 ## Resources
 

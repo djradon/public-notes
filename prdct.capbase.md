@@ -7,6 +7,6 @@ created: 1678311246039
 ---
 
 - [[c.service.startup-formation]]
-- #url https://capbase.com
+- url: https://capbase.com
 - [[p.hadPricing]] $999/year
 - [[p.similarTo]] [[prdct.gust]]

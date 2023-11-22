@@ -6,7 +6,7 @@ updated: 1672687102724
 created: 1672343374446
 ---
 
-#repo https://github.com/matrix-org/dendrite
+repo: https://github.com/matrix-org/dendrite
 
 ## [[p.hadDependancy]]
 

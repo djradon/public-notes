@@ -7,8 +7,8 @@ created: 1696481811073
 ---
 
 - [[c.software.database.graph.property]]
-- #url https://memgraph.com/
-- #repo https://github.com/memgraph/memgraph
+- url: https://memgraph.com/
+- repo: https://github.com/memgraph/memgraph
 - [[p.compatibleWith]] [[prdct.neo4j]]
 - [[p.writtenIn]] #c++
 

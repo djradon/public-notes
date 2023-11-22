@@ -8,7 +8,7 @@ created: 1697986265703
 
 - [[c.software.game-maker]]
 - [[c.game.voxel]] [[c.game.sandbox]]
-- #url https://terasology.org/
+- url: https://terasology.org/
 - [[p.writtenIn]] #java
 - [[p.similarTo]] [[prdct.minecraft]] [[prdct.minetest]] [[prdct.vintage-story]]
 

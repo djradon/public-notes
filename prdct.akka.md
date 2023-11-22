@@ -6,7 +6,7 @@ updated: 1698252759197
 created: 1683232881555
 ---
 
-- #url https://akka.io/
+- url: https://akka.io/
 - [[p.supports]] 
   - #java #scala directly
 - #related [[prdct.pekko]]

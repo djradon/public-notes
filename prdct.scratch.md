@@ -6,8 +6,8 @@ updated: 1698704342179
 created: 1695350643182
 ---
 
-- #url [[https://scratch.mit.edu]]
-- #repo 
+- url: [[https://scratch.mit.edu]]
+- repo: 
 
 ## Resources
 

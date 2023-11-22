@@ -7,6 +7,6 @@ created: 1696538919387
 ---
 
 - dead? acquired by f5?
-- #repo https://github.com/suborbital/e2core
+- repo: https://github.com/suborbital/e2core
 - [[p.writtenIn]] #go
 - [[p.builtOn]] [[prdct.wasm]]

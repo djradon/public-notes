@@ -6,8 +6,8 @@ updated: 1699990424527
 created: 1696438166743
 ---
 
-- #url https://h3geo.org
-- #repo https://github.com/uber/h3
+- url: https://h3geo.org
+- repo: https://github.com/uber/h3
 - #docs https://h3geo.org/docs/
 
 ## [[p.supports]]

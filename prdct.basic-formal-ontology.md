@@ -10,8 +10,8 @@ created: 1696610915530
 ---
 
 - [[c.ontology.upper]]
-- #url https://basic-formal-ontology.org/
-- #repo https://github.com/bfo-ontology/BFO/
+- url: https://basic-formal-ontology.org/
+- repo: https://github.com/bfo-ontology/BFO/
 - #docs https://github.com/bfo-ontology/BFO/wiki
 - #similar [[prdct.gist]]
 - #related 

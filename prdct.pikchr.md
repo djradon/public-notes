@@ -7,5 +7,5 @@ created: 1696565981127
 ---
 
 - [[c.software.tools.diagramming]]
-- #url https://pikchr.org
+- url: https://pikchr.org
 - [[p.supportedBy]] [[prdct.vscode]] 

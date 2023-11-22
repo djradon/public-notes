@@ -6,5 +6,5 @@ updated: 1694194262478
 created: 1694193872247
 ---
 
-- #repo https://github.com/neptune-ai/neptune-client
+- repo: https://github.com/neptune-ai/neptune-client
 - [[p.hadDependancy]] [[prdct.neptune-ai]]

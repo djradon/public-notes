@@ -6,5 +6,5 @@ updated: 1688056277958
 created: 1688053861944
 ---
 
-- #url https://stytch.com
+- url: https://stytch.com
 - [[c.software.authentication]] [[c.software.iam]]

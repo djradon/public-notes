@@ -6,7 +6,7 @@ updated: 1696701605027
 created: 1651249464837
 ---
 
-- #description ReactiveX is a combination of the best ideas from
+- description: ReactiveX is a combination of the best ideas from
 the Observer pattern, the Iterator pattern, and functional programming
 - [[p.hasSite]] https://reactivex.io/
 - [[p.supports]] #java #scala #c-sharp #c++ #clojure #javascript #python #groovy #python

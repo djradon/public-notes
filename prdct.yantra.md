@@ -6,5 +6,5 @@ updated: 1697642315015
 created: 1697642304464
 ---
 
-- #repo https://github.com/yantrajs/yantra
+- repo: https://github.com/yantrajs/yantra
 - 

@@ -6,5 +6,5 @@ updated: 1694380095725
 created: 1694380091900
 ---
 
-- #url https://medium.com/@alexdorand/event-storming-black-magic-or-real-4a7ff000b74c
+- url: https://medium.com/@alexdorand/event-storming-black-magic-or-real-4a7ff000b74c
 

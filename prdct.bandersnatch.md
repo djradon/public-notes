@@ -8,7 +8,7 @@ created: 1672804422577
 
 - [[c.topic]] [[t.cs.ui.cli]] [[t.cs.programming.repl]]
 - [[p.instanceOf]] [[c.software.cli-framework]]
-- #repo https://github.com/hongaar/bandersnatch
+- repo: https://github.com/hongaar/bandersnatch
 
 ## Features
 

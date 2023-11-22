@@ -6,5 +6,5 @@ updated: 1676932510826
 created: 1676932482817
 ---
 
-- #repo https://github.com/nfnitloop/deno-embedder
+- repo: https://github.com/nfnitloop/deno-embedder
 - 

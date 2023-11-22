@@ -8,6 +8,6 @@ updated: 1672227075381
 created: 1672227023528
 ---
 
-#repo https://github.com/jelster/space-truckers/
+repo: https://github.com/jelster/space-truckers/
 
 - [[p.hasLearningResource]] [[book.going-the-distance-with-babylonjs]]

@@ -6,5 +6,5 @@ updated: 1693401305844
 created: 1693401198872
 ---
 
-- #url https://juliagraphs.org/
+- url: https://juliagraphs.org/
 - 

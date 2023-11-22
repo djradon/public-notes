@@ -6,5 +6,5 @@ updated: 1688354127903
 created: 1688354113971
 ---
 
-- #url https://gitpitch.github.io/gitpitch/
+- url: https://gitpitch.github.io/gitpitch/
 - 

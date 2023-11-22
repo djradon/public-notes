@@ -7,7 +7,7 @@ created: 1698094999504
 ---
 
 - [[c.software.language-workbench]]
-- #url https://neverlang.di.unimi.it/
+- url: https://neverlang.di.unimi.it/
 
 
 ## Features

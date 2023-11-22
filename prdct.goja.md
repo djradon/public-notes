@@ -6,5 +6,5 @@ updated: 1680487273152
 created: 1680487273152
 ---
 
-- #url https://github.com/dop251/goja
+- url: https://github.com/dop251/goja
 - [[p.usedBy]] [[prdct.nakama]]

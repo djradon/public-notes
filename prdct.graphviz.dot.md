@@ -8,4 +8,4 @@ created: 1696566392333
 
 - [[c.software.tools.diagramming]]
 - [[c.grammar.abstract]]
-- #url https://graphviz.org/doc/info/lang.html
+- url: https://graphviz.org/doc/info/lang.html

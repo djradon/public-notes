@@ -7,5 +7,5 @@ created: 1695967494699
 ---
 
 - [[c.software.game-platform.multi-user-dungeon]]
-- #repo https://github.com/RanvierMUD/ranviermud
-- #url https://ranviermud.com/
+- repo: https://github.com/RanvierMUD/ranviermud
+- url: https://ranviermud.com/

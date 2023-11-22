@@ -7,4 +7,4 @@ created: 1672411823757
 ---
 
 #dead
-#repo https://github.com/dthree/vorpal
+repo: https://github.com/dthree/vorpal

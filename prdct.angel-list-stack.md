@@ -7,6 +7,6 @@ created: 1696091978315
 ---
 
 - [[c.service.startup-formation]]
-- #url https://www.angellist.com/startups
+- url: https://www.angellist.com/startups
 - [[c.list.features]] https://www.angellist.com/startups/pricing#pricing-plans
   - [[c.mention]] [[prdct.carta]]

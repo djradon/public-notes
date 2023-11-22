@@ -6,7 +6,7 @@ updated: 1696269809567
 created: 1645899689960
 ---
 
-- #repo https://github.com/opencog/atomspace
+- repo: https://github.com/opencog/atomspace
 - [[p.writtenIn]] #c++
 - [[p.builtOn]] [[prdct.postgres]]
 - [[p.hasRelatedTopic]] [[t.km.kr]] 

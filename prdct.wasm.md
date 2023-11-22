@@ -6,7 +6,7 @@ updated: 1696445460862
 created: 1696364249241
 ---
 
-- #url https://webassembly.org/
+- url: https://webassembly.org/
 - [[p.isRelated]] [[prdct.wasi]]
 
 ## [[c.goal]]

@@ -6,5 +6,5 @@ updated: 1695847819933
 created: 1695847620036
 ---
 
-- #url https://www.jasss.org/22/2/3.html
+- url: https://www.jasss.org/22/2/3.html
 - [[c.mention]] [[prdct.cormas]] [[prdct.netlogo]]

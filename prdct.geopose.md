@@ -6,7 +6,7 @@ updated: 1700417445827
 created: 1696352359233
 ---
 
-- #url https://www.ogc.org/standard/geopose/
+- url: https://www.ogc.org/standard/geopose/
 
 ## Implementations
 

@@ -6,8 +6,8 @@ updated: 1695936103265
 created: 1673928405450
 ---
 
-#url https://p5js.org/
-#repo https://github.com/processing/p5.js
+url: https://p5js.org/
+repo: https://github.com/processing/p5.js
 - [[c.publisher]] [[org.processing]]
 - [[p.similarTo]] [[prdct.processing]]
 

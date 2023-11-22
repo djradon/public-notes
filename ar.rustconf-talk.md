@@ -6,7 +6,7 @@ updated: 1696891769195
 created: 1696707625159
 ---
 
-- #url https://kyren.github.io/2018/09/14/rustconf-talk.html
+- url: https://kyren.github.io/2018/09/14/rustconf-talk.html
 - [[c.actor.speaker]] @kyren
 
 ## [[c.text.exerpt]]

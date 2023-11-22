@@ -7,5 +7,5 @@ created: 1695183726541
 ---
 
 - [[c.software.xmpp-server]]
-- #repo https://github.com/ortuman/jackal
+- repo: https://github.com/ortuman/jackal
 - [[p.writtenIn]] #go

@@ -6,7 +6,7 @@ updated: 1698879336304
 created: 1698879336304
 ---
 
-- #url https://allenai.org/data/atomic
+- url: https://allenai.org/data/atomic
 
 ## Example
 

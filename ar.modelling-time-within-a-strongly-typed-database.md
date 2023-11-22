@@ -6,7 +6,7 @@ updated: 1694813850058
 created: 1694796319022
 ---
 
-- #url https://blog.vaticle.com/modelling-time-within-a-strongly-typed-database-55ba91ecad62
+- url: https://blog.vaticle.com/modelling-time-within-a-strongly-typed-database-55ba91ecad62
 
 Published in
 

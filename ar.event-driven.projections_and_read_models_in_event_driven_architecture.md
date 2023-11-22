@@ -6,4 +6,4 @@ updated: 1698704342193
 created: 1675494138548
 ---
 
-- #url https://event-driven.io/en/projections-and-read-models-in-event-driven-architecture/
+- url: https://event-driven.io/en/projections-and-read-models-in-event-driven-architecture/

@@ -6,4 +6,4 @@ updated: 1673494531852
 created: 1673494480829
 ---
 
-#url https://responsiblemetaverse.org
+url: https://responsiblemetaverse.org

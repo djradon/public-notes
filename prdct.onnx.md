@@ -6,4 +6,4 @@ updated: 1698078851113
 created: 1698078843912
 ---
 
-- #repo https://github.com/onnx/onnx
+- repo: https://github.com/onnx/onnx

@@ -6,8 +6,8 @@ updated: 1696287929585
 created: 1695934089405
 ---
 - #dead ?
-- #url https://lively-next.org/
-- #repo https://github.com/LivelyKernel/LivelyKernel
+- url: https://lively-next.org/
+- repo: https://github.com/LivelyKernel/LivelyKernel
 - [[p.writtenIn]] #javascript
 
 ## Examples

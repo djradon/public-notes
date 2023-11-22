@@ -6,5 +6,5 @@ updated: 1696538918586
 created: 1696536859646
 ---
 
-- #url https://suborbital.dev
+- url: https://suborbital.dev
 - [[p.published]] [[prdct.e2core]]

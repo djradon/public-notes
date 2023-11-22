@@ -6,6 +6,6 @@ updated: 1672099366339
 created: 1672099072431
 ---
 
-#repo https://github.com/sibartlett/colonizers
+repo: https://github.com/sibartlett/colonizers
 
 - [[p.builtOn]] [[prdct.hapi]]

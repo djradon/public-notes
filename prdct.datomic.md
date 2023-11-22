@@ -6,6 +6,6 @@ updated: 1696451731177
 created: 1696447805580
 ---
 
-- #url https://www.datomic.com/
-- #repo ??
+- url: https://www.datomic.com/
+- repo: ??
 - [[p.writtenIn]] #clojure

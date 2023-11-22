@@ -7,7 +7,7 @@ created: 1637793632731
 ---
 
 - [[c.software.agent-framework]]
-- #repo https://github.com/grei-ufc/pade
+- repo: https://github.com/grei-ufc/pade
 - #similar [[prdct.spade]]
 
 - [[p.hasSite]] https://pade.readthedocs.io/en/latest/

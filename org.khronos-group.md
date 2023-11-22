@@ -8,7 +8,7 @@ updated: 1696354349252
 created: 1684867594652
 ---
 
-- #url https://www.khronos.org/
+- url: https://www.khronos.org/
 
 ## [[c.product]]
 

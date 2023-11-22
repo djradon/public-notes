@@ -6,4 +6,4 @@ updated: 1697664285777
 created: 1697664272892
 ---
 
-- #repo https://docs.camunda.io/docs/components/operate/operate-introduction/
+- repo: https://docs.camunda.io/docs/components/operate/operate-introduction/

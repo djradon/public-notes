@@ -6,7 +6,7 @@ updated: 1698252759323
 created: 1689630910814
 ---
 
-- #url https://surrealdb.com/
+- url: https://surrealdb.com/
 
 ## Features
 

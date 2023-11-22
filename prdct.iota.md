@@ -6,9 +6,9 @@ updated: 1696714991715
 created: 1695424461712
 ---
 
-- #url https://www.iota.org/
+- url: https://www.iota.org/
 - [[p.writtenIn]] #rust
 
-## #description 
+## description: 
 
 - When you send an IOTA transaction you validate two other transactions.

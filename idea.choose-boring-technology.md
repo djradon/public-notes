@@ -6,4 +6,4 @@ updated: 1688439610027
 created: 1688439496374
 ---
 
-- #url https://boringtechnology.club/
+- url: https://boringtechnology.club/

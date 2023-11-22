@@ -6,7 +6,7 @@ updated: 1686201714717
 created: 1685938014552
 ---
 
-- #url https://d2lang.com/
+- url: https://d2lang.com/
 - [[c.software.tools.diagramming]]
   
 ## [[p.supportedBy]]

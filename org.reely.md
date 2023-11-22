@@ -6,5 +6,5 @@ updated: 1684868926160
 created: 1684868809093
 ---
 
-- #url https://www.reely.ai/
+- url: https://www.reely.ai/
 - now part of [[org.magnifi]]

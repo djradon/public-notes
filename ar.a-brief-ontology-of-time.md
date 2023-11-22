@@ -6,5 +6,5 @@ updated: 1697478576093
 created: 1697478572622
 ---
 
-- #url https://caminao.blog/2018/05/23/a-brief-ontology-of-time/
+- url: https://caminao.blog/2018/05/23/a-brief-ontology-of-time/
 - 

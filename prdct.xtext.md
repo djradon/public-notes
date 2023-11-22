@@ -7,7 +7,7 @@ created: 1693977641453
 ---
 
 - [[c.software.language-workbench]]
-- #url https://eclipse.dev/Xtext/
+- url: https://eclipse.dev/Xtext/
 
 
 

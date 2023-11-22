@@ -6,7 +6,7 @@ updated: 1696874847783
 created: 1696870591171
 ---
 
-- #repo https://github.com/johtela/LiterateCS
+- repo: https://github.com/johtela/LiterateCS
 
 ## Cons 
 

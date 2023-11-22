@@ -6,7 +6,7 @@ updated: 1700517762224
 created: 1697478474599
 ---
 
-- #url https://medium.com/vaticle/modelling-time-within-a-strongly-typed-database-55ba91ecad62
+- url: https://medium.com/vaticle/modelling-time-within-a-strongly-typed-database-55ba91ecad62
 - [[c.mention]] [[ar.a-brief-ontology-of-time]]
 
 ## Issues

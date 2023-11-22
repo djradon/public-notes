@@ -6,4 +6,4 @@ updated: 1696440859242
 created: 1696440855990
 ---
 
-- #repo https://github.com/uber/h3-java
+- repo: https://github.com/uber/h3-java

@@ -7,4 +7,4 @@ created: 1694538806871
 ---
 
 - #dead
-- #repo https://github.com/GiGurra/scalego
+- repo: https://github.com/GiGurra/scalego

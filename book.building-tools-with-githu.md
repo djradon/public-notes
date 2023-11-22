@@ -6,7 +6,7 @@ updated: 1673347000751
 created: 1673346498102
 ---
 
-#url https://learning.oreilly.com/library/view/building-tools-with/9781491933497/
+url: https://learning.oreilly.com/library/view/building-tools-with/9781491933497/
 #created 2016
 
 ## [[p.hasHighlight]]

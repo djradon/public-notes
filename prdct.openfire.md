@@ -7,5 +7,5 @@ created: 1695182640943
 ---
 
 - [[c.software.xmpp-server]]
-- #repo
+- repo:
 - [[p.writtenIn]] #java

@@ -7,5 +7,5 @@ created: 1698276513801
 ---
 
 - #writtenIn #java
-- #repo https://github.com/owlcs/owlapi
+- repo: https://github.com/owlcs/owlapi
 - 

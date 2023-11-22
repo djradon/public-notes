@@ -6,8 +6,8 @@ updated: 1698262670468
 created: 1698087161289
 ---
 
-- #url https://motioncanvas.io/
-- #repo https://github.com/motion-canvas/motion-canvas
+- url: https://motioncanvas.io/
+- repo: https://github.com/motion-canvas/motion-canvas
 - #writtenIn #typescript
   
 ## Features

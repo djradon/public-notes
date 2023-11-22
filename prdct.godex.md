@@ -6,5 +6,5 @@ updated: 1696876317700
 created: 1696876060308
 ---
 
-- #repo https://github.com/GodotECS/godex
+- repo: https://github.com/GodotECS/godex
 - [[p.writtenIn]] #c++

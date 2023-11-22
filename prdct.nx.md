@@ -6,7 +6,7 @@ updated: 1698262670478
 created: 1674537110739
 ---
 
-#url https://nx.dev/
+url: https://nx.dev/
 
 ## Resources
 

@@ -6,6 +6,6 @@ updated: 1681690621036
 created: 1681690558703
 ---
 
-- #repo https://github.com/localForage/localForage
-- #url https://localforage.github.io/localForage/
+- repo: https://github.com/localForage/localForage
+- url: https://localforage.github.io/localForage/
 - 

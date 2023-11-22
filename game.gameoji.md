@@ -6,5 +6,5 @@ updated: 1696302236322
 created: 1696300910295
 ---
 
-- #repo https://github.com/c42f/Gameoji
+- repo: https://github.com/c42f/Gameoji
 - couldn't get it to run with recent Juila

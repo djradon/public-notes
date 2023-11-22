@@ -6,4 +6,4 @@ updated: 1694402653509
 created: 1694402622926
 ---
 
-- #url https://mybinder.org/
+- url: https://mybinder.org/

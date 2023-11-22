@@ -15,7 +15,7 @@ Resources
 : #resources
 
 URL
-: #url
+: url:
 
 Vocabulary
 : [[t.km.vocabulary]]

@@ -6,6 +6,6 @@ updated: 1672342729665
 created: 1672342534430
 ---
 
-#url https://puttclub.io/ 
+url: https://puttclub.io/ 
 
 - [[p.builtOn]] [[prdct.ethereal-engine]] [[prdct.bitecs]]

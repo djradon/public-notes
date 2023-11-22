@@ -7,5 +7,5 @@ created: 1696964138856
 ---
 
 - #aka COB
-- #url https://ontobee.org/ontology/COB
+- url: https://ontobee.org/ontology/COB
 - [[p.isRelated]] [[prdct.open-biological-and-biomedical-ontology-foundry]]

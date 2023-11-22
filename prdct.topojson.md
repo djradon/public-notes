@@ -8,7 +8,7 @@ updated: 1697477334569
 created: 1697117629979
 ---
 
-- #repo https://github.com/topojson/topojson-specification
+- repo: https://github.com/topojson/topojson-specification
 - [[p.extends]] [[prdct.geojson]]
 
 

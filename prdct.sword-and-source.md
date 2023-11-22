@@ -6,5 +6,5 @@ updated: 1696980090031
 created: 1696980090031
 ---
 
-- #url https://swordandsource.ca/
+- url: https://swordandsource.ca/
 - #related [[prdct.storycraft]]

@@ -7,5 +7,5 @@ created: 1694713890755
 ---
 
 - #docs https://mpi4py.readthedocs.io/en/stable/
-- #repo https://github.com/mpi4py/mpi4py/
+- repo: https://github.com/mpi4py/mpi4py/
 - 

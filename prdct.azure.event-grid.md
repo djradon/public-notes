@@ -11,7 +11,7 @@ created: 1672319985785
 - [[p.similarTo]] [[prdct.google-cloud.eventarc]] [[prdct.aws.event-bridge]]
 - [[p.supports]] [[prdct.cloudevents]]
 
-#url https://azure.microsoft.com/en-us/products/event-grid/
+url: https://azure.microsoft.com/en-us/products/event-grid/
 
 - [[p.hasLearningResource]] https://learn.microsoft.com/en-us/azure/event-grid/overview
 - [[p.supports]] on-prem deployment via https://learn.microsoft.com/en-us/azure/event-grid/kubernetes/overview

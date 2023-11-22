@@ -6,7 +6,7 @@ updated: 1675065401362
 created: 1673923590267
 ---
 - ![[prdct.rxdb#^pnjx84u9yrqy]]
-- #url https://pouchdb.com/
+- url: https://pouchdb.com/
 
 ## [[p.supports]]
 

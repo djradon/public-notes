@@ -7,7 +7,7 @@ created: 1694194690268
 ---
 
 - [[c.software.computational-notebook]]
-- #url https://nextjournal.com/
+- url: https://nextjournal.com/
 - [[c.pricing]] 
 
 ## Features

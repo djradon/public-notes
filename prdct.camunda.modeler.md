@@ -6,4 +6,4 @@ updated: 1697664211904
 created: 1697664207073
 ---
 
-- #repo https://github.com/camunda/camunda-modeler
+- repo: https://github.com/camunda/camunda-modeler

@@ -6,5 +6,5 @@ updated: 1696563930241
 created: 1696563925839
 ---
 
-- #url http://moosetechnology.org/
+- url: http://moosetechnology.org/
 - 

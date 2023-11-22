@@ -6,5 +6,5 @@ updated: 1696434091627
 created: 1696434080921
 ---
 
-- #url https://maggieappleton.com/block-data
+- url: https://maggieappleton.com/block-data
 - 

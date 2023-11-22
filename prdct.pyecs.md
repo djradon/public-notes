@@ -6,4 +6,4 @@ updated: 1696956718019
 created: 1696956706270
 ---
 
-- #repo https://github.com/SudoOmbro/PyECS
+- repo: https://github.com/SudoOmbro/PyECS

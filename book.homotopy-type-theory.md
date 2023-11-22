@@ -6,4 +6,4 @@ updated: 1680287446112
 created: 1680287439074
 ---
 
-- #url https://homotopytypetheory.org/book/
+- url: https://homotopytypetheory.org/book/

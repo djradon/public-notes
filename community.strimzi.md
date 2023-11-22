@@ -6,4 +6,4 @@ updated: 1674455280221
 created: 1674455260211
 ---
 
-#url https://strimzi.io/join-us/
+url: https://strimzi.io/join-us/

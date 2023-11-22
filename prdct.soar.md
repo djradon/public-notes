@@ -7,8 +7,8 @@ created: 1694362703008
 ---
 
 - [[c.software.cognitive-architecture]]
-- #url http://soar.eecs.umich.edu/ 
-- #repo https://github.com/SoarGroup/Soar
+- url: http://soar.eecs.umich.edu/ 
+- repo: https://github.com/SoarGroup/Soar
 - [[p.writtenIn]] #c++ 
 
 

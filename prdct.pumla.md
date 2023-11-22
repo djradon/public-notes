@@ -6,5 +6,5 @@ updated: 1685940286793
 created: 1685940229034
 ---
 
-- #repo https://github.com/DrMarkusVoss/pumla
+- repo: https://github.com/DrMarkusVoss/pumla
 - [[p.hadDependancy]] [[prdct.plantuml]]

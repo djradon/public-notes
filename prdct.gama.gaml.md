@@ -6,7 +6,7 @@ updated: 1697089275725
 created: 1694708715914
 ---
 
-- #url https://gama-platform.org/wiki/GamlLanguage
+- url: https://gama-platform.org/wiki/GamlLanguage
 
 ## #features
 

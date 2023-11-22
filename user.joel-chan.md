@@ -6,8 +6,8 @@ updated: 1675205567291
 created: 1675205452635
 ---
 
-- #url http://joelchan.me/
-- #description 
+- url: http://joelchan.me/
+- description: 
   - Joel Chan is an Assistant Professor at the [University of Marlyand’s College of Information Studies](https://ischool.umd.edu/).
 
 Joel’s “[research](http://joelchan.me/research/) and [teaching](http://joelchan.me/teaching/) explore **systems that support creative knowledge work**, in domains such as design and scientific discovery.”

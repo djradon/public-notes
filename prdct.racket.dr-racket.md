@@ -6,4 +6,4 @@ updated: 1698095422354
 created: 1698095397350
 ---
 
-- #url https://docs.racket-lang.org/drracket/
+- url: https://docs.racket-lang.org/drracket/

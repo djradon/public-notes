@@ -8,7 +8,7 @@ created: 1671517516905
 
 
 - [[c.software.agent-framework]]
-- #url https://github.com/TimKam/JS-son
+- url: https://github.com/TimKam/JS-son
 - #author @tim-kampik
 - [[p.writtenIn]] #javascript
 - [[p.hasApplication]] web apps, [[Jupyter notebooks|prdct.jupyter]], grid worlds, and serverless (Function-as-a-Service) environments.

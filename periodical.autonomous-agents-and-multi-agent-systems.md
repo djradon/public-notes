@@ -7,4 +7,4 @@ created: 1694361789571
 ---
 
 - #publisher [[org.springer]]
-- #url https://www.springer.com/journal/10458
+- url: https://www.springer.com/journal/10458

@@ -6,7 +6,7 @@ updated: 1700351211036
 created: 1675254129522
 ---
 
-- #url https://wiki.opencog.org/w/Hyperon:Atomese
+- url: https://wiki.opencog.org/w/Hyperon:Atomese
 - [[p.hasSpecification]] https://wiki.opencog.org/wikihome/images/b/b7/MeTTa_Specification.pdf
 - similar-to: [[prdct.typeql]]
 

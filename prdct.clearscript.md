@@ -6,8 +6,8 @@ updated: 1698262670400
 created: 1697642138155
 ---
 
-- #url https://microsoft.github.io/ClearScript/
-- #repo https://github.com/microsoft/ClearScript
+- url: https://microsoft.github.io/ClearScript/
+- repo: https://github.com/microsoft/ClearScript
 
 ## Issues
 

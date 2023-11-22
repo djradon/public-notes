@@ -6,7 +6,7 @@ updated: 1696627659387
 created: 1695140850298
 ---
 
-- #url https://www.messagehandler.net/patterns/
+- url: https://www.messagehandler.net/patterns/
 - #creator @yves-goeleven
   
 ![](/assets/images/2023-10-06-13-10-52.png)

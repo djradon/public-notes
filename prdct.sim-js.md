@@ -7,8 +7,8 @@ created: 1698269731178
 ---
 
 - [[c.software.simulation-framework.discrete-event]]
-- #repo https://github.com/mvarshney/simjs-source
-- #url https://simjs.z5.web.core.windows.net/
+- repo: https://github.com/mvarshney/simjs-source
+- url: https://simjs.z5.web.core.windows.net/
 
 ## Design Principles 
 

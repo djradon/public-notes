@@ -7,7 +7,7 @@ created: 1694617862020
 ---
 
 - [[c.software.agent-framework]] [[c.software.simulation-framework]]
-- #repo https://github.com/Repast/repast4py
+- repo: https://github.com/Repast/repast4py
 
 ## Thoughts
 

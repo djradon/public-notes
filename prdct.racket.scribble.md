@@ -6,4 +6,4 @@ updated: 1698095883338
 created: 1698095773912
 ---
 
-- #url https://docs.racket-lang.org/scribble/
+- url: https://docs.racket-lang.org/scribble/

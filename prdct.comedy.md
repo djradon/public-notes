@@ -6,5 +6,5 @@ updated: 1683232714794
 created: 1683232709268
 ---
 
-- #repo https://github.com/untu/comedy
+- repo: https://github.com/untu/comedy
 - 

@@ -24,6 +24,6 @@ If you are a Free user, you must always include the attribution line “Designed
 
 ### Medieval Icon Pack
 
-#url https://www.freepik.com/premium-icon/medieval_26045530.htm#query=battle&position=5&from_view=search&track=sph
+url: https://www.freepik.com/premium-icon/medieval_26045530.htm#query=battle&position=5&from_view=search&track=sph
 
 ![](/assets/images/2023-01-07-04-51-04.png)

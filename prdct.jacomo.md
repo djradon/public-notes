@@ -8,5 +8,5 @@ created: 1694360138732
 
 - [[c.software.agent-framework]]
 - #dead (or nearly)
-- #repo https://sourceforge.net/projects/jacamo/
+- repo: https://sourceforge.net/projects/jacamo/
 - [[p.writtenIn]] #java

@@ -7,5 +7,5 @@ created: 1674833352284
 ---
 
 ![[prdct.n8n#^xnxaubd7sqiw]]
-- #url https://www.prefect.io
+- url: https://www.prefect.io
 

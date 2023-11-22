@@ -6,6 +6,6 @@ updated: 1695843981615
 created: 1695843871632
 ---
 
-- #url https://www.lesswrong.com/posts/Nz62ZurRkGPigAxMK/where-do-selfish-values-come-from
+- url: https://www.lesswrong.com/posts/Nz62ZurRkGPigAxMK/where-do-selfish-values-come-from
 - #author @wei-dai
 - [[t.phil.decision-theory.updateless]]

@@ -7,5 +7,5 @@ created: 1696481099822
 ---
 
 - #aka Cypher
-- #url https://opencypher.org/
+- url: https://opencypher.org/
 - [[c.list.implementations]] https://opencypher.org/projects/

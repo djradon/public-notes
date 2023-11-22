@@ -7,8 +7,8 @@ created: 1688397077910
 ---
 
 - [[c.software.distributed-systems-runtime]] [[c.software.actor-framework]]
-- #url https://dapr.io
-- #repo https://github.com/dapr
+- url: https://dapr.io
+- repo: https://github.com/dapr
 - [[c.documentation]] https://docs.dapr.io
 
 ## [[p.supports]]

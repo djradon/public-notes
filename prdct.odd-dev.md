@@ -6,5 +6,5 @@ updated: 1682972835243
 created: 1682971849126
 ---
 
-- #url https://odd.dev/
+- url: https://odd.dev/
 - [[p.supports]] [[prdct.typescript]]

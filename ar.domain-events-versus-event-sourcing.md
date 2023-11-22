@@ -6,7 +6,7 @@ updated: 1694379365550
 created: 1692393101454
 ---
 
-- #url https://www.innoq.com/en/blog/2019/01/domain-events-versus-event-sourcing/
+- url: https://www.innoq.com/en/blog/2019/01/domain-events-versus-event-sourcing/
 - [[c.comparand]] : [[t.cs.sd.event-sourcing]] [[t.cs.sd.ddd.domain-event]]
 
 

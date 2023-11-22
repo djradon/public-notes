@@ -6,5 +6,5 @@ updated: 1696356181539
 created: 1696356152279
 ---
 
-- #url https://named-data.net/
+- url: https://named-data.net/
 - 

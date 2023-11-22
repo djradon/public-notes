@@ -8,7 +8,7 @@ updated: 1698262670429
 created: 1644488300455
 ---
 
-- #url https://graphbrain.net/
+- url: https://graphbrain.net/
 - [[p.writtenIn]] #python
 - #aka "An OpenCog that works"
 - 

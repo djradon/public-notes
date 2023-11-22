@@ -6,6 +6,6 @@ updated: 1694715796668
 created: 1694715757732
 ---
 
-- #url https://ialab.it.monash.edu/webcola/
+- url: https://ialab.it.monash.edu/webcola/
 - #aka WebCola
-- #repo https://github.com/tgdwyer/WebCola
+- repo: https://github.com/tgdwyer/WebCola

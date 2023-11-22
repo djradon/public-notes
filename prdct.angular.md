@@ -6,5 +6,5 @@ updated: 1696626781832
 created: 1672670911903
 ---
 
-#url https://angular.io/
+url: https://angular.io/
 - [[p.builtOn]] [[prdct.reactivex]]

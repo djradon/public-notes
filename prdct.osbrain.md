@@ -9,4 +9,4 @@ created: 1694380482490
 - [[c.software.agent-framework]]
 - #dead
 - #docs https://osbrain.readthedocs.io/
-- #repo https://github.com/opensistemas-hub/osbrain
+- repo: https://github.com/opensistemas-hub/osbrain

@@ -8,8 +8,8 @@ created: 1637846271510
 
 - [[c.software.game-engine]]
 - [[p.alsoKnownAs]] Xenko
-- #url https://www.stride3d.net/
-- #repo https://github.com/stride3d/stride
+- url: https://www.stride3d.net/
+- repo: https://github.com/stride3d/stride
 - [[c.comparable]] [[prdct.unity]] [[prdct.monogame]]
 - [[p.writtenIn]] #c-sharp
 - [[p.usedBy]] [[prdct.vvvv]]

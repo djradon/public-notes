@@ -6,7 +6,7 @@ updated: 1694643038513
 created: 1694642425981
 ---
 
-- #url https://www.grammaticalframework.org/
+- url: https://www.grammaticalframework.org/
 - [ ] needs evaluation
 
 ## Learning Resource

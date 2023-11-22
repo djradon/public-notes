@@ -6,6 +6,6 @@ updated: 1698323054361
 created: 1674399662343
 ---
 
-- #url https://lavinmq.com/
-- #repo https://github.com/cloudamqp/lavinmq/
+- url: https://lavinmq.com/
+- repo: https://github.com/cloudamqp/lavinmq/
 - [[p.compatibleWith]] [[prdct.amqp]]

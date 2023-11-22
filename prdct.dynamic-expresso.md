@@ -10,4 +10,4 @@ created: 1690569209940
 ---
 
 - #c-sharp
-- #repo https://github.com/dynamicexpresso/DynamicExpresso
+- repo: https://github.com/dynamicexpresso/DynamicExpresso

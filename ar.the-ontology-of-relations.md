@@ -6,7 +6,7 @@ updated: 1696821843108
 created: 1696606707466
 ---
 
-- #url https://academic.oup.com/mit-press-scholarship-online/book/29912/chapter-abstract/253560399
+- url: https://academic.oup.com/mit-press-scholarship-online/book/29912/chapter-abstract/253560399
 
 ## [[c.text.abstract]]
 

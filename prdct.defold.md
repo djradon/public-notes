@@ -7,8 +7,8 @@ created: 1672300709043
 ---
 
 [[c.software.game-engine]]
-- #url https://defold.com/
-- #repo https://github.com/defold/defold
+- url: https://defold.com/
+- repo: https://github.com/defold/defold
 - [[p.supports]] [[prdct.lua]]
 - [[p.writtenIn]] #c++ #c #clojure #java
 

@@ -6,7 +6,7 @@ updated: 1696353827193
 created: 1672343813127
 ---
 
-- #url https://www.khronos.org/gltf/
+- url: https://www.khronos.org/gltf/
 - [[c.extension]] [[prdct.ee-variant]]
 - [[c.publisher]] [[org.khronos-group]]
 - [[p.similarTo]] [[prdct.universal-scene-description]]

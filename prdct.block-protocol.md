@@ -6,7 +6,7 @@ updated: 1698262670397
 created: 1694191204726
 ---
 
-- #url https://blockprotocol.org/
+- url: https://blockprotocol.org/
 
 ## Resources
 

@@ -6,7 +6,7 @@ updated: 1675284520910
 created: 1675280364759
 ---
 
-- #url https://www.virtasant.com/
+- url: https://www.virtasant.com/
 - trusted advisor leaves a lot to be desired
 - they add recommendation to jira, then help engineers execute
 - charge 25% of savings annualized

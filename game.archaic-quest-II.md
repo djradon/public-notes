@@ -7,7 +7,7 @@ created: 1694806790267
 ---
 
 - [[p.writtenIn]] [[t.cs.languages.c-sharp]]
-- #repo https://github.com/ArchaicQuest/ArchaicQuest-II
+- repo: https://github.com/ArchaicQuest/ArchaicQuest-II
 - [[p.builtOn]] [[prdct.signalr]]
 
 

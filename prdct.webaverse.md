@@ -7,6 +7,6 @@ created: 1696528573521
 ---
 
 - #dead ?
-- #repo https://github.com/webaverse-studios/webaverse
+- repo: https://github.com/webaverse-studios/webaverse
 - [[p.writtenIn]] #c++
 - [[p.used]] [[prdct.three-js]]

@@ -6,7 +6,7 @@ updated: 1698262670469
 created: 1698085821687
 ---
 
-- #repo https://github.com/nats-io/nats.ws
+- repo: https://github.com/nats-io/nats.ws
 - [[p.builtOn]] 
 
 

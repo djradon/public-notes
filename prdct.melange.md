@@ -7,7 +7,7 @@ created: 1698095923169
 ---
 
 - [[c.software.language-workbench]]
-- #url http://melange.inria.fr/
+- url: http://melange.inria.fr/
 - [[p.compatibleWith]] [[prdct.sirius]]
 
 ## Features

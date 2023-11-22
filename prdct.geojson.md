@@ -6,7 +6,7 @@ updated: 1698262670425
 created: 1696434255277
 ---
 
-- #url https://geojson.org/
+- url: https://geojson.org/
 
 
 ## Resources

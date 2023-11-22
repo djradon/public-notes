@@ -6,7 +6,7 @@ updated: 1690347800287
 created: 1690347700184
 ---
 
-- #url https://nikolaschou.medium.com/a-new-software-architecture-metamodel-inspired-by-c4-agile-and-togaf-b3f21ab9848
+- url: https://nikolaschou.medium.com/a-new-software-architecture-metamodel-inspired-by-c4-agile-and-togaf-b3f21ab9848
 
 
 ## Highlights

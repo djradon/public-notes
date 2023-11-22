@@ -6,6 +6,6 @@ updated: 1696975988851
 created: 1649976868078
 ---
 
-- #repo https://github.com/meetecho/janus-gateway
+- repo: https://github.com/meetecho/janus-gateway
 - [[p.hasSite]] https://janus.conf.meetecho.com/
 - [[p.differentFrom]] `prdct.janusgraph`

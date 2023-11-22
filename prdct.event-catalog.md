@@ -7,7 +7,7 @@ created: 1696014886818
 ---
 
 - [[Diagramming|c.Software.Tools.Diagramming]]
-- #url https://www.eventcatalog.dev/
+- url: https://www.eventcatalog.dev/
 - [[p.integratesWith]] [[prdct.asyncapi]]
 - [[p.supports]] 
   - [[prdct.react-flow]] 

@@ -6,7 +6,7 @@ updated: 1673886048518
 created: 1654056981545
 ---
 
-#repo https://github.com/storybookjs/storybook/
+repo: https://github.com/storybookjs/storybook/
 
 - [[p.supports]]
   - [[prdct.component-story-format]]

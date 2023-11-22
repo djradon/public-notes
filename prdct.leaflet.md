@@ -6,8 +6,8 @@ updated: 1698262670455
 created: 1694718615713
 ---
 
-- #url https://leafletjs.com/
-- #repo https://github.com/Leaflet/Leaflet
+- url: https://leafletjs.com/
+- repo: https://github.com/Leaflet/Leaflet
 
 ## Resources
 

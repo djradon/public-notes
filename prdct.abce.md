@@ -8,5 +8,5 @@ created: 1694358649409
 
 
 - #dead
-- #repo https://github.com/AB-CE/abce
+- repo: https://github.com/AB-CE/abce
 - 

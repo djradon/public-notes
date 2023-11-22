@@ -6,4 +6,4 @@ updated: 1672840193685
 created: 1672840190444
 ---
 
-#repo https://github.com/bokub/chalk-animation
+repo: https://github.com/bokub/chalk-animation

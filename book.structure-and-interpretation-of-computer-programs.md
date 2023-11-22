@@ -7,4 +7,4 @@ created: 1696452204586
 ---
 
 - #aka SICP
-- #url sarabander.github.io/sicp
+- url: sarabander.github.io/sicp

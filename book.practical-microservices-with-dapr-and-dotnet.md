@@ -6,7 +6,7 @@ updated: 1694806400026
 created: 1688566829456
 ---
 
-- #url https://learning.oreilly.com/library/view/practical-microservices-with/9781803248127/
+- url: https://learning.oreilly.com/library/view/practical-microservices-with/9781803248127/
 
 
 ## Ch. 2

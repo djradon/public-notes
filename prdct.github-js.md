@@ -7,5 +7,5 @@ created: 1673347001579
 ---
 
 #dead
-#repo https://github.com/github-tools/github
+repo: https://github.com/github-tools/github
 - [[p.similarTo]] 

@@ -6,4 +6,4 @@ updated: 1689745419950
 created: 1689745384843
 ---
 
-- #url https://earthly.dev/
+- url: https://earthly.dev/

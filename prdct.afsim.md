@@ -6,5 +6,5 @@ updated: 1697489775748
 created: 1697487269736
 ---
 
-- #url https://www.infoscitex.com/afsim/
+- url: https://www.infoscitex.com/afsim/
 - supposedly open-source

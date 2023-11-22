@@ -6,7 +6,7 @@ updated: 1698262670409
 created: 1696194449222
 ---
 
-- #url https://coregames.com
+- url: https://coregames.com
 - #publisher [[org.manticore-games]]
 - [[p.builtOn]] [[prdct.unreal]] [[prdct.lua]]
 

@@ -7,5 +7,5 @@ created: 1698067773258
 ---
 
 - #dead
-- #repo https://github.com/GoogleChromeLabs/clooney
+- repo: https://github.com/GoogleChromeLabs/clooney
 - 

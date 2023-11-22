@@ -6,5 +6,5 @@ updated: 1698953780045
 created: 1694723045491
 ---
 
-- #url https://www.progress.com/openedge/features/abl
+- url: https://www.progress.com/openedge/features/abl
 - [[p.supports]] [[prdct.vscode]]

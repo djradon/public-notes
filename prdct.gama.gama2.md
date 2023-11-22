@@ -6,5 +6,5 @@ updated: 1694721927416
 created: 1694721849686
 ---
 
-- #repo https://github.com/gama-platform/gama2
+- repo: https://github.com/gama-platform/gama2
 - 

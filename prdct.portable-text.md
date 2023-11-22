@@ -6,4 +6,4 @@ updated: 1682917068320
 created: 1682917061669
 ---
 
-- #url https://github.com/portabletext/portabletext
+- url: https://github.com/portabletext/portabletext

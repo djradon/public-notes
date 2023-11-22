@@ -7,4 +7,4 @@ created: 1696952276459
 ---
 
 - #blog https://offgridthegame.blogspot.com/
-- #url http://www.offgridthegame.com/
+- url: http://www.offgridthegame.com/

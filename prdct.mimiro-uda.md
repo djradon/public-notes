@@ -6,5 +6,5 @@ updated: 1678566466211
 created: 1678566449499
 ---
 
-- #url https://open.mimiro.io/specifications/uda/latest.html
+- url: https://open.mimiro.io/specifications/uda/latest.html
 - 

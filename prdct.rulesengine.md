@@ -6,8 +6,8 @@ updated: 1697574096207
 created: 1690322558425
 ---
 
-- #url https://microsoft.github.io/RulesEngine/
-- #repo https://github.com/microsoft/RulesEngine
+- url: https://microsoft.github.io/RulesEngine/
+- repo: https://github.com/microsoft/RulesEngine
 - [[p.writtenIn]] #c-sharp
 
 

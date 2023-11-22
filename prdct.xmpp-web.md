@@ -7,7 +7,7 @@ created: 1695185387200
 ---
 
 - [[c.software.xmpp-client.web]]
-- #repo https://github.com/nioc/xmpp-web
+- repo: https://github.com/nioc/xmpp-web
 
 - [[p.writtenIn]] #javascript [[prdct.vue]]
 

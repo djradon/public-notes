@@ -6,5 +6,5 @@ updated: 1698082515274
 created: 1698082422627
 ---
 
-- #url https://sketchfab.com/
+- url: https://sketchfab.com/
 - 

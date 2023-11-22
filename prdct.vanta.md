@@ -6,5 +6,5 @@ updated: 1685641248612
 created: 1685641154254
 ---
 
-- #url vanta.com
+- url: vanta.com
 - 

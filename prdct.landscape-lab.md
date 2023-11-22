@@ -7,7 +7,7 @@ created: 1696889060484
 ---
 
 - [[c.software.virtual-reality]]
-#url https://landscapelab.boku.ac.at/
+url: https://landscapelab.boku.ac.at/
 
 ## [[c.component]]
 

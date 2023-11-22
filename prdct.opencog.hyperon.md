@@ -6,5 +6,5 @@ updated: 1694372435374
 created: 1675253734905
 ---
 
-- #url https://wiki.opencog.org/w/Hyperon
+- url: https://wiki.opencog.org/w/Hyperon
 - #related [[prdct.singularitynet]]

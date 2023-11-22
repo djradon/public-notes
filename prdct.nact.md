@@ -6,6 +6,6 @@ updated: 1698176926554
 created: 1698176848236
 ---
 
-- #url https://nact.xyz/
-- #repo 
+- url: https://nact.xyz/
+- repo: 
 - [[p.supports]] [[prdct.reason-ml]]

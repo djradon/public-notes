@@ -6,5 +6,5 @@ updated: 1690238058225
 created: 1690238039567
 ---
 
-- #url https://spectreconsole.net/
+- url: https://spectreconsole.net/
 - 

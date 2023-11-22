@@ -7,7 +7,7 @@ created: 1695966061818
 ---
 
 - [[c.software.agent-framework]] [[c.software.game-engine]]
-- #url https://mugen87.github.io/yuka/
+- url: https://mugen87.github.io/yuka/
 - [[p.hadDependancy]]
   - [[prdct.three-js]] or [[prdct.babylon-js]]
 - [[discord.yuka]]

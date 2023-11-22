@@ -7,4 +7,4 @@ created: 1698958842833
 ---
 
 - [[c.software.tools.testing]]
-- #url https://www.usebruno.com/
+- url: https://www.usebruno.com/

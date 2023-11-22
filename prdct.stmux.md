@@ -6,4 +6,4 @@ updated: 1672964996658
 created: 1672964980547
 ---
 
-#url https://www.npmjs.com/package/stmux
+url: https://www.npmjs.com/package/stmux

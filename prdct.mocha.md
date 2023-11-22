@@ -6,8 +6,8 @@ updated: 1674106386286
 created: 1674101900791
 ---
 
-#url https://mochajs.org/
-#repo https://github.com/mochajs/mocha
+url: https://mochajs.org/
+repo: https://github.com/mochajs/mocha
 
 - [[p.comparableTo]] [[prdct.jest]] [[prdct.jasmine]] [[prdct.cypress]]
   - [[p.hasComparison]] https://www.merixstudio.com/blog/mocha-vs-jest/

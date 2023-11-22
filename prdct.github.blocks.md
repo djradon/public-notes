@@ -6,8 +6,8 @@ updated: 1696714991718
 created: 1694194792834
 ---
 
-- #url https://blocks.githubnext.com/
+- url: https://blocks.githubnext.com/
 
-## #description
+## description:
 
 - a block is a React component; it receives a fixed set of props and returns JSX

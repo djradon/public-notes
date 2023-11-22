@@ -6,7 +6,7 @@ updated: 1695928512817
 created: 1695920455913
 ---
 
-- #url https://amber-lang.net/learn.html
+- url: https://amber-lang.net/learn.html
 
 ## Highlights
 

@@ -6,6 +6,6 @@ updated: 1694118096270
 created: 1694118073492
 ---
 
-- #url https://vega.github.io/vega/
-- #repo https://github.com/vega/vega
+- url: https://vega.github.io/vega/
+- repo: https://github.com/vega/vega
 - 

@@ -7,7 +7,7 @@ created: 1686260852478
 ---
 
 - #ecs
-- #repo https://github.com/SanderMertens/flecs
+- repo: https://github.com/SanderMertens/flecs
 - [[p.writtenIn]] #c #c++
 - [[c.solution.similar]]  
 - #author @sander-mertens

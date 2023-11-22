@@ -8,7 +8,7 @@ created: 1673628242504
 
 #baas
 
-#url https://harperdb.io
+url: https://harperdb.io
 
 ## [[p.hasLearningResource]]
 

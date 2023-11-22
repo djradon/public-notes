@@ -6,4 +6,4 @@ updated: 1697474137880
 created: 1697474117339
 ---
 
-- #repo https://github.com/asyncapi/dotnet-nats-template
+- repo: https://github.com/asyncapi/dotnet-nats-template

@@ -7,8 +7,8 @@ created: 1649974346874
 ---
 
 - [[c.software.metaverse-platform]]
-- #url  https://hubs.mozilla.com/
-- #repo https://github.com/mozilla/hubs
+- url:  https://hubs.mozilla.com/
+- repo: https://github.com/mozilla/hubs
 - #docs https://hubs.mozilla.com/docs/welcome.html
 - [[p.publishedBy]] [[org.mozilla]]
 - [[p.supportedBy]] [[prdct.spoke]]

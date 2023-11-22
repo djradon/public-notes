@@ -6,7 +6,7 @@ updated: 1692995833627
 created: 1686202148140
 ---
 
-- #url https://marp.app/
+- url: https://marp.app/
 
 ## [[c.limitation]]
 

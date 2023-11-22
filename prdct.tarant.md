@@ -6,7 +6,7 @@ updated: 1698249319491
 created: 1698249319491
 ---
 
-- #url https://github.com/tarantx
-- #repo https://github.com/tarantx/tarant
+- url: https://github.com/tarantx
+- repo: https://github.com/tarantx/tarant
 - [[p.writtenIn]] #typescript
 - 

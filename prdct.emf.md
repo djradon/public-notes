@@ -6,5 +6,5 @@ updated: 1694441295106
 created: 1694441258685
 ---
 
-- #url https://projects.eclipse.org/projects/modeling.emf.emf
+- url: https://projects.eclipse.org/projects/modeling.emf.emf
 - 

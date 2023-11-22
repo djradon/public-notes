@@ -6,6 +6,6 @@ updated: 1672336652121
 created: 1672336339458
 ---
 
-#url https://ballerina.io/
+url: https://ballerina.io/
 
 - [[p.wasBuiltBy]] [[org.wso2]]

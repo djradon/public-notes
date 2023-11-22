@@ -6,6 +6,6 @@ updated: 1697573586702
 created: 1694714300731
 ---
 
-- #url https://fission.codes/
+- url: https://fission.codes/
 - [[p.supports]] [[prdct.ucan]]
 - [[p.ownedBy]] [[org.fission]]

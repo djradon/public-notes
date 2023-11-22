@@ -7,7 +7,7 @@ created: 1696978210681
 ---
 
 - [[c.software.rpg]]
-- #url https://dscryb.com
+- url: https://dscryb.com
 
 ## [[c.model.business]]
 

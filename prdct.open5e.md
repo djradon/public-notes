@@ -7,9 +7,9 @@ created: 1696977369461
 ---
 
 - [[c.software.game-service.data]]
-- #url https://open5e.com/
+- url: https://open5e.com/
 - #api https://api.open5e.com/
-- #repo https://github.com/open5e/open5e-api
+- repo: https://github.com/open5e/open5e-api
 - [[p.similarTo]] [[prdct.5e-tools]]
 
 

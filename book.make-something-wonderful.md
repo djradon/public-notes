@@ -6,7 +6,7 @@ updated: 1682058209198
 created: 1682057456662
 ---
 
-- #url https://book.stevejobsarchive.com/
+- url: https://book.stevejobsarchive.com/
 
 
 ## Highlights

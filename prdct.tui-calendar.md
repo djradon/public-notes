@@ -6,7 +6,7 @@ updated: 1674581718902
 created: 1674581526322
 ---
 
-#repo https://github.com/nhn/tui.calendar
+repo: https://github.com/nhn/tui.calendar
 
 -   [✨ Monthly, Weekly, Daily and Various View Types](https://github.com/nhn/tui.calendar#-features#-monthly-weekly-daily-and-various-view-types)
 -   [Easy to Use: Dragging and Resizing a Schedule](https://github.com/nhn/tui.calendar#-features#easy-to-use-dragging-and-resizing-a-schedule)

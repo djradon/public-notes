@@ -6,5 +6,5 @@ updated: 1673901231458
 created: 1673567498884
 ---
 
-#url https://dungeon-world.com/
+url: https://dungeon-world.com/
 

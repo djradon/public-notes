@@ -6,5 +6,5 @@ updated: 1696274888572
 created: 1695482258845
 ---
 
-- #url https://aosgrp.com.au/jack/
+- url: https://aosgrp.com.au/jack/
 - [[p.writtenIn]] #java

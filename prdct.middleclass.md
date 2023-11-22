@@ -6,7 +6,7 @@ updated: 1696905601479
 created: 1696893077144
 ---
 
-- #url https://github.com/kikito/middleclass/
+- url: https://github.com/kikito/middleclass/
 
 ## c.Feature
 

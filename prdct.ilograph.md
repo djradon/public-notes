@@ -7,7 +7,7 @@ created: 1685937912463
 ---
 
 - [[c.software.tools.diagramming]]
-- #url https://www.ilograph.com/
+- url: https://www.ilograph.com/
 
 ## [[p.begsQuestion]]
 

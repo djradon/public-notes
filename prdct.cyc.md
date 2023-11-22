@@ -6,6 +6,6 @@ updated: 1682976664383
 created: 1682976640189
 ---
 
-- #url https://cyc.com/
+- url: https://cyc.com/
 - also described as a huge ontology, but axioms are not consistent
   - @barry-smith

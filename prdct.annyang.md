@@ -8,4 +8,4 @@ created: 1671366207291
 
 [[t.cs.speech-recognition]]
 
-- #url https://github.com/TalAter/annyang
+- url: https://github.com/TalAter/annyang

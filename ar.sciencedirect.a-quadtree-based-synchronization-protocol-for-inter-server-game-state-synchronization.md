@@ -6,9 +6,9 @@ updated: 1696356514925
 created: 1696356076628
 ---
 
-- #url https://www.sciencedirect.com/science/article/pii/S1389128620313177
+- url: https://www.sciencedirect.com/science/article/pii/S1389128620313177
 - [[c.mention]] [[prdct.named-data-networking]] [[t.cs.game.world.quad-tree-synchronization-protocol]]
-- #repo https://github.com/phylib/QSPArtifacts
+- repo: https://github.com/phylib/QSPArtifacts
 
 
 ## Highlights

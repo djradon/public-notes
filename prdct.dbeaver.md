@@ -6,7 +6,7 @@ updated: 1684945498480
 created: 1684945402704
 ---
 
-- #url https://dbeaver.io/
+- url: https://dbeaver.io/
 
 ## Comparison
 

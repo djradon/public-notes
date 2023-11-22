@@ -6,5 +6,5 @@ updated: 1695961324730
 created: 1695961257466
 ---
 
-- #url https://opencollective.com/kairos-research-lab
-- #repo https://github.com/KairosResearchLab/Kairos
+- url: https://opencollective.com/kairos-research-lab
+- repo: https://github.com/KairosResearchLab/Kairos

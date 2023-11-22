@@ -6,5 +6,5 @@ updated: 1675493085268
 created: 1675493073037
 ---
 
-- #url https://www.architecture-weekly.com/p/webinar-7-design-and-test-event-driven
+- url: https://www.architecture-weekly.com/p/webinar-7-design-and-test-event-driven
 - 

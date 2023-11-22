@@ -6,4 +6,4 @@ updated: 1694710193196
 created: 1694710177302
 ---
 
-- #url https://www.jasss.org/23/4/12.html
+- url: https://www.jasss.org/23/4/12.html

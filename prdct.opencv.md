@@ -6,4 +6,4 @@ updated: 1696352415981
 created: 1696352410450
 ---
 
-- #url https://opencv.org/
+- url: https://opencv.org/

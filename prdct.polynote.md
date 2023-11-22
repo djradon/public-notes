@@ -6,8 +6,8 @@ updated: 1696886924463
 created: 1694117982293
 ---
 
-- #url https://polynote.org
-- #repo https://github.com/polynote/polynote
+- url: https://polynote.org
+- repo: https://github.com/polynote/polynote
 - [[p.supports]] [[prdct.vega]] #scala #python
 
 ## [[prdct.windows.wsl]]

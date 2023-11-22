@@ -6,5 +6,5 @@ updated: 1698953779925
 created: 1675203651496
 ---
 
-- #repo https://github.com/Nozbe/WatermelonDB
+- repo: https://github.com/Nozbe/WatermelonDB
 - [[p.supports]] [[prdct.react]] [[prdct.react.native]]

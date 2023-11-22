@@ -6,5 +6,5 @@ updated: 1695847862841
 created: 1695847706893
 ---
 
-- #url http://cormas.cirad.fr/indexeng.htm
-- #repo https://github.com/cormas/cormas (new version, based on [[prdct.pharo]])
+- url: http://cormas.cirad.fr/indexeng.htm
+- repo: https://github.com/cormas/cormas (new version, based on [[prdct.pharo]])

@@ -6,5 +6,5 @@ updated: 1683172886803
 created: 1683172881777
 ---
 
-- #repo https://github.com/agnauck/XmppDotNet
+- repo: https://github.com/agnauck/XmppDotNet
 - 

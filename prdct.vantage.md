@@ -7,4 +7,4 @@ created: 1672411874433
 ---
 
 #dead
-#repo https://github.com/dthree/vantage
+repo: https://github.com/dthree/vantage

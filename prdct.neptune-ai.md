@@ -6,4 +6,4 @@ updated: 1694194270251
 created: 1694194263321
 ---
 
-- #url https://app.neptune.ai
+- url: https://app.neptune.ai

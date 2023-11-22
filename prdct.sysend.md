@@ -6,7 +6,7 @@ updated: 1673583480009
 created: 1673583309616
 ---
 
-#repo https://github.com/jcubic/sysend.js
+repo: https://github.com/jcubic/sysend.js
 
 "The new version has the #RPC like mechanism that allows calling methods between browser Tabs."
 

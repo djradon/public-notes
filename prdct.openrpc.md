@@ -6,8 +6,8 @@ updated: 1680581134899
 created: 1680581134899
 ---
 
-- #url https://open-rpc.org
-- #repo https://github.com/open-rpc/spec
+- url: https://open-rpc.org
+- repo: https://github.com/open-rpc/spec
 - [[c.software.generator]] 
   - https://gitlab.com/mburkard/openrpc-client-generator
   - https://github.com/open-rpc/generator-client

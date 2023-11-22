@@ -7,5 +7,5 @@ created: 1696016945802
 ---
 
 - [[c.software.entity-component-system]]
-- #url https://react-ecs.ldlework.com/
-- #repo https://github.com/dustinlacewell/react-ecs
+- url: https://react-ecs.ldlework.com/
+- repo: https://github.com/dustinlacewell/react-ecs

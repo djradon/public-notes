@@ -6,4 +6,4 @@ updated: 1696283603840
 created: 1696283573617
 ---
 
-- #url http://vowl.visualdataweb.org/
+- url: http://vowl.visualdataweb.org/

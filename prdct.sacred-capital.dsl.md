@@ -6,6 +6,6 @@ updated: 1695144148150
 created: 1638051291481
 ---
 
-- #url https://www.sacred.capital/technology
+- url: https://www.sacred.capital/technology
 - #docs https://neighbourhooods.gitbook.io/sacred-capital/ 
 - [[p.instanceOf]] [[c.dsl]]

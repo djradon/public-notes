@@ -6,7 +6,7 @@ updated: 1700330172081
 created: 1675203766651
 ---
 
-- #url https://reactnative.dev/
+- url: https://reactnative.dev/
 - [[p.hadHistory]]
   - "Facebook released React Native in 2015 and has been maintaining it ever since."
   - 

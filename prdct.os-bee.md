@@ -6,5 +6,5 @@ updated: 1694442049725
 created: 1694441097510
 ---
 
-- #url https://www.osbee.org
+- url: https://www.osbee.org
 - [[p.builtOn]] [[prdct.vaadin]] [[prdct.birt]] [[prdct.mxgraph]]

@@ -8,7 +8,7 @@ updated: 1696472619243
 created: 1694025124250
 ---
 
-- #url https://fruct.org/publications/volume-26/fruct26/files/Cher.pdf
+- url: https://fruct.org/publications/volume-26/fruct26/files/Cher.pdf
 
 ## Highlights
 

@@ -7,7 +7,7 @@ created: 1696311032586
 ---
 
 - [[c.software.game-engine]]
-- #url https://bevyengine.org/
+- url: https://bevyengine.org/
 
 ## Features
 

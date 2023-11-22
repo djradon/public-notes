@@ -6,4 +6,4 @@ updated: 1685576363273
 created: 1685576344264
 ---
 
-- #url https://www.metacase.com/solution/
+- url: https://www.metacase.com/solution/

@@ -6,7 +6,7 @@ updated: 1682049977156
 created: 1675492740007
 ---
 
-- #url https://blog.pragmaticengineer.com/job-ads-for-software-engineers/
+- url: https://blog.pragmaticengineer.com/job-ads-for-software-engineers/
   
 
 ---

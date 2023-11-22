@@ -7,8 +7,8 @@ created: 1682056527914
 ---
 
 - [[c.software.database.graph]] [[c.software.database.graph.property]] [[c.software.database.graph.rdf]] 
-- #repo https://github.com/Microsoft/GraphEngine
-- #url https://www.graphengine.io/
+- repo: https://github.com/Microsoft/GraphEngine
+- url: https://www.graphengine.io/
 - [[c.documentation]]
   - https://www.graphengine.io/docs/manual/index.html
     - "The most important building block provided by GE for distributed computation is declarative message passing. We can implement almost any distributed algorithm using the fine-grained event-driven message passing framework provided by GE."

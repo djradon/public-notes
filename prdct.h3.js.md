@@ -6,7 +6,7 @@ updated: 1699987290750
 created: 1696438240122
 ---
 
-- #repo https://github.com/uber/h3-js
+- repo: https://github.com/uber/h3-js
 
 ## Resources
 

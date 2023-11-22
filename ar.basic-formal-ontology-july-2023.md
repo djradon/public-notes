@@ -6,7 +6,7 @@ updated: 1698268001000
 created: 1698268001000
 ---
 
-- #url https://www.youtube.com/watch?v=uflMfvI-ZxI) @barry-smith
+- url: https://www.youtube.com/watch?v=uflMfvI-ZxI) @barry-smith
 - presenter @barry-smith
 
 ## Typical Reasons for Ontology Failure

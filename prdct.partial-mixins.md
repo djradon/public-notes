@@ -6,5 +6,5 @@ updated: 1697562130989
 created: 1697561236875
 ---
 
-- #repo https://github.com/LokiMidgard/PartialMixins
+- repo: https://github.com/LokiMidgard/PartialMixins
 - [[c.dependancy]] [[prdct.roslyn]]

@@ -7,8 +7,8 @@ created: 1672314344300
 ---
 
 - [[c.software.metaverse-platform]]
-- #url https://www.etherealengine.org/
-- #repo https://github.com/XRFoundation/XREngine-Control-Center#readme
+- url: https://www.etherealengine.org/
+- repo: https://github.com/XRFoundation/XREngine-Control-Center#readme
 - #license [[lic.cpal]] - source modifications must be published, attribution must be prominent
 - [[p.writtenIn]] #typescript 
 - [[p.hadDependancy]] [[prdct.mediasoup]]

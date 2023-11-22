@@ -8,8 +8,8 @@ updated: 1672158872844
 created: 1672157424111
 ---
 
-#url https://casualos.com/
-#repo https://github.com/casual-simulation/casualos
+url: https://casualos.com/
+repo: https://github.com/casual-simulation/casualos
 
 - [[p.hasDocumentation]] https://docs.casualos.com
 

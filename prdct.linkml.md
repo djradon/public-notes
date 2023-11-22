@@ -6,8 +6,8 @@ updated: 1698262670457
 created: 1696739554441
 ---
 
-- #url https://linkml.io
-- #repo  https://github.com/linkml/linkml
+- url: https://linkml.io
+- repo:  https://github.com/linkml/linkml
 - [[p.writtenIn]] #python
 - [[p.alternativeTo]] [[prdct.json-schema]]
 - [[p.supports]] [[t.cs.sd.mixin]]

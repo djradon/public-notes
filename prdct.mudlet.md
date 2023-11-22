@@ -7,6 +7,6 @@ created: 1695967253368
 ---
 
 - [[c.software.game-platform.multi-user-dungeon]]
-- #url https://www.mudlet.org/
-- #repo https://github.com/Mudlet/Mudlet
+- url: https://www.mudlet.org/
+- repo: https://github.com/Mudlet/Mudlet
 - [[p.writtenIn]] #c++ [[prdct.lua]]

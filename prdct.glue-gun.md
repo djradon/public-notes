@@ -9,7 +9,7 @@ created: 1680581583824
 - #dead but good
 - [[c.topic]] [[t.cs.ui.cli]] [[t.cs.programming.repl]]
 - [[p.instanceOf]] [[c.software.cli-framework]]
-- #repo https://github.com/infinitered/gluegun
+- repo: https://github.com/infinitered/gluegun
 
 ## Features
 

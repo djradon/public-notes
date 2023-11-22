@@ -7,8 +7,8 @@ created: 1696521323235
 ---
 
 - [[c.software.game-service.data]]
-- #url https://5e.tools
-- #repo https://github.com/5etools-mirror-1/5etools-mirror-1.github.io
+- url: https://5e.tools
+- repo: https://github.com/5etools-mirror-1/5etools-mirror-1.github.io
 - #docs https://wiki.tercept.net/en/home
 - [[p.builtOn]] [[prdct.node]]
 - [[p.writtenIn]] #javascript

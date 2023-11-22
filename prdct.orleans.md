@@ -14,7 +14,7 @@ created: 1670267305306
   - [[t.cs.actors.virtual]]
     - [[p.represented]] as [[t.cs.actors.grain]]
   - [[prdct.orleans.silo]]
-- #description Instead of building a monolith, or a services-based architecture where the services are statically provisioned, it allows you to decompose your application into lots of small, stateful services that can be provisioned dynamically when you need them.
+- description: Instead of building a monolith, or a services-based architecture where the services are statically provisioned, it allows you to decompose your application into lots of small, stateful services that can be provisioned dynamically when you need them.
 
 ## Use Cases
 

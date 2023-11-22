@@ -6,7 +6,7 @@ updated: 1699981755916
 created: 1696873658559
 ---
 
-- #repo https://github.com/xoofx/markdig
+- repo: https://github.com/xoofx/markdig
 - [[p.writtenIn]] #c-sharp
 - [[p.usedBy]] [[prdct.literatecs]]
 

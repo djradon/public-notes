@@ -8,4 +8,4 @@ created: 1643777660715
 
 #dead
 ![[prdct.rxdb#^pnjx84u9yrqy]]
-#url https://rethinkdb.com/
+url: https://rethinkdb.com/

@@ -6,5 +6,5 @@ updated: 1696976315383
 created: 1696976254217
 ---
 
-- #repo https://github.com/webaverse/zjs
+- repo: https://github.com/webaverse/zjs
 - [[p.writtenIn]] #javascript

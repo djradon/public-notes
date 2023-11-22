@@ -7,7 +7,7 @@ created: 1696568386668
 ---
 
 - [[c.software.tools.diagramming]]
-- #repo https://github.com/seflless/diagrams#flowchart
+- repo: https://github.com/seflless/diagrams#flowchart
 - [[p.writtenIn]] #javascript
 
 

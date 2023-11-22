@@ -6,7 +6,7 @@ updated: 1698262670479
 created: 1674838789858
 ---
 
-#repo https://github.com/opencog/link-grammar
+repo: https://github.com/opencog/link-grammar
 
 - [-] brainstorm ways LG could be used for knowledge representation
 

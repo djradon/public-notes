@@ -8,4 +8,4 @@ updated: 1685577163749
 created: 1685577101106
 ---
 
-- #repo https://github.com/umple/umple
+- repo: https://github.com/umple/umple

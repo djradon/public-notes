@@ -6,5 +6,5 @@ updated: 1696527429846
 created: 1696527311846
 ---
 
-- #url https://bellard.org/quickjs/
-- #repo https://github.com/bellard/quickjs
+- url: https://bellard.org/quickjs/
+- repo: https://github.com/bellard/quickjs

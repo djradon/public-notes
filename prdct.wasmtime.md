@@ -6,7 +6,7 @@ updated: 1696366312259
 created: 1696365236125
 ---
 
-- #repo https://github.com/bytecodealliance/wasmtime
+- repo: https://github.com/bytecodealliance/wasmtime
 
 ## [[p.supports]]
 

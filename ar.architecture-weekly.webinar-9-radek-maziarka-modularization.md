@@ -6,4 +6,4 @@ updated: 1692390300675
 created: 1692390295297
 ---
 
-- #url https://www.architecture-weekly.com/p/webinar-9-radek-maziarka-modularization
+- url: https://www.architecture-weekly.com/p/webinar-9-radek-maziarka-modularization

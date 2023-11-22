@@ -6,9 +6,9 @@ updated: 1699289318006
 created: 1696270955675
 ---
 
-- #url https://www.w3.org/OWL/
+- url: https://www.w3.org/OWL/
 
-## #description
+## description:
 
 - OWL 2 ontologies themselves are primarily exchanged as RDF documents
 

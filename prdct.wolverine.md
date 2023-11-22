@@ -7,7 +7,7 @@ created: 1687933176283
 ---
 
 - [[c.software.message-bus]]
-- #url https://wolverine.netlify.app/
+- url: https://wolverine.netlify.app/
 - [[p.workedWith]] [[prdct.marten]]
 - [[p.supports]] [[prdct.rabbitimq]]
 

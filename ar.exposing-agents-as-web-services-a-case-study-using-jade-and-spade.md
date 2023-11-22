@@ -6,5 +6,5 @@ updated: 1694542517984
 created: 1694542427759
 ---
 
-- #url https://gsigma.ufsc.br/wesaac2019/paper/WESAAC_2019_paper_22.pdf
+- url: https://gsigma.ufsc.br/wesaac2019/paper/WESAAC_2019_paper_22.pdf
 - #author @henrique-donancio, @arthur-casals, @anarosa-brand

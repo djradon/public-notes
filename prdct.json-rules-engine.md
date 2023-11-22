@@ -6,5 +6,5 @@ updated: 1692988206834
 created: 1692988184367
 ---
 
-- #repo https://github.com/CacheControl/json-rules-engine/tree/master
+- repo: https://github.com/CacheControl/json-rules-engine/tree/master
 - [[c.software.rules-engine]]

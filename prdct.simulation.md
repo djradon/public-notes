@@ -6,8 +6,8 @@ updated: 1672157403164
 created: 1672156640690
 ---
 
-#url https://www.npmjs.com/package/simulation
-#repo https://github.com/scottfr/simulation
+url: https://www.npmjs.com/package/simulation
+repo: https://github.com/scottfr/simulation
 
 - [[p.compatibleWith]] [[prdct.insight-maker]]
 

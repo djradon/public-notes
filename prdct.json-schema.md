@@ -6,4 +6,4 @@ updated: 1674588392529
 created: 1674588307651
 ---
 
-#url https://json-schema.org
+url: https://json-schema.org

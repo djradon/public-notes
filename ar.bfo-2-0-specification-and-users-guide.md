@@ -6,7 +6,7 @@ updated: 1696612165798
 created: 1696612072812
 ---
 
-- #url https://raw.githubusercontent.com/BFO-ontology/BFO/master/docs/bfo2-reference/BFO2-Reference.pdf
+- url: https://raw.githubusercontent.com/BFO-ontology/BFO/master/docs/bfo2-reference/BFO2-Reference.pdf
 
 
 ## Selections

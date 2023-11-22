@@ -6,6 +6,6 @@ updated: 1696523253228
 created: 1696521142954
 ---
 
-- #url https://www.hyperfiddle.net/
+- url: https://www.hyperfiddle.net/
 - [[p.writtenIn]] #clojure
-- #repo https://github.com/hyperfiddle/electric
+- repo: https://github.com/hyperfiddle/electric

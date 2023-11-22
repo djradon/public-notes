@@ -6,4 +6,4 @@ updated: 1689624569602
 created: 1689624555258
 ---
 
-- #repo https://dotnet.github.io/docfx/
+- repo: https://dotnet.github.io/docfx/

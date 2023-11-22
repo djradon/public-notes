@@ -7,7 +7,7 @@ created: 1680467930113
 ---
 
 - [[c.software.message-bus]]
-- #url https://memphis.dev/
+- url: https://memphis.dev/
 - [[p.writtenIn]] #go
 
 

@@ -6,7 +6,7 @@ updated: 1698320046488
 created: 1698319884858
 ---
 
-- #repo https://github.com/ozekik/markdown-ld
+- repo: https://github.com/ozekik/markdown-ld
 - #eg https://ozekik.github.io/markdown-ld/
 
 ## Specification

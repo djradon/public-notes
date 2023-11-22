@@ -6,4 +6,4 @@ updated: 1674454555420
 created: 1674454535956
 ---
 
-#repo https://github.com/siokas/denomander
+repo: https://github.com/siokas/denomander

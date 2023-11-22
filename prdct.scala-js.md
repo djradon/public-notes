@@ -6,8 +6,8 @@ updated: 1695933189888
 created: 1695933017036
 ---
 
-- #url https://www.scala-js.org/
-- #repo 
+- url: https://www.scala-js.org/
+- repo: 
 
 ## Resources
 

@@ -7,6 +7,6 @@ created: 1695186009550
 ---
 
 - [[c.software.xmpp-client.web]]
-- #repo https://github.com/movim/movim
+- repo: https://github.com/movim/movim
 - [[p.writtenIn]] #javascript #php
-- #url https://movim.eu/
+- url: https://movim.eu/

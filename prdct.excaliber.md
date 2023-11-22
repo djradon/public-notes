@@ -13,7 +13,7 @@ created: 1673749623693
 - [[t.cs.actors]]
 - [[t.cs.entity-component-system]]
 
-#url https://excaliburjs.com/
+url: https://excaliburjs.com/
 
 - I like the docs! https://excaliburjs.com/docs/api/edge/modules/Events.html 
 

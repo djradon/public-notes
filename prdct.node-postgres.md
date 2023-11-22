@@ -7,4 +7,4 @@ created: 1672691425785
 ---
 
 #aka pg
-#url https://node-postgres.com/
+url: https://node-postgres.com/

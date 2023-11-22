@@ -6,5 +6,5 @@ updated: 1694537538260
 created: 1694537518121
 ---
 
-- #url https://tech.devsisters.com/posts/scala-for-game-server-development/
+- url: https://tech.devsisters.com/posts/scala-for-game-server-development/
 - #author @pierre-ricadat

@@ -6,7 +6,7 @@ updated: 1698704342212
 created: 1674283205769
 ---
 
-- #repo https://github.com/mayakwd/tick-knock
+- repo: https://github.com/mayakwd/tick-knock
 - - [[p.implements]] [[t.cs.entity-component-system]]
 
 ## [[p.hasConcept]]

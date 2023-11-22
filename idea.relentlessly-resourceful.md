@@ -6,7 +6,7 @@ updated: 1693427409459
 created: 1693427296096
 ---
 
-- #url http://www.paulgraham.com/relres.html
+- url: http://www.paulgraham.com/relres.html
 - #author @paul-graham
 
 ## Highlights

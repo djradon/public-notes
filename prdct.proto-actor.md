@@ -7,7 +7,7 @@ created: 1693696915552
 ---
 
 - [[c.software.actor-framework]]
-- #url https://proto.actor
+- url: https://proto.actor
 - [[c.software.distributed-systems-runtime]]
 - [[p.similarTo]] [[prdct.orleans]]
 - [[c.implementation]]

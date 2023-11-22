@@ -6,7 +6,7 @@ updated: 1698165928492
 created: 1698163163281
 ---
 
-- #url https://morphir.finos.org/
-- #repo https://github.com/finos/morphir
+- url: https://morphir.finos.org/
+- repo: https://github.com/finos/morphir
 - [[p.writtenIn]] #typescript #javascript
 - [[p.supports]] #elm #bosque -transpiled-> #scala

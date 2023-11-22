@@ -7,7 +7,7 @@ created: 1697046719430
 ---
 
 - #author @max-wilson
-- #repo https://github.com/MaxWilson/ShiningSword
+- repo: https://github.com/MaxWilson/ShiningSword
 - [[p.writtenIn]] #f-sharp
 
 ## References

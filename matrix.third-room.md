@@ -6,4 +6,4 @@ updated: 1696527619720
 created: 1696527605189
 ---
 
-- #url https://matrix.to/#/#thirdroom-dev:matrix.org
+- url: https://matrix.to/#/#thirdroom-dev:matrix.org

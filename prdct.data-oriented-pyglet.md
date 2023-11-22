@@ -8,5 +8,5 @@ created: 1696310148422
 
 - #dead
 - [[t.cs.entity-component-system]]
-- #repo https://github.com/Permafacture/data-oriented-pyglet
+- repo: https://github.com/Permafacture/data-oriented-pyglet
 - 

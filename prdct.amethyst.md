@@ -7,8 +7,8 @@ created: 1696707000342
 ---
 
 - [[c.software.game-engine]]
-- #url https://amethyst.rs/
-- #repo 
+- url: https://amethyst.rs/
+- repo: 
 - [[p.builtOn]] [[prdct.specs]]
 
 

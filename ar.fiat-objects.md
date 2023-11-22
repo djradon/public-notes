@@ -6,7 +6,7 @@ updated: 1696621612051
 created: 1696613041047
 ---
 
-- #url http://ontology.buffalo.edu/smith/articles/fiatobjects.pdf
+- url: http://ontology.buffalo.edu/smith/articles/fiatobjects.pdf
 
 ## Highlights
 

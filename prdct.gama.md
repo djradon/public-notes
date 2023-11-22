@@ -8,8 +8,8 @@ created: 1694708152058
 
 
 - [[c.software.agent-framework]] [[c.software.cognitive-architecture]]
-- #url https://gama-platform.org/
-- #repo https://github.com/gama-platform/gama
+- url: https://gama-platform.org/
+- repo: https://github.com/gama-platform/gama
 - [[p.writtenIn]] #java
 - [[p.implements]] [[prdct.fipa.acl]]
   - https://gama-platform.org/wiki/UsingFIPAACL

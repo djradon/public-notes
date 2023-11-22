@@ -8,5 +8,5 @@ created: 1690175442745
 
 - #dead
 - [[c.software.database.graph.property]]
-- #repo https://github.com/RedisGraph/RedisGraph
+- repo: https://github.com/RedisGraph/RedisGraph
   

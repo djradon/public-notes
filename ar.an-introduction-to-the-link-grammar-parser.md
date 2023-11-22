@@ -6,4 +6,4 @@ updated: 1680288627950
 created: 1680288608391
 ---
 
-- #url https://www.link.cs.cmu.edu/link/dict/introduction.html
+- url: https://www.link.cs.cmu.edu/link/dict/introduction.html

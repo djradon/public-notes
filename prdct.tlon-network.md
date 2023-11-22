@@ -6,4 +6,4 @@ updated: 1692553088807
 created: 1685329040327
 ---
 
-- #url https://lommur-nampet.tlon.network/
+- url: https://lommur-nampet.tlon.network/

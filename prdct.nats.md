@@ -7,7 +7,7 @@ created: 1678139747758
 ---
 
 - [[c.software.message-bus]]
-- #url https://nats.io/
+- url: https://nats.io/
 - [[p.similarTo]] 
 - [[p.writtenIn]] #go
 

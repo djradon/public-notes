@@ -6,5 +6,5 @@ updated: 1697577400140
 created: 1697577362078
 ---
 
-- #url https://gorules.io/docs/
-- #repo 
+- url: https://gorules.io/docs/
+- repo: 

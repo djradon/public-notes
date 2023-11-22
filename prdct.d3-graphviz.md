@@ -7,4 +7,4 @@ created: 1696569766044
 ---
 
 - [[c.software.tools.diagramming]]
-- #repo https://github.com/magjac/d3-graphviz
+- repo: https://github.com/magjac/d3-graphviz

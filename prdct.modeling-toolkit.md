@@ -7,4 +7,4 @@ created: 1694380897105
 ---
 
 - [[p.writtenIn]] #julia
-- #repo https://github.com/SciML/ModelingToolkit.jl/
+- repo: https://github.com/SciML/ModelingToolkit.jl/

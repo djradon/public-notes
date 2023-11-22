@@ -10,7 +10,7 @@ created: 1672335304347
 
 [[t.cs.sd.architecture.event-driven.event-broker]]
 
-#url https://www.triggermesh.com/
+url: https://www.triggermesh.com/
 
 - [[p.supports]] [[prdct.cloudevents]]
 - [[p.similarTo]] [[prdct.aws.event-bridge]]

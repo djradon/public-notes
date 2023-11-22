@@ -6,7 +6,7 @@ updated: 1696287929603
 created: 1671854886923
 ---
 
-#url https://remark.js.org/
+url: https://remark.js.org/
 
 - [[p.writtenIn]] #javascript
 

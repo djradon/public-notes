@@ -6,7 +6,7 @@ updated: 1698262670486
 created: 1681136715846
 ---
 
-- #url https://posthog.com/
+- url: https://posthog.com/
 
 ## Features
 

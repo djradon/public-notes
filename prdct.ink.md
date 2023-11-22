@@ -6,4 +6,4 @@ updated: 1672965284816
 created: 1672965280621
 ---
 
-#repo https://github.com/vadimdemedes/ink
+repo: https://github.com/vadimdemedes/ink

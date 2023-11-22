@@ -6,4 +6,4 @@ updated: 1680306129268
 created: 1680306122336
 ---
 
-- #url https://journals.openedition.org/jtei/3919
+- url: https://journals.openedition.org/jtei/3919

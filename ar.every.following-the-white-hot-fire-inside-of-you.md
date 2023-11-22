@@ -6,7 +6,7 @@ updated: 1697471292411
 created: 1697470976039
 ---
 
-- #url https://every.to/superorganizers/following-the-white-hot-fire-inside-of-you
+- url: https://every.to/superorganizers/following-the-white-hot-fire-inside-of-you
 - [[c.quotes]]
   - All grumbling is tantamount to ‘Oh, why is a lily not an oak?’
   - "set reminders to look at the reminders"

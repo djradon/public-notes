@@ -6,7 +6,7 @@ updated: 1696274888573
 created: 1637836027173
 ---
 
-- #repo https://github.com/eclab/mason/
+- repo: https://github.com/eclab/mason/
 - [[c.software.agent-framework]]
 - [[p.writtenIn]] #java
 - [[p.hasApplication]] [[t.cs.simulation.abms]]

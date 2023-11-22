@@ -8,7 +8,7 @@ updated: 1695836914373
 created: 1695836325163
 ---
 
-- #url https://dl.acm.org/doi/fullHtml/10.1145/3543712.3543745
+- url: https://dl.acm.org/doi/fullHtml/10.1145/3543712.3543745
 - [[p.hasComparand]] [[prdct.gama]] [[prdct.repast-simphony]][[prdct.netlogo]]
 
 ## Highlights

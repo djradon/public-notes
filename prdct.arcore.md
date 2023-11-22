@@ -6,4 +6,4 @@ updated: 1697000018048
 created: 1697000018048
 ---
 
-- #url https://developers.google.com/ar
+- url: https://developers.google.com/ar

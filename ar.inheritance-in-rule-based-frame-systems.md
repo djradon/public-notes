@@ -6,7 +6,7 @@ updated: 1688272984821
 created: 1688272535852
 ---
 
-- #url https://www3.cs.stonybrook.edu/~kifer/TechReports/inheritance-in-rbfs.pdf
+- url: https://www3.cs.stonybrook.edu/~kifer/TechReports/inheritance-in-rbfs.pdf
 - [[p.provokedThoughts]]
 - "F-logic provides frame-based syntax and semantics. It treats instances, classes,
 properties, and methods as objects in a uniform way. For instance, in one context,

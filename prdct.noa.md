@@ -7,4 +7,4 @@ created: 1695966955997
 ---
 
 - [[c.software.game-engine]]
-- #repo https://github.com/fenomas/noa
+- repo: https://github.com/fenomas/noa

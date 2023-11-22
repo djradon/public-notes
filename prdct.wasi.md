@@ -6,5 +6,5 @@ updated: 1696365235829
 created: 1696365118658
 ---
 
-- #url https://wasi.dev/
+- url: https://wasi.dev/
 - [[c.implementation]] [[prdct.wasmtime]]

@@ -6,4 +6,4 @@ updated: 1697470067765
 created: 1697470065672
 ---
 
-- #url https://open.substack.com/pub/subconscious/p/provocation-driven-development
+- url: https://open.substack.com/pub/subconscious/p/provocation-driven-development

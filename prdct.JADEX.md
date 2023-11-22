@@ -8,4 +8,4 @@ created: 1637898932058
 
 - [[c.software.agent-framework]]
 - [[p.writtenIn]] #java
-- #repo https://github.com/actoron/jadex
+- repo: https://github.com/actoron/jadex

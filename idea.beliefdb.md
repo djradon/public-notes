@@ -6,7 +6,7 @@ updated: 1694470837476
 created: 1694470721947
 ---
 
-- #url https://db.cs.washington.edu/projects/beliefdb/
+- url: https://db.cs.washington.edu/projects/beliefdb/
 
 ## Summary
 

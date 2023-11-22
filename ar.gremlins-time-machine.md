@@ -6,5 +6,5 @@ updated: 1696473197236
 created: 1696473072912
 ---
 
-- #url https://www.datastax.com/blog/gremlins-time-machine
+- url: https://www.datastax.com/blog/gremlins-time-machine
 - [[c.reference]] [[prdct.gremlin]]

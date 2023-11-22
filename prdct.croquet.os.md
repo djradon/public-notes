@@ -7,7 +7,7 @@ created: 1696289301886
 ---
 
 - [[c.software.virtual-reality]]
-- #url https://croquet.io/croquet-os/
+- url: https://croquet.io/croquet-os/
 
 ## Features
 

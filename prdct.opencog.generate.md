@@ -6,4 +6,4 @@ updated: 1694301465362
 created: 1694301458082
 ---
 
-- #repo https://github.com/opencog/generate
+- repo: https://github.com/opencog/generate

@@ -7,4 +7,4 @@ created: 1673048513167
 ---
 
 - [[c.software.cli-framework]]
-- #repo https://github.com/lukeed/sade
+- repo: https://github.com/lukeed/sade

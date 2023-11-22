@@ -6,8 +6,8 @@ updated: 1698275345024
 created: 1672226103575
 ---
 
-#repo https://github.com/darraghjburke/IslandPainter
-#url https://darraghjburke.github.io/IslandPainter/ (broken t.2022.12.28)
+repo: https://github.com/darraghjburke/IslandPainter
+url: https://darraghjburke.github.io/IslandPainter/ (broken t.2022.12.28)
 
 - [[p.builtOn]]
   - [[prdct.babylon-js]]

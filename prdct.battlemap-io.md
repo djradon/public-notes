@@ -7,5 +7,5 @@ created: 1697001852776
 ---
 
 - [[c.software.rpg]]
-- #url https://battlemapp.io/
+- url: https://battlemapp.io/
 - #related [[prdct.questforge]]

@@ -6,4 +6,4 @@ updated: 1694456664044
 created: 1694456556602
 ---
 
-- #url https://apice.unibo.it/xwiki/bin/view/ReSpecT/
+- url: https://apice.unibo.it/xwiki/bin/view/ReSpecT/

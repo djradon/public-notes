@@ -8,7 +8,7 @@ created: 1671827253842
 
 - #dead or close
 - [[c.software.web-framework]]
-- #url https://js.actor/
+- url: https://js.actor/
 - #demo https://js.actor/ams/
 - repo: https://github.com/jsactor/ams
 - [[p.builtOn]] [[prdct.hapi]]

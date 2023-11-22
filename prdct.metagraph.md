@@ -7,4 +7,4 @@ created: 1694627977399
 ---
 
 - Doesn't really support metagraphs
-- #repo https://github.com/metagraph-dev/metagraph
+- repo: https://github.com/metagraph-dev/metagraph

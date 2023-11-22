@@ -7,4 +7,4 @@ created: 1674588795157
 ---
 
 ![[prdct.azure.event-hubs#^ls3s1l3vm1hl]]
-#url https://aws.amazon.com/msk/
+url: https://aws.amazon.com/msk/

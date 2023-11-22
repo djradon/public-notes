@@ -8,7 +8,7 @@ updated: 1672414469679
 created: 1672412440061
 ---
 
-#repo https://github.com/fastify/fastify
+repo: https://github.com/fastify/fastify
 
 - [[p.supportedBy]] [[prdct.nestjs]]
 

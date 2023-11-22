@@ -6,7 +6,7 @@ updated: 1698252759203
 created: 1694457296870
 ---
 
-- #repo https://github.com/ingridnunes/bdi4jade
+- repo: https://github.com/ingridnunes/bdi4jade
 
 ## Features
 

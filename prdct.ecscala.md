@@ -7,4 +7,4 @@ created: 1694538862881
 ---
 
 - #dead
-- #repo https://github.com/atedeg/ecscala
+- repo: https://github.com/atedeg/ecscala

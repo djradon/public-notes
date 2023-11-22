@@ -6,6 +6,6 @@ updated: 1672319664420
 created: 1672319540233
 ---
 
-#url https://solace.com/blog/developer-guide-event-driven-development/
+url: https://solace.com/blog/developer-guide-event-driven-development/
 
 [[p.mentioned]] [[t.cs.sd.architecture.event-driven.event-broker]]

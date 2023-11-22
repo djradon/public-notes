@@ -9,7 +9,7 @@ created: 1656792485964
 ---
 
 - [[c.software.game-platform]] [[c.software.game-framework]]
-- #repo https://github.com/heroiclabs/nakama
+- repo: https://github.com/heroiclabs/nakama
 - [[p.writtenIn]] #go
 - [[p.hasScriptingLanguage]] #typescript [[prdct.lua]]
 - [[p.hasClientSupport]] [[prdct.unity]] [[prdct.unreal]] [[prdct.godot]] [[prdct.defold]] [[prdct.cocos2d]] #javascript #java #c #c++ [[prdct.flutter]]

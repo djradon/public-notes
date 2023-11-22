@@ -7,7 +7,7 @@ created: 1695420244772
 ---
 
 - [[c.software.web3.protocol]]
-- #url https://streamr.network
+- url: https://streamr.network
 - [[p.supports]] [[prdct.typescript]]
   - [[prdct.mqtt]] (via Broker node)
 - [[c.solution.related]] [[prdct.monoplasma]]

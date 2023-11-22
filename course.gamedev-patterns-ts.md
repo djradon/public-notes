@@ -6,7 +6,7 @@ updated: 1673281276140
 created: 1672667775263
 ---
 
-#url https://medium.com/@gregsolo/gamedev-patterns-and-algorithms-in-action-with-typescript-d29b913858e
+url: https://medium.com/@gregsolo/gamedev-patterns-and-algorithms-in-action-with-typescript-d29b913858e
 
 ## [[p.used]] 
 

@@ -6,7 +6,7 @@ updated: 1674839645540
 created: 1674830694032
 ---
 
-- #repo https://github.com/n8n-io/n8n
+- repo: https://github.com/n8n-io/n8n
 - [[p.instanceOf]] [[c.software.workflow]]
 - #similar [[prdct.n8n]] [[prdct.dagster]] [[prdct.temporal]] [[prdct.prefect]] [[prdct.airflow]]  ^xnxaubd7sqiw
 
