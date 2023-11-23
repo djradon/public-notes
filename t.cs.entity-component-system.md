@@ -97,7 +97,8 @@ For broad-phase spatial queries an application could leverage runtime tags (if t
 - https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/79975.html
 - https://gamedev.stackexchange.com/questions/56937/how-to-avoid-blob-systems-in-an-entity-component-system
   - "There's no reason to have fine-grained components like 'movement'. There is no generic movement in your game. You have paddles, whose movement is tightly tied to input or AI (and don't really use velocity, acceleration, restitution, etc.), and you have the ball, which has a well-defined movement algorithm. Just have a PaddleController component and a BouncingBall component or something along those lines. If/when you get a more complicated game then you can worry about having a more generic PhysicsBody component (which in 'real' engines is basically just a link between the game object and whatever internal API object is used by Havok/PhysX/Bullet/Box2D/etc.) that handles a wider variety of situations."
-
+- [[ar.medium.ajmmertens.why-it-is-time-to-start-thinking-of-games-as-databases]]
+  - mentions: 
 
 ### [[c.resource.list]]
 

@@ -17,7 +17,7 @@ created: 1686203518678
   - animation
   - Using D2, you can create diagrams that declare shapes, connections, containers, and special objects. You can also make more customizations via programming that covers strings, comments, and overrides.
   - flowcharts, state diagrams, and entity-relationship diagrams
-  - A
+
 
 ## [[p.begsQuestion]]
 

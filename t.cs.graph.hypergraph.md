@@ -43,7 +43,8 @@ created: 1652767633550
 - [Two monads for graphs](https://arxiv.org/pdf/1804.09408.pdf) has some interested visualizations
   - ![](/assets/images/2023-07-01-06-45-50.png)
 - https://gitlab.com/graphviz/graphviz/-/issues/1911 talks about visualization, has this cool thing: ![](/assets/images/2023-07-01-07-06-16.png)
-
+- https://medium.com/@lee.papa/a-brief-history-of-the-hypergraph-1d8f79fd72e5
+  - mentions: [[t.cs.blockchain.constellation]]
 
 ## References
 

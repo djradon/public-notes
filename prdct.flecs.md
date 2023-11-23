@@ -6,11 +6,11 @@ updated: 1697567738166
 created: 1686260852478
 ---
 
-- #ecs
+- [[c.software.entity-component-system]]
 - repo: https://github.com/SanderMertens/flecs
-- [[p.writtenIn]] #c #c++
-- [[c.solution.similar]]  
+- [[p.writtenIn]] #c #c++ 
 - #author @sander-mertens
+- supports: 
 
 ## Learning Resource
 

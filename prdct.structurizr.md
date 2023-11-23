@@ -22,3 +22,7 @@ created: 1645831419986
 ## features
 
 - export to [[prdct.plantuml]] [[prdct.c4-plantuml]] [[prdct.mermaid]] [[prdct.ilograph]] [[prdct.graphviz.dot]]
+
+## Resources
+
+- https://www.baeldung.com/structurizr
