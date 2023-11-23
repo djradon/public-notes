@@ -8,4 +8,4 @@ created: 1694458517053
 
 - url: https://cosplayengine.com/
 - repo: https://github.com/nivanov/cosplay
-- [[p.writtenIn]] #scala
+- written-in: scala

@@ -8,4 +8,4 @@ created: 1695182640943
 
 - [[c.software.xmpp-server]]
 - repo:
-- [[p.writtenIn]] #java
+- written-in: java

@@ -8,7 +8,7 @@ created: 1637954631007
 
 - [[c.software.database.graph]]
 - [[p.instanceOf]] [[t.cs.data.DBMS.graph]]
-- [[p.writtenIn]] #java
+- written-in: java
 - [[p.supports]] [[prdct.rdf-star]]
 
 

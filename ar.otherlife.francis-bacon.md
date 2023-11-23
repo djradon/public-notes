@@ -7,7 +7,7 @@ created: 1674364991040
 ---
 
 url: https://www.otherlife.co/francisbacon/
-#author @justin-murphy
+author: @justin-murphy
 
 - [[p.hasHighlight]]
   - [These notes posted around his space] were not "to-do lists." These were guardrails for his attention.

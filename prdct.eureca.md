@@ -9,5 +9,5 @@ created: 1661194028620
 ---
 
 
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 - 

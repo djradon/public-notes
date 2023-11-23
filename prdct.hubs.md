@@ -13,6 +13,6 @@ created: 1649974346874
 - [[p.publishedBy]] [[org.mozilla]]
 - [[p.supportedBy]] [[prdct.spoke]]
 
-- [[p.writtenIn]] #javascript #typescript
+- written-in: javascript #typescript
 - [[p.builtOn]] [[prdct.a-frame]]
 - [[p.builtOn]] [[prdct.janus]]

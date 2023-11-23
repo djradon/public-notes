@@ -7,7 +7,7 @@ created: 1637813722983
 ---
 
 - [[c.software.cognitive-architecture]]
-- [[p.writtenIn]]   [[t.cs.languages.lisp]]
+- written-in:   [[t.cs.languages.lisp]]
 - [[p.hasSite]] http://act-r.psy.cmu.edu/
 - [[p.hasSense]]
   - [[p.instanceOf]] [[Cognitive Architecture|t.cs.ai.cognitive-architecture]]

@@ -8,7 +8,7 @@ created: 1698036216557
 
 - [[c.game.sandbox]]
 - url: https://www.vintagestory.at/
-- [[p.writtenIn]] #c-sharp
+- written-in: c#
 - [[c.license]] pro
 
 

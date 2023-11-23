@@ -13,7 +13,7 @@ created: 1642483433436
 - [[t.cs.web.accessibility]]
   - [[prdct.aria]]
   - "The controls for your page should be listed in the HTML source in the order in which you expect the page to be browsed, while relying on CSS to lay out the page visually to users."
-- #javascript
+- javascript
   - `let` is for block variables 
   - `var` is for function-scoped variables
   - initialize = declare + assign

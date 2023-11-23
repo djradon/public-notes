@@ -8,7 +8,7 @@ created: 1696739554441
 
 - url: https://linkml.io
 - repo:  https://github.com/linkml/linkml
-- [[p.writtenIn]] #python
+- written-in: #python
 - [[p.alternativeTo]] [[prdct.json-schema]]
 - [[p.supports]] [[t.cs.sd.mixin]]
 - [[c.feature.possible]] 

@@ -6,7 +6,7 @@ updated: 1692203563219
 created: 1692202686393
 ---
 
-- #author @guy-kawasaki
+- author: @guy-kawasaki
 
 ## Highlights
 

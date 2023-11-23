@@ -8,5 +8,5 @@ created: 1696528573521
 
 - #dead ?
 - repo: https://github.com/webaverse-studios/webaverse
-- [[p.writtenIn]] #c++
+- written-in: #c++
 - [[p.used]] [[prdct.three-js]]

@@ -25,12 +25,12 @@ created: 1671553437341
 
 - #php has traits with properties
   - https://stackoverflow.com/questions/47727003/can-traits-have-properties-methods-with-private-protected-visibility-can-tr
-- #javascript has traits with symbol:
+- javascript has traits with symbol:
   - "Recent versions of JavaScript (i.e. ECMAScript 6) added a new primitive data type, symbol, which can be used to implement traits effectively. A symbol is basically a unique identifier that can be used as a property and that will never collide with anything else... The standard calls this feature protocol."
     - https://itnext.io/straits-9ef2b9a563cd
 - [[t.cs.languages.gdscript]]
   - [Add a Trait system for GDScript](https://github.com/godotengine/godot-proposals/issues/6416)
-- #scala 
+- scala 
   - but "Scala supports "traits", although these should have been called mixins (there is no explicit conflict resolution)." 
     - https://github.com/traitsjs/traits.js
 - java
@@ -38,9 +38,9 @@ created: 1671553437341
     - http://ageofjava.com/java/Using-Traits-in-Java-8
   - 
 
-- #c-sharp has default interface methods, but no fields/data
+- c# has default interface methods, but no fields/data
 
-### #c-sharp
+### c#
 
 - https://www.reddit.com/r/csharp/comments/7uc6dt/ive_created_a_mixin_library_for_c_and_would_like/
 - [[prdct.partial-mixins]]

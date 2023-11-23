@@ -8,7 +8,7 @@ created: 1697486867689
 
 - url: https://neurosymbolic.asu.edu/pyreason/
 - repo: https://github.com/lab-v2/pyreason
-- [[p.writtenIn]] #python
+- written-in: #python
 - [[p.supports]] [[prdct.graphml]] [[prdct.afsim]]
 
 ## Resources

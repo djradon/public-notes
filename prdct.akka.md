@@ -8,7 +8,7 @@ created: 1683232881555
 
 - url: https://akka.io/
 - [[p.supports]] 
-  - #java #scala directly
+  - java scala directly
 - #related [[prdct.pekko]]
 
 ## Features

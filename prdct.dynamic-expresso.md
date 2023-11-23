@@ -9,5 +9,5 @@ updated: 1690569265424
 created: 1690569209940
 ---
 
-- #c-sharp
+- c#
 - repo: https://github.com/dynamicexpresso/DynamicExpresso

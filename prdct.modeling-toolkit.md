@@ -6,5 +6,5 @@ updated: 1696269707181
 created: 1694380897105
 ---
 
-- [[p.writtenIn]] #julia
+- written-in: #julia
 - repo: https://github.com/SciML/ModelingToolkit.jl/

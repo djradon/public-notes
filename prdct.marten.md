@@ -7,7 +7,7 @@ created: 1674622142259
 ---
 
 - url: https://martendb.io/
-- [[p.writtenIn]] [[t.cs.languages.c-sharp]]
+- written-in: [[t.cs.languages.c-sharp]]
 
 ## Resources
 

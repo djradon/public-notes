@@ -8,9 +8,9 @@ created: 1686260852478
 
 - [[c.software.entity-component-system]]
 - repo: https://github.com/SanderMertens/flecs
-- [[p.writtenIn]] #c #c++ 
-- #author @sander-mertens
-- supports: 
+- written-in: #c #c++ 
+- author: @sander-mertens
+- supports: c# via [[prdct.flecs.flecs-cs]]
 
 ## Learning Resource
 

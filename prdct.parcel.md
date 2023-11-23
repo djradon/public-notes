@@ -9,7 +9,7 @@ created: 1699730595209
 - url: https://parceljs.org/
 - docs: https://parceljs.org/docs/
 - repo: https://github.com/parcel-bundler/parcel
-- written-in: #javascript #rust
+- written-in: javascript #rust
 
 ## Features
 

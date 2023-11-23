@@ -8,4 +8,4 @@ created: 1694452336060
 
 - [[c.software.agent-framework]] #dead
 - repo: https://github.com/florinleon/ActressMas
-- [[p.writtenIn]] [[t.cs.languages.c-sharp]]
+- written-in: [[t.cs.languages.c-sharp]]

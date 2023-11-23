@@ -6,6 +6,6 @@ updated: 1674590509351
 created: 1674590170187
 ---
 
-#author @paul-millerd
+author: @paul-millerd
 
 #similar [[book.the-pathless-path]] [[book.the-upside-of-uncertainty]]  ^dkz40u2pbdkg

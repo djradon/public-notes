@@ -7,7 +7,7 @@ created: 1696270914835
 ---
 
 - #docs https://owlready2.readthedocs.io/
-- [[p.writtenIn]] #python
+- written-in: #python
 - [[p.supports]] [[prdct.owl]]
 - [[p.builtOn]] [[prdct.hermit]]
 

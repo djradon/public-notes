@@ -9,7 +9,7 @@ created: 1635711573611
 
 
 - [[p.hasSite]] https://magic.link/
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 - [[p.hasApplication]] [[t.cs.authentication]]
   - [[p.hasLearningResource]] 
     - [How to Implement Auth in Next.js with Magic](https://magic.link/posts/magic-link-nextjs)

@@ -7,7 +7,7 @@ created: 1645899689960
 ---
 
 - repo: https://github.com/opencog/atomspace
-- [[p.writtenIn]] #c++
+- written-in: #c++
 - [[p.builtOn]] [[prdct.postgres]]
 - [[p.hasRelatedTopic]] [[t.km.kr]] 
 - "AtomSpace is a platform for building Artificial General Intelligence (AGI) systems. It provides the central knowledge representation component for OpenCog. As such, it is a fairly mature component, on which a lot of other systems are built, and which depend on it for stable, correct operation in a day-to-day production environment."

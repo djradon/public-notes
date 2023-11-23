@@ -7,5 +7,5 @@ created: 1637898932058
 ---
 
 - [[c.software.agent-framework]]
-- [[p.writtenIn]] #java
+- written-in: java
 - repo: https://github.com/actoron/jadex

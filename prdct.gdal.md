@@ -8,4 +8,4 @@ created: 1696889657333
 
 - url: https://gdal.org/
 - repo: https://github.com/OSGeo/gdal/
-- [[p.writtenIn]] #c++ #python #c
+- written-in: #c++ #python #c

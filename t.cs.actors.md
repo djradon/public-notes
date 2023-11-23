@@ -10,13 +10,13 @@ created: 1670267347423
 
 ## Implementations
 
-- [[prdct.comedy]] #javascript
-- [[prdct.orleans]] #c-sharp 
+- [[prdct.comedy]] javascript
+- [[prdct.orleans]] c# 
 - [[prdct.akka]]
 - [[prdct.pykka]]
 - [[prdct.akka-net]]
 - [[prdct.ptolemy]]
-- [[prdct.dapr]] #c-sharp
+- [[prdct.dapr]] c#
 - [[prdct.proto-actor]]
 - [[prdct.tarant]]  
 

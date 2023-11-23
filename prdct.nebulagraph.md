@@ -9,5 +9,5 @@ created: 1696480387798
 - [[c.software.database.graph.property]]
 - url: https://www.nebula-graph.io/
 - repo: https://github.com/vesoft-inc/nebula
-- [[p.writtenIn]] #c++
+- written-in: #c++
 - 

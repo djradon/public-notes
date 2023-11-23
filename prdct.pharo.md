@@ -9,7 +9,7 @@ created: 1695847863715
 - [[c.software.live-programming]]
 - url: https://www.pharo.org/
 - repo: https://github.com/pharo-project
-- [[p.writtenIn]] [[t.cs.languages.smalltalk]]
+- written-in: [[t.cs.languages.smalltalk]]
 - [[p.similarTo]] [[prdct.lively]]
 
 ## Features

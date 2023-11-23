@@ -7,7 +7,7 @@ created: 1634617777670
 ---
 
 - [[c.software.database.graph]]
-- [[p.writtenIn]] #clojure JVM!
+- written-in: #clojure JVM!
 - [[p.hasApplication]] [[t.km]]
 - [[p.hasBlog]] https://flur.ee/blog/
 - [[p.hasFeature]] 

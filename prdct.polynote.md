@@ -8,7 +8,7 @@ created: 1694117982293
 
 - url: https://polynote.org
 - repo: https://github.com/polynote/polynote
-- [[p.supports]] [[prdct.vega]] #scala #python
+- [[p.supports]] [[prdct.vega]] scala #python
 
 ## [[prdct.windows.wsl]]
 

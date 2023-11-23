@@ -7,7 +7,7 @@ created: 1645158420618
 ---
 
 - repo: https://github.com/google/leveldb
-- [[p.writtenIn]] #c++
+- written-in: #c++
 
 
 ## Cons

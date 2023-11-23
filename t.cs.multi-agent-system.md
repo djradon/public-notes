@@ -11,7 +11,7 @@ created: 1637793595094
 
 ## Implementations
 
-### #javascript
+### javascript
 
 - [[prdct.agentframework]]
 - [[prdct.js-son]]
@@ -25,7 +25,7 @@ created: 1637793595094
 - [[Mesa|prdct.Mesa]]
 
 
-### #java
+### java
 
 - [[prdct.jade]]
   - [[prdct.bdi4jade]]

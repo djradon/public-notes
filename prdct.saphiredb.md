@@ -8,7 +8,7 @@ created: 1645299168806
 
 
 - [[p.hasClientSupport]]
-  - #javascript 
+  - javascript 
   - [[prdct.node]]
   - [[prdct.react]]
   - [[prdct.svelte]]

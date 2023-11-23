@@ -12,7 +12,7 @@ created: 1689742269151
 
 ## Implementations
 
-- [[prdct.masstransit]] #c-sharp
+- [[prdct.masstransit]] c#
 
 ## Resources
 

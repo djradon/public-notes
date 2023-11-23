@@ -6,7 +6,7 @@ updated: 1698164714577
 created: 1698164639450
 ---
 
-- [[p.writtenIn]] #typescript #c++
+- written-in: #typescript #c++
 
 ## [[c.vision]]
 

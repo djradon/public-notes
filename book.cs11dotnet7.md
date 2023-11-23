@@ -7,4 +7,4 @@ created: 1683913371784
 ---
 
 - repo:  https://github.com/markjprice/cs11dotnet7
-- #author @mark-price
+- author: @mark-price

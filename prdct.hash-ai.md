@@ -11,7 +11,7 @@ created: 1651162206896
 - [[p.hasURL]] https://hash.ai/
 - [[p.hasScriptingLanguage]] 
   - #python
-  - #javascript
+  - javascript
 - [[c.product.related]] [[prdct.block-protocol]]
 
 ## Features

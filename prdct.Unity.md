@@ -8,7 +8,7 @@ created: 1637842422618
 
 [[c.software.game-engine]]
 
-- [[p.hasScriptingLanguage]] #javascript
+- [[p.hasScriptingLanguage]] javascript
   - [ ] [[prdct.jint]] https://pleasenophp.github.io/posts/using-real-javascript-with-unity.html
 
 

@@ -9,7 +9,7 @@ created: 1637812854424
 - #dead
 - [[p.hasRepository]] https://github.com/noncomputable/AgentMaps
 - [[p.hasApplication]] [[t.cs.multi-agent-system]]
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 - [ ] [[p.reviewed]] AgentMaps
 
 ## Summary

@@ -8,4 +8,4 @@ created: 1680566146922
 
 - url: https://github.com/genaray/Arch
 - [[p.instanceOf]] [[t.cs.entity-component-system]]
-- [[p.writtenIn]] #c-sharp
+- written-in: c#

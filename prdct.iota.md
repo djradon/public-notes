@@ -7,7 +7,7 @@ created: 1695424461712
 ---
 
 - url: https://www.iota.org/
-- [[p.writtenIn]] #rust
+- written-in: #rust
 
 ## description: 
 

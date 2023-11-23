@@ -8,7 +8,7 @@ created: 1671854886923
 
 url: https://remark.js.org/
 
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 
 ## Resources
 

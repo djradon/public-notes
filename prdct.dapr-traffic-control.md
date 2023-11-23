@@ -7,7 +7,7 @@ created: 1697557467063
 ---
 
 - repo: https://github.com/EdwinVW/dapr-traffic-control
-- [[p.writtenIn]] #c-sharp #javascript
+- written-in: c# javascript
 - [[p.builtOn]] [[prdct.phaser]] [[prdct.dapr]]
 
 ## Visual Simulation

@@ -8,5 +8,5 @@ created: 1673928551031
 
 url: https://processing.org/
 - [[c.publisher]] [[org.processing]]
-- [[p.writtenIn]] #java
+- written-in: java
 - [[p.similarTo]] [[prdct.p5-js]]

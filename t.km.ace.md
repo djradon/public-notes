@@ -6,7 +6,7 @@ updated: 1693688675705
 created: 1693688268463
 ---
 
-- #author @nick-milo
+- author: @nick-milo
 
 ## 3 Headspaces
 

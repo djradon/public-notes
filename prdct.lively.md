@@ -8,7 +8,7 @@ created: 1695934089405
 - #dead ?
 - url: https://lively-next.org/
 - repo: https://github.com/LivelyKernel/LivelyKernel
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 
 ## Examples
 

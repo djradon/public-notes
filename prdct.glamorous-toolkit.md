@@ -14,7 +14,7 @@ created: 1650122141316
   - [[t.cs.sd.specification]]
   - [[t.cs.sd.assessment]]
   - [[t.cs.data.visualization]]
-- [[p.writtenIn]] [[t.cs.languages.smalltalk.pharo]]
+- written-in: [[t.cs.languages.smalltalk.pharo]]
 
 ## [[p.hadDefinition]]
 

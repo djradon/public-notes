@@ -8,5 +8,5 @@ created: 1695186009550
 
 - [[c.software.xmpp-client.web]]
 - repo: https://github.com/movim/movim
-- [[p.writtenIn]] #javascript #php
+- written-in: javascript #php
 - url: https://movim.eu/

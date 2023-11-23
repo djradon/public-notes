@@ -7,7 +7,7 @@ created: 1637766820918
 ---
 
 - [[p.hasRepository]] https://github.com/agentframework/agentframework
-- [[p.writtenIn]] #typescript
+- written-in: #typescript
 - [[p.hasApplication]] [[t.cs.metaprogramming]] [[t.cs.simulation]]
 
 ### Concepts

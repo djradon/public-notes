@@ -8,7 +8,7 @@ created: 1637836027173
 
 - repo: https://github.com/eclab/mason/
 - [[c.software.agent-framework]]
-- [[p.writtenIn]] #java
+- written-in: java
 - [[p.hasApplication]] [[t.cs.simulation.abms]]
 - [[p.hasFeature]]
   - model library 

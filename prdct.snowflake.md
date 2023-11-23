@@ -18,5 +18,5 @@ Additionally, these numbers have to fit into 64 bits.
 
 ## Implementations
 
-- https://github.com/AkashRajpurohit/snowflake-id #javascript
+- https://github.com/AkashRajpurohit/snowflake-id javascript
 - 

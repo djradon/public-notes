@@ -6,7 +6,7 @@ updated: 1698704342147
 created: 1694114392713
 ---
 
-- #author @fred-baptiste
+- author: @fred-baptiste
 
 ## 2. Running Python
 

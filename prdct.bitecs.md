@@ -8,7 +8,7 @@ created: 1672342730647
 
 - [[c.software.entity-component-system]] [[t.cs.entity-component-system]]
 - repo: https://github.com/NateTheGreatt/bitECS
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 - [[p.usedBy]] [[prdct.ethereal-engine]] [[prdct.hubs]] [[prdct.matrix]] [[prdct.third-room]]
 - [[p.hasClientSupport]]
   - [[prdct.element]] [[prdct.babylon-js]]

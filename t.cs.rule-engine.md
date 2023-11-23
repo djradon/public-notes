@@ -15,11 +15,11 @@ created: 1690558566709
 ### generic 
 
 - [[prdct.aws.emr]] https://aws.amazon.com/blogs/apn/building-an-agile-business-rules-engine-on-aws/
-### #java
+### java
 
 - [[prdct.drools]]
 
-### #c-sharp
+### c#
 
 - [[prdct.rulesengine]]
 - [[prdct.dmn-engine]]

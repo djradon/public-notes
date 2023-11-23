@@ -9,7 +9,7 @@ created: 1672301401340
 [[c.software.game-platform]]
 - url: https://playerio.com/
 - similar: https://github.com/OpenPlayerIO
-- [[p.hasClientSupport]] [[prdct.unity]] #java #javascript #c-sharp
+- [[p.hasClientSupport]] [[prdct.unity]] java javascript c#
 - [[p.supports]] [[prdct.dotnet]]
   - [[p.hasSource]] "Serverside code can be written in any .Net language such as C# or VB.Net"
 - [[p.hadLimitation]]

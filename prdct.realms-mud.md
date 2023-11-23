@@ -7,4 +7,4 @@ created: 1695967057366
 ---
 
 - repo: https://github.com/realms-mud/core-lib
-- [[p.writtenIn]] #c
+- written-in: #c

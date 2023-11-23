@@ -8,7 +8,7 @@ created: 1637666551697
 
 
 
-- [[p.writtenIn]] #java
+- written-in: java
 
 ## Implementations
 

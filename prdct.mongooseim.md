@@ -8,4 +8,4 @@ created: 1695183522246
 
 - [[c.software.xmpp-server]]
 - repo: https://github.com/esl/MongooseIM
-- [[p.writtenIn]] [[cs.languages.erlang]]
+- written-in: [[cs.languages.erlang]]

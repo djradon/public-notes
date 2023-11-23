@@ -6,7 +6,7 @@ updated: 1698959891458
 created: 1694806790267
 ---
 
-- [[p.writtenIn]] [[t.cs.languages.c-sharp]]
+- written-in: [[t.cs.languages.c-sharp]]
 - repo: https://github.com/ArchaicQuest/ArchaicQuest-II
 - [[p.builtOn]] [[prdct.signalr]]
 

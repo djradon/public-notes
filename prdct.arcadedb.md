@@ -9,10 +9,10 @@ created: 1696481284791
 - [[c.software.database.multi-model]]  [[c.software.database.graph.property]] [[c.software.database.embedded]] [[c.software.database.vector]]
 - repo: https://github.com/ArcadeData/arcadedb
 - [[p.forkOf]] [[prdct.orientdb]]
-- [[p.writtenIn]] #java 
+- written-in: java 
 - [[p.compatibleWith]] [[prdct.cypher]] [[prdct.tinkerpop]]/[[prdct.gremlin]] [[prdct.redis]] [[prdct.postgres]]
 - [[p.supports]] [[t.cs.gis.geospatial-querying]] [[t.cs.data.vector-embedding]]
-- embed in JVM, so [[p.compatibleWith]] #scala#groovy #kotlin #clojure
+- embed in JVM, so [[p.compatibleWith]] scala#groovy #kotlin #clojure
 
 ## Pro
 

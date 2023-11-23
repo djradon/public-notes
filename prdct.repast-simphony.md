@@ -7,7 +7,7 @@ created: 1694615633713
 ---
 
 - repo: https://github.com/Repast/repast.simphony
-- [[p.writtenIn]] #java
+- written-in: java
 
 ## Features
 

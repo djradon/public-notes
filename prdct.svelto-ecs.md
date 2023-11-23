@@ -7,7 +7,7 @@ created: 1638152420551
 ---
 
 - [[c.software.entity-component-system]]
-- [[p.writtenIn]] [[t.cs.languages.c-sharp]]
+- written-in: [[t.cs.languages.c-sharp]]
 - [[p.hasRepository]] https://github.com/sebas77/Svelto.ECS
 - [[p.hasCreator]] @sebas77
 - [[p.supports]] [[prdct.stride3d]]

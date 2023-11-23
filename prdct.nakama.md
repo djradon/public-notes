@@ -10,12 +10,12 @@ created: 1656792485964
 
 - [[c.software.game-platform]] [[c.software.game-framework]]
 - repo: https://github.com/heroiclabs/nakama
-- [[p.writtenIn]] #go
+- written-in: #go
 - [[p.hasScriptingLanguage]] #typescript [[prdct.lua]]
-- [[p.hasClientSupport]] [[prdct.unity]] [[prdct.unreal]] [[prdct.godot]] [[prdct.defold]] [[prdct.cocos2d]] #javascript #java #c #c++ [[prdct.flutter]]
+- [[p.hasClientSupport]] [[prdct.unity]] [[prdct.unreal]] [[prdct.godot]] [[prdct.defold]] [[prdct.cocos2d]] javascript java #c #c++ [[prdct.flutter]]
 - [[p.hadPricing]] https://heroiclabs.com/pricing/
 - [[p.hadEtymology]]  In Japanese, the word nakama 仲間 means "someone who's in the same group as you," or can refer to the group itself.
-- [[p.writtenIn]] 
+- written-in: 
   - Go 86.5%
   - Lua 5.1%
   - TypeScript 4.4%

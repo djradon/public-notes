@@ -9,7 +9,7 @@ created: 1644488300455
 ---
 
 - url: https://graphbrain.net/
-- [[p.writtenIn]] #python
+- written-in: #python
 - #aka "An OpenCog that works"
 - 
 

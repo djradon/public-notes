@@ -7,7 +7,7 @@ created: 1695852167162
 ---
 
 - url: https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html
-- #author @daniel-ingalls
+- author: @daniel-ingalls
 
 
 ## Summary

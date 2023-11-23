@@ -6,4 +6,4 @@ updated: 1680132197218
 created: 1680132176979
 ---
 
-- #author @rachel-jepsen
+- author: @rachel-jepsen

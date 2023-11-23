@@ -12,7 +12,7 @@ created: 1693696915552
 - [[p.similarTo]] [[prdct.orleans]]
 - [[c.implementation]]
   -  https://github.com/asynkron/protoactor-go #go 
-  -  https://github.com/asynkron/protoactor-dotnet #c-sharp
+  -  https://github.com/asynkron/protoactor-dotnet c#
   -  https://github.com/asynkron/protoactor-kotlin #kotlin
 
 ## Features

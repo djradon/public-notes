@@ -8,4 +8,4 @@ created: 1695186912620
 
 - [[c.software.xmpp-client.web]]
 - repo: https://github.com/jsxc/jsxc
-- [[p.writtenIn]] #typescript
+- written-in: #typescript

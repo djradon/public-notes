@@ -8,4 +8,4 @@ created: 1695268974316
 
 - #dead
 - repo: https://github.com/swift/swift
-- [[p.writtenIn]] #c++
+- written-in: #c++

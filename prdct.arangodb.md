@@ -7,4 +7,4 @@ created: 1696480873297
 ---
 
 - [[c.software.database.multi-model]]
-- [[p.writtenIn]] #c++ #javascript
+- written-in: #c++ javascript

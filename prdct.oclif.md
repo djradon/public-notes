@@ -8,7 +8,7 @@ created: 1672900642072
 
 repo: https://github.com/oclif/oclif
 
-#javascript-cli-framework
+javascript-cli-framework
 
 ## #features
 

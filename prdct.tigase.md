@@ -8,4 +8,4 @@ created: 1695184329756
 
 - [[c.software.xmpp-server]]
 - repo: https://github.com/tigase/tigase-server
-- [[p.writtenIn]] #java [[t.cs.languages.groovy]]
+- written-in: java [[t.cs.languages.groovy]]

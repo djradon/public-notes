@@ -9,7 +9,7 @@ created: 1698262264349
 - [[c.software.actor-framework]]
 - repo: https://github.com/zakgof/actr
 - creator: @alexander-zakusylo
-- [[p.writtenIn]] #java
+- written-in: java
 - supports: [[t.cs.languages.java.virtual-threads]]
 
 ## Features

@@ -7,7 +7,7 @@ created: 1694375386102
 ---
 
 - repo: https://github.com/jbogard/MediatR
-- [[p.writtenIn]] [[t.cs.languages.c-sharp]]
+- written-in: [[t.cs.languages.c-sharp]]
 
 ## Cons
 

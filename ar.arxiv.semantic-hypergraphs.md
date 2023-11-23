@@ -8,7 +8,7 @@ created: 1682970702620
 ---
 
 - url: https://arxiv.org/abs/1908.10784
-- #author @camille-roth @telmo-menezes
+- author: @camille-roth @telmo-menezes
 - #related 
   - [[t.social-science.computational]]
   - [[t.ling.syntax.annotation]]

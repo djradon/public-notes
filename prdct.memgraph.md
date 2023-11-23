@@ -10,13 +10,13 @@ created: 1696481811073
 - url: https://memgraph.com/
 - repo: https://github.com/memgraph/memgraph
 - [[p.compatibleWith]] [[prdct.neo4j]]
-- [[p.writtenIn]] #c++
+- written-in: #c++
 
 ## Features
 
 - in-memory storage engine, on-disk persistence/backup
 - connect to [[prdct.kafka]] [[prdct.pulsar]] [[prdct.redpanda]]
-- [[p.supports]] #python #c #rust [[prdct.node]] #c-sharp #go #haskell #java #javascript #php #ruby]
+- [[p.supports]] #python #c #rust [[prdct.node]] c# #go #haskell java javascript #php #ruby]
 - custom procedures in #python and #c / #c++
 
 ## [[c.model.licensing]]

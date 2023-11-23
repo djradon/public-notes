@@ -11,7 +11,7 @@ created: 1696521323235
 - repo: https://github.com/5etools-mirror-1/5etools-mirror-1.github.io
 - #docs https://wiki.tercept.net/en/home
 - [[p.builtOn]] [[prdct.node]]
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 
 
 ## Examples

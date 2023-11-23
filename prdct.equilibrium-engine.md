@@ -8,4 +8,4 @@ created: 1696969045353
 
 - [[c.software.game-engine]]
 - repo: https://github.com/clibequilibrium/EquilibriumEngine-CSharp
-- [[p.writtenIn]] #c-sharp
+- written-in: c#

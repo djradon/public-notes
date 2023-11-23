@@ -8,7 +8,7 @@ created: 1672225977422
 
 - [[c.software.game-engine]]
 - [[p.supports]]
-  - #javascript
+  - javascript
   - [[prdct.node]] 
   - [[prdct.deno]] 
     - [[p.hasSource]] https://deno.land/x/playfab_sdk@210511.0

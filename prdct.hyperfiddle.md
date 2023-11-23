@@ -7,5 +7,5 @@ created: 1696521142954
 ---
 
 - url: https://www.hyperfiddle.net/
-- [[p.writtenIn]] #clojure
+- written-in: #clojure
 - repo: https://github.com/hyperfiddle/electric

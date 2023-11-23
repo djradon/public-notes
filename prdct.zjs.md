@@ -7,4 +7,4 @@ created: 1696976254217
 ---
 
 - repo: https://github.com/webaverse/zjs
-- [[p.writtenIn]] #javascript
+- written-in: javascript

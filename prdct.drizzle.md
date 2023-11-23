@@ -7,7 +7,7 @@ created: 1695140052621
 ---
 
 - [[c.software.game-platform]]
-- [[p.writtenIn]] #typescript
+- written-in: #typescript
 
 ## Resources
 

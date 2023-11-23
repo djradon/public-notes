@@ -7,5 +7,5 @@ created: 1662742865799
 ---
 
 - [[p.isRelated]]
-  - https://stackoverflow.com/questions/42061706/how-to-create-object-dynamically #javascript
+  - https://stackoverflow.com/questions/42061706/how-to-create-object-dynamically javascript
   

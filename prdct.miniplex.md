@@ -8,7 +8,7 @@ created: 1697482272010
 
 - [[c.software.entity-component-system]]
 - repo: https://github.com/hmans/miniplex
-- [[p.writtenIn]] #typescript
+- written-in: #typescript
 - #creator [[user.hendrik-mans]]
 
 ## Resources

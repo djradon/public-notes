@@ -9,4 +9,4 @@ created: 1696908336171
 - [[c.software.game-engine]]
 - url: https://www.panda3d.org/
 - repo: https://github.com/panda3d/panda3d
-- [[p.writtenIn]] #c++ #python
+- written-in: #c++ #python

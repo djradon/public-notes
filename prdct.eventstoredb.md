@@ -8,5 +8,5 @@ created: 1674620907798
 
 - url: https://www.eventstore.com/
 - repo: https://github.com/EventStore/EventStore
-- [[p.writtenIn]] [[t.cs.languages.c-sharp]]
+- written-in: [[t.cs.languages.c-sharp]]
 - 

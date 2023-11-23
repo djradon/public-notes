@@ -11,7 +11,7 @@ created: 1637846271510
 - url: https://www.stride3d.net/
 - repo: https://github.com/stride3d/stride
 - [[c.comparable]] [[prdct.unity]] [[prdct.monogame]]
-- [[p.writtenIn]] #c-sharp
+- written-in: c#
 - [[p.usedBy]] [[prdct.vvvv]]
 
 ## Features

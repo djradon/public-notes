@@ -6,7 +6,7 @@ updated: 1698275345032
 created: 1694109002928
 ---
 
-- #author @angela-yu
+- author: @angela-yu
 
 ## t.2023.09.07
 

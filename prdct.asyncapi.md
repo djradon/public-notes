@@ -52,6 +52,6 @@ created: 1673569081430
     publish means publish an event to the channel and this application will receive it
     subscribe means subscribe to this channel to receive events published by this application"
 
-### #c-sharp
+### c#
 
 - [[prdct.asyncapi.template.c-sharp]]

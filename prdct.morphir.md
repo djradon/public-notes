@@ -8,5 +8,5 @@ created: 1698163163281
 
 - url: https://morphir.finos.org/
 - repo: https://github.com/finos/morphir
-- [[p.writtenIn]] #typescript #javascript
-- [[p.supports]] #elm #bosque -transpiled-> #scala
+- written-in: #typescript javascript
+- [[p.supports]] #elm #bosque -transpiled-> scala

@@ -10,7 +10,7 @@ created: 1672300709043
 - url: https://defold.com/
 - repo: https://github.com/defold/defold
 - [[p.supports]] [[prdct.lua]]
-- [[p.writtenIn]] #c++ #c #clojure #java
+- written-in: #c++ #c #clojure java
 
 ## Features
 

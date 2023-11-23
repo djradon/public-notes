@@ -7,4 +7,4 @@ created: 1695482258845
 ---
 
 - url: https://aosgrp.com.au/jack/
-- [[p.writtenIn]] #java
+- written-in: java

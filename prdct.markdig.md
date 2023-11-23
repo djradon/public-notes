@@ -7,7 +7,7 @@ created: 1696873658559
 ---
 
 - repo: https://github.com/xoofx/markdig
-- [[p.writtenIn]] #c-sharp
+- written-in: c#
 - [[p.usedBy]] [[prdct.literatecs]]
 
 ## Related

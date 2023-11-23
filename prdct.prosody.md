@@ -8,4 +8,4 @@ created: 1695182579178
 
 - [[c.software.xmpp-server]]
 - repo: https://github.com/bjc/prosody (mirror)
-- [[p.writtenIn]] [[prdct.lua]]
+- written-in: [[prdct.lua]]

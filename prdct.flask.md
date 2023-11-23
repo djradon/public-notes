@@ -7,4 +7,4 @@ created: 1694754713399
 ---
 
 - [[c.software.web-framework]]
-- [[p.writtenIn]] #python
+- written-in: #python

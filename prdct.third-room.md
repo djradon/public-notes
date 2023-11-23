@@ -14,7 +14,7 @@ created: 1672343537168
 - url: https://thirdroom.io/
 - repo: https://github.com/matrix-org/thirdroom
 
-- [[p.writtenIn]] #c #typescript
+- written-in: #c #typescript
 - [[p.builtOn]] [[prdct.matrix]]
 - [[p.builtWith]] [[prdct.bitecs]] [[prdct.three-js]]
 - [[p.supports]] [[prdct.gltf]] [[prdct.unity]]

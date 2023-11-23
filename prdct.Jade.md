@@ -8,7 +8,7 @@ created: 1637852885141
 
 - [[c.software.agent-framework]]
 - [[p.hasApplication]] [[t.cs.multi-agent-system]]
-- [[p.writtenIn]] #java
+- written-in: java
 - [[p.implements]] [[prdct.fipa]]
 - license [[lic.lgpl]]
 

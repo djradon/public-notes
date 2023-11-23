@@ -10,7 +10,7 @@ created: 1638654887501
 - [[p.similarTo]] 
   - [[prdct.redwood]]
   - [[prdct.saphiredb]]
-- [[p.builtOn]] #javascript
+- [[p.builtOn]] javascript
 - [[p.hasExtension]] 
   - https://github.com/brysgo/graphql-gun
 

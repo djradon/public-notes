@@ -9,7 +9,7 @@ created: 1693155975058
 - [[c.software.language-workbench]]
 - repo: http://textx.github.io/textX/
 - [[p.inspiredBy]] [[prdct.xtext]]
-- [[p.writtenIn]] #python
+- written-in: #python
 
 ## Resources
 

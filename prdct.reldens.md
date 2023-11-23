@@ -7,7 +7,7 @@ created: 1661193912006
 ---
 
 
-- [[p.writtenIn]] #javascript
+- written-in: javascript
 - [[p.builtOn]] [[prdct.colyseus]]
 - [[p.hasURL]] https://npm.io/package/reldens
 - [ ] review Reldens

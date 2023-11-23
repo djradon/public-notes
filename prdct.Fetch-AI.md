@@ -20,11 +20,11 @@ created: 1637853501507
 - define your own protocols, with [[prdct.protobuf]] support for:
   -   go: `go` #go
   -   c++: `cpp` #c++
-  -   java: `java` #java
-  -   c#: `csharp` #c-sharp
+  -   java: `java` java
+  -   c#: `csharp` c#
   -   ruby: `ruby` #ruby
   -   objective-c: `objc` 
-  -   javascript: `js` #javascript
+  -   javascript: `js` javascript
 
 
 ## References

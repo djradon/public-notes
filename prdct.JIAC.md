@@ -8,4 +8,4 @@ created: 1637898879441
 
 - #dead
 - [[c.software.agent-framework]]
-- [[p.writtenIn]] #java
+- written-in: java

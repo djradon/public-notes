@@ -8,4 +8,4 @@ created: 1696707154362
 
 - [[c.software.entity-component-system]]
 - url: https://github.com/amethyst/specs
-- [[p.writtenIn]] #rust
+- written-in: #rust

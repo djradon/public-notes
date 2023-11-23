@@ -6,9 +6,9 @@ updated: 1698262518372
 created: 1697046719430
 ---
 
-- #author @max-wilson
+- author: @max-wilson
 - repo: https://github.com/MaxWilson/ShiningSword
-- [[p.writtenIn]] #f-sharp
+- written-in: #f-sharp
 
 ## References
 

@@ -8,4 +8,4 @@ created: 1671853611966
 
 url: https://github.com/njvack/markdown-to-json
 
-- [[p.writtenIn]] #python
+- written-in: #python

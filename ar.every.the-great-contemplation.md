@@ -6,7 +6,7 @@ updated: 1674589661725
 created: 1674589555497
 ---
 
-#author @paul-millerd
+author: @paul-millerd
 
 If Tim Ferriss’s [_4-Hour Workweek_](https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357) kickstarted the “first wave” of the post-industrial reimagination of work in 2007, 2022 was the year that a newer, and weirder, second wave began. 
 

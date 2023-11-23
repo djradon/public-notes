@@ -12,8 +12,8 @@ created: 1696438166743
 
 ## [[p.supports]]
 
-- #javascript with [[prdct.h3.js]]
-- #java with [[prdct.h3.java]]
+- javascript with [[prdct.h3.js]]
+- java with [[prdct.h3.java]]
 - [[prdct.postgres]] via [[prdct.postgres.h3-pg]]
 
 ## Descriptions

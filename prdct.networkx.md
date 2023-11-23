@@ -8,7 +8,7 @@ created: 1651252054708
 
 
 - [[p.hasSite]] https://networkx.org/
-- [[p.writtenIn]] #python
+- written-in: #python
 
 ## Resources
 

@@ -7,4 +7,4 @@ created: 1699314309648
 ---
 
 - url: https://rtyley.github.io/bfg-repo-cleaner/
-- [[p.writtenIn]] java
+- written-in: java

@@ -6,6 +6,6 @@ updated: 1698276552489
 created: 1698276513801
 ---
 
-- #writtenIn #java
+- #writtenIn java
 - repo: https://github.com/owlcs/owlapi
 - 

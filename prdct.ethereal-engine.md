@@ -10,7 +10,7 @@ created: 1672314344300
 - url: https://www.etherealengine.org/
 - repo: https://github.com/XRFoundation/XREngine-Control-Center#readme
 - #license [[lic.cpal]] - source modifications must be published, attribution must be prominent
-- [[p.writtenIn]] #typescript 
+- written-in: #typescript 
 - [[p.hadDependancy]] [[prdct.mediasoup]]
 - [[p.basedOn]] [[prdct.bitecs]]
   

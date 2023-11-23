@@ -9,4 +9,4 @@ created: 1638112443426
 
 
 - [[p.hasRepository]] https://github.com/aysylu/loom
-- [[p.writtenIn]] [[t.cs.languages.Clojure]]
+- written-in: [[t.cs.languages.Clojure]]

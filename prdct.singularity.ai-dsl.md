@@ -7,4 +7,4 @@ created: 1694372572976
 ---
 
 - repo: https://github.com/singnet/ai-dsl
-- [[p.writtenIn]] [[t.cs.languages.idris]] #python
+- written-in: [[t.cs.languages.idris]] #python

@@ -7,4 +7,4 @@ created: 1696876060308
 ---
 
 - repo: https://github.com/GodotECS/godex
-- [[p.writtenIn]] #c++
+- written-in: #c++

@@ -8,4 +8,4 @@ created: 1696447805580
 
 - url: https://www.datomic.com/
 - repo: ??
-- [[p.writtenIn]] #clojure
+- written-in: #clojure

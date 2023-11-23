@@ -6,7 +6,7 @@ updated: 1699486729064
 created: 1671484551359
 ---
 
-- [[p.supports]] #javascript
+- [[p.supports]] javascript
 - [[p.instanceOf]] [[c.software.game-platform]]
 - "runs right inside your browser"
 

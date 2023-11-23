@@ -9,7 +9,7 @@ created: 1637669903112
 ## Implementations
 
 - https://learn.microsoft.com/en-us/archive/msdn-magazine/2019/january/machine-learning-leveraging-the-beliefs-desires-intentions-agent-architecture
-  - [[p.writtenIn]] #c-sharp
+  - written-in: c#
 
 ### Simplified BDI Algorithm
 

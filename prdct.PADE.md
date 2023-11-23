@@ -11,6 +11,6 @@ created: 1637793632731
 - #similar [[prdct.spade]]
 
 - [[p.hasSite]] https://pade.readthedocs.io/en/latest/
-- [[p.writtenIn]] #python
+- written-in: #python
 - [[p.builtOn]] [[prdct.twisted]]
 - [[p.isRelated]] [[vs.spade-vs-pade]]

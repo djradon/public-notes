@@ -9,5 +9,5 @@ created: 1651253033404
 
 - [[p.hasSite]] http://phaser.io/
 - repo: https://github.com/photonstorm/phaser
-- [[p.hasScriptingLanguage]] #javascript
+- [[p.hasScriptingLanguage]] javascript
 - [[p.hasLearningResource]] http://phaser.io/shop/books/make-games-with-phaser

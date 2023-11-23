@@ -7,7 +7,7 @@ created: 1693427296096
 ---
 
 - url: http://www.paulgraham.com/relres.html
-- #author @paul-graham
+- author: @paul-graham
 
 ## Highlights
 
