@@ -82,7 +82,9 @@ created: 1688397077910
 - https://dev.to/aaronblondeau/virtual-actors-dapr-vs-orleans-30f0
  - https://medium.com/event-driven-utopia/5-reasons-why-you-should-use-microsoft-dapr-to-build-event-driven-microservices-cb2202c579a0
 - https://itnext.io/dapr-vs-envoy-when-to-use-what-6c2ac3caaed2
-[[c.resource.learning]]
+- https://www.daveabrock.com/2021/04/29/meet-dapr/
+
+### Learning Resources
 
 - https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/
 - [[book.practical-microservices-with-dapr-and-dotnet]]                            - https://www.freshbrewed.science/dapr-getting-started/index.html

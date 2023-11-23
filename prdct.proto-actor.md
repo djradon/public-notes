@@ -35,6 +35,10 @@ created: 1693696915552
 
 - "Message based systems should be about passing information, not passing complex OOP object graphs or code." [1]
 
+## Examples
+
+- https://github.com/asynkron/realtimemap-dotnet
+
 ## Resources
 
 - https://proto.actor/docs/what-is-protoactor/
