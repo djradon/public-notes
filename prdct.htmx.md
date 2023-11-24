@@ -2,12 +2,17 @@
 id: ydbmu5s02n46o73dun4dqle
 title: Htmx
 desc: 'gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext'
-updated: 1699291391796
+updated: 1700867252211
 created: 1699290990780
 ---
 
 - url: https://htmx.org/
-- [[p.succeeded]] [[prdct.intercooler]]
+- succeeded: [[prdct.intercooler]]
+
+## Resources
+
+- https://blog.yusu.ke/hono-htmx-cloudflare/
+
 
 ## References
 

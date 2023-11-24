@@ -12,6 +12,11 @@ created: 1686260852478
 - author: @sander-mertens
 - supports: c# via [[prdct.flecs.flecs-cs]]
 
+## FAQ
+
+- Can I use Flecs without using systems?
+  - You can! Systems are an optional addon that can be disabled. You can build applications that just use Flecs queries.
+
 ## Learning Resource
 
 - ![FLECS overview](https://github.com/SanderMertens/flecs/raw/master/docs/img/flecs-quickstart-overview.png)

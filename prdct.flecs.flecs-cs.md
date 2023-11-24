@@ -7,3 +7,4 @@ created: 1700702299919
 ---
 
 - repo: https://github.com/flecs-hub/flecs-cs
+- related: [[prdct.flecs-net]]
