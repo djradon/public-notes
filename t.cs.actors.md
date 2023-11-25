@@ -2,7 +2,7 @@
 id: s1b2hshk9rfo7xvnozu5s03
 title: Actors
 desc: ''
-updated: 1700254867315
+updated: 1700887914831
 created: 1670267347423
 ---
 
@@ -36,3 +36,12 @@ created: 1670267347423
 - [43 years of actors: a taxonomy of actor models and their key properties](https://dl.acm.org/doi/abs/10.1145/3001886.3001890)
 - https://github.com/GetTech-io/awesome-actor
 - https://forums.ni.com/t5/Actor-Framework-Documents/Justifying-The-Actor-Framework/ta-p/4207018
+- https://clojure.org/about/state
+  - "the actor model was designed to address the problems of distributed programs. And the problems of distributed programs are much harder - there are multiple worlds (address spaces), direct observation is not possible, interaction occurs over possibly unreliable channels, etc... I chose not to use the actor model for same-process state management in Clojure for several reasons:
+
+    -   It is a much more complex programming model, requiring 2-message conversations for the simplest data reads, and forcing the use of blocking message receives, which introduce the potential for deadlock. Programming for the failure modes of distribution means utilizing timeouts etc. It causes a bifurcation of the program protocols, some of which are represented by functions and others by the values of messages.
+        
+    -   It doesn’t let you fully leverage the efficiencies of being in the same process. It is quite possible to efficiently directly share a large immutable data structure between threads, but the actor model forces intervening conversations and, potentially, copying. Reads and writes get serialized and block each other, etc.
+        
+    -   It reduces your flexibility in modeling - this is a world in which everyone sits in a windowless room and communicates only by mail. Programs are decomposed as piles of blocking switch statements. You can only handle messages you anticipated receiving. Coordinating activities involving multiple actors is very difficult. You can’t observe anything without its cooperation/coordination - making ad-hoc reporting or analysis impossible, instead forcing every actor to participate in each protocol."
+
