@@ -2,11 +2,12 @@
 id: prgkc5diwsx9ypshbtaddjb
 title: Posthog
 desc: 'open-source Product OS'
-updated: 1698262670486
+updated: 1701106851791
 created: 1681136715846
+url: https://posthog.com/
+works_with: [[prdct.memphis]]
 ---
 
-- url: https://posthog.com/
 
 ## Features
 
@@ -19,6 +20,8 @@ created: 1681136715846
 
 - free and pay per use
   - both plans get 1M events/mo and 15k session recordings/mo
+
+
 
 ## Resources
 

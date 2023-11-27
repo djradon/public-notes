@@ -2,7 +2,7 @@
 id: 36h5cstfnd55cap4r9jcxlb
 title: Yaml
 desc: ''
-updated: 1700863058447
+updated: 1701105778638
 created: 1700803399777
 ---
 
@@ -24,6 +24,8 @@ created: 1700803399777
 ## Resources
 
 - https://developers.redhat.com/blog/2020/11/25/how-to-configure-yaml-schema-to-make-editing-files-easier#yaml_schema
+- https://yaml-multiline.info/
+
 
 ## References
 
