@@ -2,7 +2,7 @@
 id: 36h5cstfnd55cap4r9jcxlb
 title: Yaml
 desc: ''
-updated: 1701105778638
+updated: 1701112239263
 created: 1700803399777
 ---
 
@@ -30,3 +30,4 @@ created: 1700803399777
 ## References
 
 [^1]: https://www.nclouds.com/blog/what-is-yaml-data-serialization/
+https://dev.to/this-is-learning/yaml-collections-sequences-and-mappings-4meb

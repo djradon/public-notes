@@ -4,7 +4,7 @@ title: Mixin
 desc: >-
   a class that contains methods for use by other classes without having to be
   the parent class of those other classes
-updated: 1700153413586
+updated: 1701118546420
 created: 1696197242241
 ---
 
@@ -22,7 +22,10 @@ created: 1696197242241
 - scala Scala has a rich type system and Traits are a part of it which helps implement mixin behaviour.
   - but "Traits are Mixins just with some slightly different properties from a programming language designers point of view like Mixins require [[t.cs.sd.mixin.linearization]] while Traits are flattened and Traits traditionally don’t contain states."
 - #rust Rust makes extensive use of mixins via traits. Traits, like in Scala, allow users to implement behaviours for a defined type. They are also used for generics and dynamic dispatch, which allow for types with same traits to be used interchangeably statically or dynamically at runtime respectively
-- java default methods for interfaces (could work if every actor had a weak dictionary or whatever)
+- java 
+  - default methods for interfaces [^1]
+    -  (could work if every actor had a weak dictionary or whatever) 
+  - 
 - javascript
   - https://javascript.info/mixins
 ```
@@ -40,3 +43,7 @@ Object.assign(User.prototype, sayHiMixin);
 - https://www.reddit.com/r/csharp/comments/7uc6dt/ive_created_a_mixin_library_for_c_and_would_like/
 - [The Power of Lua and Mixins](https://github.com/a327ex/blog/issues/2) ^wklu5ctv3kui
 - https://stackoverflow.com/questions/28882903/uml-representation-of-php-trait
+
+## References
+
+[^1]: http://hannesdorfmann.com/android/java-mixins/
