@@ -2,9 +2,15 @@
 id: rAqqQyLKaHwA7AismOywP
 title: Rot.js
 desc: ''
-updated: 1644203456746
+updated: 1701126725726
 created: 1643780012867
+features:
+  - RNG (for generating levels procedurally)
+  - pathfinding (for players and AI)
+  - FOV computation
+  - key bind configuration
 ---
+
 
 
 - [[p.hasLearningResource]]

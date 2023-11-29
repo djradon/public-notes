@@ -2,7 +2,7 @@
 id: 7hrizCCDjMkKraIov9DDg
 title: Deno
 desc: javascript runtime from the creator of node
-updated: 1699910249857
+updated: 1701126827472
 created: 1645899638124
 ---
 
@@ -22,3 +22,4 @@ created: 1645899638124
 
 - https://docs.deno.com/runtime/manual/references/vscode_deno#using-the-debugger
 - https://medium.com/deno-the-complete-reference/learn-deno-by-example-part-1-introduction-to-content-server-e3c77bbf9c2d
+- https://blog.logrocket.com/deno-alternatives-to-popular-node-projects/

@@ -2,9 +2,17 @@
 id: 5o0t67dslcj0vyo8z6yrpgh
 title: Server Sent Events
 desc: ''
-updated: 1700866722302
+updated: 1701280241642
 created: 1700866375044
 ---
+
+
+## Cons
+
+- maximum 6 per browser + domain,
+- unidirectional, but
+  - "When subscribing to an information source, you make one descriptive request in order to receive multiple responses. Specifically, when using GraphQL subscriptions or streaming operations (like with @defer and @stream directives), you do exactly this - you send one request and expect multiple responses (events) in return. Having said this, Server-Sent Events seem like a perfect fit!"
+
 
 ## Comparison
 
@@ -16,3 +24,5 @@ created: 1700866375044
 ### References
 
 - https://ably.com/blog/websockets-vs-sse
+- https://the-guild.dev/blog/graphql-over-sse
+  - mentions: [[prdct.graphql-sse]]

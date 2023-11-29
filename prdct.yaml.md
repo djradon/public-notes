@@ -2,7 +2,7 @@
 id: 36h5cstfnd55cap4r9jcxlb
 title: Yaml
 desc: ''
-updated: 1701112239263
+updated: 1701201561030
 created: 1700803399777
 ---
 
@@ -15,7 +15,7 @@ created: 1700803399777
 ### vs [[prdct.json]]
 
 - YAML has overcome JSON’s limitations (e.g., namespace, comment, attribute, and complex configuration).
-  - chatgpt3-5: " you can create structures in YAML that help organize data in a way that resembles namespaces or scopes in other systems."
+  - @chatgpt.3.5: " you can create structures in YAML that help organize data in a way that resembles namespaces or scopes in other systems."
 
 ## Issues
 
