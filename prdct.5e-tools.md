@@ -2,8 +2,9 @@
 id: tij5kl2lv4gzr3tz2kdq147
 title: 5e Tools
 desc: ''
-updated: 1696977862298
+updated: 1701284069207
 created: 1696521323235
+similar_to: [[prdct.open5e]]
 ---
 
 - [[c.software.game-service.data]]
@@ -12,7 +13,7 @@ created: 1696521323235
 - #docs https://wiki.tercept.net/en/home
 - [[p.builtOn]] [[prdct.node]]
 - written-in: javascript
-
+- 
 
 ## Examples
 
