@@ -2,10 +2,10 @@
 id: yv6xjfh2powsn8gimdpbb7p
 title: Type Theory as the Unifying Foundation for Modern Database
 desc: ''
-updated: 1700156632800
+updated: 1701364690529
 created: 1700154014209
 ---
-
+  
 - [[p.hostedBy]] @alvin-leung
 - [[c.actor.speaker]] @christoph-dorn
 
