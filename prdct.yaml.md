@@ -2,7 +2,7 @@
 id: 36h5cstfnd55cap4r9jcxlb
 title: Yaml
 desc: ''
-updated: 1701201561030
+updated: 1701424216873
 created: 1700803399777
 ---
 
@@ -29,5 +29,6 @@ created: 1700803399777
 
 ## References
 
-[^1]: https://www.nclouds.com/blog/what-is-yaml-data-serialization/
-https://dev.to/this-is-learning/yaml-collections-sequences-and-mappings-4meb
+- [^1]: https://www.nclouds.com/blog/what-is-yaml-data-serialization/
+- https://dev.to/this-is-learning/- yaml-collections-sequences-and-mappings-4meb
+- https://stackoverflow.com/questions/19109912/yaml-do-i-need-quotes-for-strings-in-yaml

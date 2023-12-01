@@ -69,3 +69,6 @@ created: 1643725570180
 ### Temporal Modelling
 
 - [[ar.medium.vaticle.modelling-time-within-a-strongly-typed-database]]
+
+
+fluree

@@ -17,7 +17,7 @@ created: 1696610915530
 - #related 
 - related [[t.km.ontology]]
 
-## Description
+
 
 - entity
   - continuant: exists through time

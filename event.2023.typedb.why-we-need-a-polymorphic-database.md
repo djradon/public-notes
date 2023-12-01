@@ -2,7 +2,7 @@
 id: wvhaqos751qey64k9apdoyx
 title: Why We Need a Polymorphic Database
 desc: ''
-updated: 1701367192811
+updated: 1701416370000
 created: 1701363883374
 url: https://typedb.com/lectures/why-polymorphic-database
 presenter: "@james-whiteside"
@@ -68,5 +68,8 @@ host: "@alvin-leung"
 ## Questions
 
 - Does TypeDB have Object-PolymorphicDB mapping technology (OPM?), a la ORM/ODM/OGM
+  - not yet
 - Why not just use in-memory object models with object serialization (say, to the filesystem) and then for requests, use streams/filters and programmatic/native code for queries and semantically-consistent updates?
-  - 
+  - (misunderstood, but) databases are good for sharing the data, persisting it, etc. 
+- it seems like you should be able to just update the string-based reference identity everywhere it occurs, just like a dendron Move Note or Refactor
+- 

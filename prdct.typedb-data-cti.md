@@ -2,8 +2,9 @@
 id: OwMwGmIYMQ2HL5ylI14SY
 title: Typedb Data Cyber Threat Intelligence
 desc: ''
-updated: 1651252166480
+updated: 1701416132815
 created: 1644814465961
+url: https://github.com/os-threat/Stix-ORM/blob/main/docs/overview.md
 ---
 
 

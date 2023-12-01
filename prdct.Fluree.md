@@ -2,11 +2,11 @@
 id: joiwdd2KjBWzPf68G3vot
 title: Fluree
 desc: 'Open source semantic graph database that guarantees data integrity, facilitates secure data sharing, and powers connected data insights.'
-updated: 1699143994040
+updated: 1701421227322
 created: 1634617777670
 ---
 
-- [[c.software.database.graph]]
+- [[c.software.database.graph]] [[c.software.database.graph.rdf]]
 - written-in: #clojure JVM!
 - [[p.hasApplication]] [[t.km]]
 - [[p.hasBlog]] https://flur.ee/blog/
@@ -15,7 +15,7 @@ created: 1634617777670
     - [[c.resource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ https://flur.ee/2021/07/08/time-traveling-with-fluree/
   - " optionally decentralized (e.g. using StorJ via Tardigrade)"
     - [[p.hasSource]] https://github.com/athensresearch/athens/issues/9#issuecomment-786844129
-  - [[prdct.json-ld]] support (alpha)
+  - [[prdct.json-ld]] support
 
 ## Features
 
