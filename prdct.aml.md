@@ -7,7 +7,7 @@ It can be used to describe common, existing YAML/JSON metadata documents or to d
 updated: 1701292456291
 created: 1701289941576
 docs: https://a.ml/docs/aml/aml
- related: "[[prdct.amf]]" 
+related: "[[prdct.amf]]" 
 ---
 
 ## Features

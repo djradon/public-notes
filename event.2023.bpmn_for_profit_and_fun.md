@@ -4,8 +4,8 @@ title: Bpmn_for_profit_and_fun
 desc: ''
 updated: 1701195268874
 created: 1701191033288
-hosted_by: @oskar-dudycz
-speaker: @mario-bittencourt
+hosted_by: "@oskar-dudycz"
+speaker: "@mario-bittencourt"
 ---
 
 - used [[prdct.lucidchart]] to design
