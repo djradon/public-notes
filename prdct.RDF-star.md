@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1698704342088
+updated: 1701468188367
 created: 1634426288630
 ---
 
@@ -20,13 +20,21 @@ created: 1634426288630
 ## Implementations
 
 - [[prdct.ontotext-platform]]
+
 ## Issues
 
 - https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#sa-mode-and-pg-mode
   - are quoted triples asserted?
+    - t.2023.12.01 depends on the implementation!?
+      - [[prdct.JSON-LD.star]] has embedded nodes for non-assertion, annotation objects for assertion
 - https://w3c.github.io/rdf-star/cg-spec/editors_draft.html#the-seminal-example
   - can you have multiple identical triples?
-    - [[c.con]] nope! have to use standard reification, new relationship concept
+    - nope! have to use standard reification, new relationship concept
+      - but don't need them anyhow if you're not asserting the triples (ie., Separate Assertion / SA) or if the thing asserted is quoted and assigned a temporal / instance info
+    - [[t.phil.type-token-distinction]]
+      - https://www.w3.org/2021/12/rdf-star.html#occurrences
+- Referential Opacity
+  - https://www.w3.org/2021/12/rdf-star.html#ref-opacity
 
 ## Possible Features
 

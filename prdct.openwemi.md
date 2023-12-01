@@ -2,10 +2,13 @@
 id: bn61nj17g38msvn4eq1ofem
 title: openWEMI
 desc: 'minimally constrained vocabulary for describing created resources using the concepts of Work, Expression, Manifestation, Item'
-updated: 1701423943637
-created: 1701422694871
-url: https://dcmi.github.io/openwemi/ns/openWEMI.html
+updated: 1701465969996
+created: 1701422694871d
+links: 
+  - url: https://dcmi.github.io/openwemi/ns/openWEMI.html
+    built_with: "[[prdct.pylode]]"
 related: "[[t.library-science.work_expression_manifestation_item]]"
+
 ---
 
 #awesome
