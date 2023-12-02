@@ -9,7 +9,7 @@ created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
 had_client_language_support: [python, javascript]
-author:   @kevin-feeny
+author: "@kevin-feeny"
 ---
 
 - [[p.builtWith]] [[prdct.rdf]]
