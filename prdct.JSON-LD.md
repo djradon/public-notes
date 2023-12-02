@@ -2,13 +2,16 @@
 id: Lo9wEWkfCjnG9JrpoFDEU
 title: JSON-LD
 desc: ''
-updated: 1698262670444
+updated: 1701469566320
 created: 1636178352439
+similar: [[prdct.yaml-ld]]
 ---
 
-
-
 - [[p.isComparandOf]] https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
+
+## Features
+
+- @id keyword allows you to give a node a URI
 
 ## Resources
 
