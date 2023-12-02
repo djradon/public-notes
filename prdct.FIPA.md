@@ -2,7 +2,7 @@
 id: sXAc6YNOEMFUcRv84RDFy
 title: FIPA
 desc: Foundation for Intelligent Physical Agents
-updated: 1697084594886
+updated: 1701516219394
 created: 1637666551697
 ---
 
@@ -20,3 +20,6 @@ created: 1637666551697
 - [[prdct.jack]] Intelligent Agents (Java)
 - [[prdct.gama]]
 
+## Resources
+
+- [[ar.fipa_rdf_content_language_specification]]
