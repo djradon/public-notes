@@ -1,8 +1,8 @@
 ---
 id: l8jZApjTwypJDlSzk2qJ1
-title: HATEOS
+title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1701575151233
+updated: 1701617210265
 created: 1636171046830
 ---
 
