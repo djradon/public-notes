@@ -1,8 +1,8 @@
 ---
 id: dupappm4t2am3x8bs4oq75e
-title: Schema_org
+title: Schema.org
 desc: ''
-updated: 1701518413576
+updated: 1701571035690
 created: 1701475587999
 ---
 

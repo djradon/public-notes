@@ -2,12 +2,12 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOS
 desc: Hypermedia as the Engine of Application State
-updated: 1636172403855
+updated: 1701575151233
 created: 1636171046830
 ---
 
 
-- [[p.c.Resource.List]] https://restfulapi.net/hateoas/
+- [[c.Resource.List]] https://restfulapi.net/hateoas/
     - [[p.hasComment]] 
 
     - > The dynamic example would be when client building the menu based on links returned for the resource. So server (base on user’s authorization) will return only links accessible for the user and client will build the menu dynamically.

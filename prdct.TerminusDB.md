@@ -35,3 +35,4 @@ author: "@kevin-feeny"
 - https://terminusdb.com/blog/loading-data-in-turtle-rdf-format-to-terminusdb/
 - https://forum.solidproject.org/t/terminusdb-a-delightful-database-for-linked-data/3140
   - mentioned: https://news.ycombinator.com/item?id=22867767
+- https://terminusdb.com/blog/graphql-query/

@@ -2,7 +2,7 @@
 id: DWqe0fMeyd4z2pCetcked
 title: Task Management
 desc: ''
-updated: 1698704342287
+updated: 1701575151257
 created: 1634185485262
 ---
 
@@ -19,6 +19,6 @@ created: 1634185485262
 
 - ![[proj.bia#^rxGIZrgVBtUO:#*]]
 
-## [[p.c.Resource.List]]
+## [[c.Resource.List]]
 
 - https://collegeinfogeek.com/best-to-do-list-app/

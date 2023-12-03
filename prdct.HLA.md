@@ -2,7 +2,7 @@
 id: sI0oVfigAwd9jqXHm4CFj
 title: HLA
 desc: High-Level Architecture
-updated: 1680447269525
+updated: 1701575151238
 created: 1637838948809
 ---
 
@@ -17,7 +17,7 @@ created: 1637838948809
 - [[p.hasTraining]] https://pitchtechnologies.com/hla-hands-on-training/
   - [[p.hasAuthor]] [[org.Pitch-Technologies]]
 
-## [[p.c.Resource.List]]
+## [[c.Resource.List]]
 
 - [HLA Run Time Infrastructure: A Comparative Study](https://oaji.net/articles/2019/2712-1573379026.pdf)
 - https://www.informs-sim.org/wsc97papers/0373.PDF

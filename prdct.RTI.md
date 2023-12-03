@@ -4,14 +4,14 @@ title: RTI
 desc: >-
   run-time infrastructure (RTI) is a middleware that is required when
   implementing the High Level Architecture
-updated: 1650781134891
+updated: 1701575151241
 created: 1637839939735
 ---
 
 
 
 - [[p.instanceOf]] [[c.middleware]]
-- [[p.c.Resource.List]] https://en.wikipedia.org/wiki/Run-time_infrastructure_(simulation)
+- [[c.Resource.List]] https://en.wikipedia.org/wiki/Run-time_infrastructure_(simulation)
 
 ## Resources
 

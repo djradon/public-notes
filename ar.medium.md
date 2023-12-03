@@ -2,12 +2,12 @@
 id: DF1TFWyAJMF9GOt3ZmEF5
 title: Medium
 desc: ''
-updated: 1638041576294
+updated: 1701575151243
 created: 1638023425812
 ---
 
 
 
-## [[p.c.Resource.List]] 
+## [[c.Resource.List]] 
 
 - https://javascript.plainenglish.io/top-5-programming-publications-on-medium-e154136bded4
