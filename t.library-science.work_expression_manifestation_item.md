@@ -2,7 +2,7 @@
 id: gpjt0tgwkb6khor1tcvlgmb
 title: Work, Expression, Manifestation, Item
 desc: 'WEMI '
-updated: 1701639183947
+updated: 1701714862563
 created: 1701423935574
 ---
 
@@ -11,6 +11,8 @@ created: 1701423935574
 ## Terms
 
 ### Work
+
+- analagous to Platonic Form
 
 ### Expression
 
