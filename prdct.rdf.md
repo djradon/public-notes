@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1698704342168
+updated: 1701800614403
 created: 1633160681527
 ---
 
@@ -23,12 +23,16 @@ created: 1633160681527
 - calls verbs properties / predicates
 - confuses properties and predicates
 - can't easily express intransitive relations (properties)
+- [[Resources That Refer Vs Resources That Are|vs.resources-that-refer-vs-resources-that-are]] 
+  - aka "indicator vs subject"
 
 ### temporal problems
 
 - see [[ar.a-temporal-rdf-model-for-multi-grained-time-information-modeling]]
 - https://blog.iandavis.com/2009/08/representing-time-in-rdf-part-1/
-- [Temporal RDF](http://www.dcc.uchile.cl/~cgutierr/papers/temporalRDF.pdf) introduces a fourth time component to the triple. I chose not to cover this approach in a lot of detail because it extends the RDF model in a way that no current triple store implements and it requires a numeric time to be associated with each triple, preventing relative times from being expressed.
+- [Temporal RDF](http://www.dcc.uchile.cl/~cgutierr/papers/temporalRDF.pdf) introduces a fourth time component to the triple. 
+
+
 ## can be expressed as 
 
 - [[prdct.rdf.aref]]

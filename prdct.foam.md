@@ -2,7 +2,7 @@
 id: yqj2gRKBxJLgRVg8FGz2q
 title: Foam
 desc: ''
-updated: 1650432911580
+updated: 1701734799731
 created: 1634425120599
 ---
 
@@ -19,3 +19,4 @@ a vscode-based km system
 
 ## [[p.vs]] [[prdct.dendron]]
 
+- it's alive!

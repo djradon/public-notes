@@ -2,11 +2,9 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1698704342276
+updated: 1701800595383
 created: 1633593028328
 ---
-
-
 
 - [[p.alsoKnownAs]] indicator vs subject 
 
@@ -84,3 +82,6 @@ created: 1633593028328
 - [ ] [[p.summarized]] [Disambiguating RDF Identifiers](https://www.w3.org/2002/12/rdf-identifiers/) #to-read
 - [ ] [[p.summarized]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#distinguish-interpretation-from-representation
 - [1]: [[ar.ontopia.curing-the-webs-identity-crisis]]
+
+
+I chose not to cover this approach in a lot of detail because it extends the RDF model in a way that no current triple store implements
