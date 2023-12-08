@@ -4,11 +4,10 @@ title: Getting_started_with_fluree
 desc: ''
 updated: 1701968488908
 created: 1701965208506
-hosted_by: @brian-platz
-presenters: @kevin-doubleday @andrew_johnson
+hosted_by: "@brian-platz"
+presenters: ["@kevin-doubleday", "@andrew_johnson"]
 topics: 
   - "[[prdct.fluree.nexus]]"
-  - 
 ---
 
 
