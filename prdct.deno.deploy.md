@@ -7,3 +7,7 @@ created: 1670703316417
 ---
 
 - [[p.supports]] [[prdct.supabase]]
+
+## Resources
+
+- https://deno.com/blog/queues
