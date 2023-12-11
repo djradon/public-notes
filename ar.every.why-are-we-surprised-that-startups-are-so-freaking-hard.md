@@ -2,11 +2,11 @@
 id: 3x8jz6u73c567a818x6kj51
 title: Why Are We Surprised That Startups Are so Freaking Hard
 desc:
-updated: 1702318558937
+updated: 1702320056294
 created: 1702315113601
 subject: https://every.to/p/why-are-we-surprised-that-startups-are-so-freaking-hard
 traitIds:
-  - referringNote
+  - referring_note
 ---
 
 ## Highlights
