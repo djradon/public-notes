@@ -5,7 +5,3 @@ desc: ''
 updated: 1695183585979
 created: 1695183454321
 ---
-
-- [[c.software.xmpp-server]]
-- repo: https://github.com/processone/ejabberd
-- written-in: [[cs.languages.erlang]]

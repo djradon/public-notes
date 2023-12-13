@@ -24,7 +24,7 @@ a web-first knowledge base (docs, projects, and wikis) with desktop and mobile c
 ## [[p.hasIssue]]
 
 - breaks the back button
-- lost the [[feature.programming-portals]]
+- lost the [[t.cs.ui.programming-portals]]
   - [[p.attributedTo]] [[ar.maggieappleton.programming-portals]]
   
 ## [[p.hasExample]]

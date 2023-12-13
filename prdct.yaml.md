@@ -2,7 +2,7 @@
 id: 36h5cstfnd55cap4r9jcxlb
 title: Yaml
 desc: ''
-updated: 1701424216873
+updated: 1702322885777
 created: 1700803399777
 ---
 
@@ -20,6 +20,12 @@ created: 1700803399777
 ## Issues
 
 - YAML lacks protections from corrupted YAML files. [^1]
+
+## Example
+
+![](/assets/images/2023-12-11-11-24-46.png)
+![](/assets/images/2023-12-11-11-25-10.png)
+![](/assets/images/2023-12-11-11-27-05.png)
 
 ## Resources
 

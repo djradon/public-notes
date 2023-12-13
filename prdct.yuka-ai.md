@@ -1,7 +1,7 @@
 ---
 id: 3xw9mbsg9r7yjrf6enf3bcf
 title: Yuka Ai
-desc: 'JavaScript library for developing Game AI'
+desc: JavaScript library for developing Game AI
 updated: 1698252759326
 created: 1695966061818
 ---
@@ -10,7 +10,7 @@ created: 1695966061818
 - url: https://mugen87.github.io/yuka/
 - [[p.hadDependancy]]
   - [[prdct.three-js]] or [[prdct.babylon-js]]
-- [[discord.yuka]]
+- [[community.discord.yuka]]
 - https://mugen87.github.io/yuka/docs 
   - not exactly friendly
 - [[c.publisher]] [[org.human-interactive]]
