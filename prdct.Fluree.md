@@ -2,10 +2,17 @@
 id: joiwdd2KjBWzPf68G3vot
 title: Fluree
 desc: 'Open source semantic graph database that guarantees data integrity, facilitates secure data sharing, and powers connected data insights.'
-updated: 1701971155233
+updated: 1702661041504
 created: 1634617777670
-support: ["[[prdct.ipfs]]", [[prdct.aws.s3]]]
 ---
+
+```yaml
+supports: 
+  - type: storage
+    products: ["[[prdct.ipfs]]", "[[prdct.aws.s3]]"]
+  - type: data_format
+    products: prdct.json-ld
+```
 
 - [[c.software.database.graph]] [[c.software.database.graph.rdf]]
 - written-in: #clojure JVM!
