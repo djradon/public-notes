@@ -2,8 +2,9 @@
 id: ivt1VAvLJWFhS9kqarqgU
 title: Digital Zettelkasten Principles Methods Examples
 desc: ''
-updated: 1698958102791
+updated: 1702954908662
 created: 1631574689382
+url: https://read.readwise.io/read/01hj0042jxavm4wmvrp2xnm11t
 ---
 
 short book outlining the author's pragmatic [[t.km.zettelkasten]] process. Includes an interesting take on tags.
@@ -15,6 +16,8 @@ short book outlining the author's pragmatic [[t.km.zettelkasten]] process. Inclu
 ## [[p.hasHighlight]]
 
 - [[idea.beware-archivism]]
+- The activities involved in managing [your zettelkasten] also help solidify your memory, so it needs less jogging in the first place... Search engines and the internet are not a substitute for your notes. Your notes contain more than just simple facts, managing your notes builds your memory, and your notes help you store and develop ideas in-progress.
+- 
 
 ## [[p.hasCitation]]
 
