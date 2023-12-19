@@ -2,9 +2,10 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: ''
-updated: 1699471662475
+updated: 1702830798698
 created: 1633445910705
 ---
+
 
 ## Categories
 
@@ -22,3 +23,7 @@ created: 1633445910705
 - [OntoJIT: Exploiting CLR Compiler Support for
 Performing Entailment Reasoning over Executable
 Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3293483/
+  - 
+
+- preserve capitalization in display
