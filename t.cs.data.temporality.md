@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1698704342257
+updated: 1703100298376
 created: 1634620119007
 ---
 
@@ -18,9 +18,16 @@ created: 1634620119007
 - could sometimes be represented as "ending instant/period of valid time"
 - [[idea.defining-done-is-hard]]
 
+## Probabilistic Time
+
+- Triangle Distribution
+  - wrong: "The really nice thing about Triangle distributions is the Mean and the Mode are the same"
+- 
+
 ## [[TimeML|prdct.timeml]]
 
 - functionInDocument ::= 'CREATION_TIME' | 'EXPIRATION_TIME' | 'MODIFICATION_TIME' | 'PUBLICATION_TIME' | 'RELEASE_TIME'| 'RECEPTION_TIME' | 'NONE' 
+
 ### Resources
 
 - [[ar.psu.decision-time-in-temporal-databases]]
@@ -29,3 +36,6 @@ created: 1634620119007
 - [DESIGN AND IMPLEMENTATION OF HLA TIME MANAGEMENT IN THE RTI VERSION F.0](https://www.informs-sim.org/wsc97papers/0373.PDF)
 - https://robinpokorny.medium.com/why-developers-should-stop-using-iso-8601-for-date-time-e6ee5fc8ad87
 - https://medium.com/towards-nesy/temporal-logic-model-checking-cf05fc917688
+- https://herdingcats.typepad.com/my_weblog/2006/02/deterministic_v.html
+  - has a comment preferring PERT (Project Evaluation and Review Technique) distribution: (Min+4*Mode+Max)/6
+

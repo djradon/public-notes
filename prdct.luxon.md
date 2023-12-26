@@ -2,7 +2,7 @@
 id: jo0hr8awuvs4pvl2cpvsixq
 title: Luxon
 desc: ''
-updated: 1698252759272
+updated: 1703177841804
 created: 1673909173721
 ---
 
@@ -10,8 +10,6 @@ url: https://moment.github.io/luxon/#/
 repo: https://github.com/moment/luxon
 
 - [[p.similarTo]] [[prdct.momentjs]] [[prdct.js-joda]]
-
-## Comparison
 
 ## Comparison  ^z5ldk0m6zjqx
 
