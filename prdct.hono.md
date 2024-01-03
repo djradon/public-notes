@@ -1,8 +1,8 @@
 ---
 id: 7tht0o3au9r919ldommyecz
 title: Hono
-desc: 'Fast, Lightweight, Web-standards. Runs on any JavaScript runtime.'
-updated: 1700243681473
+desc: 'Fast, Lightweight, Web-standards JavaScript framework for edges. Runs on any JavaScript runtime.'
+updated: 1704305670374
 created: 1700240099872
 ---
 

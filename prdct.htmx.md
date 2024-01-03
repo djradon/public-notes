@@ -2,14 +2,18 @@
 id: ydbmu5s02n46o73dun4dqle
 title: Htmx
 desc: 'gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext'
-updated: 1701617369597
+updated: 1704264306942
 created: 1699290990780
 related:
   - "[[prdct.alpine_js]]"
 ---
+```yaml
+url: https://htmx.org/
+succeeded: [[prdct.intercooler]]
+similar: 
+  - [[prdct.hotwire]]
+```
 
-- url: https://htmx.org/
-- succeeded: [[prdct.intercooler]]
 
 ## Resources
 
