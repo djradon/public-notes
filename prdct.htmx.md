@@ -2,7 +2,7 @@
 id: ydbmu5s02n46o73dun4dqle
 title: Htmx
 desc: 'gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext'
-updated: 1704264306942
+updated: 1704376150889
 created: 1699290990780
 related:
   - "[[prdct.alpine_js]]"
@@ -18,7 +18,7 @@ similar:
 ## Resources
 
 - https://blog.yusu.ke/hono-htmx-cloudflare/
-
+- https://www.kodaps.dev/en/blog/htmx-anti-javascript-framework
 
 ## References
 
