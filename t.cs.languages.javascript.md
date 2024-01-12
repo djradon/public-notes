@@ -2,7 +2,7 @@
 id: xCugLjdB3z42GhtNsjtFc
 title: JavaScript
 desc: ''
-updated: 1645996729297
+updated: 1704416031131
 created: 1634945271434
 ---
 
@@ -11,8 +11,21 @@ created: 1634945271434
 
 - [[p.instanceOf]] [[c.programminglanguage]]
 
+## Strict equality and null !== undefined 
 
-## [[p.hasLearningResource]]
+```
+console.log(null === undefined) // false (not the same type)
+console.log(null == undefined) // true (but the "same value")
+console.log(null === null) // true (both type and value are the same)
+```
+
+## Resources
+
+- https://stackoverflow.com/questions/73297947/how-to-type-an-object-with-optional-and-default-values
+- https://stackoverflow.com/questions/5076944/what-is-the-difference-between-null-and-undefined-in-javascript
+- 
+
+### Learning Resources
 
 - https://madza.hashnode.dev/21-github-repositories-to-become-a-javascript-master
 - https://medium.com/@kubiak.maciej/3-tips-i-wish-someone-had-given-me-when-i-started-my-adventure-with-typescript-ddec0073862a
