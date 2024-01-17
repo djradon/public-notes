@@ -4,11 +4,12 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1701367561367
+updated: 1705507573391
 created: 1643725570180
 ---
 
-- t.2023.11.30: getting rewritten in Rust
+
+- 
 - [[c.software.database.graph]] 
 - [[p.alsoKnownAs]] grakn
 - [[p.ownedBy]] [[org.vaticle]]
@@ -25,7 +26,7 @@ created: 1643725570180
 - "Concept Architecture"
   - ![](/assets/images/2022-03-14-14-26-10.png)
   - ![](/assets/images/2023-09-21-22-03-51.png)
-  - ![](/assets/images/2023-09-21-22-19-16.png)\
+  - ![](/assets/images/2023-09-21-22-19-16.png)
 
 ### Thoughts
 

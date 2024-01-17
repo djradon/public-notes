@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1701464619290
+updated: 1705505361112
 created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
@@ -19,7 +19,7 @@ author: "@kevin-feeny"
 
 ## Features
 
--   The [db schema 8](https://terminusdb.com/docs/schema) is defined in [[prdct.owl]]
+-   The [db schema](https://terminusdb.com/docs/schema) is defined in [[prdct.owl]]
 -   Most operation occurs in-memory, but is persisted in a forward-only log (similar to git)
 -   This “git-for-data” approach allows branch, merge, squash, rollback, diff, blame, and time-travel, etc.
 -   [[prdct.json-ld]] is interchange format, suitable for web, but editing in turtle is possible
