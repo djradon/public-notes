@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1703100298376
+updated: 1705549237123
 created: 1634620119007
 ---
 
@@ -28,6 +28,12 @@ created: 1634620119007
 
 - functionInDocument ::= 'CREATION_TIME' | 'EXPIRATION_TIME' | 'MODIFICATION_TIME' | 'PUBLICATION_TIME' | 'RELEASE_TIME'| 'RECEPTION_TIME' | 'NONE' 
 
+## Allen's Interval Algebra
+
+- 13 base relations capture 
+- 
+- Allen's interval algebra can be used for the description of both temporal intervals and spatial configurations. For the latter use, the relations are interpreted as describing the relative position of spatial objects.
+
 ### Resources
 
 - [[ar.psu.decision-time-in-temporal-databases]]
@@ -38,4 +44,4 @@ created: 1634620119007
 - https://medium.com/towards-nesy/temporal-logic-model-checking-cf05fc917688
 - https://herdingcats.typepad.com/my_weblog/2006/02/deterministic_v.html
   - has a comment preferring PERT (Project Evaluation and Review Technique) distribution: (Min+4*Mode+Max)/6
-
+- https://en.wikipedia.org/wiki/Allen%27s_interval_algebra

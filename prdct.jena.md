@@ -2,7 +2,7 @@
 id: 1x3lenylbdctmrkbdkn2v0x
 title: Jena
 desc: 'semantic-web framework for Java which includes a number of different semantic-reasoning modules and rdf-star support'
-updated: 1701463701578
+updated: 1705530691865
 created: 1698707121812
 type: "[[c.software.database.graph.rdf]]"
 ---
@@ -13,7 +13,7 @@ type: "[[c.software.database.graph.rdf]]"
 
 ## Resources
 
-
+- https://medium.com/duda/simplifying-your-structured-data-model-using-apache-jena-545dd93236a8
 
 ### Learning Resources
 
