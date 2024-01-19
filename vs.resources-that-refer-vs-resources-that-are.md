@@ -2,11 +2,12 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1705546931020
+updated: 1705674715143
 created: 1633593028328
 ---
 
-- [[p.alsoKnownAs]] indicator vs subject 
+
+
 
 - "surely the distinction between a network-retrievable information resource and "everything else" is of fundamental importance to the whole architecture of the Web]"
 - "using URIs, it is possible to identify both a thing (which may exist outside of the Web) and a Web document describing the thing... According to W3C guidelines ([AWWW], section 2.2.), we have a Web document (there called information resource) if all its essential characteristics can be conveyed in a message. Examples are a Web page, an image or a product catalog... The first solution is to use “hash URIs” for non-document resources... a URI that includes a hash cannot be retrieved directly, and therefore does not necessarily identify a Web document... The second solution is to use a special HTTP status code, 303 See Other, to give an indication that the requested resource is not a regular Web document."
@@ -40,11 +41,15 @@ created: 1633593028328
 - notes/URIs/RRIs that are actual things (daily notes, task items, statements, (unpublished) articles, blogs)
     - could be called
       - resource notes
+
 ## what things that refer have in common with things that are
+
 - can have sense of 
   - "Bibliography": other resources related to the thing this note/resource refers to
   - "Footnote": the things that appear in this note can be attributedTo an external resource
 - need different predicates for both senses
+
+
 ## Notes (in the Dendron sense)
 
 - differentiate between notes that represent something (e.g. topics, solutions) and notes that are something (vs, journal)

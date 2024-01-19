@@ -2,7 +2,7 @@
 id: jhyu2uvqp5jxd0gs4t61ctk
 title: Log
 desc: ''
-updated: 1702213558670
+updated: 1705676709817
 created: 1702213558670
 ---
 
@@ -24,3 +24,25 @@ removed:
 - `prdct.toml` is kinda an identifier; unlike a corresponding note in the topic hierarchy, it won't change
 - differentiate resources that are addressable with `hasURL` - but not sure if that helps
 ```
+
+## t.2024.01.19.06
+
+- I'm almost ashamed that this contrast has remained so murky for so long. There are two separate issues:
+  1. for identifiers, are we identifying a web document or something that exists separately
+  2. for web documents, are they about something else or are they their own thing
+  
+### #1 
+
+- URL-like identifiers might return a document.
+  - Is there an issue of "how would you refer to that document", in case you wanted to?
+  - How does that document unambiguously convey that "the URL you requested is (primarily?) an identifier"
+
+### #2
+
+- is it just as easy as "everything is its own thing, but some web documents (like wiki pages) have essentially a single subject (likely specified as the title, but that could be specified in metadata by using an identifier), as well as one or more topics; and some things dont"
+- Maybe the issue is "is a note a definition/model" of something, i.e. an "expression" in WEMI parlance. 
+
+### Examples
+
+- Does a daily journal note have a subject? Is its subject "Dave's January 19th"? Or is it "Some things Dave thought and did (or wrote) on January 19th"?
+- 

@@ -2,7 +2,7 @@
 id: gpjt0tgwkb6khor1tcvlgmb
 title: Work, Expression, Manifestation, Item
 desc: 'WEMI '
-updated: 1701835119111
+updated: 1705676796224
 created: 1701423935574
 ---
 
@@ -19,9 +19,11 @@ created: 1701423935574
 - "There are many ways a work can be expressed, and it can be difficult to determine what constitutes a separate expression, and what is a new work entirely; cataloger judgment is required. In general, translations, revisions, versions, illustrated editions, abridgements, and illustrated editions would be considered unique expressions of the same work." [^1]
 - In D&D, each edition has its own expression of spells, items, classes, etc.
 - In-world, each setting? has its own version of these thing? Or each ruleset.
+- "Most works will have only one or two expressions—a text version and a spoken word version, say—but a great classic like Pride and Prejudice is likely to have many expressions."
 
 ### Manifestation
 
+- "A single expression may have many manifestations, especially if (as with Pride and Prejudice) the book is frequently reprinted."
 - In D&D, could a manifestation be [[prdct.roll20]]'s version of a thing vs [[prdct.one_dnd]]? That's oow
 - in-world, 
   - in a place without mass-production, unique items have a single manifestation. But perhaps in a bespoke workshop, a certain well-honed process could lead to a manifestation of an object with multiple corresponding items? 
