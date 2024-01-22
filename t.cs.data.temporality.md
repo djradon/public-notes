@@ -2,9 +2,14 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1705549237123
+updated: 1705951600536
 created: 1634620119007
 ---
+
+## Assertive Time and Effective Time
+
+- suggested names for transaction time and valid time, where decision time is not used
+- [ ] why does transaction time need a period?
 
 ## Decision Time
 
@@ -34,6 +39,11 @@ created: 1634620119007
 - 
 - Allen's interval algebra can be used for the description of both temporal intervals and spatial configurations. For the latter use, the relations are interpreted as describing the relative position of spatial objects.
 
+## Solutions
+
+- '[of [[prdct.MariaDB]] and [[prdct.Postgres]]], MariaDB supports temporal tables in the core product and sticks to the SQL:2011 standard most closely. I would recommend MariaDB for those interested in temporal tables in existing SQL databases.' [^1]
+- [[prdct.sirixdb]] and [[prct.xtdb]]
+
 ### Resources
 
 - [[ar.psu.decision-time-in-temporal-databases]]
@@ -45,3 +55,5 @@ created: 1634620119007
 - https://herdingcats.typepad.com/my_weblog/2006/02/deterministic_v.html
   - has a comment preferring PERT (Project Evaluation and Review Technique) distribution: (Min+4*Mode+Max)/6
 - https://en.wikipedia.org/wiki/Allen%27s_interval_algebra
+- [[ar.bitemporal-data-model-making-it-happened-in-postgres]]
+- [^1]: https://www.dolthub.com/blog/2023-08-07-temporal-database/
