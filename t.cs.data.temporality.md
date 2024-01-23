@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1705951600536
+updated: 1705968373068
 created: 1634620119007
 ---
 
@@ -43,6 +43,7 @@ created: 1634620119007
 
 - '[of [[prdct.MariaDB]] and [[prdct.Postgres]]], MariaDB supports temporal tables in the core product and sticks to the SQL:2011 standard most closely. I would recommend MariaDB for those interested in temporal tables in existing SQL databases.' [^1]
 - [[prdct.sirixdb]] and [[prct.xtdb]]
+- [[prdct.TerminusDB]] and [[prdct.Dolt]]
 
 ### Resources
 

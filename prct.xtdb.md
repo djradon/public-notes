@@ -2,12 +2,13 @@
 id: lq10bixve20i64veu1k5fx0
 title: Xtdb
 desc: 'Bitemporal and dynamic relational database for SQL and Datalog'
-updated: 1705952552456
+updated: 1705967883411
 created: 1705951600818
 ---
 
 - url: https://xtdb.com/
 - repo: https://github.com/xtdb/xtdb
+- similar: [[prdct.xtdb2]]
 
 
 ## References
