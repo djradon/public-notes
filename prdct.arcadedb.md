@@ -2,7 +2,7 @@
 id: l9iuu3zbft8356ka2cbzb00
 title: ArcadeDB
 desc: ''
-updated: 1700693971651
+updated: 1706052234029
 created: 1696481284791
 ---
 
@@ -12,7 +12,7 @@ created: 1696481284791
 - written-in: java 
 - [[p.compatibleWith]] [[prdct.cypher]] [[prdct.tinkerpop]]/[[prdct.gremlin]] [[prdct.redis]] [[prdct.postgres]]
 - [[p.supports]] [[t.cs.gis.geospatial-querying]] [[t.cs.data.vector-embedding]]
-- embed in JVM, so [[p.compatibleWith]] scala#groovy #kotlin #clojure
+- embed in JVM, so [[p.compatibleWith]] scala #groovy #kotlin #clojure
 
 ## Pro
 
