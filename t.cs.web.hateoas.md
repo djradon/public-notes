@@ -2,9 +2,10 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1701617210265
+updated: 1706207901969
 created: 1636171046830
 ---
+
 
 
 - [[c.Resource.List]] https://restfulapi.net/hateoas/
@@ -15,3 +16,12 @@ created: 1636171046830
 
 - [[p.hasCriticism]]
   - https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8
+    - summary: no good server-side frameworks/tools and no good  clients
+
+
+- url: https://parceljs.org/
+
+## Resources
+
+- https://www.kapresoft.com/software/2023/11/09/rest-hateoas-best-practices.html
+- https://www.baeldung.com/spring-hateoas-tutorial
