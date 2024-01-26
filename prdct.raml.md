@@ -2,11 +2,14 @@
 id: d2ma8azlj9p10rvjkfsek9u
 title: RAML
 desc: 'RESTful API Modeling Language is the simplest way to model APIs'
-updated: 1701294236724
+updated: 1706228245284
 created: 1701293697965
 url: https://raml.org/
 type: "[[c.specification.api-description]]"
 ---
+
+- [[c.software.tools.design.api]]
+- related: [[prdct.aml]] [[prdct.amf]]
 
 ## Comparison
 

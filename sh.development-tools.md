@@ -2,7 +2,7 @@
 id: ogx9u7iqv5di6zxawj3g8ga
 title: Development Tools
 desc: ''
-updated: 1706211809747
+updated: 1706228404915
 created: 1706211525414
 ---
 
@@ -12,7 +12,7 @@ created: 1706211525414
 ### API Design
 
 - [[prdct.insomnia]] (cheaper than [[prdct.stoplight]] and [[prdct.bump-sh]] )
-- 
+- [[prdct.raml]] / [[prdct.amf]]
 - [[prdct.asyncapi.studio]]
 
 ### Event Design

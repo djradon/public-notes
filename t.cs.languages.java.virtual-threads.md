@@ -2,9 +2,11 @@
 id: g2oqhue8elf7pcw735vzdzc
 title: Virtual Threads
 desc: ''
-updated: 1704917364364
+updated: 1706217106260
 created: 1700161663502
 ---
+
+- "Virtual threads are suitable for running tasks that spend most of the time blocked, often waiting for I/O operations to complete. However, they aren't intended for long-running CPU-intensive operations."
 
 ## Resources
 
