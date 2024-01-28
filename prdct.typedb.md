@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1705507573391
+updated: 1706305936142
 created: 1643725570180
 ---
 
@@ -49,6 +49,7 @@ created: 1643725570180
 - https://graphsandnetworks.com/typedb-previously-grakn-ai/
 - [[ar.towardsdatascience.an-enterprise-data-stack-using-typedb]]
 - https://blog.vaticle.com/what-is-a-knowledge-graph-5234363bf7f5
+- https://forum.typedb.com/t/rdf-uris-as-attributes-of-all-types/433
 
 ## [[p.hasIssue]]
 

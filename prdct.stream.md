@@ -2,11 +2,12 @@
 id: 0ezt2iis5q0ot900f04psvy
 title: Stream
 desc: 'The #1 Chat API for Custom Messaging Apps.'
-updated: 1700424269888
+updated: 1706246195487
 created: 1700329703210
 ---
 
 - [[c.software.communication-server]]
+- [[c.Software.real_time_framework]]
 
 ## Use Cases
 

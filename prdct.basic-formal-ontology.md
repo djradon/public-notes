@@ -2,10 +2,8 @@
 id: u69ohenrjzegyb4ta4bp07j
 title: Basic Formal Ontology
 desc: >-
-  a small, upper-level, realist ontology that is designed for use in supporting
-  information retrieval, analysis and integration in scientific and other
-  domains
-updated: 1699985196780
+  a small, upper-level, realist, bicategorial ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains
+updated: 1706300778201
 created: 1696610915530
 ---
 
@@ -20,7 +18,7 @@ created: 1696610915530
 
 
 - entity
-  - continuant: exists through time
+  - continuant: exists through time, i.e. "three-dimensionalist"
     - independent continuant: doesn't require a bearer, e.g. 
       - material entity
         - object
@@ -32,7 +30,6 @@ created: 1696610915530
           - fiat point (zero-d)
           - fiat line (1d)
           - fiat surface (2d)
-          - ?fiat volume?
         - spatial region
           - 0d, 1d, 2d, and 3d
     - generically dependent continuant

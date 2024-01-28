@@ -2,13 +2,16 @@
 id: 5uzhou39b61cy865ruo4asn
 title: Gist
 desc: 'minimalist upper ontology for the enterprise'
-updated: 1698704342107
+updated: 1706301165655
 created: 1698264570276
 ---
 
 - [[c.ontology.upper]]
-- homepage https://www.semanticarts.com/gist/
+- url: https://www.semanticarts.com/gist/
 
+## Description
+
+- Gist concepts are not philosophical abstractions with unfamiliar terms such as endurant, perdurant, or qualia; they are everyday concepts with ordinary names such as person, organization and agreement, whose meanings are just what you would expect.
 
 ## Resources
 

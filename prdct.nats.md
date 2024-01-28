@@ -1,8 +1,8 @@
 ---
 id: iypvlwhcbuwo79fm2uayixf
 title: NATS
-desc: 'Neural Autonomic Transport System'
-updated: 1698704342138
+desc: 'core messaging capabilities of NATS include pub-sub, request-reply, and queue groups.'
+updated: 1706243170735
 created: 1678139747758
 ---
 
