@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: ''
-updated: 1706308261094
+updated: 1706460196626
 created: 1633445910705
 ---
 
@@ -16,6 +16,7 @@ created: 1633445910705
 
 -   Philosophy School
 -   Vocabulary and Taxonomy School
+    -   These taxonomies often model a domain as hierarchical structures without defining what a link in the hierarchy actually means. As a result, they often mix sub-component and sub-class hierarchies.
 -   Relational School
 -   Object-Oriented School
 -   Standards School
@@ -37,3 +38,4 @@ Performing Entailment Reasoning over Executable
 Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3293483/
 - https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
+  

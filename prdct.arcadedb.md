@@ -2,7 +2,7 @@
 id: l9iuu3zbft8356ka2cbzb00
 title: ArcadeDB
 desc: 'Multi-Model DB: Graph, Document, Key/Value, Search-Engine, Time-Series, and Vector-Embedding'
-updated: 1706279564029
+updated: 1706554403113
 created: 1696481284791
 ---
 
@@ -12,11 +12,11 @@ created: 1696481284791
 - written-in: java 
 - [[p.compatibleWith]] [[prdct.cypher]] [[prdct.tinkerpop]]/[[prdct.gremlin]] [[prdct.redis]] [[prdct.postgres]]
 - [[p.supports]] [[t.cs.gis.geospatial-querying]] [[t.cs.data.vector-embedding]]
-- embed in JVM, so [[p.compatibleWith]] scala #groovy #kotlin #clojure
+- related: [[prdct.arcade-time-graph]]
 
 ## Pro
 
-- jvm-embeddable!
+- embed in JVM, so [[p.compatibleWith]] scala #groovy #kotlin #clojure
 - ArcadeDB’s document model also adds the concept of a "Relationship" between documents. With ArcadeDB, you can decide whether to embed documents or link to them directly. When you fetch a document, all the links are automatically resolved by ArcadeDB. This is a major difference to other document databases, like MongoDB or CouchDB, where the developer must handle any and all relationships between the documents herself.
 - in the key-value store, it supports documents and graph elements as values
 

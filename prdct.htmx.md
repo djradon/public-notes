@@ -2,7 +2,7 @@
 id: ydbmu5s02n46o73dun4dqle
 title: Htmx
 desc: 'gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext'
-updated: 1705380288627
+updated: 1706549951212
 created: 1699290990780
 related:
   - "[[prdct.alpine_js]]"
@@ -14,6 +14,10 @@ similar:
   - [[prdct.hotwire]]
 ```
 
+
+## Cons
+
+- https://kentondejong.medium.com/sorry-im-not-diggin-htmx-cc28df862910 mentions a bunch of stuff, just being picky I think. 
 
 ## Resources
 
