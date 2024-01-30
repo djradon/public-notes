@@ -2,7 +2,7 @@
 id: yfdmxrwjycaz3db8uswe0b5
 title: Gama
 desc: ''
-updated: 1699151840703
+updated: 1706586375363
 created: 1694708152058
 ---
 
@@ -13,10 +13,14 @@ created: 1694708152058
 - written-in: java
 - [[p.implements]] [[prdct.fipa.acl]]
   - https://gama-platform.org/wiki/UsingFIPAACL
+
 ## #features
 
 - [[prdct.fipa]], see https://gama-platform.org/wiki/1.8.1/UsingFIPAACL
 - supports [[t.cs.agents.bdi]] via [[prdct.gama.ben]]
+- [[prdct.jstor]]
+
+
 ## Thoughts
 
 - seems overly-attached to the UI; 
