@@ -2,7 +2,7 @@
 id: nbxck363lsj67x8fk7jiric
 title: Hydra
 desc: 'design APIs in a way that enables smarter clients'
-updated: 1701572559225
+updated: 1706727805244
 created: 1701294440939
 url: https://www.hydra-cg.com/
 type: 
@@ -21,6 +21,10 @@ Current APIs heavily rely on out-of-band information such as human-readable docu
   - "as long as the consumer is familiar with the vocabulary being used, they can independently determine the meaning of a key-value pair without the need for external documentation."
 
 
+## Solutions
+
+- [[prdct.hydra-java]]
+
 ## Resource
 
 - [Bringing Hypermedia to the Masses](https://www.youtube.com/watch?v=F3Z6qye3LrE&feature=youtu.be)
@@ -28,3 +32,4 @@ Current APIs heavily rely on out-of-band information such as human-readable docu
 ## References
 
 - https://nordicapis.com/hydra-for-hypermedia-apis-benefits-components-and-examples/
+- https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/

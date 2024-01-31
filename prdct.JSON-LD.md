@@ -1,11 +1,12 @@
 ---
-id: Lo9wEWkfCjnG9JrpoFDEU
+id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1702329984509
+updated: 1706727235106
 created: 1636178352439
-similar: [[prdct.yaml-ld]]
+similar: prdct.yaml-ld
 ---
+
 
 - [[p.isComparandOf]] https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
 

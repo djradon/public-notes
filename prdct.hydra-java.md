@@ -2,10 +2,12 @@
 id: wo0j6b7c6awk2gj48r22tcl
 title: hydra-java
 desc: ''
-updated: 1701575073133
+updated: 1706728227146
 created: 1701574575382
 url: https://github.com/dschulten/hydra-java/
 ---
+
+- repo:https://github.com/dschulten/hydra-java
 
 ## The Problem
 
@@ -47,6 +49,10 @@ So I want to add json-ld information to json objects serialized from my Java bea
 Java beans have no knowledge about the meaning of their bean properties and they do not know what they represent in the real world.
 
 In the simplest possible case I want to design my json objects so that they can be understood by others based on schema.org. By simply calling my json transfer class `Person` and letting it have an attribute `name`, I want to get a publicly understandable json object
+
+## Demonstration
+
+- https://www.markus-lanthaler.com/hydra/console/?url=http://www.markus-lanthaler.com/hydra/api-demo/
 
 ## Resources
 
