@@ -8,6 +8,7 @@ updated: 1698252759199
 created: 1696363752606
 ---
 
+
 - [[c.software.game-engine]] [[c.software.entity-component-system]]
 - repo: https://github.com/AmbientRun/Ambient
 - written-in: #rust
@@ -21,3 +22,5 @@ created: 1696363752606
 ## Cons
 
 - Networked components are automatically synchronized to all clients, ensuring a consistent experience across all players; instead of grappling with complex networking intricacies, developers can focus on building their server and client-side logic. ^zumxj8d7vwkb
+
+![[ECS|t.cs.entity-component-system#^h56imtf2ip3n]]

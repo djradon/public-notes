@@ -2,10 +2,11 @@
 id: 6mvw4b8nm76qj9445tlw9jn
 title: Amethyst
 desc: ''
-updated: 1696707221444
+updated: 1706660835662
 created: 1696707000342
 ---
 
+- #dead see https://amethyst.rs/posts/amethyst--starting-fresh
 - [[c.software.game-engine]]
 - url: https://amethyst.rs/
 - repo: 
