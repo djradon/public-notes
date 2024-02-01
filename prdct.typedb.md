@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1706305936142
+updated: 1706733430028
 created: 1643725570180
 ---
 
@@ -72,5 +72,3 @@ created: 1643725570180
 
 - [[ar.medium.vaticle.modelling-time-within-a-strongly-typed-database]]
 
-
-fluree
