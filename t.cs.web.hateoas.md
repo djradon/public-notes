@@ -2,7 +2,7 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1706249087416
+updated: 1706852867057
 created: 1636171046830
 ---
 
@@ -26,3 +26,4 @@ created: 1636171046830
 - https://www.kapresoft.com/software/2023/11/09/rest-hateoas-best-practices.html
 - https://www.baeldung.com/spring-hateoas-tutorial
 - https://news.ycombinator.com/item?id=36944686
+- https://unitcoding.com/implementing-hateoas/ mentions [[prdct.riskfirst_hateoas]]
