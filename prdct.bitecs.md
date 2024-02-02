@@ -2,7 +2,7 @@
 id: qvf6or8j3nxcjz8sci4qwcu
 title: BitECS
 desc: ''
-updated: 1698262670395
+updated: 1706893690384
 created: 1672342730647
 ---
 
@@ -27,6 +27,10 @@ created: 1672342730647
 ❤ Made with love 	
 🔺 glMatrix support
 
+## Interesting
+
+- "bitECS has no built-in concept of systems. We frequently refer the functions invoked during the game loop as “systems”, but there is no formal construct."
+
 ## [[c.faq]]
 
 - Is there a string type for components?
@@ -37,5 +41,5 @@ created: 1672342730647
 ### Learning Resource
 
 - https://github.com/ourcade/phaser3-bitecs-getting-started
-
+- https://www.youtube.com/playlist?list=PLNwtXgWIx3rhz72-UxKLdCDdqFsnwNc_u
 
