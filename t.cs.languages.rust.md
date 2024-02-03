@@ -4,7 +4,7 @@ title: Rust
 desc: |-
   language empowering everyone
   to build reliable and efficient software
-updated: 1698252759344
+updated: 1706814076117
 created: 1638132337360
 ---
 
@@ -27,3 +27,4 @@ created: 1638132337360
 ## Resources
 
 - [[ar.rustconf-talk]] goes into detail about why to design a game with [[c.software.entity-component-system]]
+- 

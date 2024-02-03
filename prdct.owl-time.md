@@ -2,7 +2,7 @@
 id: acxwjynzcfhybxyoe56el4i
 title: Owl Time
 desc: 'ontology of temporal concepts, providing a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information'
-updated: 1706739507242
+updated: 1706765902273
 created: 1701453829509
 url: https://www.w3.org/TR/owl-time/
 related: 
@@ -13,6 +13,8 @@ related:
 
 - "A set of ordered intervals (e.g. named dynasties, geological periods, geomagnetic reversals, tree rings) can make a simple form of temporal reference system that supports logical reasoning, known as an ordinal temporal reference system [iso19108]." 
 - Four classes in the ontology support an explicit description of temporal position. `[:TemporalPosition](https://www.w3.org/TR/owl-time/#time:nominalPosition#time:TemporalPosition)` is the common super-class, with a property `[:hasTRS](https://www.w3.org/TR/owl-time/#time:nominalPosition#time:hasTRS)` to indicate the temporal reference system in use. `[:TimePosition](https://www.w3.org/TR/owl-time/#time:nominalPosition#time:TimePosition)` has properties to alternatively describe the position using a number (i.e. a temporal coordinate), or a nominal value (e.g. geologic time period, dynastic name, archeological era)
+- [[prdct.vocab-owl-time-agg]]'s temporal aggregate seems like it could capture 
+
 
 ### Topological Temporal Relations
 
