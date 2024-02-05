@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1700889563987
+updated: 1707149802297
 created: 1688397077910
 ---
 
@@ -24,6 +24,11 @@ created: 1688397077910
 - #f-sharp or any functional language
 
 ## Features
+
+-   **Client**: The Dapr client allows you to invoke Dapr building block APIs and perform each building block’s actions
+-   **Server extensions**: The Dapr service extensions allow you to create services that can be invoked by other services and subscribe to topics
+-   **Actor**: The Dapr Actor SDK allows you to build virtual actors with methods, state, timers, and persistent reminders
+-   **Workflow**: Dapr Workflow makes it easy for you to write long running business logic and integrations in a reliable way
 
 ### State Store (Hot Data)
 

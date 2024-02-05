@@ -2,7 +2,7 @@
 id: cg73kyz46jl5mkp6ulq5raw
 title: Arch
 desc: 'C# based Archetype Entity Component System'
-updated: 1706899639456
+updated: 1707154058537
 created: 1680566146922
 ---
 
@@ -21,6 +21,7 @@ created: 1680566146922
 ## Demos
 
 - https://github.com/genaray/Arch/wiki/Projects-using-Arch
+- https://github.com/Doprez/stride-arch-ecs
 
 ## [](https://github.com/genaray/Arch#space-station-14)[Space Station 14](https://spacestation14.io/)
 

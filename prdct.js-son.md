@@ -2,7 +2,7 @@
 id: 0eutdl2f3fv209my6t8egj9
 title: JS-son
 desc: Light-weight reasoning-loop agent library for JavaScript
-updated: 1698101944260
+updated: 1707141568135
 created: 1671517516905
 ---
 
@@ -14,7 +14,7 @@ created: 1671517516905
 - [[p.hasApplication]] web apps, [[Jupyter notebooks|prdct.jupyter]], grid worlds, and serverless (Function-as-a-Service) environments.
 - [[p.hasRoadmapFeature]] 
   - [Integration with WoT Scripting API](https://github.com/TimKam/JS-son/issues/99)
-    - [[p.hasRelatedSolution]] [[prdct.wot-scripting-api]]
+    - [[p.hasRelatedSolution]] [[prdct.wot-scripting-api]] [[prdct.thingweb]]
 
 ## [[p.hasRelatedTopic]]
 
