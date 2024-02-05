@@ -7,6 +7,9 @@ created: 1680909338629
 ---
 
 ![](/assets/images/2023-10-06-14-20-41.png)
+- related: [[t.cs.sd.architecture.choreography]]
+  - but they're not opposites; it's kinda a false distinction. if systems determine their behavior based on messages, and the messages are "do this by then", you're getting orchestrated
+
 
 ## Implementations
 
