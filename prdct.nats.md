@@ -1,10 +1,13 @@
 ---
 id: iypvlwhcbuwo79fm2uayixf
 title: NATS
-desc: 'core messaging capabilities of NATS include pub-sub, request-reply, and queue groups.'
+desc: >-
+  core messaging capabilities of NATS include pub-sub, request-reply, and queue
+  groups.
 updated: 1706243170735
 created: 1678139747758
 ---
+
 
 - [[c.software.message-bus]]
 - url: https://nats.io/

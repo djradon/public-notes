@@ -26,4 +26,26 @@ This idea - that time intervals are the more general case and time instants are 
 
 The class `[:Interval](https://www.w3.org/TR/owl-time/#topology#time:Interval)` has one subclass `[:ProperInterval](https://www.w3.org/TR/owl-time/#topology#time:ProperInterval)`, which corresponds with the common understanding of intervals, in that the beginning and end are distinct, and whose membership is therefore disjoint from `[:Instant](https://www.w3.org/TR/owl-time/#topology#time:Instant)`.'
 
-##  
+##  Issues
+
+### what are OWL-Time's notorious ambiguity problems
+
+@chatgpt.4: 
+
+OWL-Time, part of the Semantic Web technology stack, is an ontology for describing the temporal content of web pages and the temporal properties of web services. It's designed to facilitate the use of time and temporal relations in RDF (Resource Description Framework) and OWL (Web Ontology Language) applications. However, like many complex ontologies, OWL-Time has its share of ambiguity issues, which can cause problems in its implementation and interpretation. Some of these issues include:
+
+    Granularity and Precision: OWL-Time can represent time at various granularities, from years down to seconds or finer. However, ambiguities can arise when different parts of a system or dataset use different granularities or when there's a need to convert or compare times across different granularities. The precision of time representation can also be a source of ambiguity, especially in historical data or future projections.
+
+    Time Zones and Localization: Time zone handling is a complex aspect of time representation. OWL-Time does not inherently resolve issues related to time zones, daylight saving time, or localization. This can lead to ambiguities when interpreting the exact moment an event occurred, especially in systems that are distributed across multiple time zones.
+
+    Temporal Relations: OWL-Time defines a range of temporal relations (such as before, after, during, overlaps), but the interpretation of these relations can be ambiguous without clear context. For example, determining whether an event "during" another means it encompasses the entire duration of the other event or just a part of it can be unclear.
+
+    Open vs. Closed Intervals: In OWL-Time, an interval can be defined with start and end times. However, there can be ambiguity about whether these intervals are open (excluding the start and end points) or closed (including them). This distinction can be crucial in some applications.
+
+    Temporal Reference Systems: OWL-Time allows for the definition of various temporal reference systems (like Gregorian calendar, Julian days, etc.). However, ambiguities can arise when converting or comparing dates across different systems, or when systems have different ways of handling leap years, leap seconds, etc.
+
+    Vagueness in Temporal Descriptions: Natural language descriptions of time are often vague (e.g., "in the morning," "soon," "recently"). Representing these concepts in a structured format like OWL-Time can be challenging and lead to ambiguities in interpretation.
+
+    Integration with Non-temporal Data: Combining temporal data with non-temporal data can sometimes lead to ambiguities, especially when the temporal aspects are not explicitly defined or are defined using different standards or formats.
+
+Addressing these ambiguities often requires additional context, clear definitions of terms, and sometimes custom extensions or interpretations of the OWL-Time ontology to fit specific use cases. In many practical applications, it's crucial to document how these ambiguities are resolved to ensure consistent understanding and processing of temporal data.
