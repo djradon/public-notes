@@ -100,7 +100,8 @@ For broad-phase spatial queries an application could leverage runtime tags (if t
 - [[ar.medium.ajmmertens.why-it-is-time-to-start-thinking-of-games-as-databases]]
   - mentions: 
   - also https://ajmmertens.medium.com/a-roadmap-to-entity-relationships-5b1d11ebb4eb
-
+- https://www.reddit.com/r/gamedev/comments/nb093f/netcode_ecs_data_organization/
+sh
 ### [[c.resource.list]]
 
 - https://github.com/Chillu1/CSharpECSComparison

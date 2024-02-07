@@ -23,7 +23,8 @@ similar:
 
 - https://blog.yusu.ke/hono-htmx-cloudflare/
 - https://www.reddit.com/r/htmx/comments/16rp3kj/is_it_really_worth_transitioning_from_react_to/
-- - https://www.kodaps.dev/en/blog/htmx-anti-javascript-framework
+- https://www.kodaps.dev/en/blog/htmx-anti-javascript-framework
+- https://medium.com/@hhartleyjs/making-a-dashboard-with-htmx-go-50820d7ddedb (go)
 
 ## References
 

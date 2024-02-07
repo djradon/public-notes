@@ -7,5 +7,6 @@ created: 1706564384242
 ---
 
 - url: https://deepstream.io/
+- written_in: typescript
 - supports: javascript java
 - 
