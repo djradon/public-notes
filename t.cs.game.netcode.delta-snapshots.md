@@ -28,4 +28,6 @@ created: 1707282935772
     - thought: 
       - snapshotting < events;
       - clients are going to have to be "dumb" in the sense that they don't have the data/assets built in. almost everything gets computed on the server side
-      - 
+      - using deltas is useful with [[t.cs.distributed.crdt]], 
+
+      - see [[t.cs.graph]]

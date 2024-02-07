@@ -38,6 +38,7 @@ created: 1637591669334
 
 ## Cons
 
+- as of early 2024, no c# support for web platform
 - does not support exception handling https://heroiclabs.com/docs/nakama/client-libraries/godot/ 
 - @hendrik-mans: "I love that Godot exists, but I hate it so much
 It is what it is, and if you take it as just that, it's alright, but as soon as you look at the terrible source code or otherwise interact with the project or the people in it, it gets so painful.
@@ -51,6 +52,10 @@ No, it's not, literally every engine supports it (by internally scaling collider
 etc. etc. etc.
 It really is a terrible terrible terrible piece of software and the only chance one has at maybe enjoying it is to just think of fluffy little kittens every time you encounter something that's broken or bad. But do not, I repeat, do NOT engage with the project."
   - https://discord.com/channels/844566064281026600/850335072242237470/1175129150068109367
+
+## Resources
+
+- https://github.com/abmarnie/godot-architecture-organization-advice
 
 ## References
 
