@@ -2,7 +2,7 @@
 id: 1j7zJamy6xne6ZZ6Y2PnK
 title: Svelto.ECS
 desc: ''
-updated: 1707088996781
+updated: 1707366751056
 created: 1638152420551
 ---
 
@@ -18,6 +18,15 @@ created: 1638152420551
   - https://www.sebaslab.com/ecs-abstraction-layers-and-modules-encapsulation/
 
 
+## Interesting
+
+- In Gamecraft, all the game logic is written with Svelto.ECS, but the physic is simulated with the DOTS ECS physic library with all the performance benefits that come with it.
+
 ## Cons
 
 - The main difference compared to any other Archetype-based model is that Svelto Archetypes are static, meaning that users cannot add or remove components at runtime.
+- components must be structs, and they cannot hold reference type of any kind. Or you cannot dynamically add or remove component from any entity at runtime. (It means the form/design of an entity is static/immutable.)
+
+## Resources
+
+- 
