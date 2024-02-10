@@ -4,7 +4,7 @@ title: Third Room
 desc: >-
   open, standards-based, decentralised vision of the metaverse for the open Web,
   built entirely on Matrix
-updated: 1697986701504
+updated: 1707497422177
 created: 1672343537168
 ---
 
@@ -14,7 +14,7 @@ created: 1672343537168
 - url: https://thirdroom.io/
 - repo: https://github.com/matrix-org/thirdroom
 
-- written-in: #c #typescript
+- written-in: #c typescript
 - [[p.builtOn]] [[prdct.matrix]]
 - [[p.builtWith]] [[prdct.bitecs]] [[prdct.three-js]]
 - [[p.supports]] [[prdct.gltf]] [[prdct.unity]]

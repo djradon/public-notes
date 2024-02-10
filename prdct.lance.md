@@ -2,12 +2,11 @@
 id: MxwN9srHx8EzbxLOrlKD3
 title: Lance
 desc: real-time multiplayer game server
-updated: 1654124724168
+updated: 1707503539302
 created: 1642898091504
 ---
 
-
-
+- no commits since 2022
 - "Lance is being maintained but no longer actively developed"
   - [[p.hasSource]] https://giters.com/lance-gg/lance/issues/141
 - "real-time" but can it do turn-based?

@@ -2,12 +2,12 @@
 id: 5gkWIkO7lJNBc9YE7jo9Q
 title: AgentFramework
 desc: Undocumented TypeScript metaprogramming API to build software agents
-updated: 1696347173629
+updated: 1707497422142
 created: 1637766820918
 ---
 
 - [[p.hasRepository]] https://github.com/agentframework/agentframework
-- written-in: #typescript
+- written-in: typescript
 - [[p.hasApplication]] [[t.cs.metaprogramming]] [[t.cs.simulation]]
 
 ### Concepts

@@ -2,13 +2,13 @@
 id: ot391hp3ufqvsaaixdcssaz
 title: Motion Canvas
 desc: 'Visualize Your Ideas With Code'
-updated: 1698262670468
+updated: 1707497422165
 created: 1698087161289
 ---
 
 - url: https://motioncanvas.io/
 - repo: https://github.com/motion-canvas/motion-canvas
-- #writtenIn #typescript
+- #writtenIn typescript
   
 ## Features
 

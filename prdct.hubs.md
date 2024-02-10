@@ -2,7 +2,7 @@
 id: nkq30qqbvmvzshw0ecuxv4v
 title: Hubs
 desc: 'open source virtual world platform'
-updated: 1706893211137
+updated: 1707497422156
 created: 1649974346874
 ---
 
@@ -13,5 +13,5 @@ created: 1649974346874
 - [[p.publishedBy]] [[org.mozilla]]
 - [[p.supportedBy]] [[prdct.spoke]]
 
-- written-in: javascript #typescript
+- written-in: javascript typescript
 - [[p.builtOn]] [[prdct.a-frame]] [[prdct.janus]] [[prdct.reticulum]]

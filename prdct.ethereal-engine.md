@@ -2,7 +2,7 @@
 id: 63kf9de9lbduuose19qiasc
 title: Ethereal Engine
 desc: ''
-updated: 1698262670417
+updated: 1707497422150
 created: 1672314344300
 ---
 
@@ -10,7 +10,7 @@ created: 1672314344300
 - url: https://www.etherealengine.org/
 - repo: https://github.com/XRFoundation/XREngine-Control-Center#readme
 - #license [[lic.cpal]] - source modifications must be published, attribution must be prominent
-- written-in: #typescript 
+- written-in: typescript 
 - [[p.hadDependancy]] [[prdct.mediasoup]]
 - [[p.basedOn]] [[prdct.bitecs]]
   
