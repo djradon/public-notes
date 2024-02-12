@@ -2,18 +2,18 @@
 id: x13bm4xhdrln614wamciszm
 title: Proto.Actor
 desc: ''
-updated: 1700152756135
+updated: 1707691629030
 created: 1693696915552
 ---
 
-- [[c.software.actor-framework]]
+- [[c.software.distributed-systems-runtime]] [[c.software.actor-framework]]
 - url: https://proto.actor
-- [[c.software.distributed-systems-runtime]]
-- [[p.similarTo]] [[prdct.orleans]]
+- [[p.similarTo]] [[prdct.orleans]] [[prdct.akka-net]] 
 - [[c.implementation]]
   -  https://github.com/asynkron/protoactor-go #go 
   -  https://github.com/asynkron/protoactor-dotnet c#
   -  https://github.com/asynkron/protoactor-kotlin #kotlin
+- uses: gRPC with protobuf
 
 ## Features
 
