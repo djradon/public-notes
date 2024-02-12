@@ -2,7 +2,7 @@
 id: exxdl5e1tjctca2adjhzxmo
 title: Elsa
 desc: 'open source .NET Standard workflows library that lets you define workflows as C#, visual designer, or json'
-updated: 1707699148994
+updated: 1707722488365
 created: 1680579451412
 ---
 
@@ -18,7 +18,7 @@ created: 1680579451412
 -   Built-in activities for common scenarios, such as sending emails, making HTTP calls, scheduling tasks, sending and receiving messages, and more.
 -   Workflow versioning and migration via API.
 -   Easy integration with external applications via HTTP, message queues, and more.
--   Actor model for increased workflow throughput. (used [[prdct.proto-actor]])
+-   Actor model for increased workflow throughput. (used [[Proto.Actor|prdct.proto-actor]])
 -   Dynamic expressions with support for C#, JavaScript, Python, and Liquid.
 -   Alterations API: Modify existing workflow instances at runtime.
 -   activities can schedule other activities
