@@ -11,6 +11,7 @@ created: 1680579451412
 
 ## Features
 
+- multi-tenancy coming in 3.1?
 -   Support for both short-running and long-running workflows.
 -   A web-based drag & drop designer with support for custom activities.
 -   Native support for activity composition, including activities like `Sequence`, `Flowchart`, and `ForEach`.
@@ -31,6 +32,10 @@ created: 1680579451412
 - The designer is not yet fully embeddable in other applications; this feature is planned for a future release.
 - The designer currently only supports Flowchart activities. Support for Sequence and StateMachine activities is planned for a future release.
 - UI input validation is not yet implemented.
+
+## Tips
+
+-  you might be able to achieve [per-user execute permission] by setting up a Policy from Program.cs that has a set of Requirements that the inbound principal needs to meet. From the HTTP endpoint activity, you then tock the "Authorize" checkboz and then provide the name of the Policy to evaluate.
 
 ## Resources
 
