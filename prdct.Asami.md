@@ -6,8 +6,7 @@ updated: 1638127452118
 created: 1636380102275
 ---
 
-
-
+- dead
 - [[p.hasRepository]] https://github.com/threatgrid/asami
 - [[p.hasComponent]] [[prdct.loom]]
 - [[p.instanceOf]] [[t.cs.data.DBMS.graph]]

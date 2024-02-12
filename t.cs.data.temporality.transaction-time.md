@@ -6,7 +6,7 @@ updated: 1638192886561
 created: 1638163352138
 ---
 
-
+- different_from: [[t.cs.data.temporality.valid-time]]
 
 - sometimes transaction time is a single point (instant): creation
 - sometimes transaction time is a range (interval): from creation until update (valid-in-database) time

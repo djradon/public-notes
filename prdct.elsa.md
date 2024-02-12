@@ -36,6 +36,8 @@ created: 1680579451412
 ## Tips
 
 -  you might be able to achieve [per-user execute permission] by setting up a Policy from Program.cs that has a set of Requirements that the inbound principal needs to meet. From the HTTP endpoint activity, you then tock the "Authorize" checkboz and then provide the name of the Policy to evaluate.
+-  Short-running Workflows can be useful to implement a business rules engine, while long-running workflows greatly simplify the implementation of complex processes that involve coordinating between multiple agents (users & machines).
+-  [How to Dynamically Create Workflows in Elsa Using C#? · elsa-workflows/elsa-core · Discussion #4425 · GitHub](https://github.com/elsa-workflows/elsa-core/discussions/4425) suggests checking out BlobStorageWorkflowProvider and ClrWorkflowProvider
 
 ## Resources
 

@@ -6,7 +6,11 @@ updated: 1701194003890
 created: 1690521141111
 ---
 
+## Comparisons
 
+## vs [[prdct.bpmn]]
+
+- 
 
 ## Resources
 

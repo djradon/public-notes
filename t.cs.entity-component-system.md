@@ -83,6 +83,11 @@ One approach that works well for narrow-phase spatial queries in combination wit
 
 For broad-phase spatial queries an application could leverage runtime tags (if the ECS supports it) where a tag corresponds with a cell in a spatial grid. Combined with queries that match the tag, an application can quickly discard large groups of entities that are not in a certain area."
 
+### Scripting
+
+- https://www.reddit.com/r/gameenginedevs/comments/13dd4k9/scripts_in_ecs/ : "create a special script component and then a system to process these script components."
+
+
 ## Resources
 
 - https://github.com/SanderMertens/ecs-faq #cool

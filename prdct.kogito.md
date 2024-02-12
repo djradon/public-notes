@@ -10,6 +10,10 @@ created: 1690517419193
 - repo: https://github.com/kiegroup/kogito-runtimes
 - url: https://kogito.kie.org/
 
+## Features
+
+- ability to use the Java-based declaration of a rule unit to automatically map it with the signature of a REST endpoint
+
 ## [[c.solution.related]]
 
 - [[prdct.drools]]
