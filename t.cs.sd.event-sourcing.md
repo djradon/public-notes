@@ -4,7 +4,7 @@ title: Event Sourcing
 desc: >-
   a different way of persisting data where data changes are stored (and read?)
   as domain events
-updated: 1701453273242
+updated: 1707844992929
 created: 1658585055608
 ---
 
@@ -51,3 +51,4 @@ created: 1658585055608
 - [[ar.event-driven.projections-and-read-models-in-event-driven-architecture]]
 - https://github.com/oskardudycz/EventSourcing.NodeJS
 - https://stackoverflow.com/questions/67356709/event-sourcing-and-domain-event
+- https://stackoverflow.com/questions/71083541/event-sourcing-vs-event-driven-architecture-difference
