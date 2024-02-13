@@ -2,7 +2,7 @@
 id: appi20z9mr8h9pcwdx8fad5
 title: Structurizr Vs D2 vs Ilograph
 desc: ''
-updated: 1706108550140
+updated: 1707774552758
 created: 1686203518678
 ---
 
@@ -19,6 +19,7 @@ created: 1686203518678
   - animation
   - Using D2, you can create diagrams that declare shapes, connections, containers, and special objects. You can also make more customizations via programming that covers strings, comments, and overrides.
   - flowcharts, state diagrams, and entity-relationship diagrams
+- [[prdct.ilograph]]
 
 
 ## [[p.begsQuestion]]

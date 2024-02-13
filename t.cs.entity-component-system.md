@@ -85,7 +85,10 @@ For broad-phase spatial queries an application could leverage runtime tags (if t
 
 ### Scripting
 
-- https://www.reddit.com/r/gameenginedevs/comments/13dd4k9/scripts_in_ecs/ : "create a special script component and then a system to process these script components."
+- https://www.reddit.com/r/gameenginedevs/comments/13dd4k9/scripts_in_ecs/ has two suggestions, moved toward #2: 
+  - "create a special script component and then a system to process these script components."
+  - "store a reference to the script (function pointer in the example, but could be a function name or id if the script is something like Lua) in components and then have that components system call the script."
+    - scripts get queued and my scripting engine is decoupled from the ECS.
 
 
 ## Resources
