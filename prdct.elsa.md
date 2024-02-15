@@ -2,12 +2,13 @@
 id: exxdl5e1tjctca2adjhzxmo
 title: Elsa
 desc: 'open source .NET Standard workflows library that lets you define workflows as C#, visual designer, or json'
-updated: 1707722488365
+updated: 1707855938338
 created: 1680579451412
 ---
 
 - [[c.software.workflow]] [[c.software.business-process-management]]
 - repo: https://github.com/elsa-workflows/elsa-core
+- different_from: [[prdct.elsa-speak]]
 
 ## Features
 
