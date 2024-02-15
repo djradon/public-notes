@@ -2,7 +2,7 @@
 id: e3472xdc0i3144yqep7qwp6
 title: Rebus
 desc: 'Simple and lean service bus implementation for .NET '
-updated: 1707851953369
+updated: 1708032381284
 created: 1707692299145
 ---
 
