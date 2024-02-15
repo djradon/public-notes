@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   runtime-flexible, highly compatible, safe, and easily composable approach to
   software
-updated: 1700521875289
+updated: 1708037425741
 created: 1637846686838
 ---
 
@@ -110,7 +110,9 @@ For broad-phase spatial queries an application could leverage runtime tags (if t
   - also https://ajmmertens.medium.com/a-roadmap-to-entity-relationships-5b1d11ebb4eb
 - https://www.reddit.com/r/gamedev/comments/nb093f/netcode_ecs_data_organization/
 sh
+- https://moonside.games/posts/archetypal-ecs-considered-harmful/ 
+- https://www.reddit.com/r/gameenginedevs/comments/1abdisc/practices_for_managing_systems_order_in_ecs/ has some interesting suggested for ordering systems runs
+
 ### [[c.resource.list]]
 
 - https://github.com/Chillu1/CSharpECSComparison
-- 

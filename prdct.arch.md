@@ -2,7 +2,7 @@
 id: cg73kyz46jl5mkp6ulq5raw
 title: Arch
 desc: 'C# based Archetype Entity Component System'
-updated: 1707154058537
+updated: 1708033422657
 created: 1680566146922
 ---
 
@@ -12,7 +12,7 @@ created: 1680566146922
 
 ## Features
 
-- supports persistens (to json and binary) and relationships
+- supports persistence (to json and binary) and relationships
 
 ## Comparison
 

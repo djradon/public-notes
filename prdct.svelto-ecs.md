@@ -6,6 +6,7 @@ updated: 1707366751056
 created: 1638152420551
 ---
 
+
 - [[c.software.entity-component-system]]
 - written-in: [[t.cs.languages.c-sharp]]
 - [[p.hasRepository]] https://github.com/sebas77/Svelto.ECS
@@ -24,7 +25,7 @@ created: 1638152420551
 
 ## Cons
 
-- The main difference compared to any other Archetype-based model is that Svelto Archetypes are static, meaning that users cannot add or remove components at runtime.
+- The main difference compared to any other Archetype-b
 - components must be structs, and they cannot hold reference type of any kind. Or you cannot dynamically add or remove component from any entity at runtime. (It means the form/design of an entity is static/immutable.)
 
 ## Resources
