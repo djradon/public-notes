@@ -21,7 +21,7 @@ created: 1688397077910
 
 ## [[p.hasNoSupportFor]]
 
-- #f-sharp or any functional language
+- [[t.cs.languages.f-sharp]] or any functional language
 
 ## Features
 

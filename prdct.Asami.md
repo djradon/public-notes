@@ -1,12 +1,13 @@
 ---
 id: g4GbScDY7ILBGQSegwsyx
 title: Asami
-desc: ''
-updated: 1638127452118
+desc: 'A graph store for Clojure and ClojureScript'
+updated: 1708539802977
 created: 1636380102275
 ---
 
 - dead
+- similar: [[prdct.datomic]]
 - [[p.hasRepository]] https://github.com/threatgrid/asami
 - [[p.hasComponent]] [[prdct.loom]]
 - [[p.instanceOf]] [[t.cs.data.DBMS.graph]]
@@ -19,3 +20,7 @@ created: 1636380102275
   - Integrated with Loom: Asami graphs are valid Loom graphs, via Asami-Loom.
   - [[Open World Assumption|t.cs.web.w3c.rdf.open-world-assumption]]: Related to being schema-less, Asami borrows semantics from RDF to lean towards an open world model.
   - Pluggable Storage: Like Datomic, storage in Asami can be implemented in multiple ways. There are currently 2 in-memory graph systems, and durable storage available on the JVM
+
+## References
+
+- https://www.linkedin.com/pulse/how-i-query-rdf-clojure-using-asami-adrian-medina/

@@ -2,7 +2,7 @@
 id: 65ka8brej3il1d91ztcmlyc
 title: Entitas
 desc: ''
-updated: 1707366529960
+updated: 1708536148321
 created: 1697570695355
 ---
 
@@ -19,7 +19,7 @@ created: 1697570695355
 
     C#
     C++
-    Clojure
+    Clojure !
     Crystal
     Erlang
     F#
@@ -37,3 +37,4 @@ created: 1697570695355
 ## Resources
 
 - https://mzaks.medium.com/let-s-talk-about-relationships-in-entitas-csharp-2aee8efda8b6 deals with how to cleanup entities
+- https://github.com/sschmid/Entitas/wiki/How-I-build-games-with-Entitas-%28FNGGames%29
