@@ -2,7 +2,7 @@
 id: 3l710Sn5WoQzzm9K4TkeK
 title: Clojure
 desc: 'lisp for the jvm, separating identity and state'
-updated: 1708494217640
+updated: 1708540813722
 created: 1636380175236
 ---
 
@@ -17,3 +17,4 @@ created: 1636380175236
 - https://calva.io/get-started-with-clojure/ #excellent
   - mentions 
     - [ ] [[prdct.rich4clojure]]
+- [[prdct.aristotle]] - Jena wrapper
