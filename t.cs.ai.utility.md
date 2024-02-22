@@ -2,11 +2,20 @@
 id: w69f188b5jo2k7h1n0euttj
 title: Utility AI
 desc: ''
-updated: 1681690732517
+updated: 1708633290853
 created: 1680906854583
 ---
 
 - #aka Infinite Axis Utility System
+
+## Interesting
+
+- "Utility AI can be used as a Behavior Tree and implement the exact same branch structure as the Behavior Tree above - if desired."
+
+## Solutions
+
+- [[prdct.apex-utility-ai]] dead
+- [[prdct.infinite-axis-utility-system]]
 
 
 ## Resources

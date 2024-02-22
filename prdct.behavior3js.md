@@ -2,7 +2,7 @@
 id: gko6we92fda6pk4oa8ypcw3
 title: Behavior3JS
 desc: ''
-updated: 1708630634714
+updated: 1708631109397
 created: 1708630548108
 ---
 
@@ -24,3 +24,8 @@ created: 1708630548108
 -   **Completely free**, the core module and the visual editor are all published under the MIT License, which means that you can use them for your open source and commercial projects;
     
 -   **Lightweight**!
+-   
+
+## References
+
+- https://www.reddit.com/r/gamedev/comments/2ki2uv/just_released_my_library_for_behavior_trees_in/ (also has some tips)
