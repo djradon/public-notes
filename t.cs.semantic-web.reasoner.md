@@ -2,7 +2,7 @@
 id: stdy7h7as46ehxupm66538k
 title: Reasoner
 desc: ''
-updated: 1698706449311
+updated: 1708713855214
 created: 1698706449311
 ---
 
@@ -19,3 +19,20 @@ created: 1698706449311
 -   [NRules](https://github.com/NRules/NRules) a forward-chaining inference-based rules engine implemented in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "C Sharp (programming language)") which uses an enhanced implementation of the [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm "Rete algorithm")
 -   [Prova](https://en.wikipedia.org/wiki/Prova "Prova"), a semantic-web rule engine which supports data integration via SPARQL queries and type systems (RDFS, OWL ontologies as type system).
 -   [DIP](https://github.com/kodymoodley/defeasibleinferenceplatform), Defeasible-Inference Platform (DIP) is an [Web Ontology Language](https://en.wikipedia.org/wiki/Web_Ontology_Language "Web Ontology Language") reasoner and [Protégé](https://en.wikipedia.org/wiki/Prot%C3%A9g%C3%A9_(software) "Protégé (software)") desktop plugin for representing and reasoning with defeasible subsumption.<sup id="cite_ref-3" class="reference"><a href="https://en.wikipedia.org/wiki/Semantic_reasoner#cite_note-3">[3]</a></sup> It implements a [Preferential entailment](https://en.wikipedia.org/wiki/Preferential_entailment "Preferential entailment") style of reasoning that reduces to "classical entailment" i.e., without the need to modify the underlying decision procedure.
+
+### from awesome-ontology
+
+-   [CEL](https://julianmendez.github.io/cel/) - A lightweight Description Logic (EL+) reasoner for large-scale biomedical ontologies. (Common Lisp+Java)
+-   [ELK](https://github.com/liveontologies/elk-reasoner) - An ontology reasoner that aims to support the OWL 2 EL profile. (Java)
+-   [EYE](https://github.com/josd/eye) - A reasoning engine which performs semibackward chaining and supports Euler paths. (Prolog)
+-   [FaCT++](http://owl.man.ac.uk/factplusplus/) - The new generation of the well-known [FaCT](http://www.cs.man.ac.uk/~horrocks/FaCT) OWL-DL reasoner which uses optimised tableaux algorithms. (C++)
+-   [Flora-2 (Ergo Lite)](http://flora.sourceforge.net/) - A F-logic based reasoning system. (Prolog)
+-   [HyLAR](https://github.com/ucbl/HyLAR-Reasoner) - A rule-based incremental reasoner for the Web. (JavaScript)
+-   [jcel](https://github.com/julianmendez/jcel) - A reasoner for the description logic EL+. (Java)
+-   [Openllet](https://github.com/Galigator/openllet) - An OWL DL reasoner build on top of Pellet 2. (Java)
+-   [OWL-RL](https://github.com/RDFLib/OWL-RL) - A simple implementation of the OWL2 RL Profile, as well as a basic RDFS inference, on top of RDFLib. (Python)
+-   [pyfactxx](https://github.com/tilde-lab/pyfactxx) - Python bindings for upgraded FaCT reasoner and RDFLib integration. (Python/C++)
+-   [Racer](https://www.ifis.uni-luebeck.de/~moeller/racer/) - A knowledge representation system that implements a highly optimized tableau calculus for the description logic SRIQ(D). (Common Lisp+Java)
+-   [Whelk](https://github.com/balhoff/whelk) - A Scala OWL reasoner based on the algorithm implemented in ELK, using immutable data structures.
+
+## References
