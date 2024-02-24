@@ -2,7 +2,7 @@
 id: 8d4ujanl4ezw65rraanim0z
 title: Tbox Vs Abox vs MBox
 desc: 'Terminological Box is concerned with taxonomy and structure, vs Assertion Box '
-updated: 1708714639166
+updated: 1708715390483
 created: 1708713849213
 ---
 
@@ -14,7 +14,7 @@ created: 1708713849213
 
 ### @chatgpt.4
 
-- "not as standardized or widely used as the TBox and ABox"
+- MBox "not `a`s standardized or widely used as the TBox and ABox"
 - The MBox can be understood as a component that deals with the instances of models or theories defined in the TBox. It’s not about specific real-world instances (like the ABox), but rather about instances of the models or theories themselves.
 - It might involve scenarios, simulations, or hypothetical instances that are derived from the TBox but are not necessarily concrete or real-world facts like those in the ABox. The MBox can be used for testing hypotheses, running simulations, or exploring theoretical scenarios within the framework defined by the TBox.
 - In some interpretations, the MBox might also deal with meta-modeling or the representation of models about models. This can be important in more complex or layered semantic systems where you have models that are built on top of other models.

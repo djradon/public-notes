@@ -2,7 +2,7 @@
 id: 5izi3fbls7d833qc45ozeaq
 title: AsyncAPI
 desc: ''
-updated: 1699199448853
+updated: 1708721030427
 created: 1673569081430
 ---
 
@@ -42,7 +42,7 @@ created: 1673569081430
   - includes [[prdct.nats]]
 - https://blog.postman.com/asyncapi-joins-forces-with-postman-future-of-apis/
 - https://www.asyncapi.com/blog/designing_your_apis_with_asyncapi_part_1
-- [](https://github.com/jonaslagoni/asyncapi-miniseries/blob/master/docs/Part%201%20-%20Designing%20the%20API's.md)
+- [ ] [asyncapi-miniseries](https://github.com/jonaslagoni/asyncapi-miniseries/blob/master/docs/Part%201%20-%20Designing%20the%20API's.md)
   - "I always start with the basics and define all the different channels for which the game server should produce events over."
   - mentions: Nic Townsend's post about [Demystifying the Semantics of Publish and Subscribe](https://www.asyncapi.com/blog/publish-subscribe-semantics).
 - https://icepanel.medium.com/asyncapi-for-event-driven-architectures-b08d6ee952fc
@@ -51,6 +51,7 @@ created: 1673569081430
 
     publish means publish an event to the channel and this application will receive it
     subscribe means subscribe to this channel to receive events published by this application"
+- https://www.asyncapi.com/blog/understanding-asyncapis
 
 ### c#
 
