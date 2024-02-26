@@ -2,7 +2,7 @@
 id: x2tvx8dxd0gwfgkoweegl5t
 title: Modelling Time within a Strongly Typed Database
 desc: ''
-updated: 1700517762224
+updated: 1708900903604
 created: 1697478474599
 ---
 
@@ -21,6 +21,5 @@ created: 1697478474599
     Insert items in a list incrementally, as shown above; in this case, I would match out the index of the current record, add 1 to it (in the client) and insert it in the new list item."
 
 ## Text
-
 
 

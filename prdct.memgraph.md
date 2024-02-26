@@ -1,8 +1,8 @@
 ---
 id: jeumrc1h3tqz6w187z16v55
 title: Memgraph
-desc: ''
-updated: 1698252759282
+desc: 'Drop-in replacement for Neo4j while eliminating Neo4j complexity'
+updated: 1708908975938
 created: 1696481811073
 ---
 
@@ -11,6 +11,7 @@ created: 1696481811073
 - repo: https://github.com/memgraph/memgraph
 - [[p.compatibleWith]] [[prdct.neo4j]]
 - written-in: #c++
+- supports: [[prdct.Cypher]]
 
 ## Features
 

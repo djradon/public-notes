@@ -2,12 +2,13 @@
 id: lp8ql4tbrcura7w0ojt4k55
 title: Arangodb
 desc: ''
-updated: 1706049709982
+updated: 1708753781999
 created: 1696480873297
 ---
 
 - [[c.software.database.multi-model]]
 - written-in: #c++ javascript
+
 
 ## Resources
 

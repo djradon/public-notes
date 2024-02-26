@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1706733430028
+updated: 1708755864708
 created: 1643725570180
 ---
 
@@ -50,6 +50,9 @@ created: 1643725570180
 - [[ar.towardsdatascience.an-enterprise-data-stack-using-typedb]]
 - https://blog.vaticle.com/what-is-a-knowledge-graph-5234363bf7f5
 - https://forum.typedb.com/t/rdf-uris-as-attributes-of-all-types/433
+
+- https://medium.com/vaticle/modelling-data-with-hypergraphs-edff1e12edf0
+  - mentions [Knowledge Graph Representation: TypeDB or OWL?](https://medium.com/vaticle/knowledge-graph-representation-grakn-ai-or-owl-506065bd3f24)
 
 ## [[p.hasIssue]]
 

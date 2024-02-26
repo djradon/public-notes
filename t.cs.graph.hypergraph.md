@@ -2,7 +2,7 @@
 id: cqtllme7cw60cs9vh18yb2s
 title: Hypergraph
 desc: ''
-updated: 1698262518382
+updated: 1708755771180
 created: 1652767633550
 ---
 
@@ -23,6 +23,8 @@ created: 1652767633550
 
 - https://www.angioi.com/visualizing-hypergraphs-networkx/
   - "edges should really be Python frozensets, so that a collection of them can also be a set, and the node set should also be a frozenset or a set"
+- [[prdct.typedb]]
+- 
 
 ## Thoughts
 
@@ -45,6 +47,7 @@ created: 1652767633550
 - https://gitlab.com/graphviz/graphviz/-/issues/1911 talks about visualization, has this cool thing: ![](/assets/images/2023-07-01-07-06-16.png)
 - https://medium.com/@lee.papa/a-brief-history-of-the-hypergraph-1d8f79fd72e5
   - mentions: [[t.cs.blockchain.constellation]]
+- https://medium.com/vaticle/knowledge-graph-representation-grakn-ai-or-owl-506065bd3f24
 
 ## References
 
