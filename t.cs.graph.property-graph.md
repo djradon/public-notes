@@ -2,15 +2,20 @@
 id: TIehWkHNVWQJk4RFT5EBX
 title: Property Graph
 desc: ''
-updated: 1699049254831
+updated: 1708974290895
 created: 1638293019662
 ---
 
 
 
 
+
 - [[p.hasSpecification]] [[prdct.ngsi-ld]]
 - [[p.hasVariant]] [[t.km.knowledge-graph.lpg]]
+
+## Tips
+
+- "What should be a Property... Any data element that isn’t frequently used to access the graph directly, has no internal object complexity/multiplicity, and/or needs to always return with the rest of the data in the node is a good candidate for a Property."
 
 ## vs [[prdct.rdf]]
 
@@ -41,4 +46,7 @@ created: 1638293019662
 - [[ar.postgresql-oracle-graph-query-language-standards-adoption-green]]
 - [Graph databases don't provide a significant advantage over well-architected relational DBs for most use cases](https://www.linkedin.com/pulse/graph-relational-enemies-alastair-green/?trackingId=5xrQz85vQRaoTnQv%2BO3bPA%3D%3D)
 - https://www.researchgate.net/publication/342956606_Linked_Data_for_Smart_Homes_Comparing_RDF_and_Labeled_Property_Graphs
+- https://bigbear.ai/blog/property-graphs-is-it-a-node-a-relationship-or-a-property/
 
+
+- [!] http://www.loa.istc.cnr.it/old/Papers/D18.pdf

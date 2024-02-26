@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: ''
-updated: 1708625401440
+updated: 1708973103898
 created: 1633445910705
 ---
 
@@ -52,4 +52,5 @@ Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
 - https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
 - [Ontology Development 101: A Guide to Creating Your
 First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology101.pdf)
+
 - 
