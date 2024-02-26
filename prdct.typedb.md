@@ -4,22 +4,21 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1708755864708
+updated: 1708970381796
 created: 1643725570180
 ---
 
-
-- 
 - [[c.software.database.graph]] 
 - [[p.alsoKnownAs]] grakn
 - [[p.ownedBy]] [[org.vaticle]]
 - [[p.hasRepository]] https://github.com/vaticle/typedb
-- [[p.hasRelatedSolution]] [[prdct.typeql]]
+- [[p.hasRelatedSolution]] [[prdct.typeql]] [[prdct.blitz-orm]]
 - written-in: java
 - [[p.builtOn]] 
   - [[prdct.rocksdb]]
   - [[prdct.grpc]]
     - [[p.hasSource]] https://docs.vaticle.com/docs/client-api/new-client
+  - [[prdct.janusgraph]] (https://graphsandnetworks.com/typedb-previously-grakn-ai/)
 
 ## [[p.hasConcept]]
 

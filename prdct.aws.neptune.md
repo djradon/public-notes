@@ -2,7 +2,7 @@
 id: 93na9m3z6iacq7tshsj8sss
 title: Neptune
 desc: ''
-updated: 1707848233169
+updated: 1708969666263
 created: 1707846582494
 ---
 
@@ -14,5 +14,6 @@ created: 1707846582494
 ## Cons
 
 - not cheap
+- can't use SPARQL/RDF and Gremlin/Property graph at the same time
 
 ## Resources
