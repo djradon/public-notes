@@ -2,7 +2,7 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1706727235106
+updated: 1708981318842
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
@@ -55,5 +55,6 @@ These practices help in creating a well-structured, understandable, and semantic
 - https://www.baeldung.com/json-linked-data
   - mentions: [[prdct.hydra]]
 
-References:
+## References:
 - https://www.w3.org/TR/json-ld
+- https://json-ld.org/contexts/dollar-convenience.jsonld

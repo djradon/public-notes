@@ -24,3 +24,5 @@ created: 1680906854583
 - https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through #video
 - https://www.reddit.com/r/gameai/comments/cnxzt9/best_approach_to_implementdesign_response_curves/
 - https://www.gamedeveloper.com/programming/are-behavior-trees-a-thing-of-the-past-
+
+Behavior
