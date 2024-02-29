@@ -2,7 +2,7 @@
 id: f33o5k09ibm1yybd1s62a7g
 title: Dapr
 desc: 'portable, event-driven, runtime for building distributed applications'
-updated: 1707845604682
+updated: 1709058775503
 created: 1688397077910
 ---
 
@@ -10,6 +10,7 @@ created: 1688397077910
 - url: https://dapr.io
 - repo: https://github.com/dapr
 - [[c.documentation]] https://docs.dapr.io
+- alternatives: 
 
 ## [[p.supports]]
 

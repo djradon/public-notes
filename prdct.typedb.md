@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1708970381796
+updated: 1709056606992
 created: 1643725570180
 ---
 
@@ -19,6 +19,7 @@ created: 1643725570180
   - [[prdct.grpc]]
     - [[p.hasSource]] https://docs.vaticle.com/docs/client-api/new-client
   - [[prdct.janusgraph]] (https://graphsandnetworks.com/typedb-previously-grakn-ai/)
+  - [[prdct.speedb]]
 
 ## [[p.hasConcept]]
 
@@ -44,7 +45,7 @@ created: 1643725570180
 ## Resources
 
 - https://victormorgante.medium.com/query-generation-for-typedb-67c7b4a88ee2
-  - "TypeDB approaches the database market conceptualised as both a database and a rules-based knowledge graph combined as one. Operating over a key/value store the database encompasses the same sort of architecture used by FactEngine to effectively turn any compatible database into a natural language/hypergraph database."
+  - "TypeDB approaches the database market conceptualised as both a database and a rules-based knowledge graph combined as one. Operating over a key/value store the database encompasses the same sort of architecture used by FactEngine to effectively turn any compatible database into a natural language/
 - https://graphsandnetworks.com/typedb-previously-grakn-ai/
 - [[ar.towardsdatascience.an-enterprise-data-stack-using-typedb]]
 - https://blog.vaticle.com/what-is-a-knowledge-graph-5234363bf7f5

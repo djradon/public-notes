@@ -2,11 +2,9 @@
 id: 7fXkqdJWZAjrmGRiEUI0Y
 title: Dolt
 desc: 'DBMS that supports clone, branch, and merge.'
-updated: 1705968492555
+updated: 1709143791333
 created: 1635693337681
 ---
-
-
 
 - [[p.instanceOf]] [[t.cs.data.DBMS]]
 - [[p.compatibleWith]] [[prdct.mysql]]

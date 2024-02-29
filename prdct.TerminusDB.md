@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1708468375718
+updated: 1709150294845
 created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
@@ -14,10 +14,12 @@ author: "@kevin-feeny"
 
 - repo: https://github.com/terminusdb/terminusdb
 - written_in: prolog
-- [[p.builtWith]] [[prdct.rdf]]
+- [[p.builtWith]] [[prdct.rdf]] but evolved into a document graph db
 - [[p.similarTo]]
   - [[prdct.typedb]]
   - [[prdct.fluree]]
+- related: [[prdct.dfrnt]]
+- supports: [[prdct.graphql]]
 
 ## Features
 
@@ -30,6 +32,18 @@ author: "@kevin-feeny"
 -   Client-side the queries are created using fluent JS (for web devs) and/or Ruby (for data scientists)
 -   Provides transaction processing and updates using immutable database data structures
 -   Through this immutability the db regains full ACID support
+-   
+
+## Issues
+
+- doesn't export JSON-LD
+- WOQL need rework
+  - temporal not fully supported in query
+    - "TerminusDB has valid time as data in the database, and system or transaction time as a data in a commit graph.
+The commit graph keeps track of the time at which facts are known, creates a structure called a "commit" and connects it to the parent commit.
+This allows us to do things like present object change histories which are based on the transaction/system time of a change.
+Our query language works on the commit graph (both WOQL and GraphQL) and the database itself so its possible to look at these two time dimensions independently.
+We also have APIs to expose object history etc. and we hope to include these in our query language so that you can easily ask temporal questions. At the minute the temporal questions usually are somewhat simple that we are able to ask (when did this object change, what was its change history) etc. rather than the complete bitemporal query which is theoretically possible."
 
 ## Resources
 

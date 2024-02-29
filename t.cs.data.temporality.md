@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1705968373068
+updated: 1709159023936
 created: 1634620119007
 ---
 
@@ -58,3 +58,4 @@ created: 1634620119007
 - https://en.wikipedia.org/wiki/Allen%27s_interval_algebra
 - [[ar.bitemporal-data-model-making-it-happened-in-postgres]]
 - [^1]: https://www.dolthub.com/blog/2023-08-07-temporal-database/
+- https://blog.podsnap.com/bitemp.html
