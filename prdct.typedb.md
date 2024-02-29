@@ -4,11 +4,11 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1709056606992
+updated: 1709233927476
 created: 1643725570180
 ---
 
-- [[c.software.database.graph]] 
+- [[c.software.database.graph]] [[c.Software.Database.graph.hypergraph]]
 - [[p.alsoKnownAs]] grakn
 - [[p.ownedBy]] [[org.vaticle]]
 - [[p.hasRepository]] https://github.com/vaticle/typedb
@@ -42,17 +42,6 @@ created: 1643725570180
 - When inserting instances of a relation, it is not necessary to define all of its role players. But this represents an incomplete information state, such as a marriage in which only one of the spouses is known.
 - 
 
-## Resources
-
-- https://victormorgante.medium.com/query-generation-for-typedb-67c7b4a88ee2
-  - "TypeDB approaches the database market conceptualised as both a database and a rules-based knowledge graph combined as one. Operating over a key/value store the database encompasses the same sort of architecture used by FactEngine to effectively turn any compatible database into a natural language/
-- https://graphsandnetworks.com/typedb-previously-grakn-ai/
-- [[ar.towardsdatascience.an-enterprise-data-stack-using-typedb]]
-- https://blog.vaticle.com/what-is-a-knowledge-graph-5234363bf7f5
-- https://forum.typedb.com/t/rdf-uris-as-attributes-of-all-types/433
-
-- https://medium.com/vaticle/modelling-data-with-hypergraphs-edff1e12edf0
-  - mentions [Knowledge Graph Representation: TypeDB or OWL?](https://medium.com/vaticle/knowledge-graph-representation-grakn-ai-or-owl-506065bd3f24)
 
 ## [[p.hasIssue]]
 
@@ -70,8 +59,23 @@ created: 1643725570180
   - concrete
   - /proper/common/abstract/collective
   - relations should be "abstract nouns" or "transitive verbs that can accept 2 or more argument"
+- no equivalanet of blank node (no open world), but you could do "entity with no URI is unspecified"
 
 ### Temporal Modelling
 
 - [[ar.medium.vaticle.modelling-time-within-a-strongly-typed-database]]
+
+
+## Resources
+
+- https://victormorgante.medium.com/query-generation-for-typedb-67c7b4a88ee2
+  - "TypeDB approaches the database market conceptualised as both a database and a rules-based knowledge graph combined as one. Operating over a key/value store the database encompasses the same sort of architecture used by FactEngine to effectively turn any compatible database into a natural language/
+- https://graphsandnetworks.com/typedb-previously-grakn-ai/
+- [[ar.towardsdatascience.an-enterprise-data-stack-using-typedb]]
+- https://blog.vaticle.com/what-is-a-knowledge-graph-5234363bf7f5
+- https://forum.typedb.com/t/rdf-uris-as-attributes-of-all-types/433
+
+- https://medium.com/vaticle/modelling-data-with-hypergraphs-edff1e12edf0
+  - mentions [Knowledge Graph Representation: TypeDB or OWL?](https://medium.com/vaticle/knowledge-graph-representation-grakn-ai-or-owl-506065bd3f24)
+- [Comparing Semantic Web Technologies to TypeDB](https://www.youtube.com/watch?v=LFgV7sCnOrE)
 

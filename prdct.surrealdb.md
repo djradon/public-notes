@@ -2,7 +2,7 @@
 id: p9dycdhtvdicli85iw40s7p
 title: SurrealDB
 desc: 'scalable, distributed, collaborative, document-graph database, for the realtime web'
-updated: 1709152832685
+updated: 1709228953893
 created: 1689630910814
 ---
 
@@ -19,11 +19,11 @@ created: 1689630910814
   - Offer referential integrity.
   - Allow you to store data alongside the relationship.
 - [[prdct.geojson]] geometries
-- seems to take care of ORM/OGM mapping natively?
+- seems to take care of ORM/OGM mapping natively? https://docs.surrealdb.com/docs/integration/sdks/dotnet/
 
 ## References
 
 - https://github.com/Laragear/Surreal/blob/master/README.md
 - [In Search of an Efficient Data Structure
 for a Temporal-Graph Database](https://surrealdb.com/static/whitepaper.pdf)
-- 
+- https://surrealdb.com/blog/unlocking-streaming-data-magic-with-surrealdb-live-queries-and-change-feeds
