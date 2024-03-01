@@ -2,9 +2,14 @@
 id: he7txfcps60aecssfpwu0o2
 title: Hotwire
 desc: 'Hotwire is a conceptual umbrella that unifies Turbo 64 (formerly Turbolinks, dating back to 2012) and Stimulus 51 (from 2018) with a set of conventions which can be used with any server-side framework.'
-updated: 1704265171635
+updated: 1709255794914
 created: 1704264307637
 ---
+
+- url: https://hotwired.dev/
+- related: [[prdct.stimulus]]
+- similar: [[prdct.htmx]]
+- 
 
 ## Description
 
@@ -12,7 +17,7 @@ created: 1704264307637
 
 ## Comparisons
 
-### [[prdct.htmx]]
+### vs [[prdct.htmx]]
 
 - https://discuss.hotwired.dev/t/hotwire-vs-htmx-comparison/1614
   - 

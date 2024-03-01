@@ -2,7 +2,7 @@
 id: g2oqhue8elf7pcw735vzdzc
 title: Virtual Threads
 desc: ''
-updated: 1706410618626
+updated: 1709256792429
 created: 1700161663502
 ---
 
@@ -11,6 +11,10 @@ created: 1700161663502
 - "If your application frequently performs heavy computation for very long durations, then virtual threads may be a bad fit to begin with because your system may easily become overcommitted by orders of magnitude."
 - "If you're using SQLite or RocksDB, think carefully before adopting virtual threads."
 - "We have had a quick glimpse at using virtual threads with Groovy and [[prdct.gpars]]"
+
+## Solutions
+
+- [[prdct.helidon]] is the first Java microservices framework based on virtual threads.
 
 ## Comparisons
 

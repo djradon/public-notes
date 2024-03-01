@@ -2,7 +2,7 @@
 id: sc9eqyn549lgihbdol3mmkn
 title: Kotlin
 desc: ''
-updated: 1699292177963
+updated: 1709256567626
 created: 1698186020714
 ---
 
@@ -25,4 +25,5 @@ created: 1698186020714
 
 ## References
 
-[^1]: https://spring.io/blog/2022/10/11/embracing-virtual-threads
+- [^1]: https://spring.io/blog/2022/10/11/embracing-virtual-threads
+- https://itnext.io/kotlin-coroutines-vs-java-virtual-threads-a-good-story-but-just-that-91038c7d21eb
