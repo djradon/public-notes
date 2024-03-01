@@ -2,7 +2,7 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1708981318842
+updated: 1709251497698
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
@@ -21,6 +21,9 @@ similar: prdct.yaml-ld
 - Each of the JSON-LD keywords, except for @context, may be aliased to application-specific keywords.
 
 ## Best Practices
+
+- https://stackoverflow.com/questions/42398060/json-ld-to-normal-json
+- http://niem.github.io/json/reference/json-ld/context/ discuss context, expansions, and contractions
 
 ### @chatgpt.4
 

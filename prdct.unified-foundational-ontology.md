@@ -2,12 +2,17 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1698268407267
+updated: 1709245121990
 created: 1698268407267
 ---
 
 - [[c.ontology.upper]]
 - url: https://nemo.inf.ufes.br/en/projetos/ufo/
+- similar: [[prdct.unified-foundational-ontology.gentle]]
+
+## Issues
+
+- no OWL?
 
 ## Composition
 

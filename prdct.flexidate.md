@@ -2,10 +2,12 @@
 id: yxgh259gz0fol64qiiho2oo
 title: Flexidate
 desc: 'python library supporting date parsing and normalization'
-updated: 1703097997822
+updated: 1709252294029
 created: 1703096227612
 note_traits: referring_note
 ---
+
+- repo: https://github.com/datopian/flexidate
 
 ## Features
 

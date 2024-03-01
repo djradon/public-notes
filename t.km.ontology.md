@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: ''
-updated: 1708973103898
+updated: 1709251690174
 created: 1633445910705
 ---
 
@@ -48,9 +48,10 @@ created: 1633445910705
 - [OntoJIT: Exploiting CLR Compiler Support for
 Performing Entailment Reasoning over Executable
 Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3293483/
 - https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
 - [Ontology Development 101: A Guide to Creating Your
 First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology101.pdf)
 
-- 
+### Resource List
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3293483/
