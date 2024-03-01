@@ -3,12 +3,12 @@ id: u69ohenrjzegyb4ta4bp07j
 title: Basic Formal Ontology
 desc: >-
   a small, upper-level, realist, bicategorial ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains
-updated: 1706300778201
+updated: 1709316749798
 created: 1696610915530
 ---
 
 - [[c.ontology.upper]]
-- url: https://basic-formal-ontology.org/
+- url: https://basic-formal-ontology.org/ https://raw.githubusercontent.com/BFO-ontology/BFO/master/bfo.owl
 - repo: https://github.com/bfo-ontology/BFO/
 - #docs https://github.com/bfo-ontology/BFO/wiki
 - #similar [[prdct.gist]]

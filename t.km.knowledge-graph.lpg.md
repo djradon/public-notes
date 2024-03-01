@@ -2,11 +2,11 @@
 id: JxDLfPHdGwWEUfJFdgOkR
 title: Labelled Property Graph
 desc: ''
-updated: 1638667921621
+updated: 1709317189848
 created: 1638654053180
 ---
 
-
+- "LPGs shine brightest in these limited scenarios where edge properties and path discovery are paramount."
 
 - [[c.resource]] https://medium.com/neo4j/graph-modeling-labels-71775ff7d121
   - a label in Neo4j is just a “set membership marker”

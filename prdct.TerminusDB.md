@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1709150294845
+updated: 1709323192331
 created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
@@ -19,7 +19,10 @@ author: "@kevin-feeny"
   - [[prdct.typedb]]
   - [[prdct.fluree]]
 - related: [[prdct.dfrnt]]
-- supports: [[prdct.graphql]]
+- supports: [[prdct.graphql]] [[prdct.woql]]
+- client_support: 
+  - javascript: TerminusDB JavaScript client library can be used either as a Node.js package or as a script that runs in the browser.
+  - python
 
 ## Features
 

@@ -2,7 +2,7 @@
 id: p9dycdhtvdicli85iw40s7p
 title: SurrealDB
 desc: 'scalable, distributed, collaborative, document-graph database, for the realtime web'
-updated: 1709228953893
+updated: 1709319122297
 created: 1689630910814
 ---
 
@@ -20,6 +20,10 @@ created: 1689630910814
   - Allow you to store data alongside the relationship.
 - [[prdct.geojson]] geometries
 - seems to take care of ORM/OGM mapping natively? https://docs.surrealdb.com/docs/integration/sdks/dotnet/
+
+## Issues
+
+- no RDF support
 
 ## References
 
