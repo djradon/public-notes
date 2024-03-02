@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1709323192331
+updated: 1709324260444
 created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
@@ -39,7 +39,7 @@ author: "@kevin-feeny"
 
 ## Issues
 
-- doesn't export JSON-LD
+- maybe doesn't export JSON-LD but https://github.com/dfrnt-com/tuscli might work
 - WOQL need rework
   - temporal not fully supported in query
     - "TerminusDB has valid time as data in the database, and system or transaction time as a data in a commit graph.
