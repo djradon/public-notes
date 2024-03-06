@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1709233927476
+updated: 1709684294902
 created: 1643725570180
 ---
 
@@ -78,4 +78,6 @@ created: 1643725570180
 - https://medium.com/vaticle/modelling-data-with-hypergraphs-edff1e12edf0
   - mentions [Knowledge Graph Representation: TypeDB or OWL?](https://medium.com/vaticle/knowledge-graph-representation-grakn-ai-or-owl-506065bd3f24)
 - [Comparing Semantic Web Technologies to TypeDB](https://www.youtube.com/watch?v=LFgV7sCnOrE)
-
+- [[ar.medium.vaticle.modelling-time-within-a-strongly-typed-database]]
+- [How do actors enable and elegant and scalable reasoning engine](https://www.youtube.com/watch?v=fQ1faqMFq9E)
+- 

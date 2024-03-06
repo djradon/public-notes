@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1709324260444
+updated: 1709620344664
 created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
@@ -35,7 +35,7 @@ author: "@kevin-feeny"
 -   Client-side the queries are created using fluent JS (for web devs) and/or Ruby (for data scientists)
 -   Provides transaction processing and updates using immutable database data structures
 -   Through this immutability the db regains full ACID support
--   
+-   "TerminusDB can read RDF files with little difficulty. However, to get the value of TerminusDB you really need a schema. So first stop is really trying to figure out what we might need to massage about the RDF to get it into an easily schemable form."
 
 ## Issues
 

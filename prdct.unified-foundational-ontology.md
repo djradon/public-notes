@@ -2,14 +2,17 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1709245121990
+updated: 1709681200092
 created: 1698268407267
 ---
 
 - [[c.ontology.upper]]
 - url: https://nemo.inf.ufes.br/en/projetos/ufo/
-- similar: [[prdct.unified-foundational-ontology.gentle]]
-
+- similar: [[prdct.unified-foundational-ontology.gentle]] [[prdct.sumo]]
+- related: [[prdct.ontouml]]
+- repo: https://github.com/unibz-core/ufo-formalization
+- docs: [[ar.a-first-order-logic-formalization-of-the-unified-foundational-ontology]]
+ 
 ## Issues
 
 - no OWL?
