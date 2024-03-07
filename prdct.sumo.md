@@ -1,13 +1,13 @@
 ---
 id: r7wmmwwaws15llja6y5ng7h
 title: Sumo
-desc: ''
-updated: 1709682929082
+desc: 'Suggested Upper Merged Ontology, with Physical (spatiotemporal) and Abstract'
+updated: 1709790283426
 created: 1708625059084
 ---
 
 - [[c.ontology.upper]]
-- repo: 
+- url: https://raw.githubusercontent.com/abrahaj/SUMO.owl/master/SUMO.owl
 - similar: [[prdct.milo]]
 
 ## Implementations
@@ -36,6 +36,14 @@ created: 1708625059084
 ### OWL
 
 - "a logical language with a simplistic upper ontology"
+
+## Conceptual Model
+
+![](/assets/images/2024-03-06-21-42-31.png)
+
+![](/assets/images/2024-03-06-21-42-47.png)
+
+![](/assets/images/2024-03-06-21-43-01.png)
 
 ## Resources
 

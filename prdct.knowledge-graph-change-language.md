@@ -1,8 +1,8 @@
 ---
 id: sktquzpw97fsdj9uz6giz73
 title: Knowledge Graph Change Language
-desc: ''
-updated: 1696741583633
+desc: 'A data model for describing change operations at a high level on an ontology or ontology-like artefact, such as a Knowledge Graph.'
+updated: 1709761225888
 created: 1696741342401
 ---
 

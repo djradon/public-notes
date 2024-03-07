@@ -1,10 +1,15 @@
 ---
 id: 8efvodo7q0cpl7lteme6nib
 title: OntoClean
-desc: 'a methodology for analyzing ontologies based on formal, domain-independent properties of classes'
-updated: 1709752845186
+desc: >-
+  a methodology for analyzing ontologies based on formal, domain-independent
+  properties of classes
+updated: 1709762337293
 created: 1709752671754
 ---
+
+- ![[ar.dynamic-is-a-hierarchy-generation-for-user-centric-semantic-web#^7ofuzzdqjs9x]]
+
 
 ## Highlights
 
@@ -13,3 +18,5 @@ created: 1709752671754
 ## References
 
 - https://en.wikipedia.org/wiki/OntoClean
+
+rigidity" ^7ofuzzdqjs9x

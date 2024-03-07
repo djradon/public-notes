@@ -1,8 +1,8 @@
 ---
 id: uhagejfd79c8isushtaciux
 title: LinkML
-desc: ' '
-updated: 1698262670457
+desc: 'general purpose modeling language that can be used with linked data, JSON, and other formalisms'
+updated: 1709760270448
 created: 1696739554441
 ---
 
@@ -23,3 +23,4 @@ created: 1696739554441
 - [[c.resource.learning]] 
   - https://linkml.io/linkml/intro/tutorial.html
   - https://github.com/linkml/linkml-tutorial
+- https://github.com/w3c/wot-thing-description/blob/egekorkan-patch-3/toolchain/tool-analysis.md
