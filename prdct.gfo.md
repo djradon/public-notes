@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1710286486303
+updated: 1710286582188
 created: 1709751631541
 ---
 
@@ -78,12 +78,11 @@ presentic and global attributives."
   - Presentic processual attributives are associated with process boundaries; they must be wholly accessible at time points. The isolated presentic data of process boundaries do not need any reference to a process; they can be completely reduced to object qualities. These are typical qualities of objects that participate in the process. An example of a non-isolated presentic attributive of a process is the velocity of a moving body at a time point (even if it is zero, e.g. as an initial velocity). The velocity cannot be determined and specified without a temporally extended process
   - "The global attributives of processes present the richest class of attributives of processes. A systematic classification of these attributives is in its initial stage. Their main feature is that it is not meaningful to specify or refer to them at a process boundary. One type of global attributives is abstracted from time se- ries in the form of diagrams (such as curve diagrams). Examples are electro-cardiograms and long-term blood pressure measurements"
   - " Additionally, we emphasize that intrinsic global attributives of processes are themselves processes, called attributive processes. A clear separation between an attributive process and a corresponding bearer-process needs further investigation and clarification. A water wave, for ex- ample, can be considered as an attributive process that occurs on the basic process of local movements of water particles. This basic process is the bearer of the wave"
-  - " Finally for processual attributives, many
-other global attributives of a process are not derived from time series. Examples are the duration of a
-process and its occupied space. Physics provides many examples of this kind, for example the average
-velocity of a moving body. Further investigation of the global attributives of processes should take the
-distinction between intrinsic and extrinsic attributives into account."
-
+  - " Finally for processual attributives, many other global attributives of a process are not derived from time series. Examples are the duration of a process and its occupied space. Physics provides many examples of this kind, for example the average velocity of a moving body. Further investigation of the global attributives of processes should take the distinction between intrinsic and extrinsic attributives into account."
+- "There are further kinds of attributives, including relators, roles, functions, and dispositions, which are more abstract than phenomenal attributives; they cannot be directly perceived or measured. GFO adopts the general understanding of a role where 
+  -  a role individual is defined
+as a relational entity that links any entity, called the role player (or filler), with some context, in which the
+entity plays that role
 
 ## References
 
