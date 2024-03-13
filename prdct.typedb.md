@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1709684294902
+updated: 1710364786782
 created: 1643725570180
 ---
 
@@ -60,10 +60,13 @@ created: 1643725570180
   - /proper/common/abstract/collective
   - relations should be "abstract nouns" or "transitive verbs that can accept 2 or more argument"
 - no equivalanet of blank node (no open world), but you could do "entity with no URI is unspecified"
+- "GRAKN.AI uses “hypergraphs” instead of vanilla digraphs to model their knowledge, although under the hood, they map these hypergraphs to digraphs before persisting to whatever vendor DB using Apache TinkerPop."
+  - https://discuss.dgraph.io/t/hypergraphql-query-language/2123
 
 ### Temporal Modelling
 
 - [[ar.medium.vaticle.modelling-time-within-a-strongly-typed-database]]
+- t.2024.01.15: "expressions don't have datetime computation functionality yet" 
 
 
 ## Resources
@@ -80,4 +83,5 @@ created: 1643725570180
 - [Comparing Semantic Web Technologies to TypeDB](https://www.youtube.com/watch?v=LFgV7sCnOrE)
 - [[ar.medium.vaticle.modelling-time-within-a-strongly-typed-database]]
 - [How do actors enable and elegant and scalable reasoning engine](https://www.youtube.com/watch?v=fQ1faqMFq9E)
-- 
+- https://typedb.com/blog/inference-in-typedb
+- https://typedb.com/blog/modeling-collections-in-databases-relational-sql-vs-typedb 

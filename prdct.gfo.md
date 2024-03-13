@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1710286582188
+updated: 1710290754863
 created: 1709751631541
 ---
 
@@ -80,9 +80,23 @@ presentic and global attributives."
   - " Additionally, we emphasize that intrinsic global attributives of processes are themselves processes, called attributive processes. A clear separation between an attributive process and a corresponding bearer-process needs further investigation and clarification. A water wave, for ex- ample, can be considered as an attributive process that occurs on the basic process of local movements of water particles. This basic process is the bearer of the wave"
   - " Finally for processual attributives, many other global attributives of a process are not derived from time series. Examples are the duration of a process and its occupied space. Physics provides many examples of this kind, for example the average velocity of a moving body. Further investigation of the global attributives of processes should take the distinction between intrinsic and extrinsic attributives into account."
 - "There are further kinds of attributives, including relators, roles, functions, and dispositions, which are more abstract than phenomenal attributives; they cannot be directly perceived or measured. GFO adopts the general understanding of a role where 
-  -  a role individual is defined
-as a relational entity that links any entity, called the role player (or filler), with some context, in which the
-entity plays that role
+  -  a role individual is defined as a relational entity that links any entity, called the role player (or filler), with some context, in which the entity plays that role
+  -  The notion of role is essential for a broad spectrum of modeling areas, one of which supported by GFO is functional modeling. Its objective is to depict a domain in teleological / functional terms, as contrasted with other aspects, such as structural or behavioral ones.
+  -   The notion of function is built upon that of role: we introduce a function as a category that captures a role played by some entity in the context of a goal achievement (GA), where the GA provides a teleological specification of transitioning to something that is intended to be achieved.
+- interfacing between attributives and knowledge occurs through the transformation from facts to propositions, and thus, in general, from data to knowledge. 
+  - This transformation from a fact (being a part of reality) to a proposition is the (mysterious) pivot of the mind’s ability to transcend the sense-data to achieve a meta-level view on the world. This is an extraordinary ability of the human mind.
+
+## Formalization in FOL
+
+- the integration law for objects and processes in GFO: For every material object there exists a uniquely determined process, the temporal extension of which equals the lifetime of the material object, and at every time point of that lifetime of the object the presential exhibited by the object is likewise the process boundary of that associated process (at the very same time point).
+
+### Integration Axiom
+
+- For every material object there exists a uniquely determined process, the temporal extension of which equals the lifetime of the material object, and at every time point of that lifetime of the object the presential exhibited by the object is likewise the process boundary of that associated process (at the very same time point).
+  -  In 4D ontologies, there are only processes, while material objects are considered as particular processes.
+  -  In 4D ontologies,
+there are only processes, while material objects are considered as particular processes.
+  - 
 
 ## References
 

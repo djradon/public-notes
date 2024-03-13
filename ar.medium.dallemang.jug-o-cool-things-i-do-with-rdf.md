@@ -2,10 +2,12 @@
 id: gu6a4qobidfto2v8ousdzrd
 title: Jug O Cool Things I Do with Rdf
 desc: ''
-updated: 1702320092797
+updated: 1710348344692
 created: 1701801362814
 url: https://medium.com/@dallemang/jug-o-cool-things-i-do-with-rdf-3cdb5b059192
 ---
+
+- written_by: @dean-allemang
 
 ## Highlights
 
