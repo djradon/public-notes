@@ -8,4 +8,4 @@ updated: 1687982811431
 created: 1668883868621
 ---
 
-- [[p.wrote]] [[ar.the-atlantic.as-we-may-think]]
+- [[p.wrote]] [[ar.atlantic.as-we-may-think]]

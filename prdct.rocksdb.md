@@ -1,8 +1,8 @@
 ---
 id: A5pdqvUh7UZDHakBliNSb
 title: RocksDB
-desc: ''
-updated: 1696269809578
+desc: 'embeddable persistent key-value store for fast storage.'
+updated: 1710443212223
 created: 1643726405790
 ---
 

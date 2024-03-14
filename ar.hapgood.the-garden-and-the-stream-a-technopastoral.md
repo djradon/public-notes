@@ -13,7 +13,7 @@ created: 1633213395984
 - [[p.isRelated]] 
   - [[The Garden and the Stream|idea.the-garden-and-the-stream]]
   - [[video.the-garden-and-the-stream-a-technopastoral]]
-- [[p.references]] [[ar.the-atlantic.as-we-may-think]]
+- [[p.references]] [[ar.atlantic.as-we-may-think]]
 
 ## [[p.hasHighlight]]
 
