@@ -2,7 +2,7 @@
 id: S4f5S0VDSYldAutlv7iZT
 title: Architecture
 desc: 'providing vision and structure to software development'
-updated: 1707775854956
+updated: 1710479184076
 created: 1644704531426
 ---
 
@@ -35,3 +35,4 @@ created: 1644704531426
 ## References
 
 - [[book.software-architecture-for-developers]]
+- https://chickensoft.games/blog/game-architecture/

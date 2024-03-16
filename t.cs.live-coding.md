@@ -2,11 +2,12 @@
 id: 0cmmu3btey4le65aq4pjepe
 title: Live Coding
 desc: ''
-updated: 1699296840144
+updated: 1710478032452
 created: 1699295615826
 ---
 
 - aka: on-the-fly programming, just in time programming, conversational programming
+- different_from: [[t.cs.sd.interactive-programming]]
 
 ## Representation and manipulation of time
 

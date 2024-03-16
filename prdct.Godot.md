@@ -2,7 +2,7 @@
 id: BJZRQTTff77MsBb32oNf5
 title: Godot
 desc: ''
-updated: 1707497422153
+updated: 1710479030299
 created: 1637591669334
 ---
 
@@ -56,6 +56,7 @@ It really is a terrible terrible terrible piece of software and the only chance 
 ## Resources
 
 - https://github.com/abmarnie/godot-architecture-organization-advice
+- https://chickensoft.games/blog/godot-csharp-2024/
 
 ## References
 

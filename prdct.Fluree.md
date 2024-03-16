@@ -2,7 +2,7 @@
 id: joiwdd2KjBWzPf68G3vot
 title: Fluree
 desc: 'Open source immutable semantic graph database that guarantees data integrity, facilitates secure data sharing, and powers connected data insights.'
-updated: 1709356276324
+updated: 1710563577133
 created: 1634617777670
 ---
 
@@ -28,7 +28,10 @@ supports:
 - a query peer "runs as an in-memory database peer to the ledger it's subscribed to. But like you mention, it doesn't only need (or need at all) to do so because it's intended to answer Fluree queries from other clients. It could very usefully just subscribe to a ledger in order to monitor data events like newly committed blocks and then to evaluate if that data meets a certain criteria, and--if so--to then trigger some downstream function or additional side effect... the NodeJS peer subscribes to the ledger as a particular cryptographic identity, which means that the listener itself will only be privy to data updates that that identity SHOULD be able to access."
 - "can be embedded inside of your applications (Clojure, NodeJS for now)"
 - [Time and Immutability in Data Systems](https://www.youtube.com/watch?v=CLZm3ZjvQqM&t=1972s)... probably only for clock-time, natively.  
-
+- inferencing (e.g., equivalent properties, but that's only useful if you're using data from different ontologies; okay, it's just useful, period) and 
+  - Aliasing makes it possible to not only find equivalent data, but return it in the terms that are useful to us.
+- Objects: you can further describe the subgraph you want to build by including nested objects. Our dataset doesn't actually include any data with multiple layers of connections
+- History Queries: also powered by immutability, but are preformed differently than time-travel queries. While time-travel allows users to view the ledger from different points in history, history queries capture each of the data state changes that effected a given entity up until the present moment.
 
 ## Use Cases
 
@@ -41,3 +44,7 @@ supports:
 ## [[c.Resource.Learning]]
 
 - [[ar.fluree.working-with-graph-data]]
+
+## References
+
+- https://next.developers.flur.ee/docs/learn/guides/working-with-ontologies/
