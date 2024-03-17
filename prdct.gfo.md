@@ -2,11 +2,14 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1710658834190
+updated: 1710687955441
 created: 1709751631541
 ---
 
-- url: https://raw.githubusercontent.com/Onto-Med/GFO/main/gfo-basic.owl
+- url: 
+  - https://raw.githubusercontent.com/Onto-Med/GFO/main/gfo-basic.owl
+  - https://www.onto-med.de/sites/www.onto-med.de/files/files/uploads/Ontologies/gfo.owl
+  - https://www.onto-med.de/ontologies/gfo#impl
 - repo: 
   - https://github.com/Onto-Med/GFO
   - https://github.com/Onto-Med/GFO-2.0
@@ -14,6 +17,10 @@ created: 1709751631541
 
 ![](/assets/images/2024-03-07-13-47-05.png)
 (heterarchy with multiple inheritance)
+
+## Issues
+
+- aren't "material processes" and "social processes" still processes?
 
 ## Features
 
@@ -118,3 +125,4 @@ there are only processes, while material objects are considered as particular pr
 ## References
 
 - [[ar.gfo-the-general-formal-ontology]] 
+- [[ar.towards-gfo-2-0-architecture-modules-and-applications]]
