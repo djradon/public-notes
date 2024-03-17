@@ -1,8 +1,8 @@
 ---
 id: pfdqhyncw7rype44ediqswf
 title: GFO
-desc: General Formal Ontology
-updated: 1710654477988
+desc: 'General Formal Ontology'
+updated: 1710658834190
 created: 1709751631541
 ---
 
@@ -99,13 +99,21 @@ there are only processes, while material objects are considered as particular pr
   - 
 
 
-## Situation vs Process vs 
+## Situation vs Situoid vs Process vs Processual Complex 
 
-    Situation: A situation is a static snapshot of reality, representing the state of affairs at a particular point in time. It encapsulates the relationships, properties, and configurations of entities without focusing on their temporal evolution. Situations are used to describe a particular set of circumstances or the way things are arranged at a specific moment.
+- Situation: A situation is a static snapshot of reality, representing the state of affairs at a particular point in time. It encapsulates the relationships, properties, and configurations of entities without focusing on their temporal evolution. Situations are used to describe a particular set of circumstances or the way things are arranged at a specific moment.
 
-    Process: A process, on the other hand, is dynamic and temporal. It refers to a series of events or actions unfolding over time. Processes are characterized by change, development, and the sequence of states they pass through. They emphasize the movement from one state to another and are essential for understanding phenomena that involve transformation or progression.
+- Situoid: a generalized or potential situation. It doesn't describe a specific state of affairs at a particular time; instead, it represents a type of situation that could occur under certain conditions. Situoids are useful for modeling hypothetical scenarios, possible states, or conditions that could exist given certain parameters.
 
-    Situoid: Situoids, a concept less commonly discussed outside specialized ontological studies, are related to situations but with an added focus on potentiality or conditionality. A situoid can be thought of as a generalized or potential situation. It doesn't describe a specific state of affairs at a particular time; instead, it represents a type of situation that could occur under certain conditions. Situoids are useful for modeling hypothetical scenarios, possible states, or conditions that could exist given certain parameters.
+- Process: A process, on the other hand, is dynamic and temporal. It refers to a series of events or actions unfolding over time. Processes are characterized by change, development, and the sequence of states they pass through. They emphasize the movement from one state to another and are essential for understanding phenomena that involve transformation or progression.
+
+- Processual Complex: interdependent processes
+
+
+
+## Concepts, Symbol Structures, and Platonic and Immanent Universals
+
+- @gemini.1.5.advanced GFO accounts for different philosophical stances: It accommodates those who believe in the real existence of universals outside of minds (realism), those who view them as primarily mental (conceptualism), and those who emphasize representations (nominalism).
 
 ## References
 

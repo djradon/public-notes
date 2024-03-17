@@ -2,7 +2,7 @@
 id: wxfdcwhehl9ok13rd8d80et
 title: 'GFO: the General Formal Ontology'
 desc: ''
-updated: 1710655453836
+updated: 1710655606604
 created: 1709846681949
 ---
 
@@ -12,3 +12,4 @@ created: 1709846681949
 
 ## References
 
+- [[prdct.gfo]]
