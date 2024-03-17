@@ -12,6 +12,14 @@ similar: prdct.yaml-ld
 
 ## Features
 
+
+
+### attach a contextual document in the response
+
+- "Provide a context in an HTTP Link header
+
+A method for attaching a JSON context to a plain JSON object via an HTTP Link header is described by the JSON-LD specification, section 4.9, Interpreting JSON as JSON-LD. In short, a plain JSON file that is passed via HTTP can be accompanied by a separate JSON-LD context document. The URI of the JSON-LD context document is passed via an HTTP Link header, using the link relation http://www.w3.org/ns/json-ld#context."
+
 ### Keywords
 
 - @id keyword allows you to give a node a URI

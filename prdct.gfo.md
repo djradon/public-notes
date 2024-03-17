@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1710687955441
+updated: 1710707420580
 created: 1709751631541
 ---
 
@@ -57,7 +57,7 @@ created: 1709751631541
 - Processes form a subclass of processual complexes, which are the most general kind of concrete individuals that have a temporal extension. The temporal extension of a processual complex is a mereological sum of a non-empty set of chronoids. Cohesive processes form an important subclass of all processes: a process is cohesive if any two process boundaries are causally connected, if their temporal boundaries coincide
 - Events are temporally localized at time boundaries. 
   - Another(?) type of event is a discrete change, for example, switching on the light in a dark room (understood to happen instantaneously
-  - Histories present a further type of occurrents in that they form a sequence of process boundaries, for example, the sequence of measurements of blood pressure during a certain time interval. They play an important role in the investigation of time series
+  - Histories present a further type of occurrents in that they form a sequence of process boundaries, for example, the sequence of measurements of blood pressure during a certain time interval. They y an important role in the investigation of time series
 - Material situations are parts of the material world (at the macroscopic level) that can be consistently comprehended as a whole.
   -  We distinguish three kinds of situations: object situations, presentic situations, and situoids. 
      -  Object situations consist of material objects and relations between them. 
