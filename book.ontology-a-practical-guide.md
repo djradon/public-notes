@@ -2,7 +2,7 @@
 id: 0voi8xiinkfuqhpm646ndb7
 title: Ontology a Practical Guide
 desc: ''
-updated: 1709669738664
+updated: 1710653553220
 created: 1709663700412
 ---
 
@@ -28,10 +28,25 @@ created: 1709663700412
 
 - Confusing Instance and Subclass
 - Part-of vs. Subclass
+- 
 
 ### Modeling Events as Relations
 
+- don't do (eats Bill HamSandwich); 
+  - presumably, model events as things unto themselves
 - "Davisonian event representation" looks a lot like what I was planning to do with hypergraphs
+- most languages that have some use in inference, like OWL, don't allow statements as arguments to relations, because it's extremely difficult to reason with.
+
+
+#### Example
+
+```json
+{
+  "@id": "ex:Brutus-stabbed-Caesar",
+  "@type": "ont.occurence.
+}
+```
+- another reason to do kebab or snake case... preservation of capitalization (if you wanna go that route)
 
 ### Ontological Promiscuity / Confusing Language and Concepts
 

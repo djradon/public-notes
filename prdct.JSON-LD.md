@@ -2,7 +2,7 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1709251497698
+updated: 1710631810307
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
@@ -24,6 +24,12 @@ similar: prdct.yaml-ld
 
 - https://stackoverflow.com/questions/42398060/json-ld-to-normal-json
 - http://niem.github.io/json/reference/json-ld/context/ discuss context, expansions, and contractions
+
+## vs RDF
+
+- In JSON-LD properties can be IRIs or blank nodes whereas in RDF properties (predicates) have to be IRIs. This means that JSON-LD serializes generalized RDF Datasets.
+- In JSON-LD lists are part of the data model whereas in RDF they are part of a vocabulary, namely [RDF11-SCHEMA].
+- RDF values are either typed literals (typed values) or language-tagged strings whereas JSON-LD also supports JSON's native data types, i.e., number, strings, and the boolean values true and false. The JSON-LD Processing Algorithms and API specification [JSON-LD-API] defines the conversion rules between JSON's native data types and RDF's counterparts to allow round-tripping.
 
 ### @chatgpt.4
 
@@ -61,3 +67,4 @@ These practices help in creating a well-structured, understandable, and semantic
 ## References:
 - https://www.w3.org/TR/json-ld
 - https://json-ld.org/contexts/dollar-convenience.jsonld
+- https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
