@@ -2,11 +2,17 @@
 id: 0Masr5sW1zHAAM0UmTcnB
 title: Rdfs Vs Owl
 desc: owl is more expressive
-updated: 1635666809509
+updated: 1710803986972
 created: 1635666331115
 ---
 
+## vs RDF
 
+- The RDF vocabulary provides you terms for defining/describing instances.
+
+The RDFS vocabulary provides you terms for defining/describing classes.
+
+## vs OWL
 
 > OWL = RDFS + more semantic features like cardinalities, union, intersection and more reasoning and inferring possibilities.
 It may be sufficient to use RDFS if you just need to manipulate class hierarchies and data-types, but if you need more specific semantics (DL-based) , OWL is a better option.
