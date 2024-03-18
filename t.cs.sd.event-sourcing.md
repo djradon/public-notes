@@ -2,8 +2,7 @@
 id: prbis54rvnvjcg4y74map4h
 title: Event Sourcing
 desc: >-
-  a different way of persisting data where data changes are stored (and read?)
-  as domain events
+  a different way of persisting data where data changes are stored (and read?) as domain events
 updated: 1708965971363
 created: 1658585055608
 ---

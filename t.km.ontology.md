@@ -36,6 +36,11 @@ created: 1633445910705
 -   [SUMO – Suggested Upper Merged Ontology](https://en.wikipedia.org/wiki/Suggested_Upper_Merged_Ontology "Suggested Upper Merged Ontology")
     -   has an associated open source [Sigma knowledge engineering environment](https://en.wikipedia.org/wiki/Sigma_knowledge_engineering_environment "Sigma knowledge engineering environment"). [[prdct.sigmakee]]
 
+## Solutions
+
+- [[prdct.oxo]]
+- [[prdct.ontowiki]]
+
 ## Related
 
 - @quine's ontological relativity

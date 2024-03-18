@@ -11,7 +11,7 @@ created: 1633593028328
 
 - "surely the distinction between a network-retrievable information resource and "everything else" is of fundamental importance to the whole architecture of the Web"
 - "**Distinguishing between Representations and Descriptions** using URIs, it is possible to identify both a thing (which may exist outside of the Web) and a Web document describing the thing... According to W3C guidelines ([AWWW], section 2.2.), we have a Web document (there called information resource) if all its essential characteristics can be conveyed in a message. Examples are a Web page, an image or a product catalog... The first solution is to use “hash URIs” for non-document resources... a URI that includes a hash cannot be retrieved directly, and therefore does not necessarily identify a Web document... The second solution is to use a special HTTP status code, 303 See Other, to give an indication that the requested resource is not a regular Web document."
-  - "https://www.w3.org/TR/cooluris/"
+  - [[ar.w3.cool-uris]] "https://www.w3.org/TR/cooluris/"
 
 ## Possible Solutions
 

@@ -6,8 +6,10 @@ updated: 1708029336953
 created: 1706301174868
 ---
 
+- [[c.software.semantic.site-generator]]
 - url: https://dgarijo.github.io/Widoco/
 - depends_on: [[prdct.lode]]
+- similar: [[prdct.parrot]] 
 
 ## Demo
 

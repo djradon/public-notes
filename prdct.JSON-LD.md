@@ -12,7 +12,14 @@ similar: prdct.yaml-ld
 
 ## Features
 
+```
+"@context": {
+  "": "http://example.com/default/",
+}
 
+is the same as, I think:
+
+"@context": "http://example.com/default/"
 
 ### attach a contextual document in the response
 
@@ -71,6 +78,7 @@ These practices help in creating a well-structured, understandable, and semantic
 - https://github.com/fairsharing/jsonldschema
 - https://www.baeldung.com/json-linked-data
   - mentions: [[prdct.hydra]]
+https://developer.chrome.com/blog/creating-semantic-sites-with-web-components-and-jsonld/
 
 ## References:
 - https://www.w3.org/TR/json-ld

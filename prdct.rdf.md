@@ -54,6 +54,8 @@ created: 1633160681527
 - https://www.w3.org/TR/rdf-concepts
 - https://www.w3.org/TR/rdf-schema/
 - [Predefined Namespace Prefixes](https://www.orpha.net/sparql?nsdecl)
+- https://ontola.io/blog/rdf-serialization-formats
+  - mentions [[prdct.json-ad]]
 
 ### [[p.hasLearningResource]]
 

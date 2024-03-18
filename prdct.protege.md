@@ -8,4 +8,4 @@ url: https://protege.stanford.edu/
 type: "[[c.software.ontology-editor]]"
 ---
 
-
+- [[c.software.ontology-editors]]

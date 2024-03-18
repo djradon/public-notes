@@ -11,6 +11,11 @@ created: 1633629215451
   - https://en.wikipedia.org/wiki/Semantic_publishing 
     - "Semantic publication provides a way for computers to understand the structure and even the meaning of the published information, making information search and data integration more efficient" 
 
+## CURIEs
+
+- a CURIE (Compact URI) is a compact representation of a Uniform Resource Identifier (URI). CURIEs are designed to shorten the lengthy URIs often used in Semantic Web technologies, making them more manageable and easier to read. The structure of a CURIE is generally divided into two parts: a prefix and a reference. 
+  - e.g.: `foaf:Person`
+
 ## Solutions
 
 - [[prdct.swrl]]
