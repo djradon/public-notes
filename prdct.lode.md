@@ -7,6 +7,8 @@ created: 1701468671037
 repo: https://github.com/essepuntato/LODE
 ---
 
-related: 
+- similar: [[prdct.pylode]]
+- related: 
   - [[ar.w3.best-practice-recipes-for-publishing-rdf-vocabularies]]
   - [[prdct.widoco]]
+  - 
