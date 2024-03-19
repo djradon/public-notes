@@ -23,18 +23,25 @@ created: 1633445910705
 -   Linked Data School
 -   NLP/LLM School
 -   Data-Centric School
+-   
+
+## Ontology Libraries
+
+- [[prdct.romulus]]
 
 ## Formal Upper Ontologies
 
--   [BFO – Basic Formal Ontology](https://en.wikipedia.org/wiki/Basic_Formal_Ontology "Basic Formal Ontology")
--   [GFO – General Formal Ontology](https://en.wikipedia.org/wiki/General_Formal_Ontology "General Formal Ontology")
--   [BORO – Business Objects Reference Ontology](https://en.wikipedia.org/wiki/BORO "BORO")
--   [CIDOC Conceptual Reference Model](https://en.wikipedia.org/wiki/CIDOC_Conceptual_Reference_Model "CIDOC Conceptual Reference Model")
--   [Cyc](https://en.wikipedia.org/wiki/Cyc "Cyc") (Cyc is not just an upper ontology, it also contains many mid-level and specialized ontologies as well)
+-   [[prdct.basic-formal-ontology]]
+-   [[prdct.gfo]]
+-   [[prdct.cidoc-crm]]
 -   [UMBEL – Upper Mapping and Binding Exchange Layer](https://en.wikipedia.org/wiki/UMBEL "UMBEL"), a subset of OpenCyc
--   [DOLCE – Descriptive Ontology for Linguistic and Cognitive Engineering](https://en.wikipedia.org/wiki/Upper_ontology#DOLCE "Upper ontology")
--   [SUMO – Suggested Upper Merged Ontology](https://en.wikipedia.org/wiki/Suggested_Upper_Merged_Ontology "Suggested Upper Merged Ontology")
+- [[prdct.dolce]]
+-   [[prdct.sumo]]
     -   has an associated open source [Sigma knowledge engineering environment](https://en.wikipedia.org/wiki/Sigma_knowledge_engineering_environment "Sigma knowledge engineering environment"). [[prdct.sigmakee]]
+
+## Mid-level Ontologies
+
+- [[prdct.cognitive-characteristics-ontology]]
 
 ## Solutions
 
@@ -57,7 +64,15 @@ Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
 - [Ontology Development 101: A Guide to Creating Your
 First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology101.pdf)
 - [[ar.foundational-ontologies-in-action]]
+- [Developing and using ontologies in behavioural science: addressing issues raised](https://wellcomeopenresearch.org/articles/7-222)
 
 ### Resource List
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3293483/
+- [[ar.where-to-publish-and-find-ontologies-a-survey-of-ontology-libraries]]
+  - mentions: 
+    - [[prdct.cupboard]] (dead)
+    - [[org.obo-foundry]]
+    - [[prdct.ontology-lookup-service]]
+    - [[prdct.ontologydesignpatterns-org]]
+      - mentions: [[prdct.cognitive-characteristics-ontology]]
+- [[prdct.ontohub-org]]

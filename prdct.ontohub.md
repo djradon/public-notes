@@ -1,20 +1,13 @@
 ---
-id: 4yizjgvtpg30irln8nfcif4
+id: 497uirfhqsaabh37a9oriux
 title: Ontohub
-desc: 'web-based repository for distributed ontologies, models and specifications'
-updated: 1701806509425
-created: 1701806182654
-url: https://ontohub.org
-type: "[[c.software.semantic]]"
+desc: >-
+  an application that allows to use different knowledge representations
+  (ontologies, thesauri, wordnets) in various formats and operate on them to
+  create new representations of domain or expert knowledge
+updated: 1710877164959
+created: 1710877164959
 ---
 
-
-## Features
-
-
-
-Open - based on open source software
-
-Flexible - combine different logics in the same ontology
-
-Distributed - combine distinct ontologies into a single one
+- dead
+- url: https://matpiw.github.io/OntoHub/

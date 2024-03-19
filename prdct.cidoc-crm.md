@@ -5,3 +5,6 @@ desc: 'International Committee for Documentation - Conceptual Reference Model is
 updated: 1710860794747
 created: 1710856821434
 ---
+
+- url:
+  - https://www.cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf

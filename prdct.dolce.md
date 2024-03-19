@@ -10,4 +10,8 @@ created: 1698268244398
 - url: 
   - http://www.loa.istc.cnr.it/dolce/overview.html
     - mentions [[prdct.unified-foundational-ontology]]
-  - 
+  
+
+## References
+
+- [[ar.ontology-infrastructure-for-the-semantic-web]]
