@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1710707420580
+updated: 1710856518647
 created: 1709751631541
 ---
 
@@ -21,6 +21,9 @@ created: 1709751631541
 ## Issues
 
 - aren't "material processes" and "social processes" still processes?
+- fine line between categories and attributives
+  - "Categories provide the basic structure of the ontology, defining what kinds of things exist, whereas attributives are used to describe specific qualities or features of these things."
+    - so 
 
 ## Features
 

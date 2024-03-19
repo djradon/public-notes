@@ -2,15 +2,17 @@
 id: 8cs1j4m6abso08lz9kxbef3
 title: Cloudevents
 desc: 'A specification for describing event data in a common way'
-updated: 1698262670405
+updated: 1710867932286
 created: 1672335135527
 ---
 
 url: https://cloudevents.io/
 
 - [[p.supportedBy]] [[prdct.openfaas]] [[prdct.triggermesh]] [[prdct.kafka]] [[prdct.quarkus]]
-- [[p.supports]] [XML](https://github.com/cloudevents/spec/blob/main/cloudevents/working-drafts/xml-format.md)
-  
+- [[p.supports]] 
+  - [XML](https://github.com/cloudevents/spec/blob/main/cloudevents/working-drafts/xml-format.md)
+  - [JSON](https://github.com/cloudevents/spec/blob/main/cloudevents/formats/json-format.md)
+
 ## [[p.hadDefinition]]
 
 

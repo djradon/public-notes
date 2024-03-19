@@ -2,7 +2,7 @@
 id: y3718ul9o6iorzggug469px
 title: Servicestack
 desc: 'write your HTTP APIs once and take advantage of end to end typed integrations for all popular Web, Mobile and Desktop platforms.'
-updated: 1710432855494
+updated: 1710866313204
 created: 1710372329486
 ---
 
@@ -12,4 +12,8 @@ created: 1710372329486
 ## Features
 
 - Locode: provides a user-friendly interface to manage data using AutoQuery CRUD services, supporting 4 major RDBMS providers including PostgreSQL, SQL Server, MySQL and SQLite.
+
+
+## Issues
+
 - 
