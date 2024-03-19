@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1709141879153
+updated: 1710823101429
 created: 1633160681527
 ---
 
@@ -16,6 +16,10 @@ created: 1633160681527
   - the concept of the "unnamed default graph"/master-graph is interesting; 
     - seems like dendron.yml is the master graph. expre
   - [[c.resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
+
+## Highlights
+
+- the property "a" is used to indicate the "type" or "class" of a resource. It is a shorthand notation for the "rdf:type" predicate.
 
 ## [[p.hasIssue]]
 
@@ -41,6 +45,9 @@ created: 1633160681527
 
 - [[prdct.rdf.aref]]
 - [[prdct.rdf.turtle]]
+- [[prdct.hextuples]]
+- [[prdct.json-ad]]
+- [[prdct.JSON-LD]]
 
 ## Solutions
 
