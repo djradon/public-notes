@@ -2,7 +2,7 @@
 id: 1c425wcbnwh1esyiwydx1pw
 title: Owl
 desc: 'Web Ontology Language'
-updated: 1710824047963
+updated: 1710912802035
 created: 1696270955675
 ---
 
@@ -11,7 +11,8 @@ created: 1696270955675
 ## description:
 
 - OWL 2 ontologies themselves are primarily exchanged as RDF documents
-
+- OWL-Lite is the least expressive sub-langauge. OWL-Full is the most expressive sub-language. The expressiveness of OWL-DL falls between that of OWL-Lite and OWL-Full. 
+ 
 ## Highlights
 
 - OWL ontologies can use the preexisting OWL attribute owl:versionInfo to store version information.
