@@ -11,6 +11,7 @@ created: 1636253430285
 
 
 - [[p.hasSite]] https://solidproject.org/
+- supports: [[prdct.nextcloud]] via [[prdct.solid-nextcloud]]
 
 ## Issues
 

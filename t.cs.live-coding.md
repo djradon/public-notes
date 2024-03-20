@@ -23,7 +23,9 @@ Another functional approach to the representation of time is shown in the [Tidal
 
 - [[prdct.fluxus]] #dead
 - [[prdct.gideros]]
+- [[t.cs.languages.clojure]]
 
 ## References
 
 - https://github.com/toplap/awesome-livecoding/
+- https://clojure.org/guides/repl/annex_community_resources

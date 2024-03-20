@@ -11,10 +11,3 @@ url: 'https://ontohub.org'
 - url: https://ontohub.org/
 - different_from: [[prdct.ontohub]]
 
-## Features
-
-Open - based on open source software
-
-Flexible - combine different logics in the same ontology
-
-Distributed - combine distinct ontologies into a single one

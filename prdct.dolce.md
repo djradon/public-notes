@@ -10,7 +10,7 @@ created: 1698268244398
 - url: 
   - http://www.loa.istc.cnr.it/dolce/overview.html
     - mentions [[prdct.unified-foundational-ontology]]
-  
+- similar: [[prdct.dolce.dns-ultralite]]  
 
 ## References
 

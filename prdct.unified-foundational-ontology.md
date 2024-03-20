@@ -12,6 +12,7 @@ created: 1698268407267
   - http://dev.nemo.inf.ufes.br/seon/UFO.html
 - similar: [[prdct.unified-foundational-ontology.gentle]] [[prdct.sumo]]
 - related: [[prdct.ontouml]]
+- based_on: [[prdct.dolce]] [[prdct.ontoclean]]
 - repo: https://github.com/unibz-core/ufo-formalization
 - docs: [[ar.a-first-order-logic-formalization-of-the-unified-foundational-ontology]]
  

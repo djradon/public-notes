@@ -9,7 +9,7 @@ created: 1633445910705
 
 ## Categories
 
-- intentional vs extensional
+- 
 - backbone: (is_a hierarchy) ^avyynlhzlbc4
 
 ### "Schools"
@@ -28,6 +28,10 @@ created: 1633445910705
 ## Ontology Libraries
 
 - [[prdct.romulus]]
+- [[prdct.ontohub-org]]
+- [[prdct.ontology-lookup-service]]
+- [[prdct.ontologydesignpatterns-org]]
+
 
 ## Formal Upper Ontologies
 
@@ -45,8 +49,7 @@ created: 1633445910705
 
 ## Solutions
 
-- [[prdct.oxo]]
-- [[prdct.ontowiki]]
+- [[prdct.oxo]] / [[prdct.ontology-lookup-service]]
 
 ## Related
 
