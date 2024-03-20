@@ -2,7 +2,7 @@
 id: m3ejxost9j8l5gmsxuriws0
 title: Memphis
 desc: Event Processing For Developers
-updated: 1698252759284
+updated: 1710916256070
 created: 1680467930113
 ---
 
@@ -26,6 +26,7 @@ created: 1680467930113
 ## Features
 
 - Stream Enrichments: serverless-type functions or complete containerized applications that aggregate several stations and streams, decorate and enrich messages from different sources, write complex functions that cannot be achieved via SQL, and manipulate the schema.
+- Memphis Functions empower developers and data engineers with the ability to seamlessly process, transform, and enrich incoming events in real-time through a serverless paradigm, all within the familiar AWS Lambda syntax, in an array of programming languages, including but not limited to Go, Python, JavaScript, .NET, Java, and SQL.
 
 ### [[c.feature.possible]]
 
@@ -36,6 +37,13 @@ created: 1680467930113
 ## Comparison
 
 - [[vs.nats-jetstream-vs-memphis]]
+
+### NATS API compatibility issues
+
+The following Memphis features will not be supported when using NATS SDK:
+- Producers/Consumers' observability
+- Schemaverse
+- Dead-letter station - resend unacked messages
 
 
 ## [[c.license]]
