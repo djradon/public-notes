@@ -51,3 +51,5 @@ created: 1658585055608
 - https://github.com/oskardudycz/EventSourcing.NodeJS
 - https://stackoverflow.com/questions/67356709/event-sourcing-and-domain-event
 - https://stackoverflow.com/questions/71083541/event-sourcing-vs-event-driven-architecture-difference
+- https://medium.com/andamp/event-sourcing-with-spring-modulith-2b35b0569dbb
+  - mentions: [[prdct.spring.modulith]]
