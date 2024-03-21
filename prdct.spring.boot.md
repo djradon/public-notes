@@ -1,6 +1,6 @@
 ---
 id: lip7bm0zygnf09t3060g28i
-title: Spring Boot
+title: Boot
 desc: ''
 updated: 1706409644919
 created: 1706409634189

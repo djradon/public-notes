@@ -24,6 +24,6 @@ created: 1636171046830
 ## Resources
 
 - https://www.kapresoft.com/software/2023/11/09/rest-hateoas-best-practices.html
-- https://www.baeldung.com/spring-hateoas-tutorial
+- https://www.baeldung.com/spring-hateoas-tutorial mentions [[prdct.spring.hateoas]]
 - https://news.ycombinator.com/item?id=36944686
 - https://unitcoding.com/implementing-hateoas/ mentions [[prdct.riskfirst_hateoas]]

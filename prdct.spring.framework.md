@@ -1,12 +1,12 @@
 ---
 id: 51brie57n39ccobwzy304y6
-title: Spring Framework
+title: Framework
 desc: ''
 updated: 1706409633907
 created: 1700933710389
 ---
 
-- related: [[prdct.spring-boot]]
+- related: [[prdct.spring.boot]]
 ## Features
 
 -   [Core technologies](https://docs.spring.io/spring-framework/reference/core.html): dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP.
