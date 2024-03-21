@@ -118,3 +118,6 @@ created: 1711055161785
 - sims was really more of a dollhouse
 - proxi more of a high-tech scrapbook
 - looking forward to a "digital audience" as a tool; million-ai focus group, and have them automatically tune the game; games have an opportunity to be much more malleable; 
+
+- [[book.the-user-is-an-illusion]]
+- "consciousness" is one of these useless terms like "art"; 
