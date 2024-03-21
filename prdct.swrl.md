@@ -6,8 +6,13 @@ updated: 1710960895038
 created: 1710688791666
 ---
 
-- related: [[prdct.datalog]] [[prdct.ruleml]]
+- related: [[prdct.datalog]] [[prdct.ruleml]] [[prdct.sqwrl]]
 - spec: https://www.w3.org/submissions/SWRL/
+
+
+## Issues
+
+- WRL shares OWL’s open world assumption so certain types of rules that assume a closed world may be difficult or impossible to write in SWRL
 
 ## References
 

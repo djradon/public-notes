@@ -79,4 +79,3 @@ created: 1633593028328
 - [1]: [[ar.ontopia.curing-the-webs-identity-crisis]]
 
 
-I chose not to cover this approach in a lot of detail because it extends the RDF model in a way that no current triple store implements

@@ -6,5 +6,6 @@ updated: 1710435298582
 created: 1710435277480
 ---
 
-- repo: 
+- repo: https://github.com/teknql/crux-geo
+- related: [[prct.xtdb]] 
 - built_on: [[prdct.sqlite.spatialite]]

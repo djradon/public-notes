@@ -38,7 +38,9 @@ created: 1633160681527
 
 - see [[ar.a-temporal-rdf-model-for-multi-grained-time-information-modeling]]
 - https://blog.iandavis.com/2009/08/representing-time-in-rdf-part-1/
-- [Temporal RDF](http://www.dcc.uchile.cl/~cgutierr/papers/temporalRDF.pdf) introduces a fourth time component to the triple. 
+- [Temporal RDF](http://www.dcc.uchile.cl/~cgutierr/papers/temporalRDF.pdf) introduces a fourth time component to the triple. "I chose not to cover this approach in a lot of detail because it extends the RDF model in a way that no current triple store implements"
+
+
 
 
 ## can be expressed as 
