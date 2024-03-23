@@ -9,6 +9,7 @@ created: 1680579451412
 - [[c.software.workflow]] [[c.software.business-process-management]]
 - repo: https://github.com/elsa-workflows/elsa-core
 - different_from: [[prdct.elsa-speak]]
+- similar: [[prdct.copper]]
 
 ## Features
 

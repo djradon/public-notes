@@ -9,6 +9,7 @@ created: 1690517419193
 - [[c.software.decisionengine]]
 - repo: https://github.com/kiegroup/kogito-runtimes
 - url: https://kogito.kie.org/
+- related: [[prdct.drools]]
 
 ## Features
 
