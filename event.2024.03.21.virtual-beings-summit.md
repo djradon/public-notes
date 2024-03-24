@@ -81,8 +81,8 @@ created: 1711055161785
 
 ## Panel #2: AI Gamesmaker
 
-- @joshua-johnson @hillary-mason @eugene @harvey @stefan-bougai @eugenia 
-- @harvey: if you've entertained building a video game, now is the time; interested in games 
+- @joshua-johnson @hillary-mason @eugene @harvey-michael-pratt @stefan-bougai @eugenia 
+- @harvey-michael-pratt: if you've entertained building a video game, now is the time; interested in games 
 - @hillary-mason: opportunity to create new experiences; our approach is collaborative and rigorous; you have to design structures around what these models are really great for. "imagine your favorite author, could be your [[t.rpg.gm]]"
 - shift the creation of what they see until the moment they see it. in skyrim, side quests don't change the world; players can change their world, their social statuses. 
 - @stefan-bougai: [[game.rival-peak]] and [[game.silent-hill-ascenscion]]
@@ -95,13 +95,13 @@ created: 1711055161785
 
 - @hillary-mason: what matters isn't stories, but match your resonant stories and friends; 
 - @stefan-bougai: if everything goes well, we'll go back to "art and play" and get rid of content
-- @harvey : harris identified compelling; symbolic structures tend towards entropy, which would be dystopic
+- @harvey-michael-pratt : harris identified compelling; symbolic structures tend towards entropy, which would be dystopic
   - "generally, the audience shouldn't now whether it's ai or non-ai"
 - @eugene: with our web3 game, tried to hide the web3 tech as much as possible; "local compute, localized LLMs"; [[game.ai-dungeon]]
 - @hillary-mason: infrastructure costs; 
 - @stefan-bougai: ai shovel-ware is going to push us to saturation and force us to be good again; 
 - consensus: we're headed for the dopamine death spiral; deluge of content; on-edge will help you sift through huge amount of content; eventually, virtual beings will be more compelling than the real thing
-- @harvey: edtech! make learning as compelling as fortnite
+- @harvey-michael-pratt: edtech! make learning as compelling as fortnite
 - @eugenia: nobody is talking about qualitative, which means bad things
 - @hillary-mason: ttrpg is an optimistic space; 
 

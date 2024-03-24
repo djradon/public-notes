@@ -32,3 +32,9 @@ instance, the ontology recognises that a term persists in the language but not t
 ## Resources
 
 - https://www.academia.edu/71948359/UFO_Unified_Foundational_Ontology
+- https://nemo.inf.ufes.br/wp-content/papercite-data/pdf/towards_ontological_foundations_for_conceptual_modeling__the_unified_foundational_ontology__ufo__story_2015.pdf
+
+
+## References
+
+- https://ontouml.readthedocs.io/en/latest/intro/ufo.html

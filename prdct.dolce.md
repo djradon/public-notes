@@ -8,10 +8,10 @@ created: 1698268244398
 
 - [[c.ontology]] [[c.ontology.upper]]
 - url: 
-  - http://www.loa.istc.cnr.it/dolce/overview.html
-    - mentions [[prdct.unified-foundational-ontology]]
 - similar: [[prdct.dolce.dns-ultralite]]  
 
 ## References
 
 - [[ar.ontology-infrastructure-for-the-semantic-web]]
+- http://www.loa.istc.cnr.it/dolce/overview.html
+    - mentions [[prdct.unified-foundational-ontology]]

@@ -31,7 +31,7 @@ created: 1633445910705
 - [[prdct.ontohub-org]]
 - [[prdct.ontology-lookup-service]]
 - [[prdct.ontologydesignpatterns-org]]
-
+- https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundational
 
 ## Formal Upper Ontologies
 
@@ -40,6 +40,9 @@ created: 1633445910705
 -   [[prdct.cidoc-crm]]
 -   [UMBEL – Upper Mapping and Binding Exchange Layer](https://en.wikipedia.org/wiki/UMBEL "UMBEL"), a subset of OpenCyc
 - [[prdct.dolce]]
+  - [[prdct.dolce.dns-ultralite]]
+  - [[prdct.dolce.lite-plus]]
+  - [[prdct.dolce-lite]]
 -   [[prdct.sumo]]
     -   has an associated open source [Sigma knowledge engineering environment](https://en.wikipedia.org/wiki/Sigma_knowledge_engineering_environment "Sigma knowledge engineering environment"). [[prdct.sigmakee]]
 
