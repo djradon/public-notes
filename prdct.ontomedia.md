@@ -5,10 +5,11 @@ desc: ''
 updated: 1710828493834
 created: 1710828459496
 ---
+- url: https://purl.archive.org/domain/ontomedia
 
 ## Issues
 
-- website is dead, can't find the ontology
+- 
 
 ## References
 
