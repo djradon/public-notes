@@ -9,7 +9,7 @@ created: 1633445910705
 
 ## Categories
 
-- 
+- object(continuant/endurant) vs process(occurent/perdurant)
 - backbone: (is_a hierarchy) ^avyynlhzlbc4
 
 ### "Schools"

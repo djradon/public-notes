@@ -6,7 +6,12 @@ updated: 1710828493834
 created: 1710828459496
 ---
 
+## Issues
+
+- website is dead, can't find the ontology
 
 ## References
 
 - [[ar.ontomedia-creating-an-ontology-for-marking-up-the-contents-of-heterogeneous-media]]
+  - has snippets
+- [[ar.assessing-the-suitability-of-existing-owl-ontologies-for-the-representation-of-narrative-structures-in-sumerian-literature]]

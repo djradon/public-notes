@@ -7,3 +7,4 @@ created: 1696283341304
 ---
 
 - url: https://w3id.org/
+- similar: [[prdct.prefix-cc]]

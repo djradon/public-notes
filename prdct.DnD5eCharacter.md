@@ -1,0 +1,17 @@
+---
+id: aai8poey1tnk6kd65ruxg45
+title: DnD5eCharacter
+desc: ''
+updated: 1711286402617
+created: 1711286402617
+---
+
+- [[c.ontology]] [[c.ontology.domain]]
+
+## Issues
+
+- "armor" 
+  - seems to represent types of armor
+  - isn't a subclass of anyting, including [[prdct.ttrpg]]'s ItemType.Armor
+- Monster is a CharacterType, along with AbilityScore and Skill
+- Character seems redundant with ttrpg:Character, doesn't have any superclass or details
