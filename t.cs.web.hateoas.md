@@ -27,3 +27,4 @@ created: 1636171046830
 - https://www.baeldung.com/spring-hateoas-tutorial mentions [[prdct.spring.hateoas]]
 - https://news.ycombinator.com/item?id=36944686
 - https://unitcoding.com/implementing-hateoas/ mentions [[prdct.riskfirst_hateoas]]
+- https://spring.io/guides/gs/rest-hateoas

@@ -1,6 +1,6 @@
 ---
 id: axaqabrohnobni5rvdwn6uh
-title: Stefan Bougai
+title: Stephan Bugaj
 desc: ''
 updated: 1711060812111
 created: 1711060812111

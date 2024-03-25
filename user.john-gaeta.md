@@ -1,6 +1,6 @@
 ---
 id: igk36u4vqoc75rcgohfmqz3
-title: John Gater
+title: John Gaeta
 desc: ''
 updated: 1711059258706
 created: 1711059258706

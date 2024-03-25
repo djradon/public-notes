@@ -17,10 +17,7 @@ In IIR models, a concept or relationship is reified and further temporalized. Ei
 
 #### Singleton Property
 
-The formal semantics of the singleton property is derived from the standard RDF and RDFS
-semantics with the additional semantics extension for the vocabulary rdf:singletonPropertyOf. The
-singleton property gives rises to three cases of query patterns: data, metadata and mixed patterns
-which SPARQL supports. 
+The formal semantics of the singleton property is derived from the standard RDF and RDFS semantics with the additional semantics extension for the vocabulary rdf:singletonPropertyOf. The singleton property gives rises to three cases of query patterns: data, metadata and mixed patterns which SPARQL supports. 
 
 #### 4D Fluents
 

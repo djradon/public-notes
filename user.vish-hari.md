@@ -8,4 +8,4 @@ created: 1711055510448
 
 - agents can commit code 
 - completing y-combinator
-- 
+- role: co-founder at [[org.ego]]

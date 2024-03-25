@@ -7,3 +7,7 @@ created: 1710970114849
 ---
 
 - url: https://spring.io/projects/spring-hateoas
+
+## Resources
+
+- https://spring.io/guides/gs/rest-hateoas

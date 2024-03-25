@@ -7,3 +7,7 @@ created: 1710969774701
 ---
 
 - url: https://spring.io/projects/spring-modulith
+
+## Resources
+
+- https://medium.com/andamp/event-sourcing-with-spring-modulith-2b35b0569dbb
