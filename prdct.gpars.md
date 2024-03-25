@@ -7,7 +7,7 @@ created: 1697492164631
 ---
 
 - url: http://www.gpars.org
-- 
+- supports: [[t.cs.languages.java.virtual-threads]]
 
 ## Comparison
 
@@ -17,3 +17,4 @@ created: 1697492164631
 ## Resources
 
 - [We have had a quick glimpse at using virtual threads with Groovy and GPars](https://groovy.apache.org/blog/gpars-meets-virtual-threads)
+- http://www.gpars.org/webapp/guide/index.html

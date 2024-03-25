@@ -9,10 +9,11 @@ created: 1678139747758
 ---
 
 
-- [[c.software.message-bus]]
+- [[c.software.messaging.bus]] 
 - url: https://nats.io/
 - [[p.similarTo]] 
 - written-in: #go
+- cloud:service https://www.synadia.com/cloud
 
 ## [[c.host]]
 

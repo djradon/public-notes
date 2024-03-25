@@ -125,6 +125,10 @@ created: 1711055161785
 
 - [[book.the-user-is-an-illusion]]
 - "consciousness" is one of these useless terms like "art"; 
+- consciousness is more of a timestamp
+if you have to build a narrative in real time, that basically consciousness 
+any narrative form has to leave room for the audience to fill.
+like Scott mcleods space between the gutters
 
 ## industry (venture) voice
 

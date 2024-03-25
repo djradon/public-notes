@@ -43,7 +43,7 @@ created: 1669463161648
 - https://www.architecture-weekly.com/p/architecture-weekly-152-6th-november
   - https://waswani.medium.com/event-driven-architecture-the-hard-parts-events-vs-messages-0fcfc7243703
     - "So there is a concern of sequence in which things need to be executed to meet the business requirement. And also, the producer service must know the target services which need to perform the required action which goes against the principle of Event Driven Architecture. With Events, because all the consumers react in parallel, controlling the sequence is tough. Messages help to achieve this sequential execution when needed."
-
+- [[ar.medium.simpplr-technology.event-driven-architecture-the-hard-parts-should-it-be-event-or-a-message]]
 
 ### [[p.hasLearningResource]]
 

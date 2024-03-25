@@ -112,6 +112,7 @@ For broad-phase spatial queries an application could leverage runtime tags (if t
 sh
 - https://moonside.games/posts/archetypal-ecs-considered-harmful/ 
 - https://www.reddit.com/r/gameenginedevs/comments/1abdisc/practices_for_managing_systems_order_in_ecs/ has some interesting suggested for ordering systems runs
+- https://www.reddit.com/r/gamedev/comments/yctgea/ecs_rules_dos_and_donts_and_best_practices_for/
 
 ### [[c.resource.list]]
 

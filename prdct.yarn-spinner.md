@@ -7,7 +7,9 @@ created: 1706848680566
 ---
 
 - url: https://yarnspinner.dev/)
+- repo: https://github.com/YarnSpinnerTool/YarnSpinner
 - similar: [[prdct.yarn-spinner-rust]]
+- written_in: c#
 - #great_name
 
 ## Cons

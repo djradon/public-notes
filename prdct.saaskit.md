@@ -5,8 +5,6 @@ desc: 'A modern SaaS template built on Fresh.'
 updated: 1705096542085
 created: 1705096388924
 ---
-```yaml
-url: https://github.com/denoland/saaskit
-built_on: [[prdct.deno-fresh]]
 
-```
+built_on: [[prdct.deno-fresh]]
+repo: https://github.com/denoland/saaskit

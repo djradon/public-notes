@@ -37,6 +37,7 @@ created: 1673569081430
 
 ## Resources
 
+- https://nordicapis.com/6-asyncapi-validation-tools/
 - https://www.asyncapi.com/blog/websocket-part1
 - https://nordicapis.com/7-protocols-good-for-documenting-with-asyncapi/
   - includes [[prdct.nats]]
@@ -52,6 +53,7 @@ created: 1673569081430
     publish means publish an event to the channel and this application will receive it
     subscribe means subscribe to this channel to receive events published by this application"
 - https://www.asyncapi.com/blog/understanding-asyncapis
+- 
 
 ### c#
 

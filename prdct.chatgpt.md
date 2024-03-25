@@ -5,3 +5,5 @@ desc: ''
 updated: 1686162204229
 created: 1686162204229
 ---
+
+- [[c.software.ai.assistant]]

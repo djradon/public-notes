@@ -27,4 +27,5 @@ created: 1638132337360
 ## Resources
 
 - [[ar.rustconf-talk]] goes into detail about why to design a game with [[c.software.entity-component-system]]
-- 
+- [Effective Learning through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust/)
+- [[prdct.petgraph]]
