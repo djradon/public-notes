@@ -2,7 +2,7 @@
 id: p9dycdhtvdicli85iw40s7p
 title: SurrealDB
 desc: 'scalable, distributed, collaborative, document-graph database, for the realtime web'
-updated: 1709319122297
+updated: 1711459916682
 created: 1689630910814
 ---
 
@@ -13,11 +13,12 @@ created: 1689630910814
 
 ## Features
 
+- live query
 - graph support via "edge tables" [[t.cs.graph]]
   - https://surrealdb.com/docs/surrealql/statements/relate
   - Offer bi-directional querying.
   - Offer referential integrity.
-  - Allow you to store data alongside the relationship.
+  - Allow you to store data alongside the relationship. (edges get their own tables)
 - [[prdct.geojson]] geometries
 - seems to take care of ORM/OGM mapping natively? https://docs.surrealdb.com/docs/integration/sdks/dotnet/
 

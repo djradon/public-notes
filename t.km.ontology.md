@@ -2,14 +2,14 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: ''
-updated: 1709751227719
+updated: 1711471327795
 created: 1633445910705
 ---
 
 
 ## Categories
 
-- object(continuant/endurant) vs process(occurent/perdurant)
+- object(
 - backbone: (is_a hierarchy) ^avyynlhzlbc4
 
 ### "Schools"
@@ -71,7 +71,7 @@ Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
 First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology101.pdf)
 - [[ar.foundational-ontologies-in-action]]
 - [Developing and using ontologies in behavioural science: addressing issues raised](https://wellcomeopenresearch.org/articles/7-222)
-
+- [[book.an-introduction-to-ontology-engineering-keet]]
 ### Resource List
 
 - [[ar.where-to-publish-and-find-ontologies-a-survey-of-ontology-libraries]]

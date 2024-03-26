@@ -11,6 +11,10 @@ type: "[[c.software.database.graph.rdf]]"
 - similar-to: [[prdct.rdf4j]]
   - "Jena is similar to RDF4J (formerly OpenRDF Sesame); though, unlike RDF4J, Jena provides support for OWL (Web Ontology Language). "
 
+## Issues
+
+- chatgpt.4: "while Jena can handle multiple inheritance in the RDF/OWL sense, translating this directly into Java classes can be challenging. You might need to design your Java class model differently, potentially using interfaces, composition, or other design patterns to represent the multiple inheritance found in the ontology."
+
 ## Resources
 
 - https://medium.com/duda/simplifying-your-structured-data-model-using-apache-jena-545dd93236a8
