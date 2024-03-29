@@ -1,11 +1,12 @@
 ---
 id: 1OOKaIig53nVOaqGfj7Z7
 title: Rdf Properties Vs Predicates
-desc: 'predicates express '
-updated: 1699030058874
+desc: 'predicates are part of the expression of properties'
+updated: 1711696693440
 created: 1633817469789
 ---
 
+## 
 
 - properties: predicates or attributes
   - but it's a fuzzy line. [[book.demystifying-owl-for-the-enterprise]] says dates are attributes, like "created", because it's a literal... but you can (and [[gd]] does) represent dates and times as entities

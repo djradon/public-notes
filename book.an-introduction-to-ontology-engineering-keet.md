@@ -2,12 +2,14 @@
 id: o0i0slyae40yf3o4crroqes
 title: An Introduction to Ontology Engineering Keet
 desc: ''
-updated: 1711471530103
+updated: 1711699334937
 created: 1711471328539
 ---
 
 - url: https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/An_Introduction_to_Ontology_Engineering_(Keet)/
-
+- https://people.cs.uct.ac.za/~mkeet/files/OEbook.pdf
+- author: @maria-keet
+- related: [[prdct.onset]]
 
 ## Highlights
 

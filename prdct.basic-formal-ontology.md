@@ -3,7 +3,7 @@ id: u69ohenrjzegyb4ta4bp07j
 title: Basic Formal Ontology
 desc: >-
   a small, upper-level, realist, bicategorial ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains
-updated: 1711460309041
+updated: 1711697750316
 created: 1696610915530
 ---
 
@@ -14,6 +14,11 @@ created: 1696610915530
 - #similar [[prdct.gist]]
 - #related 
 - related [[t.km.ontology]]
+
+## Description
+
+- "The Basic Formal Ontology (BFO)6 sees Ontology as reality representation. It aims at reconciling the 3-dimensionalist and 4-dimensionalist views with a ‘Snap’ ontology of endurants, which is reproduced at each moment of time and is used to characterize static views of the world, and a ‘Span’ ontology of happenings and occurrents and, more generally, of entities which persist in time by perduring. It has a limited granularity and is heavily influenced by parthood relations, boundaries, dependence."
+
 
 ## Issues
 
@@ -71,3 +76,4 @@ created: 1696610915530
 
 - https://www.youtube.com/watch?v=uflMfvI-ZxI
 - [[ar.foundational-ontologies-in-action]]
+- https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/An_Introduction_to_Ontology_Engineering_(Keet)/07%3A_Top-Down_Ontology_Development/7.02%3A_Foundational_Ontologies

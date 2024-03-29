@@ -1,15 +1,15 @@
 ---
 id: lq10bixve20i64veu1k5fx0
 title: Xtdb
-desc: 'Bitemporal and dynamic relational database for SQL and Datalog'
-updated: 1710451115930
+desc: Bitemporal and dynamic relational database for SQL and Datalog
+updated: 1711697334177
 created: 1705951600818
 ---
 
 - [[c.software.database.bitemporal]]
 - url: https://xtdb.com/
 - repo: https://github.com/xtdb/xtdb
-- similar: [[prdct.xtdb2]]
+- similar: [[prdct.xtdb.v2]]
 - related: [[prdct.site]] [[prdct.crux-geo]] [[prdct.biff]]
 - supports:
   - storage: [[prdct.lmdb]] [[prdct.rocksdb]]
@@ -33,6 +33,7 @@ We support the SQL:2011 standard for bitemporal functionality, and it’s built 
 ### Learning Resources
 
 - https://nextjournal.com/learn-xtdb-datalog-today/learn-xtdb-datalog-today
+- https://dev.to/marleyspoon/bitemporality-or-how-to-change-the-past-3k4f
 
 ## References
 

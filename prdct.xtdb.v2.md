@@ -1,10 +1,11 @@
 ---
 id: sjb3dggv4an4h7dc1rhj6e8
-title: Xtdb2
+title: V2
 desc: ''
-updated: 1705968024222
+updated: 1711697316536
 created: 1705967884143
 ---
+
 
 - docs: https://docs.xtdb.com/
 
