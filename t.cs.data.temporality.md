@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1710559663413
+updated: 1711906335087
 created: 1634620119007
 ---
 
@@ -60,4 +60,4 @@ created: 1634620119007
 - [^1]: https://www.dolthub.com/blog/2023-08-07-temporal-database/
 - https://blog.podsnap.com/bitemp.html
 - https://realfiction.net/posts/2d-or-bitemporal-historization-a-primer/
-  - 
+- [[book.bitemporal-data-theory-and-practice]]
