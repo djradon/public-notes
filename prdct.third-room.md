@@ -4,11 +4,11 @@ title: Third Room
 desc: >-
   open, standards-based, decentralised vision of the metaverse for the open Web,
   built entirely on Matrix
-updated: 1707497422177
+updated: 1711912570221
 created: 1672343537168
 ---
 
-- #dead See [](https://matrix.to/#/!rzmCByrDIhEbURWmyW:matrix.org/$Ma0FH-hEbXdTSdTFNCH5m-LhJ8zKgznnSi91g0K78dE?via=matrix.org&via=thirdroom.io&via=element.io)
+- #dead due to lack of funding See [](https://matrix.to/#/!rzmCByrDIhEbURWmyW:matrix.org/$Ma0FH-hEbXdTSdTFNCH5m-LhJ8zKgznnSi91g0K78dE?via=matrix.org&via=thirdroom.io&via=element.io)
 - [[c.software.metaverse-platform]]
 
 - url: https://thirdroom.io/

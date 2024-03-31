@@ -1,8 +1,8 @@
 ---
 id: geowoyp3iip20n7kjq1royq
 title: A Non Euclidean View of California as a Cold Place to Be
-desc: ''
-updated: 1711903049262
+desc: 'Will you choose freedom without happiness, or happiness without freedom? The only answer one can make, I think is: No.'
+updated: 1711915418438
 created: 1711901206026
 ---
 
