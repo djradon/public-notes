@@ -2,7 +2,7 @@
 id: ahbj9ejugov8rjiywj5qqc8
 title: Shacl
 desc: ''
-updated: 1706657446173
+updated: 1711997128435
 created: 1706306106639
 ---
 
@@ -22,4 +22,4 @@ created: 1706306106639
 ## References
 
 - https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
-- 
+- https://news.ycombinator.com/item?id=31890041

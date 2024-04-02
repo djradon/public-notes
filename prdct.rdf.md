@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1710823101429
+updated: 1712017246823
 created: 1633160681527
 ---
 
@@ -39,6 +39,27 @@ created: 1633160681527
 - see [[ar.a-temporal-rdf-model-for-multi-grained-time-information-modeling]]
 - https://blog.iandavis.com/2009/08/representing-time-in-rdf-part-1/
 - [Temporal RDF](http://www.dcc.uchile.cl/~cgutierr/papers/temporalRDF.pdf) introduces a fourth time component to the triple. "I chose not to cover this approach in a lot of detail because it extends the RDF model in a way that no current triple store implements"
+
+## Abstract Model
+
+
+### 1.5 RDF and Change over Time
+
+The RDF data model is atemporal: RDF graphs are static snapshots of information.
+
+However, RDF graphs can express information about events and about temporal aspects of other entities, given appropriate vocabulary terms.
+
+Since RDF graphs are defined as mathematical sets, adding or removing triples from an RDF graph yields a different RDF graph.
+
+We informally use the term RDF source to refer to a persistent yet mutable source or container of RDF graphs. An RDF source is a resource that may be said to have a state that can change over time. A snapshot of the state can be expressed as an RDF graph. For example, any web document that has an RDF-bearing representation may be considered an RDF source. Like all resources, RDF sources may be named with IRIs and therefore described in other RDF graphs.
+
+Intuitively speaking, changes in the universe of discourse can be reflected in the following ways:
+
+  - An IRI, once minted, should never change its intended referent. (See URI persistence [WEBARCH].)
+  - Literals, by design, are constants and never change their value.
+  - A relationship that holds between two resources at one time may not hold at another time.
+  - RDF sources may change their state over time. That is, they may provide different RDF graphs at different times.
+  - Some RDF sources may, however, be immutable snapshots of another RDF source, archiving its state at some point in time.
 
 
 
