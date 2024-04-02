@@ -34,5 +34,11 @@
         "scope": "markdown,yaml",
         "body": "## References",
         "description": "a humane, well-used heading"
+    },
+    "refs": {
+        "prefix": "d",
+        "scope": "markdown,yaml",
+        "body": "## Description",
+        "description": "a humane, well-used heading"
     }
 }
