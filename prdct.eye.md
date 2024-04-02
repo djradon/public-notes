@@ -1,8 +1,8 @@
 ---
 id: s6v0lmr09tluo9tqkkicedu
 title: Eye
-desc: ''
-updated: 1710690157282
+desc: 'Euler Yet another proof Engine'
+updated: 1712095373473
 created: 1710689513392
 ---
 
@@ -10,3 +10,4 @@ created: 1710689513392
 - repo: https://github.com/eyereasoner/eye
 - written_in: prolog
 - supports: [[prdct.notation3]]
+- related: [[prdct.koreografeye]]
