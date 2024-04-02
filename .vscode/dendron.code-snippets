@@ -35,7 +35,7 @@
         "body": "## References",
         "description": "a humane, well-used heading"
     },
-    "refs": {
+    "desc": {
         "prefix": "d",
         "scope": "markdown,yaml",
         "body": "## Description",
