@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1712017246823
+updated: 1712078210218
 created: 1633160681527
 ---
 
@@ -10,11 +10,18 @@ created: 1633160681527
 
 - [[p.instanceOf]] [[c.specification]]
 
-## to do
+## Datasets
+
+- An RDF dataset is a collection of RDF graphs, and comprises:
+
+  - Exactly one default graph, being an RDF graph. The default graph does not have a name and MAY be empty.
+  - Zero or more named graphs. Each named graph is a pair consisting of an IRI or a blank node (the graph name), and an RDF graph. Graph names are unique within an RDF dataset.
+- "We informally use the term RDF source to refer to a persistent yet mutable source or container of RDF graphs."
+
+### Dataset Thoughts
 
 - [-] [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
   - the concept of the "unnamed default graph"/master-graph is interesting; 
-    - seems like dendron.yml is the master graph. expre
   - [[c.resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
 
 ## Highlights
