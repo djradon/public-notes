@@ -2,12 +2,13 @@
 id: ulcpsxyesx6mxgsgapascns
 title: DNS Ultralite
 desc: 'DOLCE+DnS (Descriptions and Situation) Ultralite ontology'
-updated: 1710890567295
+updated: 1712176455215
 created: 1710890567295
 ---
 
 - [[c.ontology.upper]]
 - simplification_of: [[prdct.dolce.lite-plus]]
+- related: [[prdct.d0]]
 - url: http://www.ontologydesignpatterns.org/ont/dul/DUL.owl
 
 ## Description
