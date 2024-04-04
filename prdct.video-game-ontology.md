@@ -2,12 +2,14 @@
 id: 3k2eyrc8wnr1pjktij6yke1
 title: Video Game Ontology
 desc: ''
-updated: 1712256065410
+updated: 1712266609874
 created: 1712255421910
 ---
 
+- dead since 2015
 - url: http://vocab.linkeddata.es/vgo/
 - repo: https://github.com/dgarijo/VideoGameOntology
+- uses: [[prdct.lode]]
 
 ![](/assets/images/2024-04-04-11-41-00.png)
 
@@ -24,6 +26,14 @@ Properties
 Data Properties
 
     end Time event Time event Name release Date start Time username 
+
+## Issues
+
+- http://purl.org/net/VideoGameOntology#Item does differentiate between abstract items from one that is actually encountered
+  - the example of "Potion" is more like ItemType
+- http://purl.org/net/VideoGameOntology#LoseEvent doesn't differentiate between an agent losing something and a character losing something. 
+  - superclasse GameEvent says "GameEvent describes an event that takes place in a game without straight player interaction" but a LoseEvent example is "a player can lose a character due to trade with another player"
+- http://vocab.linkeddata.es/vgo/#purchasesGameOffering and GameProduct: "Basically a Game Product can be anything, a character, an item or an achievement." but has no domain specified... 
 
 ## References
 
