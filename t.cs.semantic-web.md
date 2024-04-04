@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1710689513069
+updated: 1712248242044
 created: 1633629215451
 ---
 
@@ -39,3 +39,6 @@ created: 1633629215451
 - [[book.design-and-implementation-of-ontologies-in-java-and-apache-jena]]
 - [^1]: https://www.w3.org/TR/swbp-n-aryRelations/
 
+## References
+
+- [[ar.a-review-of-the-semantic-web-field]]
