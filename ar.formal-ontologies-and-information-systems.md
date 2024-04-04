@@ -30,4 +30,4 @@ created: 1712177225025
 
 ### Ontology-driven Information Systems
 
-- When discussing the impact an ontology can have on an IS, we can distinguish two orthogonal dimensions: a temporal dimension, concerning whether an ontology is used at development time or at run time (i.e., for an IS or within an IS)
+- When
