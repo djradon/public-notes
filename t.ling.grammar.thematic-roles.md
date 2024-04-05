@@ -2,7 +2,7 @@
 id: 5wmc8dgfqxy26r82173lilz
 title: Thematic Roles
 desc: 'The arguments which a verb assigns are referred to as Thematic or Theta Roles.'
-updated: 1696962125504
+updated: 1712344019254
 created: 1696825380073
 ---
 
@@ -19,4 +19,7 @@ created: 1696825380073
 ## Related Topics
 
 - [[t.ling.grammar.theta-theory]]
-- 
+
+## References
+
+- [[book.speech-and-language-processing]]

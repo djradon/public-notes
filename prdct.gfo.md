@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1710856518647
+updated: 1712349173968
 created: 1709751631541
 ---
 
@@ -77,28 +77,34 @@ uses the part-of relation and the construction of mereological sums
   - Elementary individuals that are related to other individuals by some kind of dependency relation are called attributives. They include, among others, qualities, relators, roles, functions, dispositions, and structural features
   - Material objects are wholes consisting of bundles of attributives; furthermore, relational material facts are composed of material objects and relators, and material situations are composed of material facts. 
 - for "We are aware of the problems related to bundle-theory. We agree essentially with the criticism by Gustav Bergmann [1967]" see [[sh.question-log.2024.03.12#what-are-gustav-bergmanns-criticisms-of-bundle-theory]]
-- "An ontology of attributives contributes to an ontology of data because most data should be understood as the result of
-measurements of attributives. "
+
+#### Attributives
+
+- an additional perspective on attributives – illustrated in Fig. 2 – has been developed as a foundation for an integrated data semantics
+![](/assets/images/2024-04-05-13-01-16.png)
+  - object attributives are only intrinsic
+    - @chatgpt.4 an extrinsic attributive in programming or data modeling is an attribute of an object that is not inherent to the object itself but is instead derived from its relationship with other objects or external factors. For example, in a virtual role-playing game, consider an object like a 'sword.' Intrinsic attributes might be its weight, length, or material. An extrinsic attributive could be its 'reputation' which might be derived from its history in the game world (like the number of victories it's been used in or who previously owned it). This reputation isn't a physical property of the sword but is attributed to it based on external factors and relationships.
+  - among object attributives we differentiate presentic and non-presentic ones. A presentic object attributive is determined fully and as a whole by the object it inheres in and a time during which itexists. For example, an individual color of red inhering in some object can be wholly accessed at time points.
+  - "An ontology of attributives contributes to an ontology of data because most data should be understood as the result of measurements of attributives. "
 - "A presentic object attributive is determined fully and as a whole by the object it inheres in and a time during which it exists. For example, an individual color of red inhering in some object can be wholly accessed at time points. "
-  - "a presentic object attributive thus gives rise to a continuant, on the one hand, which itself exhibits, at each time point of its lifetime, a wholly present attributive at that time (a presential)"
-- Non-presentic object attributives inhere likewise in objects, but they require something in addition to just their bearer and a time point. For example, the age of an object at a certain point in time is not only determined by that object and that very time point, but it requires something else; say, the initial point in time of the object’s existence. 
-- "Besides, note that the composition of an object with some of its qualities yields more complex entities, called object facts."
-- "Processual attributives have processes and process boundaries as bearers and they are classified into
-presentic and global attributives."
-  - Presentic processual attributives are associated with process boundaries; they must be wholly accessible at time points. The isolated presentic data of process boundaries do not need any reference to a process; they can be completely reduced to object qualities. These are typical qualities of objects that participate in the process. An example of a non-isolated presentic attributive of a process is the velocity of a moving body at a time point (even if it is zero, e.g. as an initial velocity). The velocity cannot be determined and specified without a temporally extended process
-  - "The global attributives of processes present the richest class of attributives of processes. A systematic classification of these attributives is in its initial stage. Their main feature is that it is not meaningful to specify or refer to them at a process boundary. One type of global attributives is abstracted from time se- ries in the form of diagrams (such as curve diagrams). Examples are electro-cardiograms and long-term blood pressure measurements"
+  - a presentic object attributive thus gives rise to a continuant, on the one hand, which itself exhibits, at each time point of its lifetime, a wholly present attributive at that time (a presential).
+  - Non-presentic object attributives inhere likewise in objects, but they require something in addition to just their bearer and a time point. For example, the age of an object at a certain point in time is not only determined by that object and that very time point, but it requires something else; say, the initial point in time of the object’s existence.
+  - note that the composition of an object with some of its qualities yields more complex entities, called object facts.
+- Processual attributives have processes and process boundaries as bearers and they are classified into presentic and global attributives. Presentic processual attributives are associated with process bound- aries; they must be wholly accessible at time points. The isolated presentic data of process boundaries do not need any reference to a process; they can be completely reduced to object qualities. These are typical qualities of objects that participate in the process. An example of a non-isolated presentic at- tributive of a process is the velocity of a moving body at a time point (even if it is zero, e.g. as an initial velocity). The velocity cannot be determined and specified without a temporally extended process.
+- The global attributives of processes present the richest class of attributives of processes. A systematic classification of these attributives is in its initial stage. Their main feature is that it is not meaningful to specify or refer to them at a process boundary. One type of global attributives is abstracted from time se- ries in the form of diagrams (such as curve diagrams). Examples are electro-cardiograms and long-term blood pressure measurements.
   - " Additionally, we emphasize that intrinsic global attributives of processes are themselves processes, called attributive processes. A clear separation between an attributive process and a corresponding bearer-process needs further investigation and clarification. A water wave, for ex- ample, can be considered as an attributive process that occurs on the basic process of local movements of water particles. This basic process is the bearer of the wave"
-  - " Finally for processual attributives, many other global attributives of a process are not derived from time series. Examples are the duration of a process and its occupied space. Physics provides many examples of this kind, for example the average velocity of a moving body. Further investigation of the global attributives of processes should take the distinction between intrinsic and extrinsic attributives into account."
-- "There are further kinds of attributives, including relators, roles, functions, and dispositions, which are more abstract than phenomenal attributives; they cannot be directly perceived or measured. GFO adopts the general understanding of a role where 
-  -  a role individual is defined as a relational entity that links any entity, called the role player (or filler), with some context, in which the entity plays that role
-  -  The notion of role is essential for a broad spectrum of modeling areas, one of which supported by GFO is functional modeling. Its objective is to depict a domain in teleological / functional terms, as contrasted with other aspects, such as structural or behavioral ones.
-  -   The notion of function is built upon that of role: we introduce a function as a category that captures a role played by some entity in the context of a goal achievement (GA), where the GA provides a teleological specification of transitioning to something that is intended to be achieved.
-- interfacing between attributives and knowledge occurs through the transformation from facts to propositions, and thus, in general, from data to knowledge. 
-  - This transformation from a fact (being a part of reality) to a proposition is the (mysterious) pivot of the mind’s ability to transcend the sense-data to achieve a meta-level view on the world. This is an extraordinary ability of the human mind.
+
+- many other global attributives of a process are not derived from time series. Examples are the duration of a process and its occupied space. 
+- There are further kinds of attributives, including relators, roles, functions, and dispositions, which are more abstract than phenomenal attributives; they cannot be directly perceived or measured.
+- GFO adopts the general understanding of a role presented by Frank Loebe [2007], where a role individual is defined as a relational entity that links any entity, called the role player (or filler), with some context, in which the entity plays that role. The notion of role is essential for a broad spectrum of modeling areas, one of which supported by GFO is functional modeling. Its objective is to depict a domain in teleological / functional terms, as contrasted with other aspects, such as structural or behavioral ones.
+  - The notion of function is built upon that of role: we introduce a function as a category that captures a role played by some entity in the context of a goal achievement (GA), where the GA provides a teleological specification of transitioning to something that is intended to be achieved.
+- interfacing between attributives and knowledge occurs through the transformation from facts to propositions, and thus, in general, from data to knowledge. This transformation from a fact (being a part of reality) to a proposition is the (mysterious) pivot of the mind’s ability to transcend the sense-data to achieve a meta-level view on the world. This is an extraordinary ability of the human mind. 
+
 
 ## Formalization in FOL
 
 - the integration law for objects and processes in GFO: For every material object there exists a uniquely determined process, the temporal extension of which equals the lifetime of the material object, and at every time point of that lifetime of the object the presential exhibited by the object is likewise the process boundary of that associated process (at the very same time point).
+- 
 
 ### Integration Axiom
 
@@ -124,6 +130,8 @@ there are only processes, while material objects are considered as particular pr
 ## Concepts, Symbol Structures, and Platonic and Immanent Universals
 
 - @gemini.1.5.advanced GFO accounts for different philosophical stances: It accommodates those who believe in the real existence of universals outside of minds (realism), those who view them as primarily mental (conceptualism), and those who emphasize representations (nominalism).
+
+
 
 ## References
 
