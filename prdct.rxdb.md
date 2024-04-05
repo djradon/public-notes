@@ -2,10 +2,11 @@
 id: 3rwmy2z61qacheaw3kmeczy
 title: Rxdb
 desc: 'offline-first document database'
-updated: 1698953779815
+updated: 1712291890318
 created: 1675064548284
 ---
 
+- [[c.software.database.document]]
 #similar [[prdct.rxdb]] [[prdct.rethinkdb]] [[prdct.supabase]] [[prdct.pouchdb]] [[prdct.lokijs]] [[prdct.gundb]] [[prdct.dexiejs]] ^pnjx84u9yrqy
 - url: https://rxdb.info/
 - author: @daniel-meyer
