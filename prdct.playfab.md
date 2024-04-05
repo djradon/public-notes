@@ -2,7 +2,7 @@
 id: x0p8n2fs9sx22xrj2h0yous
 title: Playfab
 desc: ''
-updated: 1698252759307
+updated: 1712283883016
 created: 1672225977422
 ---
 
@@ -12,6 +12,7 @@ created: 1672225977422
   - [[prdct.node]] 
   - [[prdct.deno]] 
     - [[p.hasSource]] https://deno.land/x/playfab_sdk@210511.0
+  - java https://learn.microsoft.com/en-us/gaming/playfab/sdks/java/
 
 ## [[c.limitation]]
 
