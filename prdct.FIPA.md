@@ -2,10 +2,9 @@
 id: sXAc6YNOEMFUcRv84RDFy
 title: FIPA
 desc: Foundation for Intelligent Physical Agents
-updated: 1701516219394
+updated: 1712534266246
 created: 1637666551697
 ---
-
 
 
 - written-in: java

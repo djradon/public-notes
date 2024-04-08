@@ -2,7 +2,7 @@
 id: 7gdppz90ynqtxqlw29ln9jj
 title: Flecs
 desc: ''
-updated: 1708037773925
+updated: 1712470421539
 created: 1686260852478
 ---
 
@@ -12,6 +12,7 @@ created: 1686260852478
 - written-in: #c #c++ 
 - author: @sander-mertens
 - supports: c# via [[prdct.flecs.flecs-cs]]
+- inspiration: prolog
 
 ## FAQ
 
