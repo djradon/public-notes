@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: 'a particular knowledge base, describing facts assumed to be always true by a community of users, in virtue of the agreed-upon meaning of the vocabulary used'
-updated: 1712179106084
+updated: 1712594692130
 created: 1633445910705
 ---
 
@@ -79,7 +79,7 @@ First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology1
 [[ar.foundational-ontologies-in-action]]
 [Developing and using ontologies in behavioural science: addressing issues raised](https://wellcomeopenresearch.org/articles/7-222)
 [[book.an-introduction-to-ontology-engineering-keet]]
-
+- [[ar.ontology-development-101-a-guide-to-creating-your-first-ontology]]
 ### Resource List
 
 [[ar.where-to-publish-and-find-ontologies-a-survey-of-ontology-libraries]]

@@ -2,7 +2,7 @@
 id: sXAc6YNOEMFUcRv84RDFy
 title: FIPA
 desc: Foundation for Intelligent Physical Agents
-updated: 1712534266246
+updated: 1712594608618
 created: 1637666551697
 ---
 
@@ -22,3 +22,4 @@ created: 1637666551697
 ## Resources
 
 - [[ar.fipa_rdf_content_language_specification]]
+- [[ar.a-fipa-compliant-agent-framework-integrating-protege-2000]]
