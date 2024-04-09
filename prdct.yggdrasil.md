@@ -2,13 +2,14 @@
 id: v9gc1rzp1toqqdn99n4cb0j
 title: Yggdrasil
 desc: 'A framework for programming distributed hypermedia environments for autonomous agents.'
-updated: 1712597258758
+updated: 1712683660447
 created: 1712555355383
 ---
 
 - repo: https://github.com/Interactions-HSG/yggdrasil
 - related: [[prdct.agents-and-artifacts-metamodel]] [[prdct.hyperagents]]
 - built_on: [[prdct.vertx]] [[prdct.webhub]]
+- written_in: java
   
 ## Architecture
 
@@ -33,3 +34,4 @@ This package contains the "HTTP Notification" module. It sends real-time notific
 ## References
 
 - [[ar.engineering-world-wide-multi-agent-systems-with-hypermedia]]
+- [[ar.environment-programming-in-multi-agent-systems-an-artifact-based-perspective]]
