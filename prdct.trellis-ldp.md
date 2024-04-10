@@ -2,7 +2,7 @@
 id: 998vmio52p9j6il8ihjjclc
 title: Trellis Ldp
 desc: ''
-updated: 1712762788391
+updated: 1712777671729
 created: 1712693874287
 ---
 
@@ -10,7 +10,7 @@ created: 1712693874287
 - [[c.software.semantic.linked-data-platform]]
 - repo: https://github.com/trellis-ldp/trellis/
 - related: [[t.cs.semantic-web.linked-data-platform]]
-- uses: [[prdct.webac]]
+- uses: [[prdct.webac]] [[prdct.quarkus]]
 
 ## Standards
 

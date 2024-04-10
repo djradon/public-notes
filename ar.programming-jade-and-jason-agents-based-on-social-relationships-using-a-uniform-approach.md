@@ -33,3 +33,5 @@ created: 1712549097190
 ## References
 
 - [[ar.agents-and-artifacts-a-meta-model-for-agent-oriented-computing]]
+
+We assume that roles cannot live autonomously: they exist

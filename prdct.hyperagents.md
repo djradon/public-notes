@@ -9,6 +9,6 @@ created: 1712554943856
 - [[c.software.agent-framework]]
 - https://project.hyperagents.org/
 - repo: https://github.com/HyperAgents/hmas
-- based_on: [[prdct.jacomo]]
+- based_on: [[prdct.jacamo]]
 - ontology: [[prdct.hypermedia-mult-agent-systems-core-ontology]]
 - similar: [[prdct.yggdrasil]]
