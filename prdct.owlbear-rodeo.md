@@ -2,7 +2,7 @@
 id: 6pa8lfwo9rjh43kwlj2mvuw
 title: Owlbear Rodeo
 desc: 'a web app to run tabletop encounters without the complicated setup process needed for other VTTs'
-updated: 1698252759297
+updated: 1712732238701
 created: 1697002853702
 ---
 
@@ -17,3 +17,11 @@ created: 1697002853702
 
 - [[c.extension]]SDK! 
   - [[c.requirement]] [[prdct.node]]
+
+## User Stories
+
+### simple map sharing is enough
+
+(with a good DM)
+
+![[prdct.dndbeyond#dndbeyond-works-with-owlbear]]
