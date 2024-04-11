@@ -2,7 +2,7 @@
 id: 5yhncaqw6ftc9by6khl6vhm
 title: JaCaMo
 desc: 'development platform that integrates tools and languages for programming the following dimensions of Multi-Agent Systems: agents, environment, and organisation.JaCaMo platform addresses applications demanding autonomy, decentralisation, coordination, and openness.'
-updated: 1712850876052
+updated: 1712853438895
 created: 1694360138732
 ---
 
@@ -11,7 +11,12 @@ created: 1694360138732
 - https://jacamo-lang.github.io/
 - repo: https://sourceforge.net/projects/jacamo/
 - written-in: java
-- related: [[prdct.cartago]] [[prdct.jason]] [[t.cs.agents.multi-agent-oriented-programming]]
+- related: [[prdct.cartago]] [[prdct.jason]] [[t.cs.agents.multi-agent-oriented-programming]] [[prdct.moise]]
+- docs: https://github.com/jacamo-lang/jacamo/tree/main/doc
+
+## Summary
+
+- agents are programmed in Jason [2] using the AgentSpeak language; organisations are specified in Moise [3] in an XML-based document; and environments are coded in Java using the CArtAgO API
 
 
 ![](/assets/images/2024-04-11-08-45-50.png)
@@ -27,3 +32,4 @@ We assume that roles cannot live autonomously: they exist in the system in view 
 
 - [[ar.programming-jade-and-jason-agents-based-on-social-relationships-using-a-uniform-approach]]
 - https://github.com/JaCaMo-EASSS23/slides/blob/main/environment.pdf
+- [[ar.knowledge-level-integration-for-jacamo]]
