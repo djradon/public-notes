@@ -2,12 +2,23 @@
 id: x2tvx8dxd0gwfgkoweegl5t
 title: Modelling Time within a Strongly Typed Database
 desc: ''
-updated: 1709597796838
+updated: 1712869544138
 created: 1697478474599
 ---
 
 - url: https://medium.com/vaticle/modelling-time-within-a-strongly-typed-database-55ba91ecad62
 - [[c.mention]] [[ar.a-brief-ontology-of-time]]
+
+## Summary
+
+  - various complexities can arise in modelling time-based data, including:
+    1. Storage and Indexing: How to store time data fields so they can be accessed quickly
+    2. Division and Aggregation: The smallest sensible time increment, and aggregation methods
+    3. Multiple Timelines: Dealing with changing data
+    4. Slowly Changing Dimensions: Classifying responses to temporal data changes
+    5. Temporally Variable Schema and Data: Capturing schema and data changes
+    6. Mining Temporal Relations: Methods of relating times to other times (e.g. before, after etc.)
+  
 
 ## Issues
 

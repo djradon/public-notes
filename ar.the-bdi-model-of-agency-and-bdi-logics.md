@@ -2,11 +2,12 @@
 id: k9md1z2hae9vmhvqz1l6ys6
 title: The Bdi Model of Agency and Bdi Logics
 desc: ''
-updated: 1712536391314
+updated: 1712865307643
 created: 1712535687623
 ---
 
 - url: http://www.loa.istc.cnr.it/old/Files/bdi.pdf
+- topics: [[t.cs.agents.bdi]]
 
 ![](/assets/images/2024-04-07-17-33-09.png)
 

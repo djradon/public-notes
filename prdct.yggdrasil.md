@@ -2,7 +2,7 @@
 id: v9gc1rzp1toqqdn99n4cb0j
 title: Yggdrasil
 desc: 'A framework for programming distributed hypermedia environments for autonomous agents.'
-updated: 1712683660447
+updated: 1712864870410
 created: 1712555355383
 ---
 
@@ -12,6 +12,8 @@ created: 1712555355383
 - written_in: java
   
 ## Architecture
+
+![](/assets/images/2024-04-11-12-47-47.png)
 
 There are four main modules at play in this project. Each contains a component running in its own "event loop," capable of receiving information from others via "events" - read "messages" - onto an "event bus." An event bus is then a shared communication channel between all event loops. Architecture invariant: all the modules must be as decoupled as possible so they cannot communicate directly and synchronously via method calls. They must communicate in an indirect, asynchronous fashion using message passing.
 

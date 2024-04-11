@@ -2,11 +2,12 @@
 id: 3jcfwzyit3vhlebd96pwhxh
 title: Working Simulations with a Foundational Ontology
 desc: 'outline a foundational simulation ontology (FSO) that models simulations themselves so that not only the domain-specific models can be aligned to a standardized upper level, but also scenario design for ontology-based simulations can be performed by applying state of the art ontology engineering principles'
-updated: 1712174850388
+updated: 1712868325576
 created: 1711700671410
 ---
 
 - url: https://www.sfbtr8.spatial-cognition.de/ailog-2010/ailog-downloads/paper12.pdf
+- similar: [[ar.towards-an-ontological-foundation-of-discrete-event-simulation]]
 
 ## Highlights
 
