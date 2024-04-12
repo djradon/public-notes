@@ -4,9 +4,11 @@ title: Domain-Driven Design
 desc: >-
   DDD is the effort to centralize knowledge of a domain through discussion,
   listening, understanding, discovery
-updated: 1639602188263
+updated: 1712898367370
 created: 1639602044626
 ---
 
 
+## References
 
+- [[ar.medium.the-most-common-domain-driven-design-mistake]]

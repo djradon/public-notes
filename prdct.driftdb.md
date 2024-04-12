@@ -2,14 +2,15 @@
 id: w4s74qsctnz6669tvulo6a7
 title: DriftDB
 desc: 'real-time data backend that runs on the edge'
-updated: 1705597302304
+updated: 1712900296400
 created: 1705596212809
 ---
 
+- [[c.Software.real_time_framework]]
 - no commits since Aug. '23
 - url: https://driftdb.com/
 - written_in: rust
-- repo:  
+- repo:  https://github.com/drifting-in-space/driftdb
 
 ## Description
 
