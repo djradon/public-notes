@@ -4,7 +4,7 @@ title: Event Driven Architecture
 desc: >-
   Event-driven architecture uses events to communicate notable data changes
   between service boundaries
-updated: 1708460709601
+updated: 1713188926308
 created: 1669463161648
 ---
 
@@ -44,7 +44,9 @@ created: 1669463161648
   - https://waswani.medium.com/event-driven-architecture-the-hard-parts-events-vs-messages-0fcfc7243703
     - "So there is a concern of sequence in which things need to be executed to meet the business requirement. And also, the producer service must know the target services which need to perform the required action which goes against the principle of Event Driven Architecture. With Events, because all the consumers react in parallel, controlling the sequence is tough. Messages help to achieve this sequential execution when needed."
 - [[ar.medium.simpplr-technology.event-driven-architecture-the-hard-parts-should-it-be-event-or-a-message]]
+- [[ar.event-granularity-modelling-events-in-event-driven-applications]]
 
 ### [[p.hasLearningResource]]
 
 - [[ar.medium.edge-coders.understanding-node-js-event-driven-architecture]]
+- [[ar.architecture-weekly.inmemory-message-bus-in-typescript]]

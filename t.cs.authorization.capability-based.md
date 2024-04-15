@@ -2,9 +2,11 @@
 id: kysv6kihhxdoyhf5kqv9ybs
 title: Capability Based
 desc: 'Often referred to as simply a ‘key,’ a capability is the single thing that both designates a resource and authorizes some kind of access to it. The capability is an unforgeable token of authority.'
-updated: 1713145748078
+updated: 1713147902803
 created: 1713145608208
 ---
+
+- implementations: [[prdct.e]]
 
 ## Description
 
@@ -15,3 +17,5 @@ created: 1713145608208
 
 - [[ar.capability-myths-demolished]]
 - https://medium.com/@kleffew/what-is-capability-based-security-227c6e5483a5
+- https://github.com/bytecodealliance/wasmtime/blob/main/docs/WASI-capabilities.md
+- http://erights.org/elib/capability/index.html
