@@ -2,7 +2,7 @@
 id: u9du3ro2al7vsk6pybvkoh9
 title: Noosphere
 desc: 'a worldwide decentralized repository for thought, belonging to everybody. A decentralized graph, where you own thoughts, and have agency to move your data between services and apps.'
-updated: 1713143477529
+updated: 1713143778332
 created: 1653256852662
 ---
 
@@ -33,6 +33,10 @@ A data structure that we call a Memo is used to pair open-ended header fields wi
 ### P2P routing and discovery
 
 Every user who publishes to the network does so via a gateway server. The gateway represents the boundary edge of user sovereignty, and also gives the user a reliably available foothold in the Noosphere network. The owner of a notebook is also the owner of the gateway, and third-parties neither have or need direct access to it (even in managed hosting scenarios).
+
+The owner of a notebook enables the gateway to publish the notebook to the network using a [[UCAN|prdct.ucan]]-based authorization scheme. UCANs establish a cryptographic chain of proof that allows anyone to verify in place that the gateway was authorized to perform actions such as signing content on the user's behalf (and without asking the user to share cryptographic keys with the gateway).
+
+When the user updates their notebook, they replicate the revision deltas to the gateway over HTTP (as network availability allows), and also tell the gateway which CID represents the latest version of the notebook. The revision deltas are syndicated to the public network via IPFS. Then, the gateway publishes the latest revision CID to a [[t.cs.distributed.hash-table]] (see: Noosphere Name System) mapping it to the notebook's public key and pairing it with the UCAN proof chain.
 
 ## References
 

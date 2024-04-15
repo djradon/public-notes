@@ -2,10 +2,11 @@
 id: l5q3vm57bgrb4095uiqftig
 title: Fission
 desc: 'construct identity, data, and compute solutions for the future of the Internet'
-updated: 1687844909107
+updated: 1713144079393
 created: 1682971803349
 ---
 
+- winding down as of 2024-05
 
 ## [[c.product]]
 
