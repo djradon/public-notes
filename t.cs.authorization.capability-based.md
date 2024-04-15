@@ -1,12 +1,16 @@
 ---
 id: kysv6kihhxdoyhf5kqv9ybs
 title: Capability Based
-desc: 'Often referred to as simply a ‘key,’ a capability is the single thing that both designates a resource and authorizes some kind of access to it. The capability is an unforgeable token of authority.'
-updated: 1713147902803
+desc: >-
+  Often referred to as simply a ‘key,’ a capability is the single thing that
+  both designates a resource and authorizes some kind of access to it. The
+  capability is an unforgeable token of authority.
+updated: 1713213278040
 created: 1713145608208
 ---
 
 - implementations: [[prdct.e]]
+- related: [[t.cs.authorization.macaroons]] [[prdct.storj]]
 
 ## Description
 

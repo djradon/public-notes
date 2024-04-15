@@ -1,8 +1,8 @@
 ---
 id: vm1ue4g4ympj6kc1d7qyshn
-title: Inmemory Message Bus in TypeScript
+title: In-memory Message Bus in TypeScript
 desc: ''
-updated: 1713188962527
+updated: 1713212802613
 created: 1713188926791
 ---
 
