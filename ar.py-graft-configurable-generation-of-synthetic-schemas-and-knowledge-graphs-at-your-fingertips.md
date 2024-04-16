@@ -4,7 +4,7 @@ title: >-
   Py Graft Configurable Generation of Synthetic Schemas and Knowledge Graphs at
   Your Fingertips
 desc: ''
-updated: 1713197904520
+updated: 1713198535819
 created: 1713197740775
 ---
 
