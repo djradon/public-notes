@@ -2,7 +2,7 @@
 id: 3fa0re3cagbpf2ne3f0rsfe
 title: Foundational
 desc: ''
-updated: 1713223644560
+updated: 1713282493986
 created: 1713223599956
 ---
 
@@ -23,4 +23,4 @@ A subset of domain ontology developers do not see a benefit:
 
 ## References
 
-- https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/An_Introduction_to_Ontology_Engineering_(Keet)/07%3A_Top-Down_Ontology_Development/7.02%3A_Foundational_Ontologies
+- [[book.an-introduction-to-ontology-engineering-keet]]
