@@ -4,7 +4,7 @@ title: Event Driven Architecture
 desc: >-
   Event-driven architecture uses events to communicate notable data changes
   between service boundaries
-updated: 1713188926308
+updated: 1713286757204
 created: 1669463161648
 ---
 
@@ -45,6 +45,7 @@ created: 1669463161648
     - "So there is a concern of sequence in which things need to be executed to meet the business requirement. And also, the producer service must know the target services which need to perform the required action which goes against the principle of Event Driven Architecture. With Events, because all the consumers react in parallel, controlling the sequence is tough. Messages help to achieve this sequential execution when needed."
 - [[ar.medium.simpplr-technology.event-driven-architecture-the-hard-parts-should-it-be-event-or-a-message]]
 - [[ar.event-granularity-modelling-events-in-event-driven-applications]]
+- [[ar.medium.exploring-advanced-error-handling-patterns-with-event-driven-architecture-part-i]]
 
 ### [[p.hasLearningResource]]
 

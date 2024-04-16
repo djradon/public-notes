@@ -4,7 +4,7 @@ title: >-
   Programming Jade and Jason Agents Based on Social Relationships Using a
   Uniform Approach
 desc: ''
-updated: 1712554728337
+updated: 1713288395800
 created: 1712549097190
 ---
 
@@ -34,4 +34,4 @@ created: 1712549097190
 
 - [[ar.agents-and-artifacts-a-meta-model-for-agent-oriented-computing]]
 
-We assume that roles cannot live autonomously: they exist
+We assume that roles cannot live autonomously: they exists
