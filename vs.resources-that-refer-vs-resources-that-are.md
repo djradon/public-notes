@@ -2,23 +2,57 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1705691852929
+updated: 1713299274056
 created: 1633593028328
 ---
 
--- aka: indicator vs resource
+- aka: 
+  - indicator vs resource
+  - content vs sense
+  - httpRange-14
+
+## Possibilities
+
+There are four possibilities for a given URI:
+
+- the URI is being used to locate some content
+- the URI is being used to refer to a sense
+- the URI is being used to identify either content or sense but it’s not specified which
+- the URI is being used to both locate content and refer to a sense (ie a property applies equally to both)
+
+
+
+## Discussion
+
 
 
 - "surely the distinction between a network-retrievable information resource and "everything else" is of fundamental importance to the whole architecture of the Web"
 - "**Distinguishing between Representations and Descriptions** using URIs, it is possible to identify both a thing (which may exist outside of the Web) and a Web document describing the thing... According to W3C guidelines ([AWWW], section 2.2.), we have a Web document (there called information resource) if all its essential characteristics can be conveyed in a message. Examples are a Web page, an image or a product catalog... The first solution is to use “hash URIs” for non-document resources... a URI that includes a hash cannot be retrieved directly, and therefore does not necessarily identify a Web document... The second solution is to use a special HTTP status code, 303 See Other, to give an indication that the requested resource is not a regular Web document."
   - [[ar.w3.cool-uris]] "https://www.w3.org/TR/cooluris/"
+- "the problem surfaces when IRIs are used to identify both a representation, i.e., the bytes on the wire, and an abstract resource such as a person." 
+  - "commonly known as the httpRange-14 issue [81], the identifier assigned by the W3C’s Technical Architecture Group (TAG) in its issue tracker. The resolution of that issue was an advice to the community [82] to either use fragment identifiers or HTTP 303 See Other redirects to signal that an IRI identifies an abstract resource (formally known as a non-information resource), such as a person, instead of the returned representation, i.e., the document describing the person."
+  - "The most promising proposals at the time of this writing involve “punning” to use the same IRI to mean different things. They use the context in which an IRI is used to determine whether the representation or the abstract concept is meant."
+  - 
 
 ## Possible Solutions
 
 - the syntactic structure of the URI itself can indicate whether the URI is a subject address or a subject identifier; or else the syntactic context in which the URI is used can determine its role
 
-### Ideas from Topic Maps
+### 303 redirects
 
+- "use a 303 See Other redirection to a URI whose content (which is the only sense of the URI in this design, remember) describes the original URI"
+
+### Hash URI
+
+This gives a very similar pattern to the 303 redirect, as you can see from the diagram below; the only difference is that instead of following a 303 See Other redirection to get from one URI to the other, you can use URI parsing: you chop off the fragment part of the URI and perform a GET on the resulting URI to get a description.
+
+### Property determines content vs sense
+
+- "The property itself determines whether it applies to the content located by the URI (the page) or a sense referred to by the URI (in this case, the thing the page describes)"
+  - "Some properties have a defined domain or range that precludes the property from being used to annotate content." but others don't, e.g. cc:license has a domain of cc:work
+- "To support “punning”, therefore, RDF vocabulary designers would need to have additional properties that could be applied to RDF Properties to indicate how their subject (and object where applicable) should be interpreted."
+
+#### Ideas from Topic Maps
 - [subject indicators] divided into:
   - 1. resourceRef (subject address)
   - 2. subjectIndicatorRef (subject indicator)
@@ -79,3 +113,7 @@ created: 1633593028328
 - [1]: [[ar.ontopia.curing-the-webs-identity-crisis]]
 
 
+## References
+
+- [[ar.third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data]]
+- http://www.jenitennison.com/2012/05/11/using-punning-to-answer-httprange-14.html
