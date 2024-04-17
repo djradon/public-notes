@@ -1,8 +1,8 @@
 ---
 id: z2pdjalmw75v5o9rmonjrpe
 title: Collaborative Customer Facing Data
-desc: 'CCFD is '
-updated: 1713137885841
+desc: 'CCFD is kinda like data sovereignty'
+updated: 1713373114760
 created: 1713137782066
 ---
 

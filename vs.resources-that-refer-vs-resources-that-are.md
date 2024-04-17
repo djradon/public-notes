@@ -2,13 +2,13 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1713299274056
+updated: 1713364444403
 created: 1633593028328
 ---
 
 - aka: 
   - indicator vs resource
-  - content vs sense
+  - send vs content
   - httpRange-14
 
 ## Possibilities
@@ -20,7 +20,9 @@ There are four possibilities for a given URI:
 - the URI is being used to identify either content or sense but it’s not specified which
 - the URI is being used to both locate content and refer to a sense (ie a property applies equally to both)
 
+## Thoughts
 
+- you could make sure "sense" URIs are just never resources/documents/content
 
 ## Discussion
 
