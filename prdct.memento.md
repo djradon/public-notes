@@ -2,13 +2,16 @@
 id: oav7t04pwgiql9e7l2jfdxa
 title: Memento
 desc: ''
-updated: 1712689091301
+updated: 1713330468797
 created: 1712687975758
 ---
 
 - url: https://mementoweb.org/
 - related: [[prdct.ipld]]
 
+## Use Cases
+
+- "the Memento protocol provides a promising solution for the archiving, citation, retrieval, discovery, synchronization and sustainability challenges of data management."
 
 ## Resources
 
