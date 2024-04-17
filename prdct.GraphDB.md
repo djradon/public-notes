@@ -2,7 +2,7 @@
 id: RJuARDM7QgEnTon40cd13
 title: GraphDB
 desc: ''
-updated: 1713246704941
+updated: 1713290249999
 created: 1637954631007
 ---
 
@@ -21,6 +21,7 @@ created: 1637954631007
 - can be used with [[prdct.jena]], see https://graphdb.ontotext.com/documentation/9.1/free/using-graphdb-with-jena.html
 - [[prdct.sparql.mm]] supports "system time" queries
   - "Note that querying the history log may be slow for big history logs. This is why we recommend using filters to reduce the number of history entries if you have a big repository."
+- [[prdct.sparql.geosparql]]
 
 ## References
 

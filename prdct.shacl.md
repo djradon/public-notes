@@ -2,7 +2,7 @@
 id: ahbj9ejugov8rjiywj5qqc8
 title: Shacl
 desc: ''
-updated: 1712085916551
+updated: 1713291033656
 created: 1706306106639
 ---
 
@@ -24,3 +24,4 @@ created: 1706306106639
 - https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
 - https://news.ycombinator.com/item?id=31890041
 - https://archive.topquadrant.com/owl-blog/
+- https://www.ontotext.com/knowledgehub/fundamentals/what-is-shacl/
