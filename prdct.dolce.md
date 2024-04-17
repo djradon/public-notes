@@ -1,8 +1,8 @@
 ---
 id: mjcpuwi7bne4r8moc0uruzx
-title: Dolce
+title: DOLCE
 desc: Descriptive Ontology of particulars for Linguistic and Cognitive Engineering
-updated: 1712175951787
+updated: 1713385476076
 created: 1698268244398
 ---
 

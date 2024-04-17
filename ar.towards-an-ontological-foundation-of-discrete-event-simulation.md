@@ -2,7 +2,7 @@
 id: tftpwuvya5sgnm6wmxfnkxo
 title: Towards an Ontological Foundation of Discrete Event Simulation
 desc: ''
-updated: 1712868523111
+updated: 1713376915825
 created: 1712868326013
 ---
 
@@ -12,3 +12,6 @@ created: 1712868326013
 ## Abstract
 
 This paper is an attempt to transfer some results in the meta-theory of conceptual modeling of software systems to discrete event simulation modeling. We present DESO, a foundational ontology for discrete event system modeling derived from the foundational ontology UFO. The main purpose of DESO is to provide a basis for evaluating discrete event simulation languages.
+
+![](/assets/images/2024-04-17-11-01-49.png)
+
