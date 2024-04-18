@@ -2,13 +2,13 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: ''
-updated: 1713364444403
+updated: 1713467577230
 created: 1633593028328
 ---
 
 - aka: 
   - indicator vs resource
-  - send vs content
+  - sense vs content
   - httpRange-14
 
 ## Possibilities
@@ -22,7 +22,8 @@ There are four possibilities for a given URI:
 
 ## Thoughts
 
-- you could make sure "sense" URIs are just never resources/documents/content
+- you could make sure "sense" URIs are just never resources/documents/content,
+  - maybe a LOD site has an indicator subdomain and a resource domain, indicator.stagecraft.io and content.stagecraft.io; or probably better, stagecraft.io/i/... and stagecraft.io/content
 
 ## Discussion
 
