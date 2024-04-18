@@ -1,14 +1,17 @@
 ---
 id: 3oygg06p6jjbt68la0azf1f
 title: eUFO
-desc: 'essential Unified Foundational Ontology'
-updated: 1713381663269
+desc: 'essential/executable Unified Foundational Ontology'
+updated: 1713464925539
 created: 1712868624751
 ---
 
-## References
+- similar: [[prdct.unified-foundational-ontology.gentle]]
 
-- [[ar.towards-an-ontological-foundation-of-discrete-event-simulation]]
+![](/assets/images/2024-04-17-11-23-06.png)
+
+![](/assets/images/2024-04-17-11-22-46.png)
+
 
 ## Terms
 
@@ -88,3 +91,7 @@ do not want to include amounts of matter, relators or qualities in a simulation 
 - Sortal types are confusing... two Apples are the same?
 - Base types: Person, but... in a fantasy world, even a creature could be transformed into a lamp
   
+
+## References
+
+- [[ar.towards-an-ontological-foundation-of-discrete-event-simulation]]

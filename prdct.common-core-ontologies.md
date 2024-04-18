@@ -1,8 +1,8 @@
 ---
 id: zpjzyrw9areg7unx2h1pkbz
 title: Common Core Ontologies
-desc: ''
-updated: 1701119226706
+desc: 'mid-level extension of Basic Formal Ontology (BFO)'
+updated: 1713458485376
 created: 1698275549069
 ---
 

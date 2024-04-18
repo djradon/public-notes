@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1713387591548
+updated: 1713464767858
 created: 1698268407267
 ---
 
@@ -15,6 +15,8 @@ created: 1698268407267
 - based_on: [[prdct.dolce]] [[prdct.ontoclean]]
 - repo: https://github.com/unibz-core/ufo-formalization
 - docs: [[ar.a-first-order-logic-formalization-of-the-unified-foundational-ontology]]
+
+![](/assets/images/2024-04-18-11-24-08.png)
  
 ## Issues
 
@@ -24,11 +26,9 @@ created: 1698268407267
 
 -   **UFO-A**: An Ontology of Endurants dealing with aspects of structural conceptual modeling. It is organized as a Four-Category ontology comprising theories of Types and Taxonomic Structures connected to a theory of object identifiers (including a formal semantics in a Sortal Quantified Modal Logics), Part-Whole Relations, Particularized Intrinsic Properties, Attributes and Attribute Value Spaces (including a theory of Datatypes as Measure Structures), Particularized Relational Properties and Relations and Roles;
   
-![](/assets/images/2024-04-17-11-23-06.png)
 
 -   **UFO-B**: An Ontology of Perdurants (Events, Processes) dealing with aspects such as Perdurant Mereology, Temporal Ordering of Perdurants, Object Participation in Perdurants, Causation, Change and the connection between Perdurants and Endurants via Dispositions;
    
-![](/assets/images/2024-04-17-11-22-46.png)
 
 
 -   **UFO-C:** An Ontology of Intentional and Social Entities, which is constructed on top of UFO- A and UFO-B, and which addresses notions such as Beliefs, Desires, Intentions, Goals, Actions, Commitments and Claims, Social Roles and Social Particularized Relational Complexes (Social Relators), among others.
@@ -38,8 +38,6 @@ created: 1698268407267
 
 ## Resources
 
-- https://www.academia.edu/71948359/UFO_Unified_Foundational_Ontology
-- https://nemo.inf.ufes.br/wp-content/papercite-data/pdf/towards_ontological_foundations_for_conceptual_modeling__the_unified_foundational_ontology__ufo__story_2015.pdf
 
 
 ## References
@@ -49,3 +47,5 @@ created: 1698268407267
 Applications of it in Business Modeling](https://ceur-ws.org/Vol-125/paper2.pdf)
 - [[ar.ontological-foundations-for-structural-conceptual-models]]
 - [[ar.towards-ontological-foundations-for-agent-modeling-concepts-using-ufo]]
+- [[ar.towards-ontological-foundations-for-conceptual-modeling-the-unified-foundational-ontology-ufo-story]]
+- [[ar.ufo-unified-foundational-ontology]]

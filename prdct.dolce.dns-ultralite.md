@@ -2,16 +2,25 @@
 id: ulcpsxyesx6mxgsgapascns
 title: DNS Ultralite
 desc: 'DOLCE+DnS (Descriptions and Situation) Ultralite ontology'
-updated: 1712176455215
+updated: 1713459630730
 created: 1710890567295
 ---
 
 - [[c.ontology.upper]]
 - simplification_of: [[prdct.dolce.lite-plus]]
-- related: [[prdct.d0]]
-- url: http://www.ontologydesignpatterns.org/ont/dul/DUL.owl
+- related: [[prdct.d0]] [[prdct.dolce.plans-lite]] [[prdct.dolce.information-objects]] [[prdct.dolce.systems-lite]] [[prdct.dolce.core-legal]] [[prdct.dolce.lexical]]
+- url: 
+  - http://ontologydesignpatterns.org/wiki/Ontology:DOLCE+DnS_Ultralite
+  - http://www.ontologydesignpatterns.org/ont/dul/DUL.owl
+  - http://www.ontologydesignpatterns.org/ont/dul/DUL_v40.owl
+
+## Issues
+
+- properties are all SubProperty of associatedWith
 
 ## Description
+
+the DOLCE+D&S Ultralite15 (DUL) OWL ontology was intended to popularize DOLCE to the Semantic Web community. DUL uses DOLCE, D&S, and a few more ontology design patterns (Plan16, Information Object17, and Collection, that extend DOLCE. See [29] for an account of DUL as an architec- ture of ontology design patterns inspired by those integrated theories, and [12] for an integrated axiom- atization of plans, information objects and collections in D&S. DUL is the result of various refinements and integrations of the OWL versions of those theories. The main motivations why DUL was conceived include: (i) intuitive terminology (e.g. substituting Endurant and Perdurant with Object and Event), (ii) lighter axiomatization (e.g. giving up some predicate indexing), (iii) integration of other theories, (iv) semantic-web-oriented OWL2 modeling styles. [^1]
 
 Main aspects in which DOLCE+DnS Ultralite departs from DOLCE Lite-Plus are the following:
 
@@ -53,3 +62,8 @@ Ultimately, this discussion has no end, because realists will keep defending the
 Both positions are in principle valid, but, if taken too radically, they focus on issues that are only partly relevant to the aim of computational ontologies, which assist domain experts in representing a certain portion of reality according to their own assumptions and requirements. 
 
 For this reason, in this ontology version of DOLCE, both events and situations are allowed, together with descriptions (the reason for the inclusion of the D&S framewrok in DOLCE), in order to encode the modelling needs, independently from the position (if any) chosen by the model designer."
+
+
+## References
+
+- [^1]: [[ar.dolce-a-descriptive-ontology-for-linguistic-and-cognitive-engineering]]
