@@ -2,7 +2,7 @@
 id: RJuARDM7QgEnTon40cd13
 title: GraphDB
 desc: ''
-updated: 1713290249999
+updated: 1713369261277
 created: 1637954631007
 ---
 
@@ -12,6 +12,7 @@ created: 1637954631007
 - [[p.supports]] [[prdct.rdf-star]]
 - produced_by: [[org.ontotext]]
 - based_on: [[prdct.rdf4j]]
+- related: [[prdct.ontotext-platform]]
 
 
 ## Features
