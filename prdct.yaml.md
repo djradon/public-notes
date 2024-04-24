@@ -2,7 +2,7 @@
 id: 36h5cstfnd55cap4r9jcxlb
 title: Yaml
 desc: ''
-updated: 1702322885777
+updated: 1713554351719
 created: 1700803399777
 ---
 
@@ -20,6 +20,7 @@ created: 1700803399777
 ## Issues
 
 - YAML lacks protections from corrupted YAML files. [^1]
+- why not just assume that if the values don't start with a single or double quote, it should just be interpretted as the whole line is quoted
 
 ## Example
 
