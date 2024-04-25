@@ -2,7 +2,7 @@
 id: RJuARDM7QgEnTon40cd13
 title: GraphDB
 desc: ''
-updated: 1713369261277
+updated: 1714072322261
 created: 1637954631007
 ---
 
@@ -23,6 +23,9 @@ created: 1637954631007
 - [[prdct.sparql.mm]] supports "system time" queries
   - "Note that querying the history log may be slow for big history logs. This is why we recommend using filters to reduce the number of history entries if you have a big repository."
 - [[prdct.sparql.geosparql]]
+- javascript support allows custom functions
+  - could be useful in context of auto-versioning [[ar.star-vers-versioning-and-timestamping-rdf-data-by-means-of-rdf-star-an-approach-based-on-annotated-triples]]
+- [spatial extensions](https://graphdb.ontotext.com/documentation/10.6/geo-spatial-extensions.html?highlight=spatial)
 
 ## References
 

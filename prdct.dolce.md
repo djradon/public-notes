@@ -2,7 +2,7 @@
 id: mjcpuwi7bne4r8moc0uruzx
 title: DOLCE
 desc: Descriptive Ontology of particulars for Linguistic and Cognitive Engineering
-updated: 1713458565558
+updated: 1714068799638
 created: 1698268244398
 ---
 
@@ -11,6 +11,10 @@ created: 1698268244398
 - similar: [[prdct.dolce-lite]] [[prdct.dolce.dns-ultralite]]  [[prdct.d0]]
 - related: [[prdct.colore]]
 - terms: https://github.com/gruninger/colore/blob/master/ontologies/dolce/DOLCE-Terms.docx
+
+## Thoughts
+
+- 
 
 ## Elements
 
