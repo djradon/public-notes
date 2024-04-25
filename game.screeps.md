@@ -2,11 +2,11 @@
 id: 30icxq3211jpe24dckfzfqu
 title: Screeps
 desc: 'MMO RTS sandbox game for programmers, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operate 24/7 in the single persistent world filled by other players on par with you.'
-updated: 1712293348327
+updated: 1714060715093
 created: 1707316439843
 ---
 
-- similar: [[prdct.robocode]] [[prdct.robocode.tank-royale]] [[game.screeps]] [[prdct.battlecode]]
+- similar: [[prdct.robocode]] [[prdct.robocode.tank-royale]] [[game.screeps]] [[prdct.battlecode]] [[game.space_traders]] ^zwsvp7ab3c0e
 
 ## Architecture
 

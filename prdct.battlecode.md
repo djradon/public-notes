@@ -2,11 +2,12 @@
 id: mlv4hxyo6rufbtiwa0o86wc
 title: Battlecode
 desc: ''
-updated: 1712293375462
+updated: 1714060730475
 created: 1712293348674
 ---
 
 - url: https://battlecode.org/
+![[game.screeps#^zwsvp7ab3c0e]]
 
 ## References
 
