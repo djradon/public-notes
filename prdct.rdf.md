@@ -2,14 +2,16 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1712866075204
+updated: 1714165960596
 created: 1633160681527
 ---
 
 - related: [[prdct.rdf-processing-toolkit]]
-
-
 - [[p.instanceOf]] [[c.specification]]
+
+## Features
+
+- Blank (or anonymous) nodes are RDF resources with identifiers that exist only locally. In other words, their identifiers are not URLs. They are sometimes also called anonymous nodes. They make life easier for data producers, who can easily create (nested) resources without having to mint all the URLs. In most non-RDF data models, blank nodes are the default. For example, we nest JSON object without thinking twice.
 
 ## Datasets
 
