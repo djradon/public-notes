@@ -2,9 +2,11 @@
 id: 490hjog9ut6bjlto7533c7y
 title: Allegrograph
 desc: ''
-updated: 1712901250062
+updated: 1714113625188
 created: 1705534208167
 ---
+
+- published_by: [[org.franz-inc]]
 
 ## References
 
