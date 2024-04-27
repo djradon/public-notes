@@ -2,12 +2,13 @@
 id: lsqn84g8faksg2jxvbj9e1f
 title: JSON-AD
 desc: 'atomic data'
-updated: 1710789774943
+updated: 1714187088435
 created: 1710789774943
 ---
 
 - similar: [[prdct.hextuples]]
 - use_case: Use JSON-AD if you don't have to support existing RDF data, but do value JSON compatibility and type safety.
+- creator: @joep-meindertma
 
 ## Description
 

@@ -2,9 +2,19 @@
 id: 13s2lqwflayx6ft508wgzpw
 title: Atomic Data
 desc: 'use all knowledge of the world as if it were a big JSON object'
-updated: 1714165880666
+updated: 1714187671353
 created: 1714115290895
 ---
+
+- published-by: [[org.ontola]]
+- related: [[prdct.json-ad]]
+
+## Thoughts
+
+- not being able to use common namespace:terms is kinda ugly. you could adopt a no-modification- (or -restriction?-) -of-existing classes and properties
+- giving up "anyone can say anything about anyone" is too much. 
+- requiring online-ness and lookups for parsing is too troubling.
+- it is true that minting IRIs is troublesome.
 
 ## Comparisons
 

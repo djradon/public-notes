@@ -2,12 +2,14 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1714165960596
+updated: 1714226245936
 created: 1633160681527
 ---
 
 - related: [[prdct.rdf-processing-toolkit]]
 - [[p.instanceOf]] [[c.specification]]
+
+
 
 ## Features
 
@@ -25,14 +27,16 @@ created: 1633160681527
 
 - [-] [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
   - the concept of the "unnamed default graph"/master-graph is interesting; 
-  - [[c.resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
+    - [[c.resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
 
 ## Highlights
 
 - the property "a" is used to indicate the "type" or "class" of a resource. It is a shorthand notation for the "rdf:type" predicate.
 
+
 ## [[p.hasIssue]]
 
+- [ordering](https://ontola.io/blog/ordered-data-in-rdf), although maybe [[prdct.hydra]] collections could help
 - contrary to [some claims](https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf/), RDF and OWL are not fluent, at least compared to GraphDown
 - calls verbs properties / predicates
 - confuses properties and predicates
@@ -49,6 +53,35 @@ created: 1633160681527
 - see [[ar.a-temporal-rdf-model-for-multi-grained-time-information-modeling]]
 - https://blog.iandavis.com/2009/08/representing-time-in-rdf-part-1/
 - [Temporal RDF](http://www.dcc.uchile.cl/~cgutierr/papers/temporalRDF.pdf) introduces a fourth time component to the triple. "I chose not to cover this approach in a lot of detail because it extends the RDF model in a way that no current triple store implements"
+
+### Ordering
+
+There are no arrays in RDF, and don't use the order in which serialized triples appear.
+
+RDF Containers:
+
+- Come in three forms: rdf:Seq (ordered), rdf:Bag (unordered), rdf:Alt (alternatives with default)
+- You can add new items by simply adding RDF triples
+- Inserting items is hard: requires rewriting many statements
+- Must be stored in a single graph / machine / server (centralized)
+- Have a formally unknown ending (open world assumption)
+
+RDF Collections:
+
+- An ordered chain of rdf:List resources
+- You have to edit / remove statements before you can add new items
+- Inserting items is easy: requires changing just a few statements
+- Can span many graphs / machines / servers (decentralized)
+- Have a known ending (the rdf:nil)
+  
+Pagination:
+
+- Use ActivityStreams collections
+
+Converting to arrays:
+
+- Use a library, such as @rdfdev/collections
+
 
 ## Abstract Model
 
