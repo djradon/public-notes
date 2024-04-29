@@ -26,4 +26,4 @@ RDF tools that we've built
 
 ## References
 
-- [[ar.ontoloa.full-stack-linked-data]]
+- [[ar.ontola.full-stack-linked-data]]
