@@ -7,5 +7,5 @@ created: 1710435277480
 ---
 
 - repo: https://github.com/teknql/crux-geo
-- related: [[prct.xtdb]] 
+- related: [[prdct.xtdb.v1]] 
 - built_on: [[prdct.sqlite.spatialite]]

@@ -1,14 +1,14 @@
 ---
 id: 7egkbzu2irpoe0i2ly6jnma
 title: Biff
-desc: 'batteries-included web framework for Clojure.'
+desc: batteries-included web framework for Clojure.
 updated: 1708491256627
 created: 1708490795018
 ---
 
 - repo: 
 - url: https://biffweb.com/
-- built_on: [[prdct.htmx]] [[prct.xtdb]]
+- built_on: [[prdct.htmx]] [[prdct.xtdb.v1]]
 
 ## Features
 

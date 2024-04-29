@@ -2,14 +2,16 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1711906335087
+updated: 1713482051322
 created: 1634620119007
 ---
+
 
 ## Assertive Time and Effective Time
 
 - suggested names for transaction time and valid time, where decision time is not used
-- [ ] why does transaction time need a period?
+- [x] why does transaction time need a period?
+  - if you have a history of transactions, the "current" state has no tx-end. old states have a timestamp of when they were superseded. Seems like you could impute an old state's tx-end tho, but I bet for querying, having the tx-end stored is nice.
 
 ## Decision Time
 
@@ -42,7 +44,7 @@ created: 1634620119007
 ## Solutions
 
 - '[of [[prdct.MariaDB]] and [[prdct.Postgres]]], MariaDB supports temporal tables in the core product and sticks to the SQL:2011 standard most closely. I would recommend MariaDB for those interested in temporal tables in existing SQL databases.' [^1]
-- [[prdct.sirixdb]] and [[prct.xtdb]]
+- [[prdct.sirixdb]] and [[prdct.xtdb.v1]]
 - [[prdct.TerminusDB]] and [[prdct.Dolt]]
 
 ### Resources
@@ -61,3 +63,4 @@ created: 1634620119007
 - https://blog.podsnap.com/bitemp.html
 - https://realfiction.net/posts/2d-or-bitemporal-historization-a-primer/
 - [[book.bitemporal-data-theory-and-practice]]
+- [[ar.enabling-retroactive-computing-through-event-sourcing]]

@@ -1,14 +1,17 @@
 ---
 id: 9mv0i20dy7qqiqfzxfgvwwn
 title: Egeria
-desc: 'Open metadata and governance for enterprises - automatically capturing, managing and exchanging metadata between tools and platforms, no matter the vendor.'
+desc: >-
+  Open metadata and governance for enterprises - automatically capturing,
+  managing and exchanging metadata between tools and platforms, no matter the
+  vendor.
 updated: 1709451527935
 created: 1709279074638
 ---
 
 - [[c.software.data-discovery]]
 - url: https://egeria-project.org/
-- built_on: [[prct.xtdb]]
+- built_on: [[prdct.xtdb.v1]]
 
 - "Egeria supports an integration of different catalogs through a metadata event bus, but it doesn’t seem to be feature complete yet as of this writing. " t.2020.12.07
 

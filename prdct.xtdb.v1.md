@@ -1,10 +1,11 @@
 ---
 id: lq10bixve20i64veu1k5fx0
-title: Xtdb
+title: XTDB V1
 desc: Bitemporal and dynamic relational database for SQL and Datalog
-updated: 1711697334177
+updated: 1713481106503
 created: 1705951600818
 ---
+
 
 - [[c.software.database.bitemporal]]
 - url: https://xtdb.com/
@@ -16,17 +17,20 @@ created: 1705951600818
 
 ## Features
 
-- bitemporal support (point-in-time querying and )
-  - "Where XTDB has previously been optimized for point-in-time historical queries, v2 now supports ‘cross-time’ queries, e.g. temporal joins and temporal range scans. This unlocks the complete history of data for rich analysis.
-  - 
-We support the SQL:2011 standard for bitemporal functionality, and it’s built into the heart of XTQL too."
+### Temporality
 
-- "XTDB 2 will compute and maintain incremental indexes on-the-fly based on the raw data, so index updates will present far less operational impact. This also means the transaction log is now ~ephemeral in the new architecture (no more event-sourcing-style replays required, ever)."
+Valid time is valuable for tracking a consistent view of the entire state of the database, however, unless you explicitly include a timestamp or other temporal component within your documents you cannot currently use this information about valid time inside of your Datalog queries.
+
+Domain time or "user-defined" time is simply the storing of any additional time-related information within your documents, for instance `valid-time`, `duration` or timestamps relating to additional temporal life-cycles (e.g. decision, receipt, notification, availability).
+
+Queries that use domain times do not automatically benefit from any kind of native indexes to support efficient execution, however XTDB encourages you to build additional layers of functionality to do so. See [decorators](https://github.com/crux-labs/crux-decorators) for examples.
+
+  - t.2024.04.18.15 (I think decorators are no longer supported in v2, "Rather than supporting arbitrary Clojure functions, queries in XTDB 2 now use an XT standard library of functions, drawn from the SQL standard.")
+
 - "bring your own schema (enforcement)"
 
 - [[prdct.corda]] blockchain support 
   - "The XTDB team has officially released an alpha of xtdb-corda, a library which augments the Corda blockchain with XTDB Datalog query capabilities. Using this module, verified Corda transactions are automatically piped into an XTDB node for seamless bitemporal graph queries. Remy Rojas recently wrote about the module in Bridging the Blockchain / Database Divide."
-- "[[t.cs.graph.temporal-joins]]"
 
 ## Resources
 
@@ -41,3 +45,4 @@ We support the SQL:2011 standard for bitemporal functionality, and it’s built 
 - https://www.reddit.com/r/Database/comments/reiadb/best_database_to_store_ordered_hierarchical_data/
 - https://news.ycombinator.com/item?id=35733515
 - https://biffweb.com/p/xtdb-compared-to-other-databases/
+
