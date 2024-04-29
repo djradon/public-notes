@@ -2,7 +2,7 @@
 id: 7YhDqhSgMhMtHv5SQqjil
 title: SPADE
 desc: ''
-updated: 1698953779839
+updated: 1714422705162
 created: 1637794683065
 ---
 
@@ -10,6 +10,7 @@ created: 1637794683065
 - [[p.hasRepository]] https://github.com/javipalanca/spade
 - [[p.hasSite]] https://spade-mas.readthedocs.io
 - written-in: #python
+- created-by: [[user.javipalanca]]
 - [[p.builtOn]] [[prdct.xmpp]]
   - there's a matrix-xmpp bridge, and even more abandoned https://matrix.org/docs/projects/bridge/matrix-appservice-prosody
   - [[prdct.cloudevents]] has an XML spec: https://github.com/cloudevents/spec/blob/main/cloudevents/working-drafts/xml-format.md
