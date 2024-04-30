@@ -2,7 +2,7 @@
 id: ti05vfr5qz57af1aqwxky97
 title: Centrifugo
 desc: 'Scalable self-hosted real-time messaging server in a language-agnostic way.'
-updated: 1714425645438
+updated: 1714430035409
 created: 1714422900057
 ---
 
@@ -27,10 +27,11 @@ created: 1714422900057
 - several kinds of channels with different security levels and some options that can be defined in configuration. For example so called private channels where every subscription attempt must be additionally signed.
   - Within channel developer has some useful features like history cache, presence information (information about active channel subscribers), also join and leave notifications when client subscribes on channel (or unsubscribes from it). This is very important to have to build game lobby for example.
 - recovery feature: Every channel can optionally keep a stream of Publications and client can recover missed messages upon reconnect providing the sequence number of last seen Publication in channel.
+- while Centrifugo server is mostly designed to stream messages in one direction — from server to client — library allows to exchange messages in fully bidirectional way with full control over each client connection.
 
 ## Comparison
 
-- 
+- vs [[prdct.pubnub]] 
 
 ## References
 
