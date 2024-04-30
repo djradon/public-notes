@@ -2,7 +2,7 @@
 id: kyn0sqveeg53pjp8h632aes
 title: Rdf4j
 desc: ''
-updated: 1713585839136
+updated: 1714508511774
 created: 1699472038413
 ---
 
@@ -10,12 +10,13 @@ created: 1699472038413
 
 ## Comparison
 
-### vs jena
+### rdf4j vs jena
 
-- "offers SparqlBuilder which is safe, builder-pattern way of constructing a query, which has no (mature) alternative in native Apache Jena-land.
-
+- ~~"offers SparqlBuilder which is safe, builder-pattern way of constructing a query, which has no (mature) alternative in native Apache Jena-land.~~ Jena's [QueryBuilder](https://jena.apache.org/documentation/extras/querybuilder/)
+- RDF4J has no direct equivalent to Jena's Ontology API (which contains the OntClass class). Instead, in RDF4J you always work with RDF only. Models are pure RDF graphs.
 
 
 ## References
 
 - https://www.donaldmcintosh.net/blog/fuseki-commentary
+- https://www.youtube.com/watch?v=u_Hf50-3wZY

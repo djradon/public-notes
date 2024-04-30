@@ -2,7 +2,7 @@
 id: 1x3lenylbdctmrkbdkn2v0x
 title: Jena
 desc: 'semantic-web framework for Java which includes a number of different semantic-reasoning modules and rdf-star support'
-updated: 1712533853890
+updated: 1714508511778
 created: 1698707121812
 type: "[[c.software.database.graph.rdf]]"
 ---
@@ -20,6 +20,10 @@ type: "[[c.software.database.graph.rdf]]"
 
 - chatgpt.4: "while Jena can handle multiple inheritance in the RDF/OWL sense, translating this directly into Java classes can be challenging. You might need to design your Java class model differently, potentially using interfaces, composition, or other design patterns to represent the multiple inheritance found in the ontology."
 
+## Comparison
+
+![[prdct.rdf4j#rdf4j-vs-jena]]
+
 ## Resources
 
 - https://medium.com/duda/simplifying-your-structured-data-model-using-apache-jena-545dd93236a8
@@ -28,3 +32,7 @@ type: "[[c.software.database.graph.rdf]]"
 
 - https://jena.apache.org/getting_started/
 - [[book.design-and-implementation-of-ontologies-in-java-and-apache-jena]]
+
+## References
+
+- https://stackoverflow.com/questions/76512856/getting-all-the-owl-classes-in-an-owl-rdf-schema-using-rdf4j
