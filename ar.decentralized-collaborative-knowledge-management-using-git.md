@@ -2,7 +2,7 @@
 id: t6ebsghgw5xwdiku27e1kx7
 title: Decentralized Collaborative Knowledge Management Using Git
 desc: ''
-updated: 1714508847951
+updated: 1714512893661
 created: 1714499726660
 ---
 
@@ -22,3 +22,5 @@ The World Wide Web and the Semantic Web are designed as a network of distributed
 4http://aksw.org/Projects/CatalogusProfessorum
 5http://heloisenetwork.eu/
 6http://catalogus-professorum.org/projects/pcp-on-web/
+- creating independent vocabularies (a) in the individual working groups would not help to integrate the datasets. Due to the organizational distribution of the individual research groups, a common vocabulary expressing a mutual agree- ment among the groups (b) can only be the result of a collaborative process
+- 
