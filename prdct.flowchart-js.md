@@ -7,7 +7,7 @@ created: 1696567593159
 ---
 
 - #ul https://github.com/adrai/flowchart.js
-  - [[c.mention]] [[prdct.diagrams.mingrammer]]
+  - [[c.mention]] [[prdct.mingrammer-diagrams]]
 
 ## Features
 
