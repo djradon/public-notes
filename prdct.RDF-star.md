@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1701468188367
+updated: 1714590427393
 created: 1634426288630
 ---
 
@@ -48,3 +48,4 @@ created: 1634426288630
 ## References
 
 - [[ar.medium.dallemang.why-im-not-excited-about-rdf-star]]
+- https://www.youtube.com/watch?v=gTMvHJdMnzI

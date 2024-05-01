@@ -4,16 +4,17 @@ title: NATS
 desc: >-
   core messaging capabilities of NATS include pub-sub, request-reply, and queue
   groups.
-updated: 1706243170735
+updated: 1714591831714
 created: 1678139747758
 ---
 
 
 - [[c.software.messaging.bus]] 
 - url: https://nats.io/
-- [[p.similarTo]] 
+- similar: [[prdct.nats]] [[prdct.memphis]] [[prdct.nsq]] ^69m6e1oxkdup
 - written-in: #go
-- cloud:service https://www.synadia.com/cloud
+- cloud-service: https://www.synadia.com/cloud
+
 
 ## [[c.host]]
 

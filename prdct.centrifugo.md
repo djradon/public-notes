@@ -2,7 +2,7 @@
 id: ti05vfr5qz57af1aqwxky97
 title: Centrifugo
 desc: 'Scalable self-hosted real-time messaging server in a language-agnostic way.'
-updated: 1714430035409
+updated: 1714592233132
 created: 1714422900057
 ---
 
@@ -10,6 +10,7 @@ created: 1714422900057
 - written-in: go
 - commercial-version: [[prdct.centrifugo.pro]]
 - based-on: [[prdct.redis]]
+![[prdct.mercure#^ahtfnaeq7g62]]
 
 ## Description
 
@@ -28,6 +29,7 @@ created: 1714422900057
   - Within channel developer has some useful features like history cache, presence information (information about active channel subscribers), also join and leave notifications when client subscribes on channel (or unsubscribes from it). This is very important to have to build game lobby for example.
 - recovery feature: Every channel can optionally keep a stream of Publications and client can recover missed messages upon reconnect providing the sequence number of last seen Publication in channel.
 - while Centrifugo server is mostly designed to stream messages in one direction — from server to client — library allows to exchange messages in fully bidirectional way with full control over each client connection.
+- supports durability with redis backend
 
 ## Comparison
 
