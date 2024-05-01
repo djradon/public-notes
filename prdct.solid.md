@@ -4,7 +4,7 @@ title: Solid
 desc: >-
   a specification that lets people store their data securely in decentralized
   data stores called Pods
-updated: 1710864227209
+updated: 1714582550906
 created: 1636253430285
 ---
 
@@ -16,3 +16,4 @@ created: 1636253430285
 ## Issues
 
 - doesn't inherently support version control
+

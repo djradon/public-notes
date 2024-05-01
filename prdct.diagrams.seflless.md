@@ -1,11 +1,12 @@
 ---
 id: 2h1kkq4odwv7ggxuzpse57m
-title: Diagrams (seflless)
+title: Diagrams (sefless)
 desc: 'command-line generation of diagrams from a variety of libraries'
-updated: 1698252759220
+updated: 1714584461663
 created: 1696568386668
 ---
 
+- dead
 - [[c.software.tools.diagramming]]
 - repo: https://github.com/seflless/diagrams#flowchart
 - written-in: javascript

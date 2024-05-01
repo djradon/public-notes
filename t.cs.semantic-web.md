@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1712248242044
+updated: 1714581305029
 created: 1633629215451
 ---
 
@@ -10,6 +10,7 @@ created: 1633629215451
   - [[t.cs.web.w3c.rdf.iri]]
   - https://en.wikipedia.org/wiki/Semantic_publishing 
     - "Semantic publication provides a way for computers to understand the structure and even the meaning of the published information, making information search and data integration more efficient" 
+  - [[prdct.linked-data-fragments]]
 
 ## CURIEs
 

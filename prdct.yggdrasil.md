@@ -1,14 +1,16 @@
 ---
 id: v9gc1rzp1toqqdn99n4cb0j
 title: Yggdrasil
-desc: 'A framework for programming distributed hypermedia environments for autonomous agents.'
+desc: >-
+  A framework for programming distributed hypermedia environments for autonomous
+  agents.
 updated: 1712864870410
 created: 1712555355383
 ---
 
 - repo: https://github.com/Interactions-HSG/yggdrasil
 - related: [[prdct.agents-and-artifacts-metamodel]] [[prdct.hyperagents]]
-- built_on: [[prdct.vertx]] [[prdct.webhub]]
+- built_on: [[prdct.vertx]] [[prdct.websub]]
 - written_in: java
   
 ## Architecture

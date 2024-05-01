@@ -2,11 +2,11 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1714226245936
+updated: 1714576387605
 created: 1633160681527
 ---
 
-- related: [[prdct.rdf-processing-toolkit]]
+- related: [[prdct.rdf-processing-toolkit]] [[prdct.spin]]
 - [[p.instanceOf]] [[c.specification]]
 
 

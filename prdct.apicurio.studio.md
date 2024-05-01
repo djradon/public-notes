@@ -1,6 +1,6 @@
 ---
 id: r9hrwt5ahik98obf6vaqh27
-title: Apicurio Studio
+title: Studio
 desc: 'Design beautiful, functional APIs with zero coding, using OpenAPI or AsyncAPI '
 updated: 1710864591455
 created: 1710864510443

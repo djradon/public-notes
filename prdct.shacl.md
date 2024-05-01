@@ -2,12 +2,14 @@
 id: ahbj9ejugov8rjiywj5qqc8
 title: Shacl
 desc: ''
-updated: 1713291033656
+updated: 1714577419860
 created: 1706306106639
 ---
 
+- similar: [[prdct.spin]]
 - "SHACL uses RDFS subclassing mechanism. When you create SHACL models you define classes and more specific subclasses. Additionally, you can separate Node Shapes from classes to define application specific views.Take a look at [this blog](https://www.topquadrant.com/classes-and-node-shapes-when-to-separate/) to understand differences between classes and node shapes... With SHACL, you can deactivate constraints that you don’t need or can’t agree with. This is done declaratively, using the standard so it is unambiguously clear what aspects of the models you are using and what aspects you are not using."
 - "SHACL is a semantic constraint language, which is quite useful as a guard for updates to a triple store. Because SHACL is less concerned with meaning and more concerned with structure, many object-oriented ontologists prefer it to OWL for defining their classes."
+- SHACL was strongly influenced by [[prdct.spin]] and can be regarded as its legitimate successor
 
 ## Examples
 
