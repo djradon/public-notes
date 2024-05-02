@@ -2,9 +2,13 @@
 id: wngkbk0gj523fp1jp5dqrst
 title: LDflex
 desc: 'A JavaScript DSL for querying Linked Data on the Web '
-updated: 1714581661199
+updated: 1714683077320
 created: 1714581518739
 ---
 
 - repo: https://github.com/LDflex/LDflex
 - used-in: [[game.solid-chess]]
+
+## References
+
+- [[ar.l-dflex-a-read-write-linked-data-abstraction-for-front-end-web-developers]]
