@@ -1,8 +1,8 @@
 ---
 id: ti05vfr5qz57af1aqwxky97
 title: Centrifugo
-desc: 'Scalable self-hosted real-time messaging server in a language-agnostic way.'
-updated: 1714592233132
+desc: Scalable self-hosted real-time messaging server in a language-agnostic way.
+updated: 1714667994246
 created: 1714422900057
 ---
 
@@ -33,9 +33,17 @@ created: 1714422900057
 
 ## Comparison
 
-- vs [[prdct.pubnub]] 
+### Centrifugo vs PubNub
+
+- Pubnub's channel groups allow you to group multiple channels under a single identifier. This grouping mechanism enables a client to subscribe to multiple channels via a single group name rather than subscribing to each channel individually. It simplifies client-side logic, especially when the exact channels a client needs to listen to can change dynamically.
+
+
+![[prdct.mercure#mercure-vs-centrifugo]]
+
 
 ## References
 
 - https://medium.com/@fzambia/how-centrifugo-solves-real-problems-of-real-time-messaging-applications-a15d6b8fc8ac
 - https://centrifugal.dev/docs/getting-started/comparisons
+
+Centrifugo
