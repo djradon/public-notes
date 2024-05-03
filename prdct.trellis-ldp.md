@@ -2,10 +2,11 @@
 id: 998vmio52p9j6il8ihjjclc
 title: Trellis Ldp
 desc: ''
-updated: 1712777671729
+updated: 1714765498558
 created: 1712693874287
 ---
 
+- [[c.software.semantic.linked-data-platform]]
 - https://www.trellisldp.org
 - [[c.software.semantic.linked-data-platform]]
 - repo: https://github.com/trellis-ldp/trellis/
@@ -25,5 +26,5 @@ The Web standards implemented by Trellis include:
 -   [W3C Linked Data Platform](https://www.w3.org/TR/ldp/)
 -   [W3C RDF 1.1 Concepts and Abstract Syntax](https://www.w3.org/TR/rdf11-concepts/)
 -   [W3C Web Annotation Protocol](https://www.w3.org/TR/annotation-protocol/)
--   [W3C WebID](https://www.w3.org/2005/Incubator/webid/spec/identity/)
--   [W3C WebSub](https://www.w3.org/TR/websub/)
+-   [W3C WebID](https://www.w3.org/2005/Incubator/webid/spec/identity/) 
+-   [W3C WebSub](https://www.w3.org/TR/websub/) [[prdct.websub]]
