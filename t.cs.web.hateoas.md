@@ -2,10 +2,11 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1706852867057
+updated: 1714752815468
 created: 1636171046830
 ---
 
+- related: [[prdct.hypertext-application-language]]
 
 
 - [[c.Resource.List]] https://restfulapi.net/hateoas/
@@ -19,7 +20,12 @@ created: 1636171046830
     - summary: no good server-side frameworks/tools and no good  clients
 
 
-- url: https://parceljs.org/
+
+
+## Implementations
+
+- [[prdct.spring.hateoas]]
+
 
 ## Resources
 

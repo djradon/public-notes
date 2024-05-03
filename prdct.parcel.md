@@ -2,10 +2,12 @@
 id: lzp0ly8rfqlh6j3ghq6opcu
 title: Parcel
 desc: zero configuration build tool
-updated: 1699730714467
+updated: 1714752823418
 created: 1699730595209
 ---
 
+
+- https://parceljs.org/
 - docs: https://parceljs.org/docs/
 - repo: https://github.com/parcel-bundler/parcel
 - written-in: javascript #rust
