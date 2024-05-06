@@ -2,11 +2,11 @@
 id: ecvz3j0itxsng5jsjtrhzh3
 title: Legend Keeper
 desc: the ultimate worldbuilding tool for game-masters and storytellers
-updated: 1696978209773
+updated: 1715023499809
 created: 1696976488065
 ---
 
-- [[c.software.rpg]]
+- [[c.software.rpg]] [[c.software.rpg.campaign-manager]]
 - url: https://www.legendkeeper.com/
 - [[c.mention]] [[prdct.dscryb]] [[prdct.here-be-taverns]]
 - [[c.con]] JSON export is ugly and littered with html and css classnames

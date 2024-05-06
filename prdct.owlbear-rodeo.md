@@ -2,10 +2,11 @@
 id: 6pa8lfwo9rjh43kwlj2mvuw
 title: Owlbear Rodeo
 desc: 'a web app to run tabletop encounters without the complicated setup process needed for other VTTs'
-updated: 1712732238701
+updated: 1715020275135
 created: 1697002853702
 ---
 
+- [[c.software.rpg.virtual-tabletop]]
 - url: https://www.owlbear.rodeo/
 
 ## [[c.model.conceptual]]
