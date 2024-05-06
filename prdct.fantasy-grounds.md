@@ -2,7 +2,7 @@
 id: 48cxj5xgid2c2e9m77f9jn3
 title: Fantasy Grounds
 desc: 'fa'
-updated: 1712734319542
+updated: 1715015755092
 created: 1700628000085
 ---
 
@@ -37,3 +37,7 @@ The format of text and everything it likes to throw in there forces me to sit he
 ## Resources
 
 - https://www.fantasygroundsacademy.com/
+
+## References
+
+- https://www.reddit.com/r/FantasyGrounds/comments/x3s4f4/why_is_fantasy_grounds_so_popular/
