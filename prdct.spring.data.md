@@ -1,10 +1,12 @@
 ---
 id: pg48ksmgc4dgxw7qzgz4ect
-title: Data
+title: Spring Data
 desc: ''
-updated: 1714678741787
+updated: 1714753294157
 created: 1714678735382
 ---
+
+- related: [[prdct.rdf4j-spring]]
 
 ## Resources
 
