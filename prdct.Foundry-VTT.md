@@ -2,7 +2,7 @@
 id: sTBg5mG9Tkq5iYOVDqbcH
 title: Foundry-VTT
 desc: ''
-updated: 1715105028585
+updated: 1715118860033
 created: 1633307850499
 ---
 
@@ -14,6 +14,14 @@ created: 1633307850499
 - content-integrations: [[prdct.WorldAnvil]] [[prdct.dscryb]] [[prdct.syrinscape]] [[prdct.plutonium]]
 - others: [[prdct.kanka]] (via [[prdct.kanka-foundry]]) [[prdct.the-only-sheet]] [[prdct.lava-flow]]
 - built-on: [[prdct.pixi-js]]
+
+## Solutions
+
+### Cloud Hosting
+
+- [[prdct.the-forge]]
+- [[prdct.foundry-server]]
+- [[prdct.molten-hosting]]
 
 ## User Stories
 
@@ -66,6 +74,7 @@ Translation
 ### Learning Resources
 
 - https://foundryvtt.com/article/module-development/
+- https://forge-vtt.com/game/demo
 
 
 ## References
