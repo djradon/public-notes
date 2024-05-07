@@ -37,8 +37,36 @@ Then, in Foundry, I'll have journal entries that are just HTML iframes to partic
 
 Now, the only stuff in Foundry really are just the mechanical fiddly bits needed to run the game. Everything else is sitting in the website. And then my private notes/wiki in Obsidian (yes, I tinkered with using Obsidian to manage the website, but I did't like 1. paying the extra fee for Obsidian Publish when I already had a perfectly fine host and 2. I really wanted a lot of control over the player-facing site. Love Obsidian as my GM wiki, though."
 
+## Development
+
+### Module Development
+
+Modules extend and modify the behavior of Foundry Virtual Tabletop and its game systems. At a conceptual level, think of each Module as a "plug-in" or "add-on" which changes the software behavior in small (or large) ways. Modules can alter the behavior of the core software in several different ways:
+
+Content
+    Modules which add data in the form of compendium packs of Adventures, Actors, Items, Scenes, Journal Entries, Roll Tables, or Playlists.
+Interface
+    Modules which change the way the UI looks or behaves, changing the aesthetics and user experience of the software.
+Functionality
+    Modules which add entirely new functionalities or features which do not exist in the base software, or modules which change the behavior of core features so they behave differently.
+Translation
+    Modules which add support for translation of text displayed in Foundry VTT into other languages. 
+
+### System Development
+
+
+
 
 ## Resources
 
 - https://www.reddit.com/r/FoundryVTT/comments/10gt7jt/what_options_are_there_for_organizing_world/
 - https://www.reddit.com/r/FoundryVTT/comments/1asnse4/there_are_modules_to_use_foundry_to_worldbuild/
+
+### Learning Resources
+
+- https://foundryvtt.com/article/module-development/
+
+
+## References
+
+- https://www.reddit.com/r/FoundryVTT/comments/10mmkj0/where_do_i_start_creating_a_game_system/
