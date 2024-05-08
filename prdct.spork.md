@@ -2,13 +2,13 @@
 id: 1e9aid4vcw7v1perfk5e3bn
 title: Spork
 desc: 'Spoon’s Operations Research Kit'
-updated: 1708544480702
+updated: 1715182748877
 created: 1708543959199
 ---
 
 - [[c.software.simulation-framework.discrete-event]]
  [[c.software.simulation-framework]] [[c.Software.Entity-Component-System]]
-- [[t.cs.sd.literate-programming]]
+- [[t.cs.sd.literate-programming]] [[t.cs.immutability]]
 - repo: https://github.com/joinr/spork
 
 ## Description
