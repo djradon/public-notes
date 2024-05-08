@@ -2,19 +2,23 @@
 id: Z5JrJztY72EenAzI6jpkH
 title: Structurizr
 desc: separates the model from the view/diagrams
-updated: 1707776152849
+updated: 1715209302539
 created: 1645831419986
 ---
 
 
 - [[p.hasURL]] https://structurizr.org/
-- [[p.similarTo]] 
+
+## Similar
+
   - [[prdct.plantuml]]
   - [[prdct.mermaid]]
   - [[prdct.ilograph]]
   - [[prdct.d2]]
   - [[prdct.terrastruct]]
-- [[c.pricing]]
+  - [[prdct.structurizr]]
+
+## Pricing
   - free
     - 10 diagrams, 3 most recent versions, no sharing, 1 workspace
   - $5/workspace/month, minimum of 5 workspaces so minimum $25/mo
@@ -31,3 +35,5 @@ created: 1645831419986
 
 - [[book.the-c4-model-for-visualising-software-architecture]]
 - https://www.baeldung.com/structurizr (creating diagrams with java API)
+- https://blog.dornea.nu/2023/11/02/documentation-as-code-for-cloud-c4-model-structurizr/
+  - mentions: [[prdct.ilograph]]
