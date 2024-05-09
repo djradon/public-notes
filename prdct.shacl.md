@@ -2,7 +2,7 @@
 id: ahbj9ejugov8rjiywj5qqc8
 title: Shacl
 desc: ''
-updated: 1714763653616
+updated: 1715273487275
 created: 1706306106639
 ---
 
@@ -15,6 +15,13 @@ created: 1706306106639
 
 - https://archive.topquadrant.com/edg-ontologies-overview/
   - "If a group of properties is reusable across assets that are not subclasses of each other (e.g., enterprise, technical and data assets are not subclasses of each other), EDG ontologies define an aspect class to hold or comprise this group of properties."
+
+## Constraint Types
+
+-   **Structural Constraints**: Ensuring that data adheres to a specific schema or model, such as required properties, permissible property values, or specific class hierarchies.
+-   **Value Constraints**: Limiting the values that can be taken by properties, including data types, value ranges, and pattern matching.
+-   **Cardinality Constraints**: Defining the minimum and maximum occurrences of properties.
+-   **Logical Constraints**: Applying logical conditions to properties and values, such as equality or inequality, and combinations thereof through logical operators.
 
 ## Comparisons
 
@@ -33,3 +40,4 @@ created: 1706306106639
 - https://news.ycombinator.com/item?id=31890041
 - https://archive.topquadrant.com/owl-blog/
 - https://www.ontotext.com/knowledgehub/fundamentals/what-is-shacl/
+- https://medium.com/fluree/what-is-shacl-with-examples-2697f659d465
