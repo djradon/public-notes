@@ -2,13 +2,14 @@
 id: slkwz8wz5k4v565ht5jcrm0
 title: n8n
 desc: 'workflow automation platform with free community edition'
-updated: 1674839645540
+updated: 1715367842652
 created: 1674830694032
 ---
 
 - repo: https://github.com/n8n-io/n8n
 - [[p.instanceOf]] [[c.software.workflow]]
 - #similar [[prdct.n8n]] [[prdct.dagster]] [[prdct.temporal]] [[prdct.prefect]] [[prdct.airflow]]  ^xnxaubd7sqiw
+- written-in: typescript
 
 ## Comparison
 

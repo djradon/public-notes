@@ -2,11 +2,12 @@
 id: 08k9bzf078nrt71hp1rxaao
 title: Orchestration
 desc: still need a component that is aware of the entire workflow
-updated: 1715286462624
+updated: 1715366591203
 created: 1680909338629
 ---
 
 ![](/assets/images/2023-10-06-14-20-41.png)
+- similar: [[t.cs.workflow]]
 - related: [[t.cs.sd.architecture.choreography]]
   - but they're not opposites; it's kinda a false distinction. if systems determine their behavior based on messages, and the messages are "do this by then", you're getting orchestrated
 
@@ -18,7 +19,10 @@ created: 1680909338629
 - [[prdct.workflow-core]]
 - [[prdct.prefect]]
 - [[prdct.temporal]]
-- [[prdct.infinitic]]
+- [[prdct.infinitic]] pulsar
+- [[prdct.argo.events]] kubernetes
+- [[prdct.flogo]] kafka and pulsar
+- [[prdct.iwf]] Go, requires [[prdct.cadence]]
 
 ## Resources
 

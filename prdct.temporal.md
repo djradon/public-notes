@@ -2,17 +2,19 @@
 id: ntoplz1ephb277ktutqibro
 title: Temporal
 desc: ''
-updated: 1705955640038
+updated: 1715309449457
 created: 1674833275685
 ---
 
+https://temporal.io/
 - [[c.Software.Workflow]]
 - pronunciation: tem-POR-al
 - fork_of: [[prdct.cadence]]
 - related: [[prdct.iwf]]
 
 ![[prdct.n8n#^xnxaubd7sqiw]]
-url: https://temporal.io/
+ 
+![[prdct.infinitic#similar]]
 
 ## Features
 

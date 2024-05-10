@@ -2,11 +2,13 @@
 id: dsj58bgzyou3l5dtjjsvb5g
 title: Cadence
 desc: 'Fault-Tolerant Stateful Code Platform'
-updated: 1707690146627
+updated: 1715365647767
 created: 1705955078084
 ---
 
 - url: https://cadenceworkflow.io/
+- forked-by: [[prdct.temporal]]
+- related: [[prdct.iwf]]
 
 ## References
 

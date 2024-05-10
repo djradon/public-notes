@@ -2,17 +2,26 @@
 id: 9lz4tx65j4mrzco11tvp7y1
 title: Infinitic
 desc: 'Add durable executions capabilities to your existing event streaming platform. Build business processes that endure failures, crashes, or server outages'
-updated: 1715286757498
+updated: 1715365582509
 created: 1713560098986
 ---
 
 - [[c.Software.messaging.middleware]]
-- similar: [[prdct.catalyst]]
 - written-in: kotlin
 - supports: java
 - requires: 
   - [[prdct.pulsar]] 
   - [[prdct.redis]] or [[prdct.MySQL]]
+
+## similar
+
+- [[prdct.infinitic]]
+- [[prdct.catalyst]]
+- [[prdct.zeebe]]
+- [[prdct.temporal]]
+- [[prdct.conductor]]
+- [[prdct.kestra]]
+- [[prdct.iwf]] 
 
 ## Terms
 
