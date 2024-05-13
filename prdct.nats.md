@@ -4,7 +4,7 @@ title: NATS
 desc: >-
   core messaging capabilities of NATS include pub-sub, request-reply, and queue
   groups.
-updated: 1715366521147
+updated: 1715628880735
 created: 1678139747758
 ---
 
@@ -14,7 +14,7 @@ created: 1678139747758
 - similar: [[prdct.nats]] [[prdct.memphis]] [[prdct.nsq]] ^69m6e1oxkdup
 - written-in: #go
 - cloud-service: https://www.synadia.com/cloud
-- related: [[prdct.walnats]]
+- related: [[prdct.walnats]] [[prdct.benthos]]
 
 ## Terms
 
@@ -40,8 +40,24 @@ created: 1678139747758
 - [[p.supports]] [[prdct.cloudevents]]
   - https://github.com/cloudevents/spec/blob/main/cloudevents/bindings/nats-protocol-binding.md
 - Synadia cloud has an HTTP gateway
-  - leverages server-send events (SSE):
+  - leverages server-send events (SSE)
+- embeddable
+
+## Comparison
+
+### Kafka vs NATS
+
+- partitions and topics "makes Kafka highly suited to applications where order matters; for example, state machine replication, event sourcing, log shipping, log aggregation, SEDA (staged event- driven architecture) and CEP (complex event processing)."
+- Speaking of topics, the equivalent NATS subject is a lightweight construct that is created automatically based on demand (subscriptions) and is pruned automatically when the demand ceases. NATS subjects are cheap to create, which makes them great for hierarchically organised data, allowing for a fine-grained subscription model.
+- (Note: NATS Streaming addresses this, but as stated earlier, it is a different product in its own right.)
+- Kafka will never assign a partition to multiple consumers in the same group. So, although Kafka’s load balancing scheme is more coarse-grained than NATS’; it manages to preserve the order of records at the consumer nodes.
+
 
 ## [[p.hasLearningResource]]
 
 - https://natsbyexample.com/
+
+
+## References
+
+- https://www.quora.com/What-is-the-difference-between-Apache-Kafka-and-NATS

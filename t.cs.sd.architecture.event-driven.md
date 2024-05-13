@@ -4,9 +4,10 @@ title: Event Driven Architecture
 desc: >-
   Event-driven architecture uses events to communicate notable data changes
   between service boundaries
-updated: 1713286757204
+updated: 1715628897415
 created: 1669463161648
 ---
+
 
 ## [[p.hadDefinition]]
 
@@ -46,8 +47,10 @@ created: 1669463161648
 - [[ar.medium.simpplr-technology.event-driven-architecture-the-hard-parts-should-it-be-event-or-a-message]]
 - [[ar.event-granularity-modelling-events-in-event-driven-applications]]
 - [[ar.medium.exploring-advanced-error-handling-patterns-with-event-driven-architecture-part-i]]
+- [[ar.medium.event-driven-programming-in-simulation-games]]
 
 ### [[p.hasLearningResource]]
 
 - [[ar.medium.edge-coders.understanding-node-js-event-driven-architecture]]
 - [[ar.architecture-weekly.inmemory-message-bus-in-typescript]]
+

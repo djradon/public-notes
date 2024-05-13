@@ -2,11 +2,15 @@
 id: 5izi3fbls7d833qc45ozeaq
 title: AsyncAPI
 desc: ''
-updated: 1708721030427
+updated: 1715623209349
 created: 1673569081430
 ---
 
 - related: [[prdct.asyncapi.modelina]]
+
+## Terms
+
+- **gateway**: intercepts all incoming messages and routes them through the middleware and handler pipelines.
 
 ## Highlights
 

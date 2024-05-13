@@ -2,7 +2,7 @@
 id: vc2zh595cbr9z70mlf45qyh
 title: Kafka
 desc: ''
-updated: 1698252759268
+updated: 1715626926100
 created: 1662589413388
 ---
 
@@ -11,6 +11,7 @@ created: 1662589413388
   - [[prdct.upstash]] for free
 - [[p.supports]] [[prdct.cloudevents]]
   - https://github.com/cloudevents/spec/blob/main/cloudevents/bindings/kafka-protocol-binding.md
+- related: [[prdct.samza]]
 
 ## Pros
 
@@ -21,6 +22,7 @@ created: 1662589413388
 ## Features
 
 - [dynamic routing](https://www.confluent.io/blog/putting-events-in-their-place-with-dynamic-routing/)
+- **compaction** 
 
 ## Use Cases
 
