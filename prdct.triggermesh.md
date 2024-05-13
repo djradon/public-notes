@@ -2,9 +2,8 @@
 id: 1h3748pf9fc1ty35vsuxpc6
 title: Triggermesh
 desc: >-
-  the event flow that happens in your application needs to be described with a
-  powerful declarative API.
-updated: 1711913721450
+  the event flow that happens in your application needs to be described with a powerful declarative API.
+updated: 1715633804932
 created: 1672335304347
 ---
 

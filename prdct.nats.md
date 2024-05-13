@@ -4,7 +4,7 @@ title: NATS
 desc: >-
   core messaging capabilities of NATS include pub-sub, request-reply, and queue
   groups.
-updated: 1715628880735
+updated: 1715631641518
 created: 1678139747758
 ---
 
@@ -51,7 +51,11 @@ created: 1678139747758
 - Speaking of topics, the equivalent NATS subject is a lightweight construct that is created automatically based on demand (subscriptions) and is pruned automatically when the demand ceases. NATS subjects are cheap to create, which makes them great for hierarchically organised data, allowing for a fine-grained subscription model.
 - (Note: NATS Streaming addresses this, but as stated earlier, it is a different product in its own right.)
 - Kafka will never assign a partition to multiple consumers in the same group. So, although Kafka’s load balancing scheme is more coarse-grained than NATS’; it manages to preserve the order of records at the consumer nodes.
+- kafka is lightweight
 
+#### Dendrite use case
+
+- "switching to JetStream was transformational. Performance is excellent overall. We make heavy use of the interest-based retention policies to ensure that work is cleaned up when it is complete. We take advantage of being able to manually acknowledge items to ensure they were processed successfully before cleaning up. We’ve been able to successfully manage pools of workers from NATS streams and considerably reduce the amount of complexity in our codebase in a number of places which no longer need their own persistent storage. We’ve even had it successfully running in application-embedded scenarios on iOS and Android as a part of our peer-to-peer demos."
 
 ## [[p.hasLearningResource]]
 
@@ -61,3 +65,4 @@ created: 1678139747758
 ## References
 
 - https://www.quora.com/What-is-the-difference-between-Apache-Kafka-and-NATS
+- https://nats.io/blog/matrix-dendrite-kafka-to-nats/

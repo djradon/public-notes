@@ -2,11 +2,16 @@
 id: phncjb4b4gd7x10bey6z049
 title: Redpanda
 desc: ''
-updated: 1682613041425
+updated: 1715633280166
 created: 1682612734379
 ---
 
-- #similar [[prdct.kafka]] [[prdct.pulsar]]
+## Similar
+
+- [[prdct.kafka]] 
+- [[prdct.pulsar]]
+- [[prdct.nats.jetstream]]
+- [[prdct.memphis]]
 
 ## Comparison
 

@@ -1,14 +1,14 @@
 ---
 id: 2ejtyqvsautes0flkx7kpgs
 title: NSQ
-desc: 'realtime distributed messaging platform'
+desc: realtime distributed messaging platform
 updated: 1714592388393
 created: 1714591824008
 ---
 
 - https://nsq.io/
 - repo: https://github.com/nsqio/nsq
-- written-in: go
+- written-in
 - supports: go javascript python
 ![[prdct.nats#^69m6e1oxkdup]]
 

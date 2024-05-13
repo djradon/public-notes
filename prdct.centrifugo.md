@@ -47,3 +47,5 @@ created: 1714422900057
 - https://centrifugal.dev/docs/getting-started/comparisons
 
 Centrifugo
+
+: go
