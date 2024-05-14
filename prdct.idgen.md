@@ -2,12 +2,13 @@
 id: x9d6yh0nsrvinzb6hnyigbj
 title: IdGen
 desc: ''
-updated: 1715635013819
+updated: 1715641665452
 created: 1715634986814
 ---
 
 - repo: https://github.com/RobThree/IdGen
 
+![[prdct.newid#similar]]
 
 ## Features
 

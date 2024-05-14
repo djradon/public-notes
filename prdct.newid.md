@@ -2,7 +2,7 @@
 id: tv0quififbs8wmj4ngdxogc
 title: NewId
 desc: ''
-updated: 1715634986406
+updated: 1715659998662
 created: 1715634333007
 ---
 
@@ -17,6 +17,8 @@ created: 1715634333007
 - [[prdct.sonyflake]]
 - [[prdct.ulid]]
 - [[prdct.idgen]]
+- [[prdct.nanoid]]
+- [[prdct.ksuid]]
 
 ## References
 
