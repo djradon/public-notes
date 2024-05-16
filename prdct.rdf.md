@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1715895316135
+updated: 1715900609332
 created: 1633160681527
 ---
 
@@ -43,6 +43,7 @@ created: 1633160681527
 - Recommendation:
   - Use a custom datatype to label particular types of structured value that share a common lexical form. These values may be associated with a broad range of different properties. Processing applications may want to implement a common set of type conversions or display options for the values.
   - Use a sub-property in all other cases
+  - Note that these options aren't always mutually exclusive. It might be useful in some scenarios to have an explicit property for associating a general class of code, identifier, or other Literal Key with a resource, but also assign a specific datatype to the identifier as a cue for applications and reasoners
 
 ## Highlights
 
