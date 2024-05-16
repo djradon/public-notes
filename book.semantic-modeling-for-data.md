@@ -2,7 +2,7 @@
 id: uup0x4gcs3ilsku9xbw4xcx
 title: Semantic Modeling for Data
 desc: ''
-updated: 1712263086549
+updated: 1715882771316
 created: 1698168250108
 ---
 
@@ -11,16 +11,13 @@ created: 1698168250108
 ## Highlights
 
 - Based on these definitions, what do you understand to be a concept in a semantic model? Is it a set of things as the Protégé tutorial suggests, or some unit of thought as SKOS claims? And what should you do if you need to model a concept in OWL that is not really a set of things? Should you still have to make it a class? The answer, as we will see in the rest of the book, is that the SKOS definition is more accurate and useful, and that the “concept = class” claim of the OWL tutorial is at best misleading, causing several semantic modeling errors that we will see later in the book.
-dave
-particulars
-dave
+
+### Class or Individual?
+
 ; a concept can indeed play the role of a class if its definition implies a set of entities that instantiate it, but this is not always the case.
 In property graphs, for example, there is no formal distinction between a class and an instance since everything is a node (node labels can play the role of a class but not exclusively
 in OWL, entities that can be classes are often modeled as individuals because, otherwise, they cannot be related to other entities
-dave
 Lexical variants differ from synonyms in that synonyms are different terms for the same entity, while lexical variants are different word forms for the same term.
-
-### Class or Individual?
 
 - in OWL-DL, you cannot define a class as an instance of another class, nor can you define direct relations between classes and other entities other than some predefined ones. Thus, if you want to say at the same time that John is an instance of Data Scientist, and Data Scientist is an instance of Occupation, you just can’t.
   - t.2024.04.04.13 but I think you could say that John's occupation is an instance of Data Scientist and DS is a subclass of occupation?

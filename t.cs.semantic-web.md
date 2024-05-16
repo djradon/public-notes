@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1714581305029
+updated: 1715879390219
 created: 1633629215451
 ---
 
@@ -39,6 +39,7 @@ created: 1633629215451
 - https://www.w3.org/wiki/RdfThesaurus
 - [[book.design-and-implementation-of-ontologies-in-java-and-apache-jena]]
 - [^1]: https://www.w3.org/TR/swbp-n-aryRelations/
+- [[book.foundations-of-semantic-web-technologies]]
 
 ## References
 

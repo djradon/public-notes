@@ -2,7 +2,7 @@
 id: tij5kl2lv4gzr3tz2kdq147
 title: 5e Tools
 desc: ''
-updated: 1715107932575
+updated: 1715883705678
 created: 1696521323235
 similar_to: [[prdct.open5e]]
 ---
@@ -13,7 +13,7 @@ similar_to: [[prdct.open5e]]
 - #docs https://wiki.tercept.net/en/home
 - [[p.builtOn]] [[prdct.node]]
 - written-in: javascript
-- similar: [[prdct.5e-tools]] [[prdct.open5e]] [[prdct.dnd-5e-srd]] [[prdct.foundry.dnd5e]]  ^vt5y8u6whgr9
+- similar: [[prdct.5e-tools]] [[prdct.open5e]] [[prdct.dnd-5e-srd]] [[prdct.foundry.dnd5e]] [[prdct.5e-schema]] [[prdct.dnd5eapi]] ^vt5y8u6whgr9
 
 ## Examples
 

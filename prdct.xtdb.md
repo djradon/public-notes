@@ -2,7 +2,7 @@
 id: id8ts8faecp28rr4gl9ywm4
 title: Xtdb
 desc: ''
-updated: 1715754101523
+updated: 1715877378178
 created: 1713554156104
 ---
 
@@ -15,7 +15,7 @@ created: 1713554156104
 
 ### Learning Resources
 
-- https://fiddle.xtdb.com
+- https://fiddle.xtdb.comp
 
 ## References
 

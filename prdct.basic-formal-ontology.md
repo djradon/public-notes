@@ -3,7 +3,7 @@ id: u69ohenrjzegyb4ta4bp07j
 title: Basic Formal Ontology
 desc: >-
   a small, upper-level, realist, bicategorial ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains
-updated: 1713385985211
+updated: 1715881862460
 created: 1696610915530
 ---
 
@@ -22,6 +22,7 @@ created: 1696610915530
 
 ## Issues
 
+- IRIs aren't human-readable, e.g. http://purl.obolibrary.org/obo/BFO_0000015
 - "only continuants – and hence not occurrents – are allowed to have qualities."
 
 - entity
