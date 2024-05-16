@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1714576387605
+updated: 1715895316135
 created: 1633160681527
 ---
 
@@ -28,6 +28,21 @@ created: 1633160681527
 - [-] [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
   - the concept of the "unnamed default graph"/master-graph is interesting; 
     - [[c.resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
+
+## Typed Literals
+
+- RDF does not place any limits on what datatypes might be associated with a literal. The model recommends using a standard type library, like XML Schema, wherever possible but the only real constraint is that datatypes should be identified by a URI. Creating a new URI for an application or domain specific datatype allows the type system to be easily extended. The datatype URI can be annotated with additional RDF statements, e.g. a label or description, to describe its usage.
+- The key limitation to custom datatypes is that SPARQL query engines will not understand how to compare values of that type. Some SPARQL query processors may provide support for understanding the range of types it understands.
+- Note that a typed literal with a custom datatype can also be modelled as a sub-property.
+  - Advantages
+    - Simpler querying of data by allowing the use of triple patterns, rather than FILTERs for extracting data of a common type.
+    - More explicit, fine-grained semantics
+  - Disadvantages
+    - Increases the number of very similar properties, requiring redundancy of data or reasoning to allow applications to treat them generically
+    - Doesn't address the core requirement to indicate the lexical form of a structured value
+- Recommendation:
+  - Use a custom datatype to label particular types of structured value that share a common lexical form. These values may be associated with a broad range of different properties. Processing applications may want to implement a common set of type conversions or display options for the values.
+  - Use a sub-property in all other cases
 
 ## Highlights
 
@@ -139,3 +154,6 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
 
 - https://lists.w3.org/Archives/Public/semantic-web/2009Nov/0040.html
 
+## References
+
+https://patterns.dataincubator.org/book/custom-datatype.html
