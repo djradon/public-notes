@@ -2,9 +2,10 @@
 id: uup0x4gcs3ilsku9xbw4xcx
 title: Semantic Modeling for Data
 desc: ''
-updated: 1715882771316
+updated: 1715919036832
 created: 1698168250108
 ---
+
 
 - url: https://learning.oreilly.com/library/view/semantic-modeling-for/9781492054269/
 
@@ -20,7 +21,8 @@ in OWL, entities that can be classes are often modeled as individuals because, o
 Lexical variants differ from synonyms in that synonyms are different terms for the same entity, while lexical variants are different word forms for the same term.
 
 - in OWL-DL, you cannot define a class as an instance of another class, nor can you define direct relations between classes and other entities other than some predefined ones. Thus, if you want to say at the same time that John is an instance of Data Scientist, and Data Scientist is an instance of Occupation, you just can’t.
-  - t.2024.04.04.13 but I think you could say that John's occupation is an instance of Data Scientist and DS is a subclass of occupation?
+  - ~~t.2024.04.04.13 but I think you could say that John's occupation is an instance of Data Scientist and DS is a subclass of occupation?~~
+    - t.2024.05.15.08 nope
 
 ### First Option: Model as individual and use custom relations
 

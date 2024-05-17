@@ -2,9 +2,10 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1715900609332
+updated: 1715919165587
 created: 1633160681527
 ---
+
 
 - related: [[prdct.rdf-processing-toolkit]] [[prdct.spin]]
 - [[p.instanceOf]] [[c.specification]]
@@ -50,7 +51,7 @@ created: 1633160681527
 - the property "a" is used to indicate the "type" or "class" of a resource. It is a shorthand notation for the "rdf:type" predicate.
 
 
-## [[p.hasIssue]]
+## Issues
 
 - [ordering](https://ontola.io/blog/ordered-data-in-rdf), although maybe [[prdct.hydra]] collections could help
 - contrary to [some claims](https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf/), RDF and OWL are not fluent, at least compared to GraphDown
@@ -63,6 +64,9 @@ created: 1633160681527
   - @chatgpt.4: 
     - **Class-Individual Punning**: This is where the same URI is used to denote a class in one context and an individual in another. For example, you might have a class `:Person` and also use `:Person` as an individual to represent the generic concept of a person. In RDF and OWL, this is legal because classes in OWL are also individuals in the sense of RDF.
     - **Class-Property Punning**: Similarly, the same URI can be used to denote a class in one context and a property in another. This can be useful for modeling certain kinds of relationships in a more flexible way.
+- Class vs Individual
+  - see [[book.semantic-modeling-for-data#class-or-individual]]
+  - 
 
 ### temporal problems
 
