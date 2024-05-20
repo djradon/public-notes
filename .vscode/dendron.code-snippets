@@ -40,5 +40,23 @@
         "scope": "markdown,yaml",
         "body": "## Description",
         "description": "a humane, well-used heading"
+    },
+    "comps": {
+        "prefix": "c",
+        "scope": "markdown,yaml",
+        "body": "## Comparisons
+        
+        ### vs
+        ",
+        "description": "competition"
+    },
+    "learning": {
+        "prefix": "l",
+        "scope": "markdown,yaml",
+        "body": "## Resources
+        
+        ### Learning Resources",
+        "description": "will never get used"
     }
+    
 }
