@@ -2,7 +2,7 @@
 id: 3chfiteid1962f7jy9io3rx
 title: Trinity Rdf
 desc: 'Entity Framework for Graph Databases.'
-updated: 1710362889907
+updated: 1716227544208
 created: 1709139326939
 ---
 
@@ -11,6 +11,7 @@ created: 1709139326939
 - repo: https://github.com/semiodesk/trinity-rdf
 - built_on: [[prdct.dotnetrdf]] [[prdct.relinq]]
 - !built_on: [[prdct.graph-engine]], just a naming coincidence
+- related: [[prdct.olga]]
 
 ## Features
 

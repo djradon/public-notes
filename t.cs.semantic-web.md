@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1715901306352
+updated: 1716227444562
 created: 1633629215451
 ---
 
