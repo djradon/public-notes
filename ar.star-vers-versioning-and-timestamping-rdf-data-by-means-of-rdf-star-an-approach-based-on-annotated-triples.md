@@ -8,7 +8,7 @@ desc: >-
   SPARQL-star supporting RDF stores would have on the query & update performance
   and storage costs with different update frequencies, sizes and change ratios
   is what our research aims to find out
-updated: 1714073333626
+updated: 1716401268333
 created: 1714065909450
 ---
 
@@ -16,6 +16,7 @@ created: 1714065909450
 - https://www.semantic-web-journal.net/content/starvers-versioning-and-timestamping-rdf-data-means-rdf-star-approach-based-annotated
 - authors: @filip-kovacevic @fajar-ekaputra @tomasz-miksa @andreas-rauber
 - topics: [[prdct.RDF-star]] [[prdct.GraphDB]] [[prdct.jena]] [[prdct.yago.4.5]] [[prdct.rdf3x]]
+- implementation: [[prdct.starvers]]
 
 
 ## Abstract
@@ -25,15 +26,12 @@ In the era of data-driven research, we are confronted with the challenge of pres
 
 ## Highlights
 
-- When it comes
-to RDF datasets, we will find three approaches, namely, 1) independent copies (IC) or snapshots 2) change-based
+- When it comes to RDF datasets, we will find three approaches, namely, 1) independent copies (IC) or snapshots 2) change-based
 (CB) approaches and 3) timestamp-based (TB) approaches to be the most common ones in the literature
   - IC takes a lot of space
   -  as opposed to the IC paradigm, we have higher reconstruction costs which add up to the retrieval of a specific dataset version. Also, CB apporaches are not nateively supported by SPARQL, i.e. there is no way to retrieve and apply a number of patches to reconstruct a dataset version purely with SPARQL as it is lacking procedural features
   - TB approaches assign timestamps or validity intervals to data on different granularity levels that can range from statement to dataset level so that a dataset can be retrieved as it was at a certain point in time
-    - by implementing clever temporal indexes
-and partitioning methods we can achieve fast retrievals that add only little query performance overhead compared
-to querying isolated snapshots directly
+    - by implementing clever temporal indexes and partitioning methods we can achieve fast retrievals that add only little query performance overhead compared to querying isolated snapshots directly
 
 
 ### Versioning
@@ -61,4 +59,12 @@ nqtsp2: << << tr1 >> vers:valid_from t3 >> vers:valid_until tE .
 
 ### Property Path issues
 
-- Our approach, however, reaches its limit when it 
+- Our approach, however, reaches its limit when it comes to property paths of arbitrary length, such as ?x foaf:knows+/foaf:name ?name. 
+
+### Protocol to transform SPARQL queries into timestamped SPARQL-star queries
+
+- rule1: Property paths of fixed length must be resolved to an alternative form.
+- rule2: Each data triple pattern must be annotated with a unique pair of temporal information variables within the scope of a SPARQL SELECT-query.
+- rule3: In every BGP a ?ts variable must be in-scope. If there are more ?ts variables in the query, they all must bind to the same timestamp literal. 
+- rule4: Each NQT-SP pattern must have a unique FILTER condition which reduces the solution mappings of that pattern to only those triples where ?ts is in between its temporal information variables. 
+- rule5: The timestamp variable ts and temporal information variables must only be purposed for what is described in rule2 and rule3, respectively, and should otherwise not be used.
