@@ -2,7 +2,7 @@
 id: vu2fg1cagr0lewf1yjof656
 title: SKOS
 desc: 'Simple Knowledge Organization System'
-updated: 1715919119914
+updated: 1716316000485
 created: 1706306245897
 ---
 
@@ -33,6 +33,9 @@ created: 1706306245897
 
 - maintainers re-engineered thesaurus to “fully fledged ontology” but a study of users 6 years later found little support for the use of these custom relation properties.13 In the absence of specific tools and requirements for reasoning, it was unclear to some users what purpose they served.
 
+### SKOS and OWL
+
+- "crossing the streams" results in OWL Full
 
 ## Solutions
 
@@ -50,3 +53,4 @@ created: 1706306245897
 - https://www.w3.org/TR/skos-primer/
 - [[ar.common-slips-in-skos-vocabularies]]
 - https://stackoverflow.com/questions/32573812/whats-the-difference-between-skosconceptscheme-and-skoscollection
+- https://www.w3.org/2006/07/SWD/SKOS/skos-and-owl/master.html
