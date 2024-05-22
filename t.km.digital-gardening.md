@@ -2,7 +2,7 @@
 id: yMBMF4AbVvZWuiXz9aVxN
 title: Digital Gardening
 desc: ''
-updated: 1698704342262
+updated: 1716410094628
 created: 1632835407320
 ---
 
@@ -14,7 +14,7 @@ created: 1632835407320
 -  Continuous Growth
 -  Imperfection & Learning in Public
 -  Playful, Personal, and Experimental
--  [[intercropping]] & Content Diversity
+-  [[t.km.digital-gardening.intercropping]] & Content Diversity
 -  Independent Ownership  ^s2h2dn8la4g6
 
 ## Build a model
