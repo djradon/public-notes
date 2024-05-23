@@ -2,12 +2,12 @@
 id: ps7m8l5a6xa52tbssq7f8pp
 title: API Platform
 desc: ''
-updated: 1714488017981
+updated: 1715921023969
 created: 1714230002233
 ---
 
 - https://api-platform.com/
-- supports: [[prdct.rdf]] [[prdct.JSON]] [[prdct.mercure]]
+- supports: [[prdct.rdf]] [[prdct.JSON]] [[prdct.mercure]] [[t.cs.web.hateoas]] [[prdct.hydra]]
 - similar: [[prdct.api-platform]] [[prdct.creta]]
 
 ## Features

@@ -2,7 +2,7 @@
 id: phsbszud1bo2t8fr3jyrvdk
 title: Hypertext Application Language
 desc: ''
-updated: 1715920352919
+updated: 1715920504222
 created: 1714750203800
 ---
 
@@ -13,7 +13,8 @@ created: 1714750203800
 
 ### HAL vs JSON-LD
 
-
+- both support curries
+- json-ld has the semantic-webby context/ontology linkage
 
 ## References
 
