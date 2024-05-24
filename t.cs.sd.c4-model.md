@@ -2,25 +2,19 @@
 id: DyUK7zKrSwEaMNvad3NYh
 title: C4 Model
 desc: 'model a software system, at various levels of abstraction (context, containers, components and code)'
-updated: 1715210712055
+updated: 1716531692961
 created: 1645831289441
 ---
 
-
 - [[p.hasURL]] https://c4model.com/
-- [[c.resource]]
-  - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab
-  - https://c4model.com/
-    - [[p.mentioned]]
-      - [[prdct.model]]
-      - [[prdct.pumla]]
-      - [[prdct.rdb-model]]
-- [[p.hasRelatedSolution]]
+
+## Solutions
   - [[prdct.structurizr]]
   - [[prdct.c4-plantuml]]
   - [[prdct.icepanel]]
   - [[prdct.carbide]]
   - 
+
 - [[p.hasHighlight]]
   -  To document a library, framework or SDK, you might be better off using something like UML
   -  Sometimes diagrams work better showing dependency relationships (e.g. uses, reads from, etc), and sometimes data flow (e.g. customer update events) works better.
@@ -31,7 +25,9 @@ created: 1645831289441
 
 ![[prdct.ilograph#concrete-vs-abstract-models]]
 
+## Questions 
 
+### "is X a container or a component?".
 
 ## Issues
 
@@ -45,6 +41,17 @@ created: 1645831289441
 
 - https://c4model.com/ 
 
+- [[c.resource]]
+  - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab
+  - https://c4model.com/
+    - [[p.mentioned]]
+      - [[prdct.model]]
+      - [[prdct.pumla]]
+      - [[prdct.rdb-model]]
+      - 
+
 ## References
 
 - https://www.ilograph.com/blog/posts/concrete-diagramming-models/
+- https://www.reddit.com/r/softwarearchitecture/comments/16upcj2/dynamic_nested_diagram_for_software_architecture/
+- https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578

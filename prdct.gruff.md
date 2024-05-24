@@ -1,8 +1,8 @@
 ---
 id: n993pvetdcyssy6tlswvmwf
 title: Gruff
-desc: ''
-updated: 1714111088701
+desc: 'graph visualization product that makes data retrieval more pleasant and powerful with a variety of features for laying out cyclical graphs, displaying tables of properties, managing queries, and building SPARQL or Prolog queries as visual diagrams.'
+updated: 1716536152005
 created: 1714111000732
 ---
 

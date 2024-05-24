@@ -1,8 +1,8 @@
 ---
 id: 99juh51911t6nioz7jurerp
 title: Rdflib JS
-desc: ''
-updated: 1714754348799
+desc: 'Linked Data API for JavaScript'
+updated: 1716536327313
 created: 1714754327045
 ---
 

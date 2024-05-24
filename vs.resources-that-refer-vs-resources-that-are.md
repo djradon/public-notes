@@ -1,8 +1,8 @@
 ---
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
-desc: ''
-updated: 1713467577230
+desc: 'things vs information resources'
+updated: 1716535109809
 created: 1633593028328
 ---
 
@@ -19,6 +19,11 @@ There are four possibilities for a given URI:
 - the URI is being used to refer to a sense
 - the URI is being used to identify either content or sense but it’s not specified which
 - the URI is being used to both locate content and refer to a sense (ie a property applies equally to both)
+
+## Solutions
+
+- `#this`
+
 
 ## Thoughts
 
@@ -120,3 +125,5 @@ This gives a very similar pattern to the 303 redirect, as you can see from the d
 
 - [[ar.third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data]]
 - http://www.jenitennison.com/2012/05/11/using-punning-to-answer-httprange-14.html
+- https://stackoverflow.com/questions/22916998/rdf-303-redirect-clarification
+- https://stackoverflow.com/questions/76470569/the-puzzling-semantics-of-rdftype
