@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: 'things vs information resources'
-updated: 1716569895627
+updated: 1716575627801
 created: 1633593028328
 ---
 

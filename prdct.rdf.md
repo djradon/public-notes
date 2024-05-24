@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1716419454017
+updated: 1716575705151
 created: 1633160681527
 ---
 
@@ -63,6 +63,7 @@ created: 1633160681527
 - [punning](https://www.w3.org/2007/OWL/wiki/Punning): also a solution
   - @chatgpt.4: 
     - **Class-Individual Punning**: This is where the same URI is used to denote a class in one context and an individual in another. For example, you might have a class `:Person` and also use `:Person` as an individual to represent the generic concept of a person. In RDF and OWL, this is legal because classes in OWL are also individuals in the sense of RDF.
+      - t.2024.05.24.11 see [[vs.class-vs-individual]]
     - **Class-Property Punning**: Similarly, the same URI can be used to denote a class in one context and a property in another. This can be useful for modeling certain kinds of relationships in a more flexible way.
 - Class vs Individual
   - see [[book.semantic-modeling-for-data#class-or-individual]]

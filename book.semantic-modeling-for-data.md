@@ -2,7 +2,7 @@
 id: uup0x4gcs3ilsku9xbw4xcx
 title: Semantic Modeling for Data
 desc: ''
-updated: 1715919036832
+updated: 1716574089196
 created: 1698168250108
 ---
 
@@ -23,12 +23,17 @@ Lexical variants differ from synonyms in that synonyms are different terms for t
 - in OWL-DL, you cannot define a class as an instance of another class, nor can you define direct relations between classes and other entities other than some predefined ones. Thus, if you want to say at the same time that John is an instance of Data Scientist, and Data Scientist is an instance of Occupation, you just can’t.
   - ~~t.2024.04.04.13 but I think you could say that John's occupation is an instance of Data Scientist and DS is a subclass of occupation?~~
     - t.2024.05.15.08 nope
+      - t.2024.05.24.11 because an individual data scientist would also be an instance of Occupation
 
 ### First Option: Model as individual and use custom relations
 
 e.g. John is related to the individual Data Scientist via the relation hasProfession.
 
 you can still position the entity into a hierarchy of similar entities (e.g., saying that a Data Scientist is a kind of Information Technology Professional) by using, for example, the skos:narrower relation or similar.
+
+#### skos
+
+- you lose reasoners (who cares?) 
 
 ### Second Option: model the concept as a class and an individual
 
