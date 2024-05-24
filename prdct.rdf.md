@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1715919165587
+updated: 1716419454017
 created: 1633160681527
 ---
 
@@ -132,7 +132,7 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
 - [[prdct.rdf.aref]]
 - [[prdct.rdf.turtle]]
 - [[prdct.hextuples]]
-- [[prdct.json-ad]]
+- [[prdct.json-ad]] doesn't support reification
 - [[prdct.JSON-LD]]
 
 ## Solutions

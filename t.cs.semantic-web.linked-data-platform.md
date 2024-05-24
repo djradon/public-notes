@@ -2,9 +2,11 @@
 id: ndqrgr9a9dyztrgui46klim
 title: Linked Data Platform
 desc: ''
-updated: 1714765437711
+updated: 1716498507274
 created: 1712693933422
 ---
+
+- similar: [[prdct.linked-data-templates]]
 
 ## Features
 

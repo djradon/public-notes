@@ -2,13 +2,14 @@
 id: lsqn84g8faksg2jxvbj9e1f
 title: JSON-AD
 desc: 'atomic data'
-updated: 1714187088435
+updated: 1716418764077
 created: 1710789774943
 ---
 
 - similar: [[prdct.hextuples]]
 - use_case: Use JSON-AD if you don't have to support existing RDF data, but do value JSON compatibility and type safety.
 - creator: @joep-meindertma
+- complementary: [[prdct.astro]]
 
 ## Description
 
@@ -46,6 +47,10 @@ Because these properties also have [`shortnames`](https://atomicdata.dev/propert
   <span class="hljs-attr">"shortname"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"description"</span>
 <span class="hljs-punctuation">}</span>
 ```
+
+## Issues
+
+- something about shortnames
 
 ## References
 
