@@ -2,7 +2,7 @@
 id: nbxck363lsj67x8fk7jiric
 title: Hydra
 desc: 'design APIs in a way that enables smarter clients'
-updated: 1716824564592
+updated: 1716835520087
 created: 1701294440939
 ---
 
@@ -88,5 +88,4 @@ In the simplest possible case I want to design my json objects so that they can 
 - https://nordicapis.com/hydra-for-hypermedia-apis-benefits-components-and-examples/
 - https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
 - [[ar.third-generation-web-apis-bridging-the-gap-between-rest-and-linked-data]]
-
 - https://www.markus-lanthaler.com/hydra/
