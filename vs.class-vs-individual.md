@@ -1,8 +1,8 @@
 ---
 id: x4h93xhzc9ab85h4x3tlfko
-title: Class Vs Individua
-desc: ''
-updated: 1716575912930
+title: Class Vs Individual
+desc: 'aka metaclasses vs superclasses'
+updated: 1716676850099
 created: 1716575654799
 ---
 
@@ -11,8 +11,14 @@ created: 1716575654799
 ## Fourth Option
 
 - use one of the class annotation properties, e.g.
-  - rdfs:comment, rdfs:seeAlso, rdfs:isDefinedBy, or 
+  - rdfs:comment, rdfs:seeAlso, rdfs:isDefinedBy, or
   - a custom annotation defined with owl:AnnotationProperty
+    - used to add additional information to classes, properties, or individuals without affecting the logical structure of the ontology.
+      - t.2024.05.25.14 well, kinda
+
+### AnnotationProperty example
+
+
 
 ## References
 

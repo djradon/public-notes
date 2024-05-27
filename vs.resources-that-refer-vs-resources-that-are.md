@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: 'things vs information resources'
-updated: 1716575627801
+updated: 1716614018646
 created: 1633593028328
 ---
 
@@ -24,8 +24,8 @@ one subtle point: things that are also usually refer
 
 ## Solutions
 
-- `#this`
-
+- `#this` https://stackoverflow.com/questions/76470569/the-puzzling-semantics-of-rdftype
+- 303 
 
 ## Thoughts
 
