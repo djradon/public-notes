@@ -2,7 +2,7 @@
 id: nbxck363lsj67x8fk7jiric
 title: Hydra
 desc: 'design APIs in a way that enables smarter clients'
-updated: 1714753141761
+updated: 1716824564592
 created: 1701294440939
 ---
 
@@ -10,6 +10,9 @@ created: 1701294440939
 - https://www.hydra-cg.com/
 - [[c.specification.api-description]]
 
+## Similar
+
+- [[prdct.hydra]] [[prdct.HAL]] [[prdct.siren]] [[prdct.json.hyper-schema]]
 
 ## Solutions
 

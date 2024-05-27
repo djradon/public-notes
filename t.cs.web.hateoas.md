@@ -2,11 +2,11 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1716482502099
+updated: 1716824708519
 created: 1636171046830
 ---
 
-- related: [[prdct.hypertext-application-language]] [[prdct.json.hyper-schema]]
+- related: [[prdct.hal]] [[prdct.json.hyper-schema]]
 
 
 - [[c.Resource.List]] https://restfulapi.net/hateoas/

@@ -2,11 +2,13 @@
 id: hfvwjjxi0q2rmdfx3cj8xgs
 title: API First
 desc: ''
-updated: 1699051260448
+updated: 1716828620083
 created: 1696011559947
 ---
 
+## Thoughts
 
+- "An API-first development approach needs prototype-first thinking"
 
 ## Resources
 
@@ -16,3 +18,7 @@ created: 1696011559947
 - https://blog.postman.com/how-to-improve-api-ecosystem-with-mapping/
 - https://apisyouwonthate.com/blog/api-design-first-vs-code-first/
   - [[p.mentioned]] [[prdct.stoplight]]
+
+## References
+
+- https://www.wiremock.io/post/an-api-first-development-approach-needs-prototype-first-thinking
