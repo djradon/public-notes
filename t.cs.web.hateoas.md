@@ -2,11 +2,11 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1714752815468
+updated: 1716482502099
 created: 1636171046830
 ---
 
-- related: [[prdct.hypertext-application-language]]
+- related: [[prdct.hypertext-application-language]] [[prdct.json.hyper-schema]]
 
 
 - [[c.Resource.List]] https://restfulapi.net/hateoas/
@@ -25,6 +25,7 @@ created: 1636171046830
 ## Implementations
 
 - [[prdct.spring.hateoas]]
+- 
 
 
 ## Resources
@@ -34,3 +35,7 @@ created: 1636171046830
 - https://news.ycombinator.com/item?id=36944686
 - https://unitcoding.com/implementing-hateoas/ mentions [[prdct.riskfirst_hateoas]]
 - https://spring.io/guides/gs/rest-hateoas
+
+## References
+
+- https://softwareengineering.stackexchange.com/questions/388325/advantages-of-hateoas-based-restful-service
