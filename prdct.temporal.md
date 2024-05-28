@@ -1,8 +1,8 @@
 ---
 id: ntoplz1ephb277ktutqibro
 title: Temporal
-desc: ''
-updated: 1715309449457
+desc: 'open-source implementation of Durable Execution created by the originators of the abstraction that preserves complete application state so that upon host or software failure it can seamlessly migrate execution to another machine'
+updated: 1716875449730
 created: 1674833275685
 ---
 
