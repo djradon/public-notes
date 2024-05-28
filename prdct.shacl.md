@@ -2,7 +2,7 @@
 id: ahbj9ejugov8rjiywj5qqc8
 title: Shacl
 desc: ''
-updated: 1715273487275
+updated: 1716910432224
 created: 1706306106639
 ---
 
@@ -41,3 +41,4 @@ created: 1706306106639
 - https://archive.topquadrant.com/owl-blog/
 - https://www.ontotext.com/knowledgehub/fundamentals/what-is-shacl/
 - https://medium.com/fluree/what-is-shacl-with-examples-2697f659d465
+- https://connect-lokesh.medium.com/demystifying-shacl-guide-to-semantic-validation-part-1-016aa65d2070

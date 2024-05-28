@@ -2,7 +2,7 @@
 id: bc2ya18buka4rr2qycn4l5m
 title: Hypermedia APIs
 desc: ''
-updated: 1716825317732
+updated: 1716911129437
 created: 1701294427191
 alias: hateoas
 ---
@@ -25,6 +25,25 @@ alias: hateoas
 - [[prdct.siren]]
 - [[prdct.HAL]]
 
+## Comparisons
+
+### Hypermedia APIs vs. Data APIs
+
+Hypermedia APIs:
+
+-   Will be trivially [REST-ful](https://en.wikipedia.org/wiki/Representational_state_transfer), since they are simply what [Roy Fielding was describing](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
+-   Should be driven by the needs of the underlying hypermedia application
+-   May change dramatically _without_ versioning information, because hypermedia utilizes [self describing messages](https://en.wikipedia.org/wiki/Representational_state_transfer#Uniform_interface)
+-   Should be passed directly to humans, to maximize the flexibility of the system
+
+Data APIs, on the other hand:
+
+-   Will not benefit dramatically from REST-fulness, beyond perhaps [Level 2 of the Richardson Maturity Model](https://en.wikipedia.org/wiki/Richardson_Maturity_Model)
+-   Should strive for both regularity and expressiveness due to the arbitrary data needs of consumers
+-   Should be versioned and should be very stable within a particular version of the API
+-   Should be consumed by code, processed and then potentially presented to a human
+
 ## References
 
 - https://nordicapis.com/exploring-the-hidden-powers-of-hypermedia/
+- https://htmx.org/essays/hypermedia-apis-vs-data-apis/

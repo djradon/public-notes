@@ -2,7 +2,7 @@
 id: Zky5xjNTxp2PENk30AyVs
 title: RDF Turtle
 desc: Terse RDF Triple Language
-updated: 1713368384900
+updated: 1716917086012
 created: 1635703038494
 ---
 
@@ -21,6 +21,10 @@ created: 1635703038494
 -   **Turtle is unambiguous, JSON is not.** JSON-LD emerged as a standard to work with the semantic web, but it currently has four different profiles, is surprisingly difficult to write well for larger data structures, and as often as not is rejected primarily because it fails to conform to any of the profiles. Turtle has two profiles that have very clear syntax (Turtle and Turtle-Star), with Turtle-star being only slightly less clear because of a few edge cases that haven’t been fully resolved. Additionally, when people refer to Turtle, they are usually actually talking about TRIG, which extends the turtle language to incorporate named graphs (TRIG is backwards compatible with Turtle).
 -   **Semantics Matter.** JSON requires local knowledge to be useful. Turtle does not, because there are in general enough core conventions in place (RDF, RDFS and perhaps minimal OWL) that meaning can be extracted very quickly through the application of known rules, even without deep contextual knowledge. Because Turtle is built around namespaces, those namespaces can also provide additional bootstrapped metadata to achieve semantic awareness in the data, while JSON requires manual intervention to provide a pale copy of this capability.
 -   **Turtle represents complex structures better than JSON.** While the Turtle breakdown in the previous section shows a normalized structure, a Turtle parser could reconstruct a fully denormalized Javascript or Python object or JSON document in any number of ways, depending upon what kind of structure is desired. Both Python and Javascript have libraries for parsing Turtle as well (check out FrogCat’s ttl2jsonld at [https://github.com/frogcat/ttl2jsonld](https://github.com/frogcat/ttl2jsonld) for just one of many examples). It is this dual nature of RDF – as data documents and normalized data records – that makes RDF so compelling as services become more declarative and end up with less intervention on the part of programmers.
+
+## Cons
+
+- no support for quads/named graphs 
 
 ## References
 

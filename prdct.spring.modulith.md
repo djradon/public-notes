@@ -2,7 +2,7 @@
 id: ebnvxqxmqd18m0frbubkf1q
 title: Modulith
 desc: 'allows developers to build well-structured Spring Boot applications and guides developers in finding and working with application modules driven by the domain'
-updated: 1710969774701
+updated: 1716909915684
 created: 1710969774701
 ---
 
@@ -11,3 +11,4 @@ created: 1710969774701
 ## Resources
 
 - https://medium.com/andamp/event-sourcing-with-spring-modulith-2b35b0569dbb
+- https://levelup.gitconnected.com/architecture-style-modulith-vs-microservices-90c7c75713db

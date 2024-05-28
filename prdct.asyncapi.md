@@ -2,7 +2,7 @@
 id: 5izi3fbls7d833qc45ozeaq
 title: AsyncAPI
 desc: ''
-updated: 1715623209349
+updated: 1716919440900
 created: 1673569081430
 ---
 
@@ -38,6 +38,10 @@ created: 1673569081430
   - "We can define the event payload but its structure is totally free and user-defined. And that's what makes AsyncAPI so powerful! Since our event payload can be anything, it can also be a CloudEvents event."
 - https://atamel.dev/posts/2023/05-23_asyncapi_cloudevents/
   - CloudEvents help to define the format of the events and AsyncAPI helps to define the event-driven APIs.
+
+## Solutions
+
+- [[prdct.zenwave]] java-based toolkit for Domain Driven Design (DDD) and API-First
 
 ## Resources
 

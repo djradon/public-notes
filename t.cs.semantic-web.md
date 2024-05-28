@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1716227444562
+updated: 1716921832193
 created: 1633629215451
 ---
 
@@ -32,6 +32,12 @@ created: 1633629215451
 ### n-ary relationships
 
 - according to [^1], no problem! ^hpcz3e0llqgb
+- according to https://terminusdb.com/blog/graph-fundamentals-part-3-graph-schema-languages/ lots of problems
+  - no closed-world
+  - different meaning for domain and range in rdfs vs owl
+- according to https://www.datasciencecentral.com/why-graphql-will-rewrite-the-semantic-web/
+  - too complex
+  - lack of intrinsic sequencing
 
 
 ## Resources

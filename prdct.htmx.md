@@ -2,7 +2,7 @@
 id: ydbmu5s02n46o73dun4dqle
 title: Htmx
 desc: 'gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext'
-updated: 1716614635014
+updated: 1716912138263
 created: 1699290990780
 related:
   - "[[prdct.alpine_js]]"
@@ -41,6 +41,7 @@ Which means you could either fake a backend for demonstration purposes or you co
 - https://www.kodaps.dev/en/blog/htmx-anti-javascript-framework
 - https://medium.com/@hhartleyjs/making-a-dashboard-with-htmx-go-50820d7ddedb (go)
 - https://blog.stackademic.com/my-honest-opinion-after-writing-a-small-project-using-go-templ-and-htmx-7b9acf302834
+- [baseline 11ty site that provides the flexibility for expansion, incorporating elements like HTMX for dynamic content and preparing for integrations with data visualization tools like Grafana and Dash](https://git.crazystorm.xyz/medusa/Projects/src/branch/main/11ty) with [[prdct.eleventy]]
 
 ## References
 
