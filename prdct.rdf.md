@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1716575705151
+updated: 1716839138965
 created: 1633160681527
 ---
 
@@ -53,7 +53,12 @@ created: 1633160681527
 
 ## Issues
 
+### Ordering
+
 - [ordering](https://ontola.io/blog/ordered-data-in-rdf), although maybe [[prdct.hydra]] collections could help
+
+### Other Issues
+
 - contrary to [some claims](https://www.ontotext.com/knowledgehub/fundamentals/what-is-rdf/), RDF and OWL are not fluent, at least compared to GraphDown
 - calls verbs properties / predicates
 - confuses properties and predicates
