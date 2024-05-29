@@ -2,12 +2,12 @@
 id: 5s2dskuhqq5w8ikcp36no4c
 title: Trifid
 desc: 'lightweight and easy way to access Linked Data URIs via HTTP, '
-updated: 1716841091633
+updated: 1716960113552
 created: 1714109080591
 ---
 
 - https://zazuko.com/products/trifid/
-- [[c.software.semantic.browser]]
+- [[c.software.semantic.browser]] [[c.software.semantic.site-generator]]
 - repo: https://github.com/zazuko/trifid
 - written_in: javascript
 - published-by: [[org.zazuko]]
