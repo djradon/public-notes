@@ -2,7 +2,7 @@
 id: bc2ya18buka4rr2qycn4l5m
 title: Hypermedia APIs
 desc: ''
-updated: 1716911129437
+updated: 1717010552182
 created: 1701294427191
 alias: hateoas
 ---
@@ -42,6 +42,8 @@ Data APIs, on the other hand:
 -   Should strive for both regularity and expressiveness due to the arbitrary data needs of consumers
 -   Should be versioned and should be very stable within a particular version of the API
 -   Should be consumed by code, processed and then potentially presented to a human
+
+Can you have both? Of course! See https://hypermedia.systems/json-data-apis/
 
 ## References
 

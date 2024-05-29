@@ -5,7 +5,7 @@ desc: >-
   open solution for real-time communications designed to be fast, reliable, and
   battery-efficient; modern and convenient replacement for both the Websocket
   API and the higher-level libraries and services relying on it.
-updated: 1714667824449
+updated: 1717010328601
 created: 1714236933033
 ---
 
@@ -29,7 +29,7 @@ In summary, use the Push API to send notifications to offline users (that will b
 
 ### Mercure vs Centrifugo
 
-- Centrifugo supports more complex and diverse communication protocols beyond SSE, including WebSocket, which is more suitable for environments where high throughput and lower latency are required.
+- [[prdct.centrifugo]] supports more complex and diverse communication protocols beyond SSE, including WebSocket, which is more suitable for environments where high throughput and lower latency are required.
 - Centrifugo offers private and public channels, presence channels, and authentication features.
 - Scalability: Centrifugo is designed to handle large numbers of concurrent clients, making it suitable for more intensive real-time applications.
 - Mercure has that built-in integration with [[prdct.api-platform]]
