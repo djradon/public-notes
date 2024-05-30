@@ -2,7 +2,7 @@
 id: uhagejfd79c8isushtaciux
 title: LinkML
 desc: 'general purpose modeling language that can be used with linked data, JSON, and other formalisms'
-updated: 1711475030169
+updated: 1717081289381
 created: 1696739554441
 ---
 
@@ -11,7 +11,9 @@ created: 1696739554441
 - written-in: #python
 - similar: [[prdct.aml]]
 - [[p.alternativeTo]] [[prdct.json-schema]]
-- [[p.supports]] [[t.cs.sd.mixin]]
+- [[p.supports]] 
+  - [[t.cs.sd.mixin]] 
+  - [[prdct.rdf]] see https://linkml.io/linkml/intro/tutorial04.html
 - [[c.feature.possible]] 
   - [[prdct.typedb]] converter
 - [[c.product.related]] https://github.com/linkml/linkml-owl
@@ -19,6 +21,11 @@ created: 1696739554441
 ## Features
 
 - LinkML is designed to work in harmony with other frameworks, including both semantic RDF-based frameworks, as well as frameworks that are more familiar to developers such as JSON.
+
+### JSON-LD support
+
+- [[prdct.JSON-LD]] contexts and JSON-Schema provide distinct ways of describing your data, with JSON-Schema providing the structural description of how your information is organized, and contexts providing the semantics (or at least a loose semantics consisting of reuse of URIs). Despite these distinct purposes there is a lot of overlap and many organizations end up manually maintaining these and keeping them in sync.
+  - other frameworks like SHACL may be used for a frame-independent representation of the RDF.
 
 ## Resources
 
