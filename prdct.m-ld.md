@@ -2,7 +2,7 @@
 id: t7q534y033uby4hmbvq3lm8
 title: m-ld
 desc: 'information is available where its used—on mobiles, in browsers, in microservices, anywhere—and it stays up-to-date, automatically.'
-updated: 1717083933950
+updated: 1717093396321
 created: 1714684120876
 ---
 
@@ -11,6 +11,12 @@ created: 1714684120876
 - creator: @george-svarovsky
 - implementation:
   - [[prdct.m-ld-js]]
+- related: [[prdct.json-rql]]
+- supports: [[prdct.ably]] [[prdct.mqtt]] [[prdct.socket-io]] 
+
+## Issues
+
+- no [[prdct.JSON-LD.star]] support, but https://github.com/m-ld/m-ld-js/issues/182
 
 ## Features
 
