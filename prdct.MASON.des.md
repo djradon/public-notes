@@ -2,14 +2,15 @@
 id: hzpq2wetfen37fjcav6a2vw
 title: MASON DES
 desc: 'discrete event simulation extension for MASON'
-updated: 1712678192158
+updated: 1717024678731
 created: 1712677554992
 ---
 
+- https://cs.gmu.edu/~eclab/projects/mason/extensions/des/docs/manual.pdf
+
 ## Summary
 
-MASON’s DES classes may be roughly divided into four categories: Resources, Processes, Composed Pro-
-cesses, and Visualization Tools. 
+MASON’s DES classes may be roughly divided into four categories: Resources, Processes, Composed Processes, and Visualization Tools. 
 
 ### Resources 
 

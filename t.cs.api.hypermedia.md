@@ -2,7 +2,7 @@
 id: bc2ya18buka4rr2qycn4l5m
 title: Hypermedia APIs
 desc: ''
-updated: 1717010552182
+updated: 1717023310266
 created: 1701294427191
 alias: hateoas
 ---
@@ -49,3 +49,5 @@ Can you have both? Of course! See https://hypermedia.systems/json-data-apis/
 
 - https://nordicapis.com/exploring-the-hidden-powers-of-hypermedia/
 - https://htmx.org/essays/hypermedia-apis-vs-data-apis/
+- https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
+- https://medium.com/@cheron.antoine/which-technologies-should-you-use-to-build-hypermedia-apis-5047f2964cc4
