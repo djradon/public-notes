@@ -2,13 +2,17 @@
 id: lolmcxuzk67fvkpufx8nkzb
 title: Event Ontology
 desc: 'a minimal ontology'
-updated: 1717106213980
+updated: 1717193581696
 created: 1717105071258
 ---
 
 - dead
 - https://motools.sourceforge.net/event/event.html
 - [[c.ontology.events]]
+
+## Issues
+
+- doesn't distinguish among fundamental types of events
 
 ## Related
 
@@ -17,3 +21,4 @@ created: 1717105071258
 ## References
 
 - https://www.techscience.com/iasc/v29n2/42943/html
+- [[ar.lode-linking-open-descriptions-of-events]]

@@ -1,6 +1,6 @@
 ---
 id: sTyNYjlGIpve8IxDgXFCn
-title: Personality Models
+title: Personality
 desc: ''
 updated: 1698958116593
 created: 1635724858083
