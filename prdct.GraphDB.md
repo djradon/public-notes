@@ -2,14 +2,14 @@
 id: RJuARDM7QgEnTon40cd13
 title: GraphDB
 desc: ''
-updated: 1714072322261
+updated: 1717220273570
 created: 1637954631007
 ---
 
 - [[c.software.database.graph]]
 - [[p.instanceOf]] [[t.cs.data.dbms.graph]]
 - written-in: java
-- [[p.supports]] [[prdct.rdf-star]]
+- [[p.supports]] [[prdct.rdf-star]] [[prdct.kafka]]
 - produced_by: [[org.ontotext]]
 - based_on: [[prdct.rdf4j]]
 - related: [[prdct.ontotext-platform]]
@@ -27,6 +27,8 @@ created: 1637954631007
   - could be useful in context of auto-versioning [[ar.star-vers-versioning-and-timestamping-rdf-data-by-means-of-rdf-star-an-approach-based-on-annotated-triples]]
 - [spatial extensions](https://graphdb.ontotext.com/documentation/10.6/geo-spatial-extensions.html?highlight=spatial)
 
+
 ## References
 
 - https://www.ontotext.com/knowledgehub/fundamentals/semantic-repository/
+- https://ontotext.medium.com/ingesting-data-in-graphdb-using-the-kafka-sink-connector-53036f2e1680

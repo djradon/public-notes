@@ -2,7 +2,7 @@
 id: kldu22ame4ghd5pc23hjjw5
 title: Microcks
 desc: 'cloud-native tool for API Mocking and Testing'
-updated: 1712028466506
+updated: 1717215320037
 created: 1708472925833
 ---
 
@@ -13,6 +13,11 @@ created: 1708472925833
   - "AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Its long-term goal is to make working with EDA’s as easy as it is to work with REST APIs."
   - "Microcks supports the KAFKA, the MQTT, the WS (for WebSocket), the AMQP, the NATS, the GOOGLEPUBSUB, the SQS and the SNS bindings"
 
+## Features
+
+- "It deploys it’s own Kafka broker, and if you upload your AsyncAPI spec it creates Kafka topics based on the description in the spec, and starts generating and producing mock data to them on a frequency interval that you specify."
+
 ## References
 
 - https://microcks.io/documentation/using/asyncapi/
+- https://dalelane.co.uk/blog/?p=4219

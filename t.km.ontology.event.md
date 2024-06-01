@@ -2,7 +2,7 @@
 id: zo9radyrcqngb8cooi6x6n5
 title: Event
 desc: ''
-updated: 1717195013623
+updated: 1717214160275
 created: 1717106200707
 ---
 
@@ -44,7 +44,14 @@ created: 1717106200707
   - Only DUL makes an explicit place/space distinction between Place and SpaceRegion. An event instance can be related to a Place via the hasLocation property, or related to a SpaceRegion via the hasRegion property.
     - scholars may wish to indicate that some event is recorded as having occurred at a mythical place. ^718pmntzkrqp
     - Similar problems are posed by contemporary events which may occur at virtual places such as those found within massive multi-player online environments.
--  making a clear distinction between named places and spatial regions enables one to deal properly with the phenomenon of places changing their absolute spatial location over time.
+-  making a clear distinction between named places and spatial regions enables one to deal properly with the phenomenon of places changing their absolute spatial location over time. ^a03j97fonuji
+
+## Participation
+
+- ABC defines two types of properties for relating an Event to a tangible thing (an Actuality in ABC parlance). 
+  - The involves property does not imply anything beyond simple involvement. 
+  - The hasResult property relates an Event to a tangible thing or attribute of a thing which exists as a result of that Event.
+  - ABC also defines various sub-properties of these two properties that further specialize these meanings. For example destroys is a specialization of involves implying that the involved Actuality ceased to exist as a result of its involvement in the Event.
 
 ## References
 
