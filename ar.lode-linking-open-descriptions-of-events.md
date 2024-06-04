@@ -2,7 +2,7 @@
 id: wpwzq9ttwck0zgdxivomgiq
 title: Lode Linking Open Descriptions of Events
 desc: ''
-updated: 1717522690883
+updated: 1717525636680
 created: 1717175388199
 ---
 
@@ -76,7 +76,13 @@ created: 1717175388199
     -  Using [[prdct.event-model-f]], one can further state that the Battle of Contarf is classified as a battle, that battles have commanders, and that Brian and M´ael M´orda are classified as commanders.
 -  CIDOC’s P14.1 `in the role of` property provides some support for classifying an agent’s participation in an event as an instantiation of a particular role. However, since it is defined as a property of the P14.carried out by property, it requires the use of OWL Full. 
    -  there does not seem to be a way to associate roles with generic event schemas in the manner described above.
-   -  
+
+### Events, Influence, Purpose, and Causality
+
+- Both EO and CIDOC provide properties for making broad
+assertions linking events to any relevant thing (tangible or not)
+  - CIDOC defines P15.was influenced by, while EO defines factor.
+  - EO does not distinguish between a thing’s participation in an event and a thing’s influence upon an event, using the same property for both relations.
 
 
 ## References

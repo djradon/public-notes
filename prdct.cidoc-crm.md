@@ -1,10 +1,13 @@
 ---
 id: 8q9ozwz753artwzawyco7ii
 title: CIDOC-CRM
-desc: 'International Committee for Documentation - Conceptual Reference Model is a theoretical and practical tool for information integration in the field of cultural heritage'
-updated: 1710860794747
+desc: >-
+  International Committee for Documentation - Conceptual Reference Model is a theoretical and practical tool for information integration in the field of
+  cultural heritage
+updated: 1717525180878
 created: 1710856821434
 ---
+
 
 - url:
   - https://www.cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf
@@ -22,3 +25,6 @@ individuation, unity and relevant properties are as unambiguous as possible.
 - A KB does not represent a slice of reality, but the justified beliefs of its maintainers about that reality. For simplicity, we speak about a KB as representing some reality
   - t.2024.03.20.20:  everything should have attribution?
   - is it just as simple as "haha, in my use case, the knowledge base is the reality."?
+
+
+CIDOC’s P14.1 `in the role of`
