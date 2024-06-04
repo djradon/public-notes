@@ -2,10 +2,11 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1710631810307
+updated: 1717524360855
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
+
 
 
 - [[p.isComparandOf]] https://sookocheff.com/post/api/on-choosing-a-hypermedia-format/
@@ -16,6 +17,7 @@ similar: prdct.yaml-ld
 "@context": {
   "": "http://example.com/default/",
 }
+```
 
 is the same as, I think:
 
@@ -45,6 +47,10 @@ A method for attaching a JSON context to a plain JSON object via an HTTP Link he
 - In JSON-LD properties can be IRIs or blank nodes whereas in RDF properties (predicates) have to be IRIs. This means that JSON-LD serializes generalized RDF Datasets.
 - In JSON-LD lists are part of the data model whereas in RDF they are part of a vocabulary, namely [RDF11-SCHEMA].
 - RDF values are either typed literals (typed values) or language-tagged strings whereas JSON-LD also supports JSON's native data types, i.e., number, strings, and the boolean values true and false. The JSON-LD Processing Algorithms and API specification [JSON-LD-API] defines the conversion rules between JSON's native data types and RDF's counterparts to allow round-tripping.
+
+### Streaming
+
+- https://www.w3.org/TR/json-ld11-streaming/
 
 ### @chatgpt.4
 
@@ -84,3 +90,5 @@ https://developer.chrome.com/blog/creating-semantic-sites-with-web-components-an
 - https://www.w3.org/TR/json-ld
 - https://json-ld.org/contexts/dollar-convenience.jsonld
 - https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
+
+jsonld-streaming-parser
