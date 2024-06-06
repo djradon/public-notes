@@ -1,14 +1,18 @@
 ---
 id: qp2otr2le1jgejqw0f828qk
 title: Ontology4
-desc: ''
-updated: 1717692961332
+desc: 'a superset ontology'
+updated: 1717701627216
 created: 1717691191480
 ---
 
 - https://ontology4.us/
 
 ## Interesting
+
+- In contrast to Resource_Description_Framework|RDF as standard model für data interchange on the Web, Ontology4 uses quadrupels instead of triplets and adds the time dimension for every relation between subjects and objects.
+- Ontology4 provides standardized notation for subjects/objects (^), relations (<>), instances (>), methods (°) and verbs/activities (~). Each of the symbols has its own graphical symbol in the semantical net graphs.
+- PQL (Predicate Query Language) translates to OQL (Ontology Query Language)
 
 ### Dualism
 
@@ -32,3 +36,7 @@ created: 1717691191480
 
 - hierarchies of verbs/activities
 - They parallel taxonomies as hierarchies of classes and mereologies as hierarchies of compositions/part-wholes.
+
+## References
+
+- https://ontology4.us/english/Ontologies/Upper-Ontologies/Concepts_Comparison/index.html

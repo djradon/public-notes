@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1712349173968
+updated: 1717702518882
 created: 1709751631541
 ---
 
@@ -137,3 +137,4 @@ there are only processes, while material objects are considered as particular pr
 
 - [[ar.gfo-the-general-formal-ontology]] 
 - [[ar.towards-gfo-2-0-architecture-modules-and-applications]]
+- http://www.thezfiles.co.za/ROMULUS/ontologicalCommitments.html
