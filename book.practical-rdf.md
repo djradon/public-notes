@@ -15,3 +15,6 @@ created: 1631573579588
 - alternative
 
 ## References
+
+
+A second type of container is the sequence, or rdf:Seq
