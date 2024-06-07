@@ -2,7 +2,7 @@
 id: r7wmmwwaws15llja6y5ng7h
 title: Sumo
 desc: 'Suggested Upper Merged Ontology, with Physical (spatiotemporal) and Abstract'
-updated: 1715275986724
+updated: 1717740546115
 created: 1708625059084
 ---
 
@@ -33,6 +33,8 @@ created: 1708625059084
 ### Dolce
 
 - [[prdct.dolce]] uses classes and properties in the service of describing particulars and has a set of metaproperties that aren't defined in DOLCE itself
+- "SUMO's positions are not well-defined, hence the interpretation of their stance varies from author to author."
+
 
 ### BFO
 
