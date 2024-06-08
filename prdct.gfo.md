@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1717702518882
+updated: 1717795175366
 created: 1709751631541
 ---
 

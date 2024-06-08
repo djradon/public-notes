@@ -2,10 +2,11 @@
 id: hbkj7lzz5h1ji1aoy641atk
 title: Gqr
 desc: 'A Generic Qualitative Reasoner'
-updated: 1710437427596
+updated: 1717773526820
 created: 1710437345327
 ---
 
+- [[c.Software.Reasoner]]
 - url: https://www.sfbtr8.spatial-cognition.de/de/projekte/reasoning/r4-logospace/research-tools/gqr/
 
 ## Features

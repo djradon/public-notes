@@ -2,7 +2,7 @@
 id: TIehWkHNVWQJk4RFT5EBX
 title: Property Graph
 desc: ''
-updated: 1708974290895
+updated: 1717794748094
 created: 1638293019662
 ---
 
@@ -49,4 +49,3 @@ created: 1638293019662
 - https://bigbear.ai/blog/property-graphs-is-it-a-node-a-relationship-or-a-property/
 
 
-- [!] http://www.loa.istc.cnr.it/old/Papers/D18.pdf

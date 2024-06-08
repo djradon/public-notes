@@ -6,6 +6,7 @@ updated: 1716919440900
 created: 1673569081430
 ---
 
+
 - related: [[prdct.asyncapi.modelina]]
 
 ## Terms
@@ -50,7 +51,7 @@ created: 1673569081430
 - https://nordicapis.com/7-protocols-good-for-documenting-with-asyncapi/
   - includes [[prdct.nats]]
 - https://blog.postman.com/asyncapi-joins-forces-with-postman-future-of-apis/
-- https://www.asyncapi.com/blog/designing_your_apis_with_asyncapi_part_1
+- https://www.asyncapi.com/b
 - [ ] [asyncapi-miniseries](https://github.com/jonaslagoni/asyncapi-miniseries/blob/master/docs/Part%201%20-%20Designing%20the%20API's.md)
   - "I always start with the basics and define all the different channels for which the game server should produce events over."
   - mentions: Nic Townsend's post about [Demystifying the Semantics of Publish and Subscribe](https://www.asyncapi.com/blog/publish-subscribe-semantics).
