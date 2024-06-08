@@ -2,12 +2,13 @@
 id: 3k2eyrc8wnr1pjktij6yke1
 title: Video Game Ontology
 desc: ''
-updated: 1712266609874
+updated: 1717892338693
 created: 1712255421910
 ---
 
 - dead since 2015
 - url: http://vocab.linkeddata.es/vgo/
+- [[c.ontology.fictional]]
 - repo: https://github.com/dgarijo/VideoGameOntology
 - uses: [[prdct.lode]]
 

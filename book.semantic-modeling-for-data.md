@@ -2,7 +2,7 @@
 id: uup0x4gcs3ilsku9xbw4xcx
 title: Semantic Modeling for Data
 desc: ''
-updated: 1716574089196
+updated: 1717908534452
 created: 1698168250108
 ---
 
@@ -29,7 +29,9 @@ Lexical variants differ from synonyms in that synonyms are different terms for t
 
 e.g. John is related to the individual Data Scientist via the relation hasProfession.
 
-you can still position the entity into a hierarchy of similar entities (e.g., saying that a Data Scientist is a kind of Information Technology Professional) by using, for example, the skos:narrower relation or similar.
+- you can still position the entity into a hierarchy of similar entities (e.g., saying that a Data Scientist is a kind of Information Technology Professional) by using, for example, the skos:narrower relation or similar.
+- you get the freedom to use the entity in any relations you like, not only instantiation, keeping at the same time its instances in short reach.
+- 
 
 #### skos
 
@@ -47,7 +49,11 @@ A second workaround is to model the entity as two entities, one as a class and o
 
     Samsung A8 becomes Samsung A8 (Mobile Phone Model) as an individual and Samsung A8 (Mobile Phone Device) as a class
 
-The advantage of this approach is that you can state almost anything you like for your entity without caring if these statements apply only to classes or individuals. Moreover, having to name your entity in a way that makes explicit its role as a class helps avoid the naming pitfalls that we saw in Chapter 6. On the other hand, you still cannot link the two variations of the entity to each other (since one is a class and the other an individual), thus making it harder to keep them in sync with each other.
+The advantage of this approach is that you can state almost anything you like for your entity without caring if these statements apply only to classes or individuals. Moreover, having to name your entity in a way that makes explicit its role as a class helps avoid the naming pitfalls that we saw in Chapter 6. 
+
+On the other hand, you still cannot link the two variations of the entity to each other (since one is a class and the other an individual), thus making it harder to keep them in sync with each other.
+
+- t.2024.06.08.21 but you can use annotations to link them
 
 ### Third Option: Punning
 
@@ -60,3 +66,25 @@ Keep in mind that, while punning can be a useful technique, it’s not a free ti
 
 - having the different cuisines embedded within the restaurant class can make it hard to talk directly about them (e.g., you cannot easily say that one cuisine is influenced by another) or link them to other entities (e.g., with recipes). Conversely, the second model allows you to talk about cuisines but takes away from you the convenience of the subclass relation.
 - The key ability that a subclass gives you in a model is that you can define relations, attributes, and other axioms that apply only to the instances of that class and not those of its superclass.
+
+### Things to Remember
+
+- Useful subclasses are those that have additional attributes, relations, or other characteristics compared to their parent class, and these characteristics are commonly used in the domain of discourse
+- Avoid subclasses with low rigidity as they are harder to maintain
+
+
+
+## Fuzzification
+
+- we can assign a real number to a vague statement, within a range from 0 to 1. A value of 1 would mean that the statement is completely true, a value of 0 means that it is completely false, and any value in between that is “partly true” to a given, quantifiable extent.
+- fuzzy truth degrees are not probabilities
+- A probability statement is about quantifying the likelihood of events or facts whose truth conditions are well defined to come true (e.g., “it will rain tomorrow with a probability of 0.8”), while a fuzzy statement is about quantifying the extent to which events or facts whose truth conditions are undefined can be perceived as true.
+- Truth fuzzification makes sense only when it manages to reduce disagreements over the validity of a model’s vague statements, and the benefits of this reduction outweigh the fuzzification effort and cost
+
+### Fuzzification Options
+
+- The number and kind of fuzzy degrees you need to acquire for your model’s vague elements depend on the latter’s vagueness type and dimensions.
+- Commonly used fuzzy membership functions: (a) trapezoidal function, (b) triangular function, (c) left-shoulder function, (d) right-shoulder function, and (e) linear function
+- if an element has quantitative vagueness in more than one dimension, then things become a bit more complicated. 
+  - One option is to define a multivariate fuzzy membership function like the one in Figure 12-5, i.e., a function with one variable for each dimension. For example, if you have the class CompetitorCompany that you have identified as quantitatively vague in the dimensions of revenue and employee count, then you could define a two-variable function based on these dimensions.
+  - Another option is to define one membership function per dimension and then combine these via some fuzzy logic operation, like fuzzy conjunction or fuzzy disjunction
