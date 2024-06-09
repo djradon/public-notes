@@ -2,11 +2,12 @@
 id: 72k96bp277imkafg599jyly
 title: On the Ontology of Fictional Characters a Semiotic Approach
 desc: ''
-updated: 1710991641733
+updated: 1717910459202
 created: 1710991641733
 ---
 
 - author: @umberto-eco
+- similar: [[ar.the-ontology-of-fiction-a-study-of-dependent-objects]]
 
 ## Abstract
 
