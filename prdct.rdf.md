@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1717046672919
+updated: 1718057313543
 created: 1633160681527
 ---
 
@@ -62,7 +62,7 @@ created: 1633160681527
     
     - Creating a class to represent an n-ary relation limits the use of many OWL constructs and creates a maintenance problem. The problem arises when we want to have local range or cardinality restrictions on some role in the n-ary relation that depend on the class of some other role. For example, we might want to say that we buy only instances of a class Book from companies in the category Bookseller (cf. use case 3). Expressing this constraint requires a special subclass of the n-ary relation class that represents the combination of restrictions. For instance, we will have to create a class Book_Purchase with the corresponding range restrictions for the property seller (allValuesFrom Bookseller) and object (allValuesFrom Book). We end up having to build an explicit lattice of classes to represent all the possible combinations.   
     
-    - OWL allows definition of inverse properties. Defining inverse properties with n-ary relations, using any of the patterns above, requires more work than with binary relations. In order to specify inverse properties for n-ary relations, we must specify an inverse for each of the properties participating in the n-ary relation (with the proper constraints). Consider the example of John buying the Lenny_The_Lion book. We may want to have an instance of an inverse relation pointing from the Lenny_The_Lion book to the person who bought it. If we had a simple binary relation John buys Lenny_The_Lion, defining an inverse is simple: we simply define a property is_bought_by as an inverse of buys:
+      - OWL allows definition of inverse properties. Defining inverse properties with n-ary relations, using any of the patterns above, requires more work than with binary relations. In order to specify inverse properties for n-ary relations, we must specify an inverse for each of the properties participating in the n-ary relation (with the proper constraints). Consider the example of John buying the Lenny_The_Lion book. We may want to have an instance of an inverse relation pointing from the Lenny_The_Lion book to the person who bought it. If we had a simple binary relation John buys Lenny_The_Lion, defining an inverse is simple: we simply define a property is_bought_by as an inverse of buys:
 
     :is_bought_by
           a       owl:ObjectProperty ;
@@ -155,7 +155,6 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
 - [[prdct.rdf.aref]]
 - [[prdct.rdf.turtle]]
 - [[prdct.hextuples]]
-- [[prdct.json-ad]] doesn't support reification
 - [[prdct.JSON-LD]]
 
 ## Solutions
@@ -184,4 +183,5 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
 
 ## References
 
-https://patterns.dataincubator.org/book/custom-datatype.html
+- https://patterns.dataincubator.org/book/custom-datatype.html
+- https://www.w3.org/TR/swbp-n-aryRelations/

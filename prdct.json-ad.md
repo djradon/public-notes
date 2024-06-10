@@ -2,7 +2,7 @@
 id: lsqn84g8faksg2jxvbj9e1f
 title: JSON-AD
 desc: 'atomic data'
-updated: 1716838972503
+updated: 1718057562283
 created: 1710789774943
 ---
 
@@ -23,35 +23,16 @@ created: 1710789774943
 
 Here's the `description` Property from above, serialized as JSON-AD:
 
-```
-<span class="hljs-punctuation">{</span>
-  <span class="hljs-attr">"@id"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"https://atomicdata.dev/properties/description"</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"https://atomicdata.dev/properties/datatype"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"https://atomicdata.dev/datatypes/markdown"</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"https://atomicdata.dev/properties/description"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"A textual description of something. When making a description, make sure that the first few words tell the most important part. Give examples. Since the text supports markdown, you're free to use links and more."</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"https://atomicdata.dev/properties/isA"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
-    <span class="hljs-string">"https://atomicdata.dev/classes/Property"</span>
-  <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"https://atomicdata.dev/properties/shortname"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"description"</span>
-<span class="hljs-punctuation">}</span>
-```
+![](/assets/images/2024-06-10-15-12-38.png)
 
 Because these properties also have [`shortnames`](https://atomicdata.dev/properties/shortname), we can easily [serialize Atomic Data to plain JSON](https://docs.atomicdata.dev/interoperability/json.html), without the long URLS:
 
-```
-<span class="hljs-punctuation">{</span>
-  <span class="hljs-attr">"@id"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"https://atomicdata.dev/properties/description"</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"datatype"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"https://atomicdata.dev/datatypes/markdown"</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"description"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"A textual description of something. When making a description, make sure that the first few words tell the most important part. Give examples. Since the text supports markdown, you're free to use links and more."</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"is-a"</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
-    <span class="hljs-string">"https://atomicdata.dev/classes/Property"</span>
-  <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
-  <span class="hljs-attr">"shortname"</span><span class="hljs-punctuation">:</span> <span class="hljs-string">"description"</span>
-<span class="hljs-punctuation">}</span>
-```
+![](/assets/images/2024-06-10-15-10-34.png)
 
 ## Issues
 
 - something about shortnames
+- Atomic only allows those who control a resource's subject URL endpoint to edit the data. This means that you can't add triples about something that you don't control.
 
 ## References
 
