@@ -2,7 +2,7 @@
 id: 6bats7d7d5rpmyivppcxy6f
 title: Towards a Semantics for the Artifactual Theory of Fiction and Beyond
 desc: ''
-updated: 1717911883849
+updated: 1717913548105
 created: 1717911112016
 ---
 
@@ -20,4 +20,5 @@ remain in existence.
   -  a fictional character is created by an author who constructs sentences about it. Fictional entities thus have a derivative dependence on their creators. Yet they are considered to be kept in existence thereafter not by the imagination of any individual, but by words and sentences
 -  Thomasson combines the notions of historical and constant dependence with the idea of rigid and generic dependence.
 -  according to the Artifactual Theory, this fixed point in time is the time of the creation of a fictional entity, but this might give rise to the objection d mentioned in section 4 that some fairy-tale characters, such as Snow White, do not appear to have been created by any specific person at any specific time
--  
+-  What the author does when he writes the story is to fix a codex, or
+set a canon
