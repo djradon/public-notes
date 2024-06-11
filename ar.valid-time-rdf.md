@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1718085552151
+updated: 1718110498367
 created: 1711033114556
 ---
 
@@ -56,6 +56,11 @@ amount of named graphs is needed.
 ## RDF+ 
 
 RDF+ model [62] uses named graphs and triple-level identifiers. Named graphs are used in place of RDF reification. Triple identifiers allow explicit annotation of meta knowledge. RDF+ model has two type of statements: literal and meta knowledge statement. A RDF+ literal statement is a quintuple form (g, s, p, o, θ) where g is the graph’s IRI, s,p,o are standard RDF triple compo- nents, and θ is a statement identifier. Based on the triple identifier in the RDF+ literal statement, the RDF+ meta knowledge statement can be formed as (θ, π, ω). θ is the literal statement identi- fier, π is the meta knowledge property and ω is the range value of π. The set K of RDF+ literal statements and the set M of RDF+ meta knowledge statements constitute a RDF+ theory, 
+
+## Discussion
+
+- There are two temporal models in Instantiating-Identifying Concept/Relationship models. 4D Fluents [73, 6, 7] introduces temporal part for an entity changing over time. Each temporal part corresponds to a distinguishable timestamp. A fluent property associates two temporal parts. On the other hand, Singleton Property [52] ensures every relationship to be universally unique. As a result, an ordinary relationship, such as enrolled, becomes a relationship type.
+
 ## Log
 
 - t.2024.04.01.11: re-reading this on the plane, I'm amazed how much more helpful and concrete this seems now.

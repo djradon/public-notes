@@ -2,12 +2,12 @@
 id: d9dr80zbt25s7jsb2s79vka
 title: Skosmos
 desc: 'Open source web-based SKOS browser and publishing tool'
-updated: 1716532359381
+updated: 1718113875571
 created: 1715892731971
 ---
 
+
 - https://skosmos.org/
-- 
 - written-in: php
 
 ## UI Complaints
