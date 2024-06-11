@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1717786110435
+updated: 1718134629013
 created: 1634426288630
 ---
 
@@ -38,6 +38,8 @@ created: 1634426288630
   - https://github.com/w3c/rdf-star/issues/22
   - t.2024.06.07.10 things should be opaque most of the time, since it's important for beliefs and provenance, and since you can get transparency from opacity
     - but see https://github.com/w3c/rdf-star-wg/wiki/RDF%E2%80%90star-examples-of-profiles#9-why-opaque-triples-do-not-work-for-data-integration-p-a-champin for an argument that opaque isn't sufficient, but it's possible that Charlie's sameAs is incorrect 
+  - [[email.public-rdf-star.some-notes-on-the-rdf-star-examples-of-profiles]]
+
 
 ## Possible Features
 

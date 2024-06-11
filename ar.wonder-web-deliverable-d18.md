@@ -2,7 +2,7 @@
 id: 8uebjda3bzz5pmg6c23cerv
 title: Wonder Web Deliverable D18
 desc: ''
-updated: 1717705933896
+updated: 1718135841753
 created: 1717703412911
 ---
 
@@ -17,3 +17,14 @@ created: 1717703412911
     1. Describe a foundational ontology on paper, using a full first-order logic with modality;
     2. Isolate the part of the axiomatization that can be expressed in OWL, and implement it;
     3. Add the remaining part in the form of KIF3 comments attached to OWL concepts.
+
+### Comparing DOLCE, OCHRE, and BFO: The Statue and the Clay
+
+“A statute of clay exists for a period of time going from t1 to t2. Between t2 and t3, the statue is crashed and so ceases to exists although the clay is still there.”
+
+#### DOLCE
+
+- there is a perdurant, the crashing (crash), that lasts during all the period of time (from t1 to t3), and two endurants, the statue (statue) and the clay (clay), which are participants in the perdurant. 
+  - More precisely, the crashing is an accomplishment (ACC), the statue is a non-agentive physical object (NAPO), and the clay is an amount of matter (M).
+- In DOLCE, endurants have only direct spatial qualities and perdurants only temporal qualities. The temporal regions of endurant and the spatial regions of perdurants are inherited by means of the participation relation 
+

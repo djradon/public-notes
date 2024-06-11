@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1718110498367
+updated: 1718116255709
 created: 1711033114556
 ---
 
@@ -60,6 +60,10 @@ RDF+ model [62] uses named graphs and triple-level identifiers. Named graphs are
 ## Discussion
 
 - There are two temporal models in Instantiating-Identifying Concept/Relationship models. 4D Fluents [73, 6, 7] introduces temporal part for an entity changing over time. Each temporal part corresponds to a distinguishable timestamp. A fluent property associates two temporal parts. On the other hand, Singleton Property [52] ensures every relationship to be universally unique. As a result, an ordinary relationship, such as enrolled, becomes a relationship type.
+
+## Valid Time RDF
+
+
 
 ## Log
 

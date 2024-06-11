@@ -4,12 +4,12 @@ title: OntoClean
 desc: >-
   a methodology for analyzing ontologies based on formal, domain-independent
   properties of classes
-updated: 1709762337293
+updated: 1718137358404
 created: 1709752671754
 ---
 
-- ![[ar.dynamic-is-a-hierarchy-generation-for-user-centric-semantic-web#^7ofuzzdqjs9x]]
-
+- ![[ar.dynamic-is-a-hierarchy-generation-for-user-centric-semantic-web]]
+- 
 
 ## Highlights
 

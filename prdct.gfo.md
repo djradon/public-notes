@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1717795175366
+updated: 1718142032896
 created: 1709751631541
 ---
 
@@ -23,7 +23,18 @@ created: 1709751631541
 - aren't "material processes" and "social processes" still processes?
 - fine line between categories and attributives
   - "Categories provide the basic structure of the ontology, defining what kinds of things exist, whereas attributives are used to describe specific qualities or features of these things."
-    - so 
+
+## OWL
+
+There is an OWL version of GFO, which currently comprises a stable core called gfo-basic.owl and a more extensive version called gfo.owl. The stable URLs to the current releases of these files are:
+
+    http://www.onto-med.de/ontologies/gfo-basic.owl
+
+    (version 1.0, build 13, 07.10.2008)
+    http://www.onto-med.de/ontologies/gfo.owl
+
+    (version 1.0, build 9, 28.08.2006)
+
 
 ## Features
 

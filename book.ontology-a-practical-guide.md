@@ -2,7 +2,7 @@
 id: 0voi8xiinkfuqhpm646ndb7
 title: Ontology a Practical Guide
 desc: ''
-updated: 1710653553220
+updated: 1718136653001
 created: 1709663700412
 ---
 
@@ -60,9 +60,7 @@ created: 1709663700412
 
 - can, may, should != obliged to, allowed to
 
-## Exercises
-
-### Chapter 2
+### Chapter 2 Exercises
 
 #### An elephant is a mammal
 
@@ -90,3 +88,8 @@ created: 1709663700412
         (instance ?Y Horse)))))
 
 
+## Chapter 3: Ontologies (in the broadest sense)
+
+- DOLCE universals are only employed in the service of describing particulars
+- SUMO is an ontology of both particulars and universals
+  - SUMO has a hierarchy of properties as well as classes ^79dmzjqovfhx
