@@ -2,17 +2,19 @@
 id: o0xyb8680a64c2dmwmalvs1
 title: Upper Ontologies
 desc: ''
-updated: 1717703185860
+updated: 1718085340651
 created: 1717693065285
 ---
 
+- similar: [[t.km.ontology.foundational]]
+
 ![](/assets/images/2024-06-06-12-25-20.png)
 
-## Thoughts
+## Issues
 
 ### Foundational Ontologies need to be written in a language like KIF
 
-- using OWL alone would be non-sensical
+- "using OWL alone would be non-sensical"
 
 ## Matching
 

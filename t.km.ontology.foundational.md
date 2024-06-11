@@ -2,10 +2,11 @@
 id: 3fa0re3cagbpf2ne3f0rsfe
 title: Foundational
 desc: ''
-updated: 1714068978583
+updated: 1718082279783
 created: 1713223599956
 ---
 
+- https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundational
 
 ## Benefits
 

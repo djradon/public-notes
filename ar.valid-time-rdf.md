@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1711995881506
+updated: 1718085552151
 created: 1711033114556
 ---
 
@@ -34,7 +34,28 @@ The formal semantics of the singleton property is derived from the standard RDF 
 
 ![](/assets/images/2024-04-01-11-24-36.png)
 
+#### Temporal Web Ontology Language
 
+- [[prdct.owl.towl]]
+
+#### Valid-Time Temporal Model
+
+- O’Connor et al. propose a valid-time temporal model and a SWRL-based [40] query mechanism for manipulating temporal knowledge in OWL ontologies
+- In the valid-time temporal model, any existing OWL class can have temporal aspects as long as it subclasses temporal:Fact, which is the super class of all temporal facts. This avoids significant ontology rewriting in converting an ontology to a temporal version.
+- The temporal expressivity of this model is further enhanced by using SWRL [40] to construct temporal rules. A set of temporal operators that includes Allen’s operators [4] is implemented as library-like built-ins for SWRL rules.
+- Querying the temporal ontology is done by [[prdct.sqwrl]]
+
+#### Named Graphs
+
+- all triples share the same temporal extent are grouped in the same graph
+- In an extreme case that each triple requires a different time reference, a significant
+amount of named graphs is needed. 
+- When triples may need multiple metadata annotation, using Named Graphs model becomes complex.
+- τ SPARQL 
+
+## RDF+ 
+
+RDF+ model [62] uses named graphs and triple-level identifiers. Named graphs are used in place of RDF reification. Triple identifiers allow explicit annotation of meta knowledge. RDF+ model has two type of statements: literal and meta knowledge statement. A RDF+ literal statement is a quintuple form (g, s, p, o, θ) where g is the graph’s IRI, s,p,o are standard RDF triple compo- nents, and θ is a statement identifier. Based on the triple identifier in the RDF+ literal statement, the RDF+ meta knowledge statement can be formed as (θ, π, ω). θ is the literal statement identi- fier, π is the meta knowledge property and ω is the range value of π. The set K of RDF+ literal statements and the set M of RDF+ meta knowledge statements constitute a RDF+ theory, 
 ## Log
 
 - t.2024.04.01.11: re-reading this on the plane, I'm amazed how much more helpful and concrete this seems now.

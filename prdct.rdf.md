@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1718057313543
+updated: 1718083945198
 created: 1633160681527
 ---
 
@@ -55,6 +55,7 @@ created: 1633160681527
 
 ### n-ary relations
 
+- aka [[t.cs.semantic-web.relationship-to-entity-conversion]]
 - sure you can use a class per relation, but...
 - "Considerations when introducing a new class for a relation
 
@@ -69,6 +70,10 @@ created: 1633160681527
           owl:inverseOf :buys .
 
     With the purchase relation represented as an instance, however, we need to add inverse relations between participants in the relation and the instance relation itself:"
+
+- t.2024.06.10.22 "Moreover, the use of cardinality re-
+strictions becomes limiting on some roles that depend on the class of some other roles"
+
 
 ### Ordering
 
