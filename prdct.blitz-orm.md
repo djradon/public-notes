@@ -2,7 +2,7 @@
 id: 2cud02517i1hk4j9mntlzxq
 title: Blitz Orm
 desc: ''
-updated: 1710354192706
+updated: 1718080381427
 created: 1708970382339
 ---
 

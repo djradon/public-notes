@@ -2,11 +2,12 @@
 id: xqyv74byikdfixf87o22lcq
 title: HexTuples
 desc: ''
-updated: 1710789855342
+updated: 1718062367295
 created: 1710789855342
 ---
 
 - similar: [[prdct.thrift.rdf-binary]]
+- based-on: [[prdct.ndjson]]
 
 ## Description
 
