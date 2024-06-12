@@ -2,11 +2,12 @@
 id: xIdy3nJhVz1fVPioTTdSJ
 title: Edges Are Also Nodes
 desc: ''
-updated: 1638291910300
+updated: 1718127791853
 created: 1638291830934
 ---
 
 
-
 - ["edges are also nodes"](https://www.google.com/search?client=firefox-b-1-d&q=%22edges+are+also+nodes%22)
   - [[prdct.ktgk]]
+  - [[t.cs.semantic-web.relationship-to-entity-conversion]]
+  
