@@ -1,17 +1,23 @@
 ---
 id: stdy7h7as46ehxupm66538k
 title: Reasoner
-desc: ''
-updated: 1708713855214
+desc: 'the most expressive knowledge representation language anyone knows how to design while still preserving practical reasoning.'
+updated: 1718171551621
 created: 1698706449311
 ---
+
+## Decidability
+
+- [[prdct.owl.dl]] is decidable
+  - "There are many things systems engineers care about that are beyond the reasoning power of Description Logic. DL reasoners cannot solve differential equations, for example. But a great deal of what we care about, including the structure of systems of differential-algebraic equations can be expressed in assertions about types, properties, and relationships, and OWL reasoning can help us. In these situations we may use a specialized reasoner (e.g., Mathematica) to solve a problem, but a DL-based front end can help us construct the problem efficiently and with confidence in its correctness."
 
 ## Implementations
 
 ### Open-Source
 
 -   [Cwm](https://en.wikipedia.org/wiki/Cwm_(software) "Cwm (software)"), a forward-chaining reasoner used for querying, checking, transforming and filtering information. Its core language is RDF, extended to include rules, and it uses RDF/XML or N3 serializations as required.
--   [Drools](https://en.wikipedia.org/wiki/Drools "Drools"), a forward-chaining inference-based rules engine which uses an enhanced implementation of the [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm "Rete algorithm").
+-   [Drools](https://en.wikipedia.org/wiki/Drools "Drools"), a forward-chaining inference-based rules engine which uses an enhanced implementation of the [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm "Rete algorithm").  
+    -   also, [[prdct.drools.swrlapi]]
 -   [Evrete](https://www.evrete.org), a forward-chaining Java rule engine that uses the [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm "Rete algorithm") and is compliant with the Java Rule Engine API (JSR 94).
 -   [D3web](https://en.wikipedia.org/wiki/D3web "D3web"), a platform for [knowledge-based systems](https://en.wikipedia.org/wiki/Knowledge-based_systems "Knowledge-based systems") ([expert systems](https://en.wikipedia.org/wiki/Expert_systems "Expert systems")).
 -   [Flora-2](https://en.wikipedia.org/wiki/Flora-2 "Flora-2"), an object-oriented, rule-based knowledge-representation and reasoning system.
@@ -36,3 +42,5 @@ created: 1698706449311
 -   [Whelk](https://github.com/balhoff/whelk) - A Scala OWL reasoner based on the algorithm implemented in ELK, using immutable data structures.
 
 ## References
+
+- https://www.opencaesar.io/blog/2021/06/19/OML-Origin-and-Rationale.html
