@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1718083945198
+updated: 1718222026560
 created: 1633160681527
 ---
 
@@ -15,6 +15,16 @@ created: 1633160681527
 ## Features
 
 - Blank (or anonymous) nodes are RDF resources with identifiers that exist only locally. In other words, their identifiers are not URLs. They are sometimes also called anonymous nodes. They make life easier for data producers, who can easily create (nested) resources without having to mint all the URLs. In most non-RDF data models, blank nodes are the default. For example, we nest JSON object without thinking twice.
+
+## Namespaces
+
+### Namespace Prefixes
+
+- "The XML Namespaces specification (Namespaces in XML 1.0) states that a prefix must be a valid XML name, which means it must conform to the following constraints:
+
+- It must start with a letter or underscore (_).
+- It cannot start with a number.
+- Subsequent characters can be letters, digits, hyphens (-), underscores (_), or periods (.)."
 
 ## Datasets
 
