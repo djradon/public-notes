@@ -2,7 +2,7 @@
 id: kbohm7jjui6nz99gwfmulba
 title: Plow
 desc: 'package manager for ontologies, bringing established practices from software engineering into the world of ontology engineering. It similar to programming language package manager such as npm and cargo.'
-updated: 1718210305820
+updated: 1718229731798
 created: 1718210044283
 ---
 
