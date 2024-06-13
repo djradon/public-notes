@@ -2,7 +2,7 @@
 id: wpwzq9ttwck0zgdxivomgiq
 title: Lode Linking Open Descriptions of Events
 desc: ''
-updated: 1717525636680
+updated: 1718321242557
 created: 1717175388199
 ---
 
@@ -44,12 +44,18 @@ created: 1717175388199
     - CIDOC provides a class (E53.Place) for “ex- tent in space” to which events can be related via the P7.took place at property. Instances of E53.Place may have names (E44.Place Appellation), but there is no way to link an event to a place name except through a specific spatial ex- tent.
     - ABC’s Place class also emphasizes spatial location rather than meaningful place
     - EO’s place property has a range of wgs84:SpatialThing, which is also defined in terms of spatial extent.
-  - Only DUL makes an explicit place/space distinction between Place and SpaceRegion. An event instance can be related to a Place via the hasLocation property, or related to a SpaceRegion via the hasRegion property.
+  - Only DUL makes an explicit place/space distinction between Place and SpaceRegion. An event instance can be related to a Place via the hasLocation property, or related to a SpaceRegion via the hasRegion property. ^qs5jaxcn4tai
     - scholars may wish to indicate that some event is recorded as having occurred at a mythical place. ^718pmntzkrqp
     - Similar problems are posed by contemporary events which may occur at virtual places such as those found within massive multi-player online environments.
 -  making a clear distinction between named places and spatial regions enables one to deal properly with the phenomenon of places changing their absolute spatial location over time. ^a03j97fonuji
 
 ## Participation
+
+
+- ABC defines two types of properties for relating an Event to a tangible thing (an Actuality in ABC parlance). 
+  - The involves property does not imply anything beyond simple involvement. 
+  - The hasResult property relates an Event to a tangible thing or attribute of a thing which exists as a result of that Event.
+  - ABC also defines various sub-properties of these two properties that further specialize these meanings. For example destroys is a specialization of involves implying that the involved Actuality ceased to exist as a result of its involvement in the Event.
 
 ### Object involvement
 
@@ -88,3 +94,9 @@ assertions linking events to any relevant thing (tangible or not)
 ## References
 
 [^3]: [[ar.understanding-the-semantic-web-through-descriptions-and-situations]]
+
+## References
+
+- [[ar.advanced-ontology-topics-events-roles-artifacts]]
+- [[ar.lode-linking-open-descriptions-of-events]]
+- 
