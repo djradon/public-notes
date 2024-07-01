@@ -2,7 +2,7 @@
 id: n2ln43dertdv5hpgd6lyb4v
 title: Event Streaming
 desc: 'you need to implement event streaming into your systems to capture, integrate, access, and analyze data in real-time.'
-updated: 1715631748118
+updated: 1718518454353
 created: 1674620815689
 ---
 
@@ -17,12 +17,13 @@ created: 1674620815689
 - [[prdct.kafka]]
 - [[prdct.nats.jetstream]]
 - [[prdct.memphis]]
+- 
 
 ## Comparisons
 
 ### Memphis vs Jetstream
 
-- 
+
 
 
 ## References
@@ -32,3 +33,4 @@ created: 1674620815689
 - https://learning.oreilly.com/library/view/designing-event-driven-systems/9781492038252/ch01.html
 - https://thenewstack.io/choosing-between-message-queues-and-event-streams/
 - https://docs.memphis.dev/memphis/memphis-broker/comparisons/nats-vs-memphis
+- https://km.aifb.kit.edu/sites/lodstream/
