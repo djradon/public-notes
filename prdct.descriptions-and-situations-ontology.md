@@ -2,13 +2,22 @@
 id: tgo3urb4dkh0wlexb713qhl
 title: Descriptions and Situations Ontology
 desc: 'a set of axioms that formalize how descriptions (i.e., conceptualizations of situations) relate to the actual situations they describe'
-updated: 1717521154526
+updated: 1719949077431
 created: 1717520141664
 ---
 
 The Descriptions and Situations (D&S) ontology pattern is a conceptual framework used in the Semantic Web for modeling and representing context and situational information. This ontology pattern enables the formalization of how descriptions (conceptualizations of situations) relate to the actual situations they describe. The D&S pattern is essential for applications that need to handle contextual information and varying interpretations of data. Here is an overview of the key components and concepts of the D&S ontology:
 
 ![](/assets/images/2024-06-04-10-12-29.png)
+
+## Features
+
+- provides a formalization of frame semantics, generalizing over Fillmore’s [Fillmore and others, 2006] and Minsky’s [Minsky, 1974] proposals
+- defines a general vocabulary for n-ary relations, introducing the concepts of description and situation
+  - A situation is a set of facts, as it is described by an observer, involving a set of entities.
+  - A  description is a perspective (a theory, a schema) defining concepts that can classify, hence interpret, the entities observed in a situation
+- both descriptions and situations are formalized as first-order entities in an ontology, therefore potentially enabling reasoning over them both at the intensional (description) and extensional (situation) level, in the same domain of discourse
+
 
 ### Key Components of D&S Ontology
 
@@ -75,3 +84,9 @@ function
 3. **Complex Systems**: Modeling complex systems where different components interact in various roles and relationships.
 
 By using the D&S ontology pattern, one can create a robust framework for representing and reasoning about the contexts and situations in which data and entities are involved, enhancing the Semantic Web's capability to handle complex and contextual information.
+
+
+## References
+
+- 
+- [[ar.arxiv.sandra-a-neuro-symbolic-reasoner-based-on-descriptions-and-situations]]

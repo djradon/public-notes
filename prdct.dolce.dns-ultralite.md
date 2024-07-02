@@ -2,7 +2,7 @@
 id: ulcpsxyesx6mxgsgapascns
 title: DNS Ultralite
 desc: 'DOLCE+DnS (Descriptions and Situation) Ultralite ontology'
-updated: 1713459630730
+updated: 1719942666400
 created: 1710890567295
 ---
 
@@ -11,8 +11,9 @@ created: 1710890567295
 - related: [[prdct.d0]] [[prdct.dolce.plans-lite]] [[prdct.dolce.information-objects]] [[prdct.dolce.systems-lite]] [[prdct.dolce.core-legal]] [[prdct.dolce.lexical]]
 - url: 
   - http://ontologydesignpatterns.org/wiki/Ontology:DOLCE+DnS_Ultralite
-  - http://www.ontologydesignpatterns.org/ont/dul/DUL.owl
+  - http://www.ontologydesignpatterns.org/ont/dul/DUL.owl (v4.1)
   - http://www.ontologydesignpatterns.org/ont/dul/DUL_v40.owl
+- authors: [[user.aldo-gangemi]]
 
 ## Issues
 
@@ -24,7 +25,10 @@ the DOLCE+D&S Ultralite15 (DUL) OWL ontology was intended to popularize DOLCE to
 
 Main aspects in which DOLCE+DnS Ultralite departs from DOLCE Lite-Plus are the following:
 
-- The names of classes and relations have been made more intuitive - The DnS-related part is closer to the newer 'constructive DnS' ontology (http://www.ontologydesignpatterns.org/ont/cdns/cDnS.owl). - Temporal and spatial relations are simplified - Axiomatization makes use of simpler constructs than DOLCE Lite-Plus - The architecture of the ontology is pattern-based, which means that DOLCE+DnS Ultralite is also available in modules, called 'content ontology design patterns', which can be applied independently in the design of domain ontologies (cf. http://www.ontologydesignpatterns.org). If many modules are needes in a same ontology project, is anyway useful to use this integrated version. 
+- The names of classes and relations have been made more intuitive
+- The DnS-related part is closer to the newer 'constructive DnS' ontology (http://www.ontologydesignpatterns.org/ont/cdns/cDnS.owl). 
+- Temporal and spatial relations are simplified - Axiomatization makes use of simpler constructs than DOLCE Lite-Plus 
+- The architecture of the ontology is pattern-based, which means that DOLCE+DnS Ultralite is also available in modules, called 'content ontology design patterns', which can be applied independently in the design of domain ontologies (cf. http://www.ontologydesignpatterns.org). If many modules are needes in a same ontology project, is anyway useful to use this integrated version. 
 
 ### Events
 
