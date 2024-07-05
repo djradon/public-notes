@@ -2,7 +2,7 @@
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
 desc: 'aka metaclasses vs superclasses'
-updated: 1716676850099
+updated: 1720202582647
 created: 1716575654799
 ---
 
@@ -23,3 +23,4 @@ created: 1716575654799
 ## References
 
 - https://stackoverflow.com/questions/38208212/does-owl-punning-treats-class-and-individual-with-same-name-as-same-semantically
+- https://lists.w3.org/Archives/Public/semantic-web/2011Jun/0245.html

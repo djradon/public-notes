@@ -4,7 +4,7 @@ title: OntoClean
 desc: >-
   a methodology for analyzing ontologies based on formal, domain-independent
   properties of classes
-updated: 1718137358404
+updated: 1720203078592
 created: 1709752671754
 ---
 
@@ -18,5 +18,4 @@ created: 1709752671754
 ## References
 
 - https://en.wikipedia.org/wiki/OntoClean
-
-rigidity" ^7ofuzzdqjs9x
+- http://ontolog.cim3.net/file/resource/presentation/OntoClean--ChrisWelty_20041118/guarinowelty_final_v4.pdf

@@ -2,7 +2,7 @@
 id: uup0x4gcs3ilsku9xbw4xcx
 title: Semantic Modeling for Data
 desc: ''
-updated: 1717908534452
+updated: 1720202383274
 created: 1698168250108
 ---
 
@@ -18,7 +18,6 @@ created: 1698168250108
 ; a concept can indeed play the role of a class if its definition implies a set of entities that instantiate it, but this is not always the case.
 In property graphs, for example, there is no formal distinction between a class and an instance since everything is a node (node labels can play the role of a class but not exclusively
 in OWL, entities that can be classes are often modeled as individuals because, otherwise, they cannot be related to other entities
-Lexical variants differ from synonyms in that synonyms are different terms for the same entity, while lexical variants are different word forms for the same term.
 
 - in OWL-DL, you cannot define a class as an instance of another class, nor can you define direct relations between classes and other entities other than some predefined ones. Thus, if you want to say at the same time that John is an instance of Data Scientist, and Data Scientist is an instance of Occupation, you just can’t.
   - ~~t.2024.04.04.13 but I think you could say that John's occupation is an instance of Data Scientist and DS is a subclass of occupation?~~
@@ -35,7 +34,7 @@ e.g. John is related to the individual Data Scientist via the relation hasProfes
 
 #### skos
 
-- you lose reasoners (who cares?) 
+- you lose some reasoning (how much?) 
 
 ### Second Option: model the concept as a class and an individual
 
@@ -59,7 +58,7 @@ On the other hand, you still cannot link the two variations of the entity to eac
 
 use OWL2 and punning, a feature that allows you to use the same entity in your model as both a class and an individual. The trick with punning is that the reasoner decides at runtime whether the entity should be interpreted as a class or individual, based on the entity’s context. Thus if, for example, the entity is linked to a class via an instantiation relation, it is treated as an individual, while if it is related to it via a subclass relation, it is treated as a class. In other words, even though the entity has one single identifier, depending on its context, it is evaluated by the reasoner as a different thing.
 
-Keep in mind that, while punning can be a useful technique, it’s not a free ticket to treating all entities as both a class and an individual. As Michael Uschold rightly argues in [209], punning is more syntactic trickery than an actual solution to the semantic problem of metaclasses, because the only thing it does is raise an invisible wall between the two interpretations of the entity. This wall may relieve you from having to use different names for the same thing, but it can also confuse your fellow modelers and users of your model if you are not careful.
+Keep in mind that, while punning can be a useful technique, it’s not a free ticket to treating all entities as both a class and an individual. As @michael-uschold rightly argues in [209], punning is more syntactic trickery than an actual solution to the semantic problem of metaclasses, because the only thing it does is raise an invisible wall between the two interpretations of the entity. This wall may relieve you from having to use different names for the same thing, but it can also confuse your fellow modelers and users of your model if you are not careful.
 
 
 ## To Subclass or Not to Subclass?
