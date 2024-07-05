@@ -2,12 +2,9 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1701119038110
+updated: 1720208783670
 created: 1633596039729
 ---
-
-
-
 
 - [[p.hasComparand]]
   - [[t.cs.graph.semantic-graph]]
@@ -16,6 +13,7 @@ created: 1633596039729
 
 ## thoughts
 
+- they can be mapped to each other [^2]
 - property graphs support key-value pairs on entities and relationships
   - "Naturally annotated edges instead of inconvenient reification in knowledge graphs." [^1]
   - but values are not other nodes
@@ -39,4 +37,4 @@ created: 1633596039729
 ## References
 
 [^1]: https://docs.arcadedb.com/#Graph-Database
- 
+ [^2]: https://protegeproject.github.io/owl2lpg/

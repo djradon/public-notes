@@ -2,7 +2,7 @@
 id: uup0x4gcs3ilsku9xbw4xcx
 title: Semantic Modeling for Data
 desc: ''
-updated: 1720202383274
+updated: 1720210398344
 created: 1698168250108
 ---
 
@@ -52,7 +52,7 @@ The advantage of this approach is that you can state almost anything you like fo
 
 On the other hand, you still cannot link the two variations of the entity to each other (since one is a class and the other an individual), thus making it harder to keep them in sync with each other.
 
-- t.2024.06.08.21 but you can use annotations to link them
+- t.2024.06.08.21 but you can use annotations to link them, aka Fourth Option
 
 ### Third Option: Punning
 
