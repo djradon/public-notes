@@ -2,13 +2,16 @@
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
 desc: 'aka metaclasses vs superclasses'
-updated: 1720210138414
+updated: 1720217666733
 created: 1716575654799
 ---
 
+- Superclasses define inheritance relationships between classes.
+- Metaclasses define properties for other classes.
+
 - in addition to [[book.semantic-modeling-for-data#class-or-individual]], there's:
 
-## Fourth Option
+## Second Option + Linking Annotation
 
 - use one of the class annotation properties, e.g.
   - rdfs:comment, rdfs:seeAlso, rdfs:isDefinedBy, or
@@ -18,9 +21,22 @@ created: 1716575654799
 
 ### AnnotationProperty example
 
+## Fourth Option: Using annotations as (non-logical) properties
+
+- maybe losing reasoning isn't important?
+  - transitive might be important,
+    - e.g.
+      - CharacterClassChoice shouldOccurBefore CharacterAbilityScoreChoice
+      - CharacterAbilityScoreChoice shouldOccurBefore CharacterSkillChoice
+      - 
+ 
+
 ## Thoughts
 
+### Punning
+
 - "Punning is a simple way to provide for metamodeling that (a) does not require a major change to OWL 1.1 (DL) reasoners and (b) usually seems to satisfy the semantic requirements."
+- "An IRI I can be used in an OWL 2 ontology to refer to more than one type of entity. Such usage of I is often called metamodeling, because it can be used to state facts about classes and properties themselves. In such cases, the entities that share the same IRI I should be understood as different "views" of the same underlying notion identified by the IRI I."
 
 ## Resources
 
