@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1718142032896
+updated: 1720242554715
 created: 1709751631541
 ---
 
@@ -12,7 +12,7 @@ created: 1709751631541
   - https://www.onto-med.de/ontologies/gfo#impl
 - repo: 
   - https://github.com/Onto-Med/GFO
-  - https://github.com/Onto-Med/GFO-2.0
+  - https://github.com/Onto-Med/GFO-2.0 (empty)
 - related: [[prdct.gol]]
 
 ![](/assets/images/2024-03-07-13-47-05.png)
@@ -23,6 +23,7 @@ created: 1709751631541
 - aren't "material processes" and "social processes" still processes?
 - fine line between categories and attributives
   - "Categories provide the basic structure of the ontology, defining what kinds of things exist, whereas attributives are used to describe specific qualities or features of these things."
+- 
 
 ## OWL
 
@@ -149,3 +150,4 @@ there are only processes, while material objects are considered as particular pr
 - [[ar.gfo-the-general-formal-ontology]] 
 - [[ar.towards-gfo-2-0-architecture-modules-and-applications]]
 - http://www.thezfiles.co.za/ROMULUS/ontologicalCommitments.html
+- [[ar.towards-ontological-foundations-for-conceptual-modeling-the-unified-foundational-ontology-ufo-story]]

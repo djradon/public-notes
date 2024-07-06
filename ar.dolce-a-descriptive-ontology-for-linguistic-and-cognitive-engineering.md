@@ -2,12 +2,13 @@
 id: iynlp25h6qqigrbt50f0yqr
 title: Dolce a Descriptive Ontology for Linguistic and Cognitive Engineering
 desc: ''
-updated: 1713457881316
+updated: 1720241729102
 created: 1713457833062
 ---
 
 - https://philarchive.org/archive/BORDAD-3
 - topics: [[prdct.dolce]] [[prdct.dolce.dns-ultralite]] [[t.km.ontology.foundational]]
+- authors: @stefano-borgo @aldo-gangemi @nicola-guarino 
 
 ## Abstract
 
@@ -15,3 +16,5 @@ DOLCE, the first top-level (foundational) ontology to be axiomatized, has remain
 
 ## Highlights
 
+- what does "Also, DOLCE’s domain of discourse is formed by
+particulars, while properties and relations are taken to be universals" mean?

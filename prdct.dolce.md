@@ -2,7 +2,7 @@
 id: mjcpuwi7bne4r8moc0uruzx
 title: DOLCE
 desc: Descriptive Ontology of particulars for Linguistic and Cognitive Engineering
-updated: 1717562622793
+updated: 1720241944635
 created: 1698268244398
 ---
 
@@ -11,6 +11,8 @@ created: 1698268244398
 - similar: [[prdct.dolce-lite]] [[prdct.dolce.dns-ultralite]]  [[prdct.d0]]
 - related: [[prdct.colore]]
 - terms: https://github.com/gruninger/colore/blob/master/ontologies/dolce/DOLCE-Terms.docx
+
+![](/assets/images/2024-07-05-21-58-59.png)
 
 ## Thoughts
 
@@ -31,3 +33,4 @@ Within stative occurrences, we distinguish between  states and processes accordi
     - mentions [[prdct.unified-foundational-ontology]]
 - http://www.thezfiles.co.za/ROMULUS/ontologies/DOLCE-No-Quality-Qualia.owl
 - [old site](http://www.loa.istc.cnr.it/old/Files/dolce.html)
+- [[ar.dolce-a-descriptive-ontology-for-linguistic-and-cognitive-engineering]]

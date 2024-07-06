@@ -2,7 +2,7 @@
 id: ulcpsxyesx6mxgsgapascns
 title: DNS Ultralite
 desc: 'DOLCE+DnS (Descriptions and Situation) Ultralite ontology'
-updated: 1719942666400
+updated: 1720245423655
 created: 1710890567295
 ---
 
@@ -71,3 +71,4 @@ For this reason, in this ontology version of DOLCE, both events and situations a
 ## References
 
 - [^1]: [[ar.dolce-a-descriptive-ontology-for-linguistic-and-cognitive-engineering]]
+- [[ar.understanding-the-semantic-web-through-descriptions-and-situations]]

@@ -2,7 +2,7 @@
 id: o0xyb8680a64c2dmwmalvs1
 title: Upper Ontologies
 desc: ''
-updated: 1718085340651
+updated: 1720245305867
 created: 1717693065285
 ---
 
@@ -25,3 +25,4 @@ created: 1717693065285
 
 - https://ontology4.us/english/Ontologies/Upper-Ontologies/Concepts_Comparison/index.html
 - https://cw.fel.cvut.cz/b201/_media/courses/osw/lecture-08matching-h.pdf
+- [[ar.a-comparison-of-upper-ontologies]]

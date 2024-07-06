@@ -2,11 +2,12 @@
 id: 1em6o7dg3jfwrwejtsh1vwh
 title: Sandra a Neuro Symbolic Reasoner Based on Descriptions and Situations
 desc: ''
-updated: 1719946937532
+updated: 1720240420036
 created: 1719946748977
 ---
 
-authors: @nicolas-lazzari @stefano-de-giorgis @aldo-gangemi @valentina-presutti
+- https://arxiv.org/pdf/2402.00591
+- authors: @nicolas-lazzari @stefano-de-giorgis @aldo-gangemi @valentina-presutti
 
 ## Abstract
 
@@ -16,3 +17,6 @@ This paper presents sandra, a neuro-symbolic reasoner combining vectorial repres
 ## Highlights
 
 ![](/assets/images/2024-07-02-12-02-15.png)
+- " hence they provide two different perspectives from
+which the situation can be interpreted"
+  - isn't it more like they provide two different possible descriptions? why 

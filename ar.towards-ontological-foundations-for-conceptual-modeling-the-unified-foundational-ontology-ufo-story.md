@@ -1,10 +1,9 @@
 ---
 id: zzoajb1hp4gezmidmjgeyll
 title: >-
-  Towards Ontological Foundations for Conceptual Modeling the Unified
-  Foundational Ontology Ufo Story
+  Towards Ontological Foundations for Conceptual Modeling the Unified Foundational Ontology Ufo Story
 desc: ''
-updated: 1713464153158
+updated: 1720242407267
 created: 1713463627419
 ---
 
