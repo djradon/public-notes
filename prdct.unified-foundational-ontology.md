@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1718082970162
+updated: 1720275001763
 created: 1698268407267
 ---
 
@@ -21,7 +21,12 @@ created: 1698268407267
  
 ## Issues
 
-- no OWL or any other machine-readable represenation??
+- no OWL or any other machine-readable represenation
+  - but [[prdct.unified-foundational-ontology.gUFO]]
+
+## Features
+
+- ![[prdct.unified-foundational-ontology.gUFO#^io6179ll2dle]]
 
 ## Composition
 

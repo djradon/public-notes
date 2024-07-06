@@ -2,7 +2,7 @@
 id: a42wc66z30xxlppln5hfm3p
 title: Understanding the Semantic Web through Descriptions and Situations
 desc: ''
-updated: 1717521782070
+updated: 1720271320976
 created: 1717384032283
 ---
 
@@ -20,7 +20,7 @@ created: 1717384032283
 
 ### D&S
 
-- D&S axioms try to capture the notion of “situation” as a unitarian entit out of a “state of affairs”
+- D&S axioms try to capture the notion of “situation” as a unitarian entity out of a “state of affairs”
 - A state of affairs is any non-empty set SoA of assertions a1..n that are individually coherent with the axioms in a first-order theory O, called a “ground ontology”. A SoA is a second-order entity, therefore it cannot be represented (as such) as an individual in O. Examples: a clinical data set, a set of temperatures with spatio-temporal coordinates, etc
 - A description is an entity that partly represents a (possibly formalized) theory T (or one of its elements) that can be “conceived” by an agent: either human, collective, social, or artificial. A description can be an individual in O. Examples: a diagnosis, a climate change theory, etc.
 - A situation is constituted by the entities and the relations among them that are mentioned in assertions a1..n from a SoA, and it is an entity in O that partly represents a (possibly formalized) model M for T, according to the axioms in O
