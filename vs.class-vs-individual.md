@@ -2,7 +2,7 @@
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
 desc: 'aka metaclasses vs superclasses'
-updated: 1720243478080
+updated: 1720292057608
 created: 1716575654799
 ---
 
@@ -10,6 +10,8 @@ created: 1716575654799
 - Metaclasses define properties for other classes.
 
 ## Issues
+
+- just like my Dendron notes, do we have separate classes for things, our can concepts just be classes
 
 ### Classes as Values
 

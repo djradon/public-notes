@@ -2,9 +2,11 @@
 id: s9536b7l08atc8lzmhkotdx
 title: Discrete Event Simulation
 desc: ''
-updated: 1712683410520
+updated: 1720290350841
 created: 1695417250681
 ---
+
+![[ar.towards-an-ontological-foundation-of-discrete-event-simulation#^f4xouwm2jcoa]]
 
 - In event-based simulation, the entities all run in a single thread. At the time of making a request, the entities provide a callback function that must be invoked when the waiting condition is over. This style of programming is widely used in Graphical User Interface designs where preconfigured callback functions are called by the system when any event of interest occurs (e.g. mouse click).
 - The proponents of process-based programming claim that their design leads to a better readability of code. Whereas the adherents of event-based programming argue that their approach is more structured since the actions for each different kind of events are encapsulated as different functions.
