@@ -2,7 +2,7 @@
 id: t6ebsghgw5xwdiku27e1kx7
 title: Decentralized Collaborative Knowledge Management Using Git
 desc: ''
-updated: 1720334036356
+updated: 1720334692506
 created: 1714499726660
 ---
 
@@ -23,5 +23,14 @@ The World Wide Web and the Semantic Web are designed as a network of distributed
 4http://aksw.org/Projects/CatalogusProfessorum
 5http://heloisenetwork.eu/
 6http://catalogus-professorum.org/projects/pcp-on-web/
+
+-  a system that fosters the evolution of a dataset in a distributed collaborative setup needs to
+• support divergence of datasets;
+• conflate diverged states of datasets; and
+• synchronize different distributed derivatives of the respective dataset.
+
 - creating independent vocabularies (a) in the individual working groups would not help to integrate the datasets. Due to the organizational distribution of the individual research groups, a common vocabulary expressing a mutual agree- ment among the groups (b) can only be the result of a collaborative process
-- 
+
+## State of the art
+
+- https://www.w3.org/DesignIssues/Diff

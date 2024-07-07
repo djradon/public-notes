@@ -2,7 +2,7 @@
 id: 1c425wcbnwh1esyiwydx1pw
 title: Owl
 desc: Web Ontology Language
-updated: 1718080423423
+updated: 1720368062770
 created: 1696270955675
 ---
 
@@ -12,6 +12,8 @@ created: 1696270955675
 ## description:
 
 - OWL 2 ontologies themselves are primarily exchanged as RDF documents
+  - i.e., the RDF-Based Semantics
+  - but there's also direct semantics, looks like `Declaration(Class(:Person))`
 - OWL-Lite is the least expressive sub-langauge. OWL-Full is the most expressive sub-language. The expressiveness of OWL-DL falls between that of OWL-Lite and OWL-Full. 
  
 ## Highlights

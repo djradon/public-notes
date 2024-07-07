@@ -2,7 +2,7 @@
 id: a0jree9lq3avg0r27xxxq86
 title: Widoco
 desc: 'WIzard for DOCumenting Ontologies'
-updated: 1708029336953
+updated: 1720368802896
 created: 1706301174868
 ---
 
@@ -14,3 +14,4 @@ created: 1706301174868
 ## Demo
 
 - https://dgarijo.github.io/Widoco/doc/gallery/index.html
+- https://fair-impact.github.io/MOD/index-en.html#Thesaurus
