@@ -2,13 +2,14 @@
 id: t6ebsghgw5xwdiku27e1kx7
 title: Decentralized Collaborative Knowledge Management Using Git
 desc: ''
-updated: 1714512893661
+updated: 1720334036356
 created: 1714499726660
 ---
 
 - https://natanael.arndt.xyz/bib/arndt-n-2018--jws
 - keywords: [[prdct.rdf]] [[t.cs.semantic-web]] [[t.km]] [[prdct.quit]]
 - similar: [[ar.distributed-collaboration-on-rdf-datasets-using-git]]
+- mentions: [[quit]]
 
 ## Abstract
 
