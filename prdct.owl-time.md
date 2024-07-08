@@ -2,7 +2,7 @@
 id: acxwjynzcfhybxyoe56el4i
 title: Owl Time
 desc: 'ontology of temporal concepts, providing a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information'
-updated: 1706765902273
+updated: 1720477869809
 created: 1701453829509
 url: https://www.w3.org/TR/owl-time/
 related: 
@@ -28,6 +28,9 @@ The class `[:Interval](https://www.w3.org/TR/owl-time/#topology#time:Interval)` 
 
 ##  Issues
 
+- annotations only, no temporal reasoning intended [^1]
+- suffers from class-as-instance modelling confusion [^1]
+
 ### what are OWL-Time's notorious ambiguity problems
 
 @chatgpt.4: 
@@ -49,3 +52,8 @@ OWL-Time, part of the Semantic Web technology stack, is an ontology for describi
     Integration with Non-temporal Data: Combining temporal data with non-temporal data can sometimes lead to ambiguities, especially when the temporal aspects are not explicitly defined or are defined using different standards or formats.
 
 Addressing these ambiguities often requires additional context, clear definitions of terms, and sometimes custom extensions or interpretations of the OWL-Time ontology to fit specific use cases. In many practical applications, it's crucial to document how these ambiguities are resolved to ensure consistent understanding and processing of temporal data.
+
+
+## References
+
+[^1]: https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/An_Introduction_to_Ontology_Engineering_(Keet)/11%3A_Advanced_Modeling_with_Additional_Language_Features/11.02%3A_Time_and_Temporal_Ontologies

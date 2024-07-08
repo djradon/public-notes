@@ -1,8 +1,8 @@
 ---
 id: s498tiohye13ey5fk8hicjp
-title: Core
-desc: ''
-updated: 1698262670409
+title: Core Games
+desc: your portal to the metaverse; the power of Unreal in an accessible interface
+updated: 1720471091435
 created: 1696194449222
 ---
 

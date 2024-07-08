@@ -2,7 +2,7 @@
 id: o0i0slyae40yf3o4crroqes
 title: An Introduction to Ontology Engineering Keet
 desc: ''
-updated: 1713282629779
+updated: 1720477067238
 created: 1711471328539
 ---
 
@@ -20,6 +20,10 @@ created: 1711471328539
 
 - results in a more compact representation, is intuitively closer to the domain expert’s understanding, and makes it easier to verbalize the ontology, and therefore is likely to be more useful in praxis. The Running option is more generic, and thereby likely to increase reusability of the ontology. No scientific experiments have been conducted to test which way would be better to represent such knowledge, and current mapping tools do not deal with such differences of representing roughly the same knowledge in syntactically very different ways. Theoretical foundations for mappings between such distinct modeling styles have been proposed [^FK17], and this may be resolved soon.
 
+### Time and Temporal Ontologies
+
+
 ## References
 
 [^FK17]: [FK17] Pablo R. Fillottrani and C. Maria Keet. Patterns for heterogeneous tbox mappings to bridge different modelling decisions. In E. Blomqvist et al., editors, Proceeding of the 14th Extended Semantic Web Conference (ESWC’17), volume 10249 of LNCS, pages 371–386. Springer, 2017. 30 May - 1 June 2017, Portoroz, Slovenia.
+- 
