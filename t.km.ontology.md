@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: 'a particular knowledge base, describing facts assumed to be always true by a community of users, in virtue of the agreed-upon meaning of the vocabulary used'
-updated: 1716920179218
+updated: 1720371535287
 created: 1633445910705
 ---
 
@@ -67,18 +67,19 @@ https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundat
 
 ## Resources
 
-https://www.springer.com/gp/book/9783540709992
-[+] [[prdct.w3id]]
-[[ar.the-ontology-of-relations]]
-[OntoJIT: Exploiting CLR Compiler Support for
-Performing Entailment Reasoning over Executable
-Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
-https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
-[Ontology Development 101: A Guide to Creating Your
-First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology101.pdf)
-[[ar.foundational-ontologies-in-action]]
-[Developing and using ontologies in behavioural science: addressing issues raised](https://wellcomeopenresearch.org/articles/7-222)
-[[book.an-introduction-to-ontology-engineering-keet]]
+- https://dgarijo.github.io/Widoco/doc/bestPractices/index-en.html
+- https://www.springer.com/gp/book/9783540709992
+- [+] [[prdct.w3id]]
+- [[ar.the-ontology-of-relations]]
+- [OntoJIT: Exploiting CLR Compiler Support for
+- Performing Entailment Reasoning over Executable
+- Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
+- https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
+- [Ontology Development 101: A Guide to Creating Your
+- First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology101.pdf)
+- [[ar.foundational-ontologies-in-action]]
+- [Developing and using ontologies in behavioural science: addressing issues raised](https://wellcomeopenresearch.org/articles/7-222)
+- [[book.an-introduction-to-ontology-engineering-keet]]
 - [[ar.ontology-development-101-a-guide-to-creating-your-first-ontology]]
 - https://dgarijo.github.io/Widoco/doc/bestPractices/index-en.html
 
@@ -92,7 +93,6 @@ First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology1
     [[prdct.ontologydesignpatterns-org]]
       mentions: [[prdct.cognitive-characteristics-ontology]]
 [[prdct.ontohub-org]]
-
 
 ## References
 
