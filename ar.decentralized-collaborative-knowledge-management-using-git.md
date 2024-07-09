@@ -2,7 +2,7 @@
 id: t6ebsghgw5xwdiku27e1kx7
 title: Decentralized Collaborative Knowledge Management Using Git
 desc: ''
-updated: 1720334692506
+updated: 1720530822909
 created: 1714499726660
 ---
 
@@ -33,4 +33,4 @@ The World Wide Web and the Semantic Web are designed as a network of distributed
 
 ## State of the art
 
-- https://www.w3.org/DesignIssues/Diff
+- [[ar.w3.delta-an-ontology-for-the-distribution-of-differences-between-rdf-graphs]]
