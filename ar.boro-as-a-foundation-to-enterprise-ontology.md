@@ -2,7 +2,7 @@
 id: edddvfsdrnu95mw4gy9fhcl
 title: Boro as a Foundation to Enterprise Ontology
 desc: ''
-updated: 1720500279668
+updated: 1720500376696
 created: 1720500238097
 ---
 
