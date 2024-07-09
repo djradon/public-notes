@@ -2,7 +2,7 @@
 id: bCbHNvGI5XGE4s9mD5AMJ
 title: Log
 desc: ''
-updated: 1698704342146
+updated: 1720553560808
 created: 1641366235825
 ---
 
@@ -58,3 +58,4 @@ The relationship/event.
 The abstract description of the relationship/event.
 Specific occurrences of the abstract description of the relationship/event.
   - [[p.hasAuthor]] @anthony-moretti
+

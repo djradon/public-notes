@@ -2,7 +2,7 @@
 id: 1c425wcbnwh1esyiwydx1pw
 title: Owl
 desc: Web Ontology Language
-updated: 1720368062770
+updated: 1720553088225
 created: 1696270955675
 ---
 

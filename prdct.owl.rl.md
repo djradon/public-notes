@@ -1,8 +1,10 @@
 ---
 id: 1gdtclhqp3sqtl5lt6zeepp
 title: OWL RL
-desc: 'aimed at applications that require scalable reasoning without sacrificing too much expressive power'
-updated: 1720328679702
+desc: >-
+  aimed at applications that require scalable reasoning without sacrificing too
+  much expressive power
+updated: 1720553128188
 created: 1718084598695
 ---
 
@@ -12,10 +14,11 @@ created: 1718084598695
 
 - inspired by [[t.km.description-logic]] programs
 
-## Related
+## Implementations
 
 - [[prdct.swrlapi-drools-engine]]
 - [[prdct.owlrl-python]]
+- [[prdct.owl-rl-reasoner]]
 
 ## Issues
 
