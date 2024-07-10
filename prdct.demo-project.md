@@ -1,8 +1,8 @@
 ---
 id: 12ap7sdv8qek6yp8l1b1bvs
-title: Demo Project
+title: DeMO Project
 desc: 'ontology for Discrete-event Modeling'
-updated: 1720291254385
+updated: 1720636100101
 created: 1720290588334
 ---
 

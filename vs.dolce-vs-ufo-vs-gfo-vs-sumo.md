@@ -2,7 +2,7 @@
 id: zbfyvlhb3d6dpl9o5iyyzuh
 title: Dolce Vs Ufo Vs Gfo Vs Sumo
 desc: ''
-updated: 1720587935158
+updated: 1720640884281
 created: 1714068979478
 ---
 
@@ -41,7 +41,8 @@ created: 1714068979478
 
 #### gUFO
 
-- 
+- (somewhere) was intended for conceptual modeling, including simulation modeling
+  - @chatgpt: "Unlike GFO and DOLCE, which have their roots in formal ontology and linguistic cognition respectively, UFO is designed to address the practical needs of conceptual modeling and simulation."
 
 ## References
 

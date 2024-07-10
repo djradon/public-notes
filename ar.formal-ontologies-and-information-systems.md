@@ -2,7 +2,7 @@
 id: 4yfhv81tilbhw4j33u5h635
 title: Formal Ontologies and Information Systems
 desc: ''
-updated: 1712179232023
+updated: 1720634840958
 created: 1712177225025
 ---
 
@@ -30,4 +30,4 @@ created: 1712177225025
 
 ### Ontology-driven Information Systems
 
-- When
+- When discussing the impact an ontology can have on an IS, we can distinguish two orthogonal dimensions: a temporal dimension, concerning whether an ontology is used at development time or at run time (i.e., for an IS or within an IS)

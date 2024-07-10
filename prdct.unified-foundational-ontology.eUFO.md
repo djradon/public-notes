@@ -2,7 +2,7 @@
 id: 3oygg06p6jjbt68la0azf1f
 title: eUFO
 desc: 'essential/executable Unified Foundational Ontology'
-updated: 1713464925539
+updated: 1720639390012
 created: 1712868624751
 ---
 
@@ -25,7 +25,7 @@ created: 1712868624751
 
 ### Relators, Material Relationships and Reference Properties
 
-- in general, relators are founded on events
+- in general, relators are founded on events ^atf1q0pprmmt
   - e.g. a particular marriage is founded on a marriage ceremony
 - material relationships depend on relators to exist; (i.e., a particular marriage depends on the relator "marriage"?)
 
@@ -81,14 +81,12 @@ Student).
 ## Thoughts
 
 - why separate design-time and run-time?
-- "Notice that in conceptual modelling, and in simulation modelling, we are not really interested to con-
-sider all the things that constitute a real-world system. We call those things, in which we are interested,
-entities, including: physical objects, events and certain material relationships. This choice implies that we
-do not want to include amounts of matter, relators or qualities in a simulation model."
+- "Notice that in conceptual modelling, and in simulation modelling, we are not really interested to consider all the things that constitute a real-world system. We call those things, in which we are interested, entities, including: physical objects, events and certain material relationships. This choice implies that we do not want to include amounts of matter, relators or qualities in a simulation model."
   - relators: a kiss, a covalent bond, a medical treatment, a purchase order, or a social commitment.
   - why wouldn't you want to include relators and qualities in a simulation model?
     - e.g. an attack; an equipped weapon?
 - Sortal types are confusing... two Apples are the same?
+  - t.2024.07.10.12 No, the class "Apples" is sortal because its members are countable and have identity
 - Base types: Person, but... in a fantasy world, even a creature could be transformed into a lamp
   
 

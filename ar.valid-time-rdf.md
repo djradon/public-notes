@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1718116255709
+updated: 1720631866058
 created: 1711033114556
 ---
 
@@ -63,7 +63,11 @@ RDF+ model [62] uses named graphs and triple-level identifiers. Named graphs are
 
 ## Valid Time RDF
 
-
+- "As a result, a binary relationship actually incurs three timestamps: the valid
+time of the relationship and two participating entities."
+  - t.2024.07.10.10 really? Do entities have timestamps? John might have a birth and death, but relationships involving John don't need to know that. 
+  - Also, birth-death are not the same as valid. 
+  - There's an asymmetry with valid time in open-world. if there's no valid-to, can you assume ***now***? not in open-worlds. If there's no valid-from, you just assume it's missing. 
 
 ## Log
 

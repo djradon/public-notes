@@ -2,7 +2,7 @@
 id: lx6jqrpml82rd0epni0ixoq
 title: gUFO
 desc: 'a gentle version of the unified foundational ontology'
-updated: 1709753074574
+updated: 1720641143349
 created: 1709238399943
 ---
 

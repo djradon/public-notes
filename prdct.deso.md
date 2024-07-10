@@ -1,7 +1,9 @@
 ---
 id: og9wupt76m9mjpcc57ewdzy
 title: DESO
-desc: 'a foundational ontology for discrete event system modeling derived from the foundational ontology UFO'
+desc: >-
+  a foundational ontology for discrete event system modeling derived from the
+  foundational ontology UFO
 updated: 1713381693514
 created: 1712868523749
 ---
@@ -41,3 +43,5 @@ There are four properties of a simulation language to be checked in its evaluati
 ## References
 
 - [[ar.towards-an-ontological-foundation-of-discrete-event-simulation]]
+
+DESO, a foundational ontology
