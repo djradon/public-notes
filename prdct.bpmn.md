@@ -2,16 +2,23 @@
 id: mmytejxznjmj3oakm472yzd
 title: Bpmn
 desc: ''
-updated: 1701199105092
+updated: 1720650120128
 created: 1690521120122
 spec: https://www.omg.org/spec/BPMN/2.0/
 related:
   - [[prdct.bpmnator]]
 ---
 
-## Details
+## Issues
 
 - spec is > 500 pages
+- from https://dpmn.info/presentations/2023-SW/#/7 :
+    Overloading/ambiguity of sequence flow arrows
+    Insufficient integration of the objects that participate in a process
+    Insufficient resource modeling
+    No support of processing activities
+    No convincing formal/operational semantics
+
 
 ## Types of Elements
 

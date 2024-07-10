@@ -2,11 +2,12 @@
 id: lx6jqrpml82rd0epni0ixoq
 title: gUFO
 desc: 'a gentle version of the unified foundational ontology'
-updated: 1720641143349
+updated: 1720643918303
 created: 1709238399943
 ---
 
 - url: https://nemo-ufes.github.io/gufo/
+- related: [[prdct.ufo-protege-plugin]]
 
 ## Classes
 

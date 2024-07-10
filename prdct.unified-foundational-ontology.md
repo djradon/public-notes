@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1720590977381
+updated: 1720644585804
 created: 1698268407267
 ---
 
@@ -58,3 +58,4 @@ Applications of it in Business Modeling](https://ceur-ws.org/Vol-125/paper2.pdf)
 - [[ar.towards-ontological-foundations-for-agent-modeling-concepts-using-ufo]]
 - [[ar.towards-ontological-foundations-for-conceptual-modeling-the-unified-foundational-ontology-ufo-story]]
 - [[ar.ufo-unified-foundational-ontology]]
+- [[ar.endurant-types-in-ontology-driven-conceptual-modeling-towards-onto-uml-2-0]]

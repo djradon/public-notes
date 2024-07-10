@@ -2,7 +2,7 @@
 id: s9536b7l08atc8lzmhkotdx
 title: Discrete Event Simulation
 desc: ''
-updated: 1720290350841
+updated: 1720649099744
 created: 1695417250681
 ---
 
@@ -25,6 +25,7 @@ A second common use of discrete event scheduling is when it is important to keep
 ## Resources
 
 - https://softwaresim.com/blog/a-gentle-introduction-to-discrete-event-simulation/
+- [[ar.object-event-modeling-for-des-and-is-engineering]]
 
 ## References
 

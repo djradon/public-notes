@@ -2,11 +2,12 @@
 id: yqherpc7s58ja1143nuz6g6
 title: Tutorial Conceptual Simulation Modeling with onto Uml
 desc: ''
-updated: 1720637850657
+updated: 1720648911322
 created: 1720637438871
 ---
 
 - https://informs-sim.org/wsc12papers/includes/files/inv284.pdf
+- authors: @giancarlo-guizzardi @gerd-wagner
 
 ## Abstract
 

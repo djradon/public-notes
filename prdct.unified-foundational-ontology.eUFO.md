@@ -2,7 +2,7 @@
 id: 3oygg06p6jjbt68la0azf1f
 title: eUFO
 desc: 'essential/executable Unified Foundational Ontology'
-updated: 1720639390012
+updated: 1720644573607
 created: 1712868624751
 ---
 
