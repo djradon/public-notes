@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: 'a particular knowledge base, describing facts assumed to be always true by a community of users, in virtue of the agreed-upon meaning of the vocabulary used'
-updated: 1720371535287
+updated: 1720588078399
 created: 1633445910705
 ---
 
@@ -71,9 +71,7 @@ https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundat
 - https://www.springer.com/gp/book/9783540709992
 - [+] [[prdct.w3id]]
 - [[ar.the-ontology-of-relations]]
-- [OntoJIT: Exploiting CLR Compiler Support for
-- Performing Entailment Reasoning over Executable
-- Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
+- [OntoJIT: Exploiting CLR Compiler Support for Performing Entailment Reasoning over Executable Ontologies](http://www.ijke.org/vol4/93-SE030.pdf)
 - https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
 - [Ontology Development 101: A Guide to Creating Your
 - First Ontology](https://www.cs.upc.edu/~jvazquez/teaching/sma-upc/docs/ontology101.pdf)

@@ -2,7 +2,7 @@
 id: onf6e2kcaralhmgleu7k8ys
 title: Summary Un Asserted
 desc: ''
-updated: 1720553730349
+updated: 1720582320596
 created: 1720553570464
 ---
 
@@ -38,11 +38,13 @@ Then the only additional thing needed in RDF 1.2 is to ensure that a triple term
 
 I think what bothers you is that it would reasonably make sense to say that in this case, given the intuitive meaning of a Purchase, the simple `:bought` relationship should also hold (i.e. that triple should be entailed). And I agree, for this specific case. Not for the general use of `rdf:reifies`.
 
+## Relator n-ary entailing simple predicate
+
 Specifically then, we want to say that IF something is a :Purchase which rdf:reifies a :bought relationship between ?x and ?y, THEN ?x :bought ?y.
 
 And we don't need anything more for that. This is already possible using OWL.
 
-We first need a "rolification" property for the :Purchase (that's just an existing "OWL trick", to be able to use class memberships in property chains):
+We first need a "rolification" property for the :Purchase (that's just an existing "OWL trick",
 
     :Purchase rdfs:subClassOf [ owl:onProperty _:RolifiedPurchase ; owl:hasSelf true ] .
 
@@ -85,7 +87,7 @@ This is something the used ontology can define, to clarify the "intuitions" on t
 
 To see that this works, try it out in an OWL tool such as the OWL-RL reasoner, which is also online courtesy of the Finnish National Library at [1]. That example link uses the example data above, which I put in a gist at [2]. (In that gist there is also a version where the `:seller` is not directly asserted, but `<purchase1>`  instead also reifies `<Alice> :shoppedAt <ComputerStore>`, and rules are added so that the `:seller` and `:shoppedAt` triples are entailed.)
 
-Aside: I think it is imperative that reifiers like `<purchase1>` are recognized, as shown above, as standard N-ary relationships. A lot of the *seemingly* simple triple annotations we've seen appear to be of that kind, in "disguise" (just a piecemeal description of). And N-aries are a common kind of relationship reification *not* limited to the rather narrow "triple token" notion informally defined in RDF. Specifically, the Purchase class is a kind of reifier known as a relator [2], which mediates the buyer, item, and seller, date, cost, currency. Which I think at least Enrico has been saying all along.
+Aside: I think it is imperative that reifiers like `<purchase1>` are recognized, as shown above, as standard N-ary relationships. A lot of the *seemingly* simple triple annotations we've seen appear to be of that kind, in "disguise" (just a piecemeal description of). And N-aries are a common kind of relationship reification *not* limited to the rather narrow "triple token" notion informally defined in RDF. Specifically, the Purchase class is a kind of reifier known as a [[relator|prdct.ontouml#relator]] [2], which mediates the buyer, item, and seller, date, cost, currency. Which I think at least Enrico has been saying all along.
 
 So with `rdf:reifies`, transparent triple terms as objects, and the addition of a simple "T-entailment", we appear to already have all pieces required to cater for the use cases we have deemed reasonable, including ones where reified relationships should also be entailed to hold. With ontology-powered systems, they mighn't need triple terms to begin with. But the annotation syntax is a practical convenience for lots of real world systems, where the above OWL usage is far from prevalent today, or where other concerns are more pressing. As shown above, semantically, OWL has what is needed to make all approaches interoperable. (And a lot more is available, such as cardinality restrictions).
 

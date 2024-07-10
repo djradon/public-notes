@@ -2,9 +2,10 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1720504349869
+updated: 1720590977381
 created: 1698268407267
 ---
+
 
 - [[c.ontology.upper]]
 - url: 
@@ -28,7 +29,6 @@ created: 1698268407267
 
 - ![[prdct.unified-foundational-ontology.gUFO#^io6179ll2dle]]
 
-
 ## Composition
 
 -   **UFO-A**: An Ontology of Endurants dealing with aspects of structural conceptual modeling. It is organized as a Four-Category ontology comprising theories of Types and Taxonomic Structures connected to a theory of object identifiers (including a formal semantics in a Sortal Quantified Modal Logics), Part-Whole Relations, Particularized Intrinsic Properties, Attributes and Attribute Value Spaces (including a theory of Datatypes as Measure Structures), Particularized Relational Properties and Relations and Roles;
@@ -40,18 +40,13 @@ created: 1698268407267
 
 -   **UFO-C:** An Ontology of Simple Intentional and Social Entities, which is constructed on top of UFO- A and UFO-B, and which addresses notions such as Beliefs, Desires, Intentions, Goals, Actions, Commitments and Claims, Social Roles and Social Particularized Relational Complexes (Social Relators), among others.
 
-- **UFO-D:** Cognitive Agents
-
 - **UFO-S:** Services
 
-## Types/Classes
 
-- 
 
 
 ## Resources
 
-- [[vs.dolce-vs-ufo]]
 
 
 ## References
@@ -63,5 +58,3 @@ Applications of it in Business Modeling](https://ceur-ws.org/Vol-125/paper2.pdf)
 - [[ar.towards-ontological-foundations-for-agent-modeling-concepts-using-ufo]]
 - [[ar.towards-ontological-foundations-for-conceptual-modeling-the-unified-foundational-ontology-ufo-story]]
 - [[ar.ufo-unified-foundational-ontology]]
-- https://ontouml.readthedocs.io/en/latest/theory/identity.html#identity
-- 

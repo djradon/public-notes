@@ -26,4 +26,4 @@ A subset of domain ontology developers do not see a benefit:
 
 - [[book.an-introduction-to-ontology-engineering-keet]]
 - [[ar.foundational-ontologies-from-theory-to-practice-and-back]]
-- [[vs.dolce-vs-ufo]]
+- [[vs.dolce-vs-ufo-vs-gfo-vs-sumo]]

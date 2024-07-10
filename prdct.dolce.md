@@ -2,7 +2,7 @@
 id: mjcpuwi7bne4r8moc0uruzx
 title: DOLCE
 desc: Descriptive Ontology of particulars for Linguistic and Cognitive Engineering
-updated: 1720241944635
+updated: 1720586632095
 created: 1698268244398
 ---
 
@@ -25,6 +25,18 @@ created: 1698268244398
 #### State
 
 Within stative occurrences, we distinguish between  states and processes according to homeomericity: sitting is classified as a state  but running is classified as a process, since there are (very short) temporal parts  of a running that are not themselves runnings.In general, states differ from situations because they are not assumed to have a description from which they depend. They can be sequenced by some course, but they do not require a description as a unifying criterion.On the other hand, at any time, one can conceive a description that asserts the constraints by which a state of a certian type is such, and in this case, it becomes a situation.Since the decision of designing an explicit description that unifies a perdurant depends on context, task, interest, application, etc., when aligning an ontology do DLP, there can be indecision on where to align a state-oriented class. For example, in the WordNet alignment, we have decided to put only some physical states under 'state', e.g. 'turgor', in order to stress the social orientedness of DLP. But whereas we need to talk explicitly of the criteria by which we conceive turgor states, these will be put under 'situation'.Similar considerations are made for the other types of perdurants in DOLCE.A different notion of event (dealing with change) is currently investigated for further developments: being 'achievement', 'accomplishment', 'state', 'event', etc. can be also considered 'aspects' of processes or of parts of them. For example, the same process 'rock erosion in the Sinni valley' can be conceptualized as an accomplishment (what has brought the current state that e.g. we are trying to explain), as an achievement (the erosion process as the result of a previous accomplishment), as a state (if we collapse the time interval of the erosion into a time point), or as an event (what has changed our focus from a state to another).In the erosion case, we could have good motivations to shift from one aspect to another: a) causation focus, b) effectual focus, c) condensation d) transition (causality).If we want to consider all the aspects of a process together, we need to postulate a unifying descriptive set of criteria (i.e. a 'description'), according to which that process is circumstantiated in a 'situation'. The different aspects will arise as a parts of a same situation.
+
+### Spaces and Places in DOLCE
+
+    Space:
+        In DOLCE, a Space (or Space Region) is an abstract, often continuous entity that provides a context for locating other entities. It is more about the conceptual or physical extent without specific delineations or functional attributes.
+        Spatial Region (dolce
+        ): An abstract region of space where objects and places can be located.
+
+    Place:
+        A Place in DOLCE is typically a spatial region with some sort of defined boundary or significance. It is often associated with a particular function, meaning, or context.
+        Physical Place (dolce
+        ): A location that is often defined by physical boundaries or significant contextual features. It can be a part of a space but is distinguished by its specific role or context.
 
 ## References
 
