@@ -2,13 +2,14 @@
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
 desc: 'aka metaclasses vs superclasses'
-updated: 1720715875514
+updated: 1720717635741
 created: 1716575654799
 ---
 
+- aka: [[t.phil.type-token-distinction]]
 - Superclasses define inheritance relationships between classes.
 - Metaclasses define properties for other classes.
-  - t.2024.07.11.09 but since 
+  - t.2024.07.11.09 but since RDF/OWL have no metaclass
 
 ## Conclusion
 

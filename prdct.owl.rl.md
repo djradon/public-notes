@@ -4,7 +4,7 @@ title: OWL RL
 desc: >-
   aimed at applications that require scalable reasoning without sacrificing too
   much expressive power
-updated: 1720553128188
+updated: 1720718350532
 created: 1718084598695
 ---
 
@@ -20,6 +20,6 @@ created: 1718084598695
 - [[prdct.owlrl-python]]
 - [[prdct.owl-rl-reasoner]]
 
-## Issues
+## restrictions according to @chatgpt
 
-- more limited than OWL DL, but amenable to rules
+![[sh.question-log.2024.07.11.what-are-the-restrictions-of-owl2-rl]]
