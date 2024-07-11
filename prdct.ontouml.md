@@ -2,12 +2,15 @@
 id: 4p9syg1oz2pe0e78c8ry8gq
 title: OntoUML
 desc: ''
-updated: 1720647945648
+updated: 1720674955809
 created: 1709679259786
 ---
 
-- related: [[prdct.ontouml-vp-plugin]]
-  
+- related: 
+  - [[prdct.ontouml-vp-plugin]] 
+  - https://ontouml.org/ (dead on arrival)
+
+
 ## Theory
 
 ### Types/Classes
