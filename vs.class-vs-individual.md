@@ -2,12 +2,19 @@
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
 desc: 'aka metaclasses vs superclasses'
-updated: 1720327525689
+updated: 1720715875514
 created: 1716575654799
 ---
 
 - Superclasses define inheritance relationships between classes.
 - Metaclasses define properties for other classes.
+  - t.2024.07.11.09 but since 
+
+## Conclusion
+
+- t.2024.07.11.09 after trying to formulate a comment for [[ar.medium.mike-dillinger.the-nature-of-knowledge-graph-predicates]], I feel a small a-ha!
+  - Data Scientist, as a sub-class of Occupation, requires that all its instances are occupations
+- 2+: 
 
 ## Issues
 
