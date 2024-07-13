@@ -2,7 +2,7 @@
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
 desc: 'aka metaclasses vs superclasses'
-updated: 1720717635741
+updated: 1720722642694
 created: 1716575654799
 ---
 

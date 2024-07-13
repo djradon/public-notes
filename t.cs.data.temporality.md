@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1715880010548
+updated: 1720836749580
 created: 1634620119007
 ---
 
@@ -12,10 +12,13 @@ created: 1634620119007
 - suggested names for transaction time and valid time, where decision time is not used
 - [x] why does transaction time need a period?
   - if you have a history of transactions, the "current" state has no tx-end. old states have a timestamp of when they were superseded. Seems like you could impute an old state's tx-end tho, but I bet for querying, having the tx-end stored is nice.
+  - t.2024.07.12.14 in open-world assumption, or in cases of gaps where a fact gets (soft-)deleted and then re-created
+  - for clarity, perhaps "record-commissioned-at" and "record-decomissioned-at"
 
 ## Decision Time
 
 ![[t.cs.data.temporality.decision-time]]
+- t.2024.07.12.14 probably just "an application time"
 
 ## Completion Time
 
@@ -24,6 +27,7 @@ created: 1634620119007
 - applies to intended activity (tasks), goals
 - could sometimes be represented as "ending instant/period of valid time"
 - [[idea.defining-done-is-hard]]
+- t.2024.07.12.14 probably just another application time
 
 ## Probabilistic Time
 

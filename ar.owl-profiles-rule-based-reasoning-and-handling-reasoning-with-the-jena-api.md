@@ -2,7 +2,7 @@
 id: ub4u5ch2j5g63t9coa9x7k4
 title: Owl Profiles Rule Based Reasoning and Handling Reasoning with the Jena API
 desc: ''
-updated: 1720718656032
+updated: 1720773027918
 created: 1720718593465
 ---
 
@@ -23,3 +23,5 @@ http://www.w3.org/TR/owl2-profiles/
 
 ## OWL2-RL
 
+- the DL-Prover [[prdct.hermit]] (DL only, no SPARQL) provides better functionality (than [[prdct.pellet]])for ontology
+management.

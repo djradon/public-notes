@@ -2,10 +2,11 @@
 id: 3oygg06p6jjbt68la0azf1f
 title: eUFO
 desc: 'essential/executable Unified Foundational Ontology'
-updated: 1720644573607
+updated: 1720737255224
 created: 1712868624751
 ---
 
+- dead
 - similar: [[prdct.unified-foundational-ontology.gentle]]
 
 ![](/assets/images/2024-04-17-11-23-06.png)

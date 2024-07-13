@@ -1,8 +1,8 @@
 ---
 id: ahbj9ejugov8rjiywj5qqc8
 title: Shacl
-desc: ''
-updated: 1716910432224
+desc: 'designed for validating RDF data against a set of constraints (shapes)'
+updated: 1720730121353
 created: 1706306106639
 ---
 
@@ -15,6 +15,7 @@ created: 1706306106639
 
 - https://archive.topquadrant.com/edg-ontologies-overview/
   - "If a group of properties is reusable across assets that are not subclasses of each other (e.g., enterprise, technical and data assets are not subclasses of each other), EDG ontologies define an aspect class to hold or comprise this group of properties."
+  - mentions [[t.cs.semantic-web.aspect-classes]]
 
 ## Constraint Types
 
@@ -38,7 +39,8 @@ created: 1706306106639
 
 - https://tdan.com/the-data-centric-revolution-best-practices-and-schools-of-ontology-design/31412
 - https://news.ycombinator.com/item?id=31890041
-- https://archive.topquadrant.com/owl-blog/
+- [[ar.topquadrant.why-i-dont-use-owl-anymore]]
 - https://www.ontotext.com/knowledgehub/fundamentals/what-is-shacl/
 - https://medium.com/fluree/what-is-shacl-with-examples-2697f659d465
 - https://connect-lokesh.medium.com/demystifying-shacl-guide-to-semantic-validation-part-1-016aa65d2070
+- [[ar.topquadrant.why-i-use-shacl-for-defining-ontology-models]]

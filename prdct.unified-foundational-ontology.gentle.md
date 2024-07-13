@@ -2,12 +2,19 @@
 id: lx6jqrpml82rd0epni0ixoq
 title: gUFO
 desc: 'a gentle version of the unified foundational ontology'
-updated: 1720643918303
+updated: 1720737463435
 created: 1709238399943
 ---
 
 - url: https://nemo-ufes.github.io/gufo/
-- related: [[prdct.ufo-protege-plugin]]
+- repo: https://github.com/nemo-ufes/gufo/
+- related: [[prdct.ufo-protege-plugin]] [[prdct.ontouml-vp-plugin]]
+
+## Features
+
+- "A key feature of UFO (and hence, gUFO) is that it includes two taxonomies: one with classes whose instances are individuals (classes in this taxonomy include gufo:Object, gufo:Event) and another with classes whose instances are types (classes in this taxonomy include gufo:Kind, gufo:Phase, gufo:Category)."
+- UFO distinguishes Endurant Types into Substantial Types and Moment
+Types.
 
 ## Classes
 
@@ -70,3 +77,7 @@ created: 1709238399943
   - RelationType
     - ComparativeRelationshipType
     - MaterialRelationshipType
+
+## Resources
+
+- https://github.com/nemo-ufes/gufo/blob/master/docs/overview.md

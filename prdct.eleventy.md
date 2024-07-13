@@ -2,12 +2,14 @@
 id: s4doimimjk93q3ebvgdgc0p
 title: Eleventy
 desc: ''
-updated: 1716497333251
+updated: 1720732673201
 created: 1716410467066
 ---
 
 - https://www.11ty.dev/
-
+- [[c.software.web.ssg]]
+- repo: https://github.com/11ty/eleventy
+- written-in: javascript
 
 ## Features
 
