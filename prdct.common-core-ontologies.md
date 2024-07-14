@@ -2,7 +2,7 @@
 id: zpjzyrw9areg7unx2h1pkbz
 title: Common Core Ontologies
 desc: 'mid-level extension of Basic Formal Ontology (BFO)'
-updated: 1715881274533
+updated: 1720851870909
 created: 1698275549069
 ---
 
@@ -17,6 +17,28 @@ created: 1698275549069
 - familial relations
 - communications acts
 
+## Sample of Extension
+- Aircraft Ontology
+- Airforce Aircraft Maintenance Ontology
+- Army Universal Task List Ontology
+- Atmospheric Feature Ontology
+- Cyber Ontology
+- Hydrographic Feature Ontology
+- Legal and Criminal Act Ontology
+- Marine Corps Task List Ontology
+- Military Operations Ontology
+- Mission Planning Ontology
+- Occupation Ontology
+- Outerspace Ontology
+- Physiographic Feature Ontology
+- Sensor Ontology
+- Spacecraft Mission Ontology
+- Spacecraft Ontology
+- Space Event Ontology
+- Space Object Ontology
+- Transportation Infrastructure Ontology
+- Undersea Warfare Ontology
+- Watercraft Ontology
 
 ## References
 

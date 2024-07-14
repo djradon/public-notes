@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1720836749580
+updated: 1720851647111
 created: 1634620119007
 ---
 
@@ -46,10 +46,11 @@ created: 1634620119007
 ## Solutions
 
 - '[of [[prdct.MariaDB]] and [[prdct.Postgres]]], MariaDB supports temporal tables in the core product and sticks to the SQL:2011 standard most closely. I would recommend MariaDB for those interested in temporal tables in existing SQL databases.' [^1]
-- [[prdct.sirixdb]] and [[prdct.xtdb.v1]]
+- [[prdct.sirixdb]] and [[prdct.xtdb]]
 - [[prdct.TerminusDB]] and [[prdct.Dolt]]
+- [[prdct.strabon]] and [[prdct.allegrograph]]
 
-### Resources
+## Resources
 
 - [[ar.psu.decision-time-in-temporal-databases]]
 - [[ar.au.semantics-of-temporal-models-with-multiple-temporal-dimensions]]

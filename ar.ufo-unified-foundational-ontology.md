@@ -2,11 +2,11 @@
 id: u6vy2tijt6dd4nw2mclg14b
 title: Ufo Unified Foundational Ontology
 desc: ''
-updated: 1720590493673
+updated: 1720928072349
 created: 1713464532341
 ---
 
-- https://www.academia.edu/71948359/UFO_Unified_Foundational_Ontology
+- http://www.inf.ufes.br/~gguizzardi/Applied_Ontology__UFO__Unified_Foundational_Ontology.pdf
 -  authors: @giancarlo-guizzardi
 - published: 2021
 

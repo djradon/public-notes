@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: 'a particular knowledge base, describing facts assumed to be always true by a community of users, in virtue of the agreed-upon meaning of the vocabulary used'
-updated: 1720588078399
+updated: 1720852116220
 created: 1633445910705
 ---
 
@@ -14,9 +14,6 @@ a logical theory accounting for the intended meaning of a formal vocabulary, i.e
 
 - "facts assumed to always be true by a community" is tricky
   - a-box assertions about a fictional setting could qualify as an ontology. 
-
-## Features
-
 
 
 ### "Schools"
@@ -30,7 +27,10 @@ a logical theory accounting for the intended meaning of a formal vocabulary, i.e
   Linked Data School
   NLP/LLM School
   Data-Centric School
-  
+
+## Issues
+
+- 
 
 ## Ontology Libraries
 
