@@ -3,7 +3,7 @@ id: zzoajb1hp4gezmidmjgeyll
 title: >-
   Towards Ontological Foundations for Conceptual Modeling the Unified Foundational Ontology Ufo Story
 desc: ''
-updated: 1720274625230
+updated: 1720931987248
 created: 1713463627419
 ---
 
@@ -14,8 +14,6 @@ created: 1713463627419
 ## Abstract
 
 This paper describes a long-term research program on developing ontological foundations for conceptual modeling. This program, organized around the theoretical background of the foundational ontology UFO (Unified Foundational Ontol- ogy), aims at developing theories, methodologies and engineering tools with the goal of advancing conceptual modeling as a theoretically sound discipline but also one that has concrete and measurable practical implications. The paper describes the historical context in which UFO was conceived, briefly discusses its stratified organization, and reports on a number of applica- tions of this foundational ontology over more than a decade. In particular, it discusses the most successful application of UFO, namely, the development of the conceptual modeling language OntoUML. The paper also discusses a number of methodological and computational tools, which have been developed over the years to support the OntoUML community. Examples of these methodological tools include ontological patterns and anti-patterns; examples of these computational tools include automated support for pattern-based model construction, formal model verification, formal model validation via visual simulation, model verbalization, code generation and anti-pattern detection and rectification. In addition, the paper reports on a variety of appli- cations in which the language as well as its associated tools have been employed to engineer models in several institutional contexts and domains. Finally, it reflects on some of these lessons learned by observing how OntoUML has been actually used in practice by its community and on how these have influenced both the evolution of the language as well as the advancement of some of the core ontological notions in UFO
-
-
 
 ## Highlights
 

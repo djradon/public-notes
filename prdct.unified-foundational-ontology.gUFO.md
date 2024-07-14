@@ -2,7 +2,7 @@
 id: c3cf5t7ybox6k56n992pnkr
 title: gUFO
 desc: 'gentle unified foundational ontology'
-updated: 1720276068482
+updated: 1720931745065
 created: 1720274927117
 ---
 
@@ -11,7 +11,7 @@ created: 1720274927117
 
 ## Issues
 
-- not OWL-DL
+- not OWL-DL? 
 
 ## Features
 

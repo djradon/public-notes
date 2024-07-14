@@ -2,7 +2,7 @@
 id: 3oygg06p6jjbt68la0azf1f
 title: eUFO
 desc: 'essential/executable Unified Foundational Ontology'
-updated: 1720737255224
+updated: 1720932073617
 created: 1712868624751
 ---
 
@@ -94,3 +94,4 @@ Student).
 ## References
 
 - [[ar.towards-an-ontological-foundation-of-discrete-event-simulation]]
+- [[ar.can-bpmn-be-used-for-making-simulation-models]]
