@@ -2,7 +2,7 @@
 id: 31n6gtegjp893vfuiz340ml
 title: Reification and Truthmaking Patterns
 desc: 'use truthmaking patterns to put truthmakers in the domain'
-updated: 1721004300826
+updated: 1721017352864
 created: 1720999931301
 ---
 
@@ -14,6 +14,9 @@ created: 1720999931301
 - Reification is a standard technique in conceptual modeling, which consists of including in the domain of discourse entities that may otherwise be hidden or implicit. However, deciding what should be reified is not always easy. Recent work on formal ontology offers us a simple answer: put in the domain of discourse those entities that are responsible for the (alleged) truth of our propositions. These are called truthmakers. Re-visiting previous work, we propose in this paper a systematic analysis of truthmaking patterns for properties and relations based on the ontological nature of their truthmakers. Truthmaking patterns will be presented as generalization of reification patterns, accounting for the fact that, in some cases, we do not reify a property or a relationship directly, but we rather reify its truthmakers.
 
 ## Highlights
+
+- strong view: events
+- weak view: qualities
 
 ### Search for TMs
 
@@ -38,6 +41,8 @@ account for how something is, on the basis of its qualities.
 
 #### Individual qualities, descriptive properties, intrinsic properties
 
+##### Individual qualities
+
 - This color is modeled as an individual quality in [[prdct.dolce]] and in [[prdct.unified-foundational-ontology]].
 - qualities inhere in things, where inherence is a special kind of existential dependence relation, which is irreflexive, asymmetric, anti-transitive and functional
 - They are directly comparable, while objects and events can be compared only with respect to a certain quality kind (e.g., to compare physical objects, one resorts to the comparison of their shapes, sizes, weights, and so on
@@ -50,3 +55,47 @@ account for how something is, on the basis of its qualities.
 -  relational qualities are existentially dependent on the thing they inhere in, but also something else, e.g. John's love for Mary
    -  typical come in bundles called relators
 -  summary: individual qualities are weak TMs for descriptive properties
+  - note:  looking for qualities as minimal weak TMs has a clear advantage over looking for strong TMs: while negative truths are notoriously a problem for the strong truthmaking view, so that it is difficult to individuate the strong TM of *a is not red*, it is immediate to see that its minimal weak TM is its color, and not, say, its weight.
+  
+##### descriptive properties
+
+- we may define them as properties holding in virtue of one or more inhering qualities
+  - seems plausible to assume that a descriptive property may hold for an
+  object x in virtue of a quality inhering in a proper part of x, rather than in x
+  itself
+  - we should account also for descriptive properties that hold in virtue of relational qualities. 
+  - 3 possibilities:
+    - the weak TM consists of just one rela-
+tional quality inhering in John, as in the case of being in love with Mary;
+    - the truthmaking qualities are distributed between John and an external entity. This is the case of being married with Mary, which presupposes the existence of commitments and obligations (and possibly love) inhering in Mary and depending on John, as well as reciprocal ones inhering in John
+    -  there is only one truthmaking quality inhering in something external to John, and existentially depending on it. This is the case of so-called Cambridge properties [5], like being loved by Mary.
+- To include the last two cases, we refine our definition as follows: a property P is descriptive iff, for every x, P(x) holds in virtue of (at least) a quality q being existentially dependent on x.
+
+##### intrinsic properties
+
+-  a property holding for x is extrinsic iff it requires the existence of something else external to x in order to hold
+-  The intrinsic/extrinsic distinction turns out to be orthogonal to the descriptive/non-descriptive one, and each of the four combinations has its own peculiarities in terms of TMs
+   -  e.g. being Italian is an extrinsic non-descriptive "historical" property, with minimal weak TM of a birth event.
+-  
+
+#### Truthmaking patterns for properties
+
+- no reification is necessary for intrinsic non-descriptive properties (their weak TM being already present in the domain of discourse)
+- extrinsic descriptive properties is very similar to that of external descriptive relations 
+- three broad classes of TMP:
+  - partial TMPs
+    - strong partial
+    - weak partial
+  - full TMPs, including both strong and weak TMs as well as the relationship between them
+
+##### Intrinsic descriptive properties
+
+- rarely correspond to classes, because they do not carry a principle of identity
+  - e.g. a rose's redness is typically expressed as a attribute-value 
+
+![](/assets/images/2024-07-14-21-22-28.png)
+
+- We have three reification options, corresponding to different TMPs:
+  - A weak TMP emerges when the quality is reified as a separate class
+  - a strong TMP emerges when the event of a "color occurrence" emerges  
+  - 
