@@ -7,6 +7,7 @@ created: 1633160681527
 ---
 
 
+
 - related: [[prdct.rdf-processing-toolkit]] [[prdct.spin]]
 - [[p.instanceOf]] [[c.specification]]
 
