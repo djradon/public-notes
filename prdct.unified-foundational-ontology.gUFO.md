@@ -1,8 +1,8 @@
 ---
 id: c3cf5t7ybox6k56n992pnkr
 title: gUFO
-desc: 'gentle unified foundational ontology'
-updated: 1720999930422
+desc: gentle unified foundational ontology
+updated: 1721074245635
 created: 1720274927117
 ---
 
@@ -77,4 +77,3 @@ Users may combine the various scenarios discussed. For example, users will often
 ## Resources
 
 - [[ar.ontology-implementation-with-g-ufo-a-hands-on-tutorial]]
-- [[ar.reification-and-truthmaking-patterns]]

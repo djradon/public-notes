@@ -2,17 +2,21 @@
 id: wpwzq9ttwck0zgdxivomgiq
 title: Lode Linking Open Descriptions of Events
 desc: ''
-updated: 1718321242557
+updated: 1721074901856
 created: 1717175388199
 ---
 
 - https://cidoc-crm.org/sites/default/files/14783A.pdf
 - comparands: [[prdct.cidoc-crm]] [[prdct.abc-ontology]]
 
+## Thoughts
+
+- no reference to UFO-B
+
 ## Event Typology
 
-- One potential problem with building these types of classifications into an ontology for modeling things that happened is that they force a knowledge en- gineer to adopt a particular perspective on what happened.
-  - **Distinctions based on aspect or agen- tivity are not necessarily inherent to what happened, but instead are rooted in particular interpretations. **
+- One potential problem with building these types of classifications into an ontology for modeling things that happened is that they force a knowledge engineer to adopt a particular perspective on what happened.
+  - **Distinctions based on aspect or agentivity are not necessarily inherent to what happened, but instead are rooted in particular interpretations. **
     - Whether a historical event or a event reported in the news involves an identifiable change or not, or whether agency can be assigned, is often a matter of debate, and its resolution should not be a prerequisite for representing what happened using a concept from an ontology
     - This desire to separate events from their interpretations is what drives the approach taken by DUL, which provides a Situation concept, instances of which may describe different views or interpretations of the same Event instance. 
     - DUL does specialize its Event concept on the basis of agentivity, providing the Action concept for events that have at least one participating agent and the Process concept for events that are not recognized having participating agents.

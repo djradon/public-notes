@@ -1,16 +1,21 @@
 ---
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
-desc: 'aka metaclasses vs superclasses'
-updated: 1720997688765
+desc: aka metaclasses vs superclasses
+updated: 1721075731408
 created: 1716575654799
 ---
 
 - aka: [[t.phil.type-token-distinction]] 
-- Superclasses/supertypes define inheritance relationships between classes.
-- Metaclasses/metatypes (or more accurately, powerclasses/powertypes) define properties of their classes/metainstances
+- Superclasses/supertypes define inheritance relationships between classes or types.
+- Metaclasses/metatypes (or more accurately, powerclasses/powertypes) define properties of their classes/types
   - [[prdct.unified-foundational-ontology.gUFO]] has gufo:Type which is the powerclass 
-  - 
+
+## Definitions
+
+- Only classes have superclasses, while other classifiers have supertypes.
+  - Since Class is also a Classifier, a superclass is always a supertype
+- powertype is a type whose instances are themselves types.
 
 ## Conclusion
 
@@ -70,3 +75,5 @@ created: 1716575654799
 - https://lists.w3.org/Archives/Public/semantic-web/2011Jun/0245.html
 - https://www.w3.org/TR/swbp-classes-as-values/
 - [[ar.towards-ontological-foundations-for-conceptual-modeling-the-unified-foundational-ontology-ufo-story]]
+
+reification-and-truthmaking-patterns

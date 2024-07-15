@@ -2,7 +2,7 @@
 id: 31n6gtegjp893vfuiz340ml
 title: Reification and Truthmaking Patterns
 desc: 'use truthmaking patterns to put truthmakers in the domain'
-updated: 1721017352864
+updated: 1721062565796
 created: 1720999931301
 ---
 
@@ -97,5 +97,20 @@ tional quality inhering in John, as in the case of being in love with Mary;
 
 - We have three reification options, corresponding to different TMPs:
   - A weak TMP emerges when the quality is reified as a separate class
+    - generally more flexible, making it possible
+to describe the way the quality interacts with the world (Mary likes the color of
+this rose), or further information about the quality itself (the color of a rose is
+located in its corolla)
   - a strong TMP emerges when the event of a "color occurrence" emerges  
-  - 
+    - necessary when we need to
+account for temporal information (e.g., how long the redness lasted), or for the
+spatiotemporal context (what happened meanwhile and where...
+  - a full TMP, including both strong and weak TMs plus the relationship among them
+    - maximum expressivitiy
+- events can be seen as manifestations of qualities, and qualities as the focus of events.
+
+##### Extrinsic non-descriptive properties
+
+- For those of them that are anti-rigid, it certainly makes sense to reify the event during which they hold, i.e., their strong TM. 
+  - example: 
+![](/assets/images/2024-07-15-09-56-03.png)
