@@ -2,7 +2,7 @@
 id: 1c425wcbnwh1esyiwydx1pw
 title: Owl
 desc: Web Ontology Language
-updated: 1720732180898
+updated: 1721137787398
 created: 1696270955675
 ---
 
@@ -16,6 +16,11 @@ created: 1696270955675
   - but there's also direct semantics, looks like `Declaration(Class(:Person))`
 - OWL-Lite is the least expressive sub-langauge. OWL-Full is the most expressive sub-language. The expressiveness of OWL-DL falls between that of OWL-Lite and OWL-Full. 
  
+### Semantics
+
+- The Direct Semantics [OWL 2 Direct Semantics] and the RDF-Based Semantics [OWL 2 RDF-Based Semantics] provide two alternative ways of assigning meaning to OWL 2 ontologies, with a correspondence theorem providing a link between the two.
+  - The Direct Semantics assigns meaning directly to ontology structures, resulting in a semantics compatible with the model theoretic semantics of the [[prdct.sroiq]] description logic
+
 ## Highlights
 
 - OWL ontologies can use the preexisting OWL attribute owl:versionInfo to store version information.
@@ -40,3 +45,4 @@ Links on the Semantic Web](https://citeseerx.ist.psu.edu/viewdoc/download;jsessi
 - https://enterprise-knowledge.com/top-5-tips-for-managing-and-versioning-an-ontology/
 - https://www.w3.org/TR/owl2-profiles/
 - [[ar.a-common-ground-for-virtual-humans]]
+- https://www.w3.org/TR/owl2-overview/
