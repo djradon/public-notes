@@ -2,7 +2,7 @@
 id: zbfyvlhb3d6dpl9o5iyyzuh
 title: Dolce Vs Ufo Vs Gfo Vs Sumo
 desc: ''
-updated: 1720710381780
+updated: 1721151971835
 created: 1714068979478
 ---
 
@@ -18,7 +18,7 @@ created: 1714068979478
 
 ### BFO
 
-- github version hasn't been touched since 2009, but BFO2020 
+- github version hasn't been touched since 2009, but BFO2020 (with ugly IRIs)
 
 #### BFO2020
 
@@ -31,6 +31,7 @@ created: 1714068979478
 
 ## Mixins
 
+- see [[sh.question-log.2024.07.09#upper-ontologies-supporting-mixins]]
 - UFO has 'em
 - 
 
@@ -61,3 +62,5 @@ created: 1714068979478
 ## References
 
 - 
+
+SUMO

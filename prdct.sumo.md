@@ -2,14 +2,18 @@
 id: r7wmmwwaws15llja6y5ng7h
 title: Sumo
 desc: 'Suggested Upper Merged Ontology, with Physical (spatiotemporal) and Abstract'
-updated: 1717740546115
+updated: 1721151876012
 created: 1708625059084
 ---
 
-- [[c.ontology.upper]]
+- [[c.ontology.upper]] [[c.ontology.mid]]
 - url: https://raw.githubusercontent.com/abrahaj/SUMO.owl/master/SUMO.owl
 - similar: [[prdct.milo]]
 - related: [[prdct.sigmakee]] 
+
+## Issues
+
+- the OWL representation mixes EVERYTHING together, it's not really an upper ontology
 
 ## Implementations
 

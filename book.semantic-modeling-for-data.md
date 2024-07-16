@@ -2,7 +2,7 @@
 id: uup0x4gcs3ilsku9xbw4xcx
 title: Semantic Modeling for Data
 desc: ''
-updated: 1720997398112
+updated: 1721150412690
 created: 1698168250108
 ---
 
@@ -64,6 +64,7 @@ Keep in mind that, while punning can be a useful technique, it’s not a free ti
 
 - having the different cuisines embedded within the restaurant class can make it hard to talk directly about them (e.g., you cannot easily say that one cuisine is influenced by another) or link them to other entities (e.g., with recipes). Conversely, the second model allows you to talk about cuisines but takes away from you the convenience of the subclass relation.
 - The key ability that a subclass gives you in a model is that you can define relations, attributes, and other axioms that apply only to the instances of that class and not those of its superclass.
+- low rigidity subclasses require more maintenance
 
 ### Things to Remember
 
@@ -76,8 +77,10 @@ Keep in mind that, while punning can be a useful technique, it’s not a free ti
 
 - we can assign a real number to a vague statement, within a range from 0 to 1. A value of 1 would mean that the statement is completely true, a value of 0 means that it is completely false, and any value in between that is “partly true” to a given, quantifiable extent.
 - fuzzy truth degrees are not probabilities
-- A probability statement is about quantifying the likelihood of events or facts whose truth conditions are well defined to come true (e.g., “it will rain tomorrow with a probability of 0.8”), while a fuzzy statement is about quantifying the extent to which events or facts whose truth conditions are undefined can be perceived as true.
+  - A probability statement is about quantifying the likelihood of events or facts whose truth conditions are well defined to come true (e.g., “it will rain tomorrow with a probability of 0.8”), while a fuzzy statement is about quantifying the extent to which events or facts whose truth conditions are undefined can be perceived as true.
 - Truth fuzzification makes sense only when it manages to reduce disagreements over the validity of a model’s vague statements, and the benefits of this reduction outweigh the fuzzification effort and cost
+- t.2024.07.16.10 instead of assigning numeric truth values
+  - for class membership restrictions and you could do "always, sometimes, sometimes/usually, sometimes/often, sometimes/occasionally, sometimes/rarely, never" and also perhaps "periodically, sporadically"
 
 ### Fuzzification Options
 
