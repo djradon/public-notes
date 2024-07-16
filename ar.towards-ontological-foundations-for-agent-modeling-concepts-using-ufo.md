@@ -2,11 +2,12 @@
 id: ed0y3fbmiiihb437itsn2di
 title: Towards Ontological Foundations for Agent Modeling Concepts Using Ufo
 desc: ''
-updated: 1720638064838
+updated: 1721145410632
 created: 1713387007951
 ---
 
 - https://www.researchgate.net/publication/228699330_Towards_Ontological_Foundations_for_Agent_Modeling_Concepts_using_UFO
+- publish-date: 2014?
 - topics: [[prdct.gfo]] [[prdct.dolce]]
 - related:
   - [[ar.towards-an-ontological-foundation-of-agent-based-simulation]]

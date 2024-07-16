@@ -2,7 +2,7 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1717524360855
+updated: 1721145100026
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
@@ -13,7 +13,7 @@ similar: prdct.yaml-ld
 
 ## Features
 
-```
+```json
 "@context": {
   "": "http://example.com/default/",
 }
@@ -36,6 +36,9 @@ A method for attaching a JSON context to a plain JSON object via an HTTP Link he
 - @import "Context files are imported/re-used by creating the context as an array where the first value(s) is the path(s) to the imported context, followed by an object" (https://www.w3.org/TR/json-ld-syntax/#the-context).
   - https://www.w3.org/TR/json-ld/#imported-contexts
 - Each of the JSON-LD keywords, except for @context, may be aliased to application-specific keywords.
+- @type specifies the subject's class
+  - objects can have multiple types, e.g. `"@type": ["Person", "Author"]`
+- @graph allows multiple subjects in one document
 
 ## Best Practices
 

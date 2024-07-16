@@ -6,7 +6,7 @@ desc: >-
   UFO-A and UFO-B, and which addresses notions such as Beliefs, Desires,
   Intentions, Goals, Actions, Commitments and Claims, Social Roles and Social
   Particularized Relational Complexes (Social Relators), among others
-updated: 1720929757230
+updated: 1721145372422
 created: 1720926948236
 ---
 
@@ -22,3 +22,4 @@ created: 1720926948236
 - [[ar.a-commitment-based-reference-ontology-for-services]]
 - [[ar.agent-oriented-constructivist-knowledge-managemen]]
 - [[ar.socially-grounded-analysis-of-knowledge-management-systems-and-processes]]
+- [[ar.towards-ontological-foundations-for-agent-modeling-concepts-using-ufo]]

@@ -38,9 +38,9 @@ created: 1698268407267
 -   **UFO-B**: An Ontology of Perdurants (Events, Processes) dealing with aspects such as Perdurant Mereology, Temporal Ordering of Perdurants, Object Participation in Perdurants, Causation, Change and the connection between Perdurants and Endurants via Dispositions;
    
 
--   **[[UFO-C|prdct.unified-foundational-ontology.c]]:** An Ontology of Simple Intentional and Social Entities, which is constructed on top of UFO- A and UFO-B, and which addresses notions such as Beliefs, Desires, Intentions, Goals, Actions, Commitments and Claims, Social Roles and Social Particularized Relational Complexes (Social Relators), among others.
+-   **[[UFO-C|prdct.unified-foundational-ontology.ufo-c]]:** An Ontology of Simple Intentional and Social Entities, which is constructed on top of UFO- A and UFO-B, and which addresses notions such as Beliefs, Desires, Intentions, Goals, Actions, Commitments and Claims, Social Roles and Social Particularized Relational Complexes (Social Relators), among others.
 
-- **[[UFO-S|prdct.unified-foundational-ontology.s]]:** Services
+- **[[UFO-S|prdct.unified-foundational-ontology.ufo-b]]:** Services
 
 
 

@@ -4,18 +4,37 @@ title: >-
   The Acimov Methodology Agile and Continuous Integration for Modular Ontologies
   and Vocabularies
 desc: ''
-updated: 1712849614451
+updated: 1721146663822
 created: 1712783360619
 ---
 
 - https://www.emse.fr/~zimmermann/Papers/mk2023.pdf
 - topics: [[t.km.ontology.modular]]
+- publish-date: 2023
+- mentions: [[prdct.ontoology]] [[prdct.ontology-development-kit]] [[prdct.case-ontology]] [[prdct.samod-methodology]]
 
 ## Abstract
 
 - This work describes the Agile and Continuous Integration for Modular Ontologies and Vocabularies (ACIMOV) ontology engineering methodology for developing ontologies and vocabularies. ACIMOV extends the SAMOD agile methodology to (1) ensure alignment to selected reference ontologies; (2) plan module development based on dependencies; (3) define ontology modules that can be specialized for specific domains; (4) empower active collaboration among ontology engineers and domain experts; (5) enable application developers to select views of the ontology for their specific domain and use case. ACIMOV adopts the standard git-based approach for coding, leveraging agility and DevOps principles. It has been designed to be operationalized using collaborative software development platforms such as Github or Gitlab, and tooled with continuous integration and continuous deployment workflows (CI/CD workflows) that run syntactic and semantic checks on the repository, specialize modules, generate and publish the ontology documentation.
 
 
+## [[prdct.coswot-ontology]] Requirements
+
+- O1 The ontology must align to reference IoT ontologies;
+- O2 The ontology must be modular, including modules that cover knowledge common to all IoT platform components;
+- O3 The ontology must reuse some identified ontologies for the application domains at stake;
+- O4 The ontology must have a homogeneous and predictable structure, such that similar concepts for different domains are described the same way;
+- O5 Different alternative representations must be possible to account for the need to manipulate small knowledge graphs in constrained devices;
+- O6 One must be able to select a subset of the ontology (a view) that covers the needs of a specific application.
+
+## Methodological Requirements
+
+- M1 Agile principles must be adopted to improve collaboration between ontology engineers, domain experts, and end-product owners, with short cycles, and working increments;
+- M2 Regular meetings with all parties must be held to help prioritizing the requirements stemming from use cases, and choosing the target for the next iteration;
+- M3 Regular meetings among ontology engineers must be held, to help prioritizing the modules to work on, and ensuring work on different modules can be led in parallel;
+- M4 Collaborative software development platforms with code versioning and issue tracking shall be adopted;
+- M5 DevOps principles must be adopted to enable continuous integration and deployment of the ontology artifacts (e.g., ontology modules, documentation, examples)
+ 
 ## Highlights
 
 ### Agile ontology engineering methods
