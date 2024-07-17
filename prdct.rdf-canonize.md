@@ -2,12 +2,12 @@
 id: bht0tvituxymbwgm5mp15wn
 title: rdf-canonize
 desc: 'An implementation of the RDF Dataset Normalization Algorithm in JavaScript. '
-updated: 1716874088136
+updated: 1721155369114
 created: 1716874043252
 ---
 
 - https://github.com/digitalbazaar/rdf-canonize
-
+- written-in: javascript
 
 ## Features
 

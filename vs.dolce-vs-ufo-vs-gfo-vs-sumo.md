@@ -2,7 +2,7 @@
 id: zbfyvlhb3d6dpl9o5iyyzuh
 title: Dolce Vs Ufo Vs Gfo Vs Sumo
 desc: ''
-updated: 1721151971835
+updated: 1721160078477
 created: 1714068979478
 ---
 
@@ -61,6 +61,4 @@ created: 1714068979478
 
 ## References
 
-- 
-
-SUMO
+- [[ar.matching-bfo-dolce-gfo-and-sumo-an-evaluation-of-oaei-2018-matching-systems]]

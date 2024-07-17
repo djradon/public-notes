@@ -2,12 +2,12 @@
 id: b5r5h1ckc8ip13synq0lpjw
 title: Representing a Reference Foundational Ontology of Events in Sroiq
 desc: ''
-updated: 1721076120811
+updated: 1721159256610
 created: 1721071043934
 ---
 
 - https://content.iospress.com/articles/applied-ontology/ao190214
-- topics: [[prdct.alloy-specification-language]]
+- topics: [[prdct.alloy-specification-language]] [[prdct.sroiq]]
 
 ## Abstract
 
