@@ -2,12 +2,13 @@
 id: 8rajl5vlvylqjny5hgr1t5l
 title: Modelling Time within a Strongly Typed Database
 desc: ''
-updated: 1694813850058
+updated: 1721244014229
 created: 1694796319022
 ---
 
 - url: https://blog.vaticle.com/modelling-time-within-a-strongly-typed-database-55ba91ecad62
-
+- topic: [[prdct.typedb]]
+- 
 Published in
 
 Vaticle
@@ -32,7 +33,8 @@ In the data context, many conceptual facets of time can be hard to capture, part
 
 These basics must be mastered before moving onto dynamic systems and causality. But they are not small issues, as entire databases have been devised and market shares carved out around the idea of being good at Problem 1 and 2 generally (e.g. MapR, TimeDB), or for specific use cases such as IoT.
 
-Much time and effort have been put into Problems 3, 4 and 5 particularly with RDBMS and Dimensional Warehouses (e.g. DataVault), and even SQL extension recommendations. OWL-Time is the dominant solution for Problem 6 and has notorious ambiguity problems.
+Much time and effort have been put into Problems 3, 4 and 5 particularly with RDBMS and Dimensional Warehouses (e.g. DataVault), and even SQL extension recommendations. 
+   - [[prdct.owl-time]] is the dominant solution for Problem 6 and has notorious ambiguity problems. ^rpdqex91m56q
 
 Most graph types require everything to be an entity (e.g. property graph), when in fact in the real world, entities are few, and everything else is attributes connected by relations. TypeDB has a unique data model that makes temporal modelling powerful and simple.
 Temporal Variables — A Common Application

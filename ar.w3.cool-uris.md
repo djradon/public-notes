@@ -2,11 +2,12 @@
 id: yh2klbhlafo49gizvkn35ai
 title: Cool Uris
 desc: ''
-updated: 1716777548660
+updated: 1721250344119
 created: 1710796653560
 ---
 
 - url: https://www.w3.org/TR/cooluris/
+- related: https://www.w3.org/Provider/Style/URI.html
 
 ## Solutions
 

@@ -2,7 +2,7 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1721145100026
+updated: 1721255353077
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
@@ -39,6 +39,7 @@ A method for attaching a JSON context to a plain JSON object via an HTTP Link he
 - @type specifies the subject's class
   - objects can have multiple types, e.g. `"@type": ["Person", "Author"]`
 - @graph allows multiple subjects in one document
+- @included 
 
 ## Best Practices
 

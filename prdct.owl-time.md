@@ -2,7 +2,7 @@
 id: acxwjynzcfhybxyoe56el4i
 title: Owl Time
 desc: 'ontology of temporal concepts, providing a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information'
-updated: 1720477869809
+updated: 1721243891239
 created: 1701453829509
 url: https://www.w3.org/TR/owl-time/
 related: 
@@ -30,6 +30,7 @@ The class `[:Interval](https://www.w3.org/TR/owl-time/#topology#time:Interval)` 
 
 - annotations only, no temporal reasoning intended [^1]
 - suffers from class-as-instance modelling confusion [^1]
+- ambiguity problems, see [[ar.modelling-time-within-a-strongly-typed-database#^rpdqex91m56q]]
 
 ### what are OWL-Time's notorious ambiguity problems
 
