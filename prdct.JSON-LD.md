@@ -2,7 +2,7 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1721255353077
+updated: 1721335203153
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
@@ -33,6 +33,7 @@ A method for attaching a JSON context to a plain JSON object via an HTTP Link he
 
 - @id keyword allows you to give a node a URI
 - @context lets you define vocabulary references
+  - this is more versatile than turtle and other RDF formats, because have more granularity and can "define terms", so no prefixing is required
 - @import "Context files are imported/re-used by creating the context as an array where the first value(s) is the path(s) to the imported context, followed by an object" (https://www.w3.org/TR/json-ld-syntax/#the-context).
   - https://www.w3.org/TR/json-ld/#imported-contexts
 - Each of the JSON-LD keywords, except for @context, may be aliased to application-specific keywords.

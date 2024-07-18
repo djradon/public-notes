@@ -2,7 +2,7 @@
 id: xa1sqwopiyjysp3ukgbt3zm
 title: Engineering World Wide Multi Agent Systems with Hypermedia
 desc: ''
-updated: 1712590063811
+updated: 1721335199206
 created: 1712589851447
 ---
 
