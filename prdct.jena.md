@@ -2,7 +2,7 @@
 id: 1x3lenylbdctmrkbdkn2v0x
 title: Jena
 desc: 'semantic-web framework for Java which includes a number of different semantic-reasoning modules and rdf-star support'
-updated: 1720718592469
+updated: 1721272229815
 created: 1698707121812
 type: "[[c.software.database.graph.rdf]]"
 ---
@@ -20,6 +20,7 @@ type: "[[c.software.database.graph.rdf]]"
 
 - chatgpt.4: "while Jena can handle multiple inheritance in the RDF/OWL sense, translating this directly into Java classes can be challenging. You might need to design your Java class model differently, potentially using interfaces, composition, or other design patterns to represent the multiple inheritance found in the ontology."
 - only OWL-1 support, but [[prdct.ont-api]] has OWL2
+- "Jena is standards-conforming and can apply RDFS/OWL reasoning, but does not scale very well to larger datasets."
 
 ## Comparison
 
