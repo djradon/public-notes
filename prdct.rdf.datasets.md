@@ -1,8 +1,8 @@
 ---
 id: ajtyyiy5j7attle4zo8h8im
 title: Datasets
-desc: 'a collection of RDF graphs'
-updated: 1721251715004
+desc: 'a collection of RDF graphs, where one graph is the default and the others are named'
+updated: 1721341576461
 created: 1721250549704
 ---
 
@@ -15,6 +15,26 @@ created: 1721250549704
 - "There are many possible uses for RDF datasets. One such use is to hold snapshots of multiple RDF sources."
 
 - "An RDF document is a document that encodes an RDF graph or RDF dataset in a concrete RDF syntax, such as Turtle"
+
+## Example
+
+```ttl
+@prefix ex: <http://example.org/> .
+
+# Default graph
+{
+  ex:subject1 ex:predicate1 ex:object1 .
+}
+
+# Named graph
+ex:graph1 {
+  ex:subject2 ex:predicate2 ex:object2 .
+}
+
+ex:graph2 {
+  ex:subject3 ex:predicate3 ex:object3 .
+}
+```
 
 ## References
 
