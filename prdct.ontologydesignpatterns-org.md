@@ -2,12 +2,13 @@
 id: 5lvs6uampjvjj52baqjoy4r
 title: ontologydesignpatterns.org
 desc: ''
-updated: 1710876354832
+updated: 1721309187309
 created: 1710876354832
 ---
 
 - [[c.software.semantic.library]]
 - url: http://ontologydesignpatterns.org
+- repo: https://triplydb.com/odp/-/datasets
 
 ## Description
 
