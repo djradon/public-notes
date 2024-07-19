@@ -2,11 +2,15 @@
 id: 3fa0re3cagbpf2ne3f0rsfe
 title: Foundational
 desc: ''
-updated: 1718082279783
+updated: 1721422169070
 created: 1713223599956
 ---
 
 - https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundational
+
+## Definition
+
+- "while a top-level ontology is a classification system that deals with general domain-independent categories only, a foundational ontology is a top-level (formal) ontology that has been built and motivated by the upfront and explicit choice of its core principles” (Borgo and Hitzler, 2018)    
 
 ## Benefits
 

@@ -2,7 +2,7 @@
 id: n7qepl6lnhrc1y0cm8j63fi
 title: Rigidity
 desc: ''
-updated: 1721068547721
+updated: 1721418969261
 created: 1721064496502
 ---
 
@@ -27,7 +27,7 @@ word ‘rigid’ in the modal logic literature.
 ### Non-rigidity
 
 - (At least) some instances of a non-rigid class do not have to belong to that class in all possible contexts.
-  - example: 
+  - example: a mass of 4kg (artifacts might "pass through" the class, but a certain number of atoms of gold will always be 4kg)
 
 #### anti-rigidity
 
@@ -43,3 +43,4 @@ word ‘rigid’ in the modal logic literature.
 ## References
 
 - [[ar.towards-a-consistent-logical-framework-for-ontological-analysis]]
+- 

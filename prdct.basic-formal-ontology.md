@@ -3,7 +3,7 @@ id: u69ohenrjzegyb4ta4bp07j
 title: Basic Formal Ontology
 desc: >-
   a small, upper-level, realist, bicategorial ontology that is designed for use in supporting information retrieval, analysis and integration in scientific and other domains
-updated: 1720851780436
+updated: 1721418996435
 created: 1696610915530
 ---
 
@@ -19,10 +19,11 @@ created: 1696610915530
 ## Description
 
 - "The Basic Formal Ontology (BFO)6 sees Ontology as reality representation. It aims at reconciling the 3-dimensionalist and 4-dimensionalist views with a ‘Snap’ ontology of endurants, which is reproduced at each moment of time and is used to characterize static views of the world, and a ‘Span’ ontology of happenings and occurrents and, more generally, of entities which persist in time by perduring. It has a limited granularity and is heavily influenced by parthood relations, boundaries, dependence."
-
+- "BFO grows out of a philosophical orientation which overlaps with that of DOLCE and SUMO. Unlike these, however, it is narrowly focused on the task of providing a genuine upper ontology which can be used in support of domain ontologies developed for scientific research, as for example in biomedicine within the framework of the OBO Foundry. Thus BFO does not contain physical, chemical, biological or other terms which would properly fall within the special sciences domains. BFO is the upper level ontology upon which OBO Foundry ontologies are built.
 
 ## Issues
 
+- monohierarchy
 - IRIs aren't human-readable, e.g. http://purl.obolibrary.org/obo/BFO_0000015
 - "only continuants – and hence not occurrents – are allowed to have qualities."
 
@@ -80,3 +81,4 @@ created: 1696610915530
 - https://www.youtube.com/watch?v=uflMfvI-ZxI
 - [[ar.foundational-ontologies-in-action]]
 - https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/An_Introduction_to_Ontology_Engineering_(Keet)/07%3A_Top-Down_Ontology_Development/7.02%3A_Foundational_Ontologies
+- https://raw.githubusercontent.com/BFO-ontology/BFO/master/docs/bfo2-reference/BFO2-Reference.pdf

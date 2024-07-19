@@ -2,7 +2,7 @@
 id: mjcpuwi7bne4r8moc0uruzx
 title: DOLCE
 desc: Descriptive Ontology of particulars for Linguistic and Cognitive Engineering
-updated: 1721308992406
+updated: 1721402400913
 created: 1698268244398
 ---
 
@@ -16,7 +16,7 @@ created: 1698268244398
 
 ## Thoughts
 
-- 
+- where's the universals?
 
 ## Elements
 

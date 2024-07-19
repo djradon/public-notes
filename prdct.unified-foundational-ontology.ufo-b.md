@@ -2,7 +2,7 @@
 id: tzupbr32rkxvaeo0rthpfb6
 title: UFO-B
 desc: ''
-updated: 1721160165787
+updated: 1721421070806
 created: 1720928801672
 ---
 
@@ -11,3 +11,4 @@ created: 1720928801672
 ## References
 
 - [[ar.a-commitment-based-reference-ontology-for-services]]
+- [[ar.towards-ontological-foundations-for-the-conceptual-modeling-of-events]]
