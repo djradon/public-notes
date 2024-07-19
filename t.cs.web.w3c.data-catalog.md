@@ -2,11 +2,13 @@
 id: GfW1qP1ZvFxHSaJiguPzh
 title: DCATv2
 desc: ''
-updated: 1721244033784
+updated: 1721429379474
 created: 1635713820752
 ---
 
 
+- has-implementation: 
+  - [[prdct.rdf.dcat-data-catalog-vocabulary.v3]]
 - [[p.hasSpecification]] https://www.w3.org/TR/vocab-dcat/
 - [[p.instanceOf]] [[t.cs.web.w3c.rdf.vocabulary]]
 - topic: [[prdct.rdf.dcat-data-catalog-vocabulary]]

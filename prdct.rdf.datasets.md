@@ -2,7 +2,7 @@
 id: ajtyyiy5j7attle4zo8h8im
 title: Datasets
 desc: 'a collection of RDF graphs, where one graph is the default and the others are named'
-updated: 1721341576461
+updated: 1721429417344
 created: 1721250549704
 ---
 
@@ -18,7 +18,7 @@ created: 1721250549704
 
 ## Example
 
-```ttl
+```turtle
 @prefix ex: <http://example.org/> .
 
 # Default graph
