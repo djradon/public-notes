@@ -2,10 +2,11 @@
 id: 4yfhv81tilbhw4j33u5h635
 title: Formal Ontologies and Information Systems
 desc: ''
-updated: 1720634840958
+updated: 1721685402497
 created: 1712177225025
 ---
 
+- https://www.researchgate.net/publication/272169039_Formal_Ontologies_and_Information_Systems
 - author: @nicola-guarino
 
 ## Highlights

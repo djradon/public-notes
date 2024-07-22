@@ -2,11 +2,12 @@
 id: 1hb8g419tt9jae52zto84g6
 title: Foundations of Semantic Web Technologies
 desc: ''
-updated: 1715879787940
+updated: 1721692366936
 created: 1715879390624
 ---
 
 - https://www.semantic-web-book.org/
+- https://learning.oreilly.com/library/view/foundations-of-semantic/9781420090512/
 - publish-date: 2009
 - authors: @pascal-hitzler
 

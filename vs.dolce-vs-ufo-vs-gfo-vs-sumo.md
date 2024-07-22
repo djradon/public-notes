@@ -2,7 +2,7 @@
 id: zbfyvlhb3d6dpl9o5iyyzuh
 title: Dolce Vs Ufo Vs Gfo Vs Sumo
 desc: ''
-updated: 1721368652351
+updated: 1721690422787
 created: 1714068979478
 ---
 
@@ -48,8 +48,8 @@ created: 1714068979478
 
 #### GFO
 
-- claims to use Brentano space, but #Space_time is disjoint with #Abstract !
-- 
+- claims to use [[t.phil.space.brentano]], but #Space_time is disjoint with #Abstract !
+  - t.2024.07.22.16 mental != abstract
 
 #### SUMO
 
@@ -63,4 +63,4 @@ created: 1714068979478
 
 - [[ar.matching-bfo-dolce-gfo-and-sumo-an-evaluation-of-oaei-2018-matching-systems]]
 - [[sh.ontology.upper.log#results-of-onset]]
-- 
+- [[ar.some-open-issues-after-twenty-years-of-formal-ontology]]

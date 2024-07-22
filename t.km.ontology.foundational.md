@@ -1,8 +1,8 @@
 ---
 id: 3fa0re3cagbpf2ne3f0rsfe
-title: Foundational
+title: Foundational Ontology
 desc: ''
-updated: 1721422169070
+updated: 1721685761109
 created: 1713223599956
 ---
 
@@ -10,7 +10,7 @@ created: 1713223599956
 
 ## Definition
 
-- "while a top-level ontology is a classification system that deals with general domain-independent categories only, a foundational ontology is a top-level (formal) ontology that has been built and motivated by the upfront and explicit choice of its core principles” (Borgo and Hitzler, 2018)    
+- "while a top-level ontology is a classification system that deals with general domain-independent categories only, a foundational ontology is a top-level (formal) ontology that has been built and motivated by the upfront and explicit choice of its core principles” ([[Borgo and Hitzler, 2018|ar.some-open-issues-after-twenty-years-of-formal-ontology]])    
 
 ## Benefits
 

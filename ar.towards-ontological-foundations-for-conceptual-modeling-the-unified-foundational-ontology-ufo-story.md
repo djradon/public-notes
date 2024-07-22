@@ -3,7 +3,7 @@ id: zzoajb1hp4gezmidmjgeyll
 title: >-
   Towards Ontological Foundations for Conceptual Modeling the Unified Foundational Ontology Ufo Story
 desc: ''
-updated: 1720931987248
+updated: 1721687642846
 created: 1713463627419
 ---
 
@@ -17,7 +17,7 @@ This paper describes a long-term research program on developing ontological foun
 
 ## Highlights
 
-- our first attempt was to unify DOLCE and GFO to produce a reference founda- tional ontology for conceptual modeling (hence, the name Unified Foundational Ontology) (Guizzardi & Wagner, 2004). Both theories were philosophically sound and formally characterized. Moreover, they were both based on the so-called Aristotelian Square, i.e., “Four-Category Ontologies”.
+- our first attempt was to unify DOLCE and GFO to produce a reference foundational ontology for conceptual modeling (hence, the name Unified Foundational Ontology) (Guizzardi & Wagner, 2004). Both theories were philosophically sound and formally characterized. Moreover, they were both based on the so-called Aristotelian Square, i.e., “[[t.km.ontology.four-category]] Ontologies”.
 - ontological foundations for conceptual modeling would demand micro-theories to address conceptual modeling’s most fundamental constructs, namely, Entity Types and Relationship Types (hence, the name of the so-called Entity-Relationship ap- proach that gives the name to the most important conference in conceptual modeling!). So, any reference theory for conceptual modeling would need a rich theory of entity (object) types and a rich theory of domain (also called material) relations. In the case of the former, we needed something in the spirit of the ontology of universals underlying the OntoClean methodology (Guarino & Welty, 2009) in order to systematize a number of notions that were pervasive in the conceptual modeling literature (e.g., types, roles, phases or states, mixins) but for which there were no precise definitions or consensus (Guizzardi et al., 2004a). 
   - GFO’s theory of universals still does not recognize these notions and DOLCE does not include universal as a category (DOLCE was designed as an ontology of particulars).
     - DOLCE still does not include a theory of particularized relational properties (relational qualities) and the GFO theory of relations is subject to the so-called Bradley Regress (Bradley, 1893) and, hence, it can only be instantiated by infinite (logical) models. This feature makes it unsuitable for conceptual modeling applications. 
