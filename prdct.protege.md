@@ -4,7 +4,7 @@ title: Protege
 desc: >-
   free, open-source ontology editor and framework for building intelligent
   systems
-updated: 1720209331551
+updated: 1721500096940
 created: 1701803022127
 ---
 
@@ -14,6 +14,14 @@ created: 1701803022127
 - written_in: java
 - aka: "Protege 2000"
 
+## Features
+
+- supports [[prdct.identitas]]
+
 ## Similar
 
 - [[prdct.protege]] [[prdct.vocbench]] [[prdct.topbraid-composer]] [[prdct.hozo]]
+
+## References
+
+- [[ar.identitas-semantics-free-and-human-readable-identifiers]]

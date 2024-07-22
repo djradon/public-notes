@@ -2,7 +2,7 @@
 id: HBfqGJSSJCvCG8gU0UetW
 title: Zettelkasten
 desc: ''
-updated: 1701575151249
+updated: 1721579067289
 created: 1631216404603
 ---
 
@@ -43,6 +43,6 @@ created: 1631216404603
 ## Resources
 
 - https://zettelkasten.de/posts/extend-your-mind-and-memory-with-a-zettelkasten/
-
+- [[ar.readwise.a-system-for-writing]]
 
 A practical history of personal knowledge management tools, from Lumann's Zettelkasten through Notion, Roam, and Obsidian, to my current recommended tool, Dendron. We'll look at the features of Dendron-flavored markdown and also explore the benefits of "learning in public" with a Digital Garden.
