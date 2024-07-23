@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1721687541823
+updated: 1721693231536
 created: 1698268407267
 ---
 
@@ -29,6 +29,20 @@ created: 1698268407267
 ## Features
 
 - ![[prdct.unified-foundational-ontology.gUFO#^io6179ll2dle]]
+
+### Relations
+
+- "We divide relations into two broad categories, called Material and Formal relations."
+  - Formal relations hold between two or more entities directly without any further intervening individual. Examples of formal relations are:
+    - 5 is greater than 3
+    - this day is part of this month
+    - N is subset of Q
+  - but also the relations of instantiation, inherence, quale of a quality, association, existential dependence, among others – … relations that form the mathematical superstructure of our framework. _Material relations,_ conversely, have material structure on their own and include examples such as:
+    -   employments
+    -   kisses
+    -   enrollments
+    -   flight connections
+    -   commitments
 
 ## Composition
 
