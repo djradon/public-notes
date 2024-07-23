@@ -2,7 +2,7 @@
 id: n7qepl6lnhrc1y0cm8j63fi
 title: Rigidity
 desc: ''
-updated: 1721418969261
+updated: 1721712135947
 created: 1721064496502
 ---
 
@@ -24,11 +24,13 @@ word ‘rigid’ in the modal logic literature.
   - example: an atom
     - @chatgpt While an atom can transmute into another element, it does not cease to be an atom. 
 
-### Non-rigidity
+### Non-rigidity/semi-rigidity
 
 - (At least) some instances of a non-rigid class do not have to belong to that class in all possible contexts.
   - example: a mass of 4kg (artifacts might "pass through" the class, but a certain number of atoms of gold will always be 4kg)
-
+  - example: PerformingArtist: I used to be one, but Pavement is always one.
+  - example: LuxuryGood, where jewelry is always but only cars > $30k are.
+  
 #### anti-rigidity
 
 - If every individual that instantiate a given type in a particular time can cease to do so and still exists, then we call that type ANTI-RIGID
@@ -43,4 +45,4 @@ word ‘rigid’ in the modal logic literature.
 ## References
 
 - [[ar.towards-a-consistent-logical-framework-for-ontological-analysis]]
-- 
+- https://ontouml.readthedocs.io/en/latest/classes/nonsortals/mixin/index.html
