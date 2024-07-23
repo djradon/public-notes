@@ -2,7 +2,7 @@
 id: 7vvx9npw4cvo6kbsriu6tkl
 title: Processes Endure Whereas Events Occur
 desc: ''
-updated: 1721714784284
+updated: 1721760605932
 created: 1721707969231
 ---
 
@@ -31,9 +31,13 @@ In this essay, we aim to help clarify the nature of so-called 'occurrences' by a
 - authors propose to see an opposition between the physical world and the mental and social worlds and, more precisely, to position events conceived as historical entities in the mental and social worlds
   - i.e., interpretation
   - " the history of the world consists of how the world evolves over time; to appreciate changes, or on the contrary stabilities, requires the memory of observers; events are therefore psychological and social constructs."
+    - t.2024.07.23.11 or digital
+
+### 3. Our ontological framework (in a nutshell)
+
 - artifacts are physical objects endowed with a social life
 - examples of physical processes are: the movement of a physical object (leading to the displacement or rotation of the object on itself); the growth in size of a physical body; the life process of a person; the ripening of a fruit; oxidation of a ferrous metal object; the melting of a glacier.
 - the cause is part of the process, which process is the ‘engine’ of change
   -  the change of a process can not itself be explained by a process, unless we create an infinite conceptual regression
   -  a process is not a continuant floating in the air, but is 'anchored' in a support object which enacts it, aka behavior
-  -  
+  - 

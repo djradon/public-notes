@@ -2,7 +2,7 @@
 id: nmgqmbzh6ftaa7jj2woieqa
 title: Some Open Issues after Twenty Years of Formal Ontology
 desc: ''
-updated: 1721690296861
+updated: 1721759468186
 created: 1721684494111
 ---
 
@@ -11,7 +11,7 @@ created: 1721684494111
 
 ## Highlights
 
-- "If we use a decidable logical language, for technical reasons the capacity of the language to express the needed infor- mation is limited and the logical theory will not be able to include basic information (for instance, these languages have limitations in coding ternary relations like “z is between x and y” or “x counts as y at time t”)."
+- "If we use a decidable logical language, for technical reasons the capacity of the language to express the needed information is limited and the logical theory will not be able to include basic information (for instance, these languages have limitations in coding ternary relations like “z is between x and y” or “x counts as y at time t”)."
   - t.2024.07.22.14 Really?!? @chatgpt thinks you can use a relator without losing decidability
 - Another issue regards the proposal presented in [9] to separate ontologies in four types: top-level, domain, task and application ontologies.
 
