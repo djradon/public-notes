@@ -2,7 +2,7 @@
 id: rgof5gwgwgrz3vp3394kfmq
 title: JSON-LD
 desc: ''
-updated: 1721335203153
+updated: 1721768008671
 created: 1636178352439
 similar: prdct.yaml-ld
 ---
@@ -95,5 +95,4 @@ https://developer.chrome.com/blog/creating-semantic-sites-with-web-components-an
 - https://www.w3.org/TR/json-ld
 - https://json-ld.org/contexts/dollar-convenience.jsonld
 - https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases
-
-jsonld-streaming-parser
+- https://news.ycombinator.com/item?id=31890041

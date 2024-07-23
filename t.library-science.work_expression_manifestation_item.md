@@ -2,10 +2,10 @@
 id: gpjt0tgwkb6khor1tcvlgmb
 title: Work, Expression, Manifestation, Item
 desc: 'WEMI '
-updated: 1705676796224
+updated: 1721772196454
 created: 1701423935574
 ---
-
+k
 ![](/assets/images/2023-12-01-01-58-15.png)
 
 ## Terms
