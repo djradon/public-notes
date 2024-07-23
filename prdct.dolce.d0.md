@@ -1,7 +1,7 @@
 ---
 id: endiy3hqtb3tkubuownl6hu
 title: D0
-desc: 'A supplementary ontology used as a generalization of DOLCE+DnS Ultralite (DUL), in order to deal with the systematic polysemy of many lexical items, whose senses create problems when used as OWL classes. For example, it's customary to find lexical items that carry both a sense of physical or abstract location, of event or event type, etc'
+desc: 'A supplementary ontology used as a generalization of DOLCE+DnS Ultralite (DUL), in order to deal with the systematic polysemy of many lexical items, whose senses create problems when used as OWL classes. For example, itʼs customary to find lexical items that carry both a sense of physical or abstract location, of event or event type, etc'
 updated: 1721309408039
 created: 1716312264557
 ---
