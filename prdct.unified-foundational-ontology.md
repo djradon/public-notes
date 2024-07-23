@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1721693231536
+updated: 1721693716484
 created: 1698268407267
 ---
 
@@ -25,6 +25,7 @@ created: 1698268407267
 
 - no OWL or any other machine-readable represenation
   - but [[prdct.unified-foundational-ontology.gUFO]]
+- [Are all relations instances of either MaterialRelationshipType or ComparativeRelationshipType?](https://github.com/nemo-ufes/gufo/discussions/33)
 
 ## Features
 
@@ -43,6 +44,8 @@ created: 1698268407267
     -   enrollments
     -   flight connections
     -   commitments
+   
+
 
 ## Composition
 

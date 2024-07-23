@@ -2,7 +2,7 @@
 id: 4p9syg1oz2pe0e78c8ry8gq
 title: OntoUML
 desc: ''
-updated: 1720674955809
+updated: 1721704219108
 created: 1709679259786
 ---
 
@@ -28,3 +28,4 @@ created: 1709679259786
 ## References
 
 - [^1]: https://ontouml.readthedocs.io/en/latest/classes/sortals/relator/index.html
+- [[ar.using-a-trope-based-foundational-ontology-for-bridging-different-areas-of-concern-in-ontology-driven-conceptual-modeling]]
