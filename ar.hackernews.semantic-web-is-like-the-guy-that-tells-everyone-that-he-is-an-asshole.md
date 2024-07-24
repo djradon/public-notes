@@ -2,7 +2,7 @@
 id: f8f54m5mjf95uagckhyb6j1
 title: Semantic Web Is like the Guy That Tells Everyone That He Is an Asshole
 desc: ''
-updated: 1721769456884
+updated: 1721843548119
 created: 1721768350968
 ---
 
@@ -21,3 +21,6 @@ created: 1721768350968
   - A character in D&D might have traits that are completely uncommon for their class. 
   - The greek gods for sleep, death or the night sky are both concepts and characters.
 
+### Theory vs Interpretation
+
+- @paul-houle: "The theory vs interpretation split is another one of those decisions you have to make if you want to do logic: I am on a committee where I'm the guy who speaks for interpretations and the A-Box but some of the other people are serious T-Boxers."

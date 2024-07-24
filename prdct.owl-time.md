@@ -2,7 +2,7 @@
 id: acxwjynzcfhybxyoe56el4i
 title: Owl Time
 desc: 'ontology of temporal concepts, providing a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information'
-updated: 1721243891239
+updated: 1721844075169
 created: 1701453829509
 url: https://www.w3.org/TR/owl-time/
 related: 
@@ -57,4 +57,4 @@ Addressing these ambiguities often requires additional context, clear definition
 
 ## References
 
-[^1]: https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_and_Computation_Fundamentals/An_Introduction_to_Ontology_Engineering_(Keet)/11%3A_Advanced_Modeling_with_Additional_Language_Features/11.02%3A_Time_and_Temporal_Ontologies
+[^1]: [[book.an-introduction-to-ontology-engineering-keet#^k691d5r7ug82]]

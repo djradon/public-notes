@@ -2,7 +2,7 @@
 id: o0i0slyae40yf3o4crroqes
 title: An Introduction to Ontology Engineering Keet
 desc: ''
-updated: 1720477067238
+updated: 1721846392403
 created: 1711471328539
 ---
 
@@ -21,6 +21,18 @@ created: 1711471328539
 - results in a more compact representation, is intuitively closer to the domain expert’s understanding, and makes it easier to verbalize the ontology, and therefore is likely to be more useful in praxis. The Running option is more generic, and thereby likely to increase reusability of the ontology. No scientific experiments have been conducted to test which way would be better to represent such knowledge, and current mapping tools do not deal with such differences of representing roughly the same knowledge in syntactically very different ways. Theoretical foundations for mappings between such distinct modeling styles have been proposed [^FK17], and this may be resolved soon.
 
 ### Time and Temporal Ontologies
+
+- There are multiple requests for including a temporal dimension in OWL. Some of those requirements are described in the ontology’s annotation fields (see the OWL files of BFO and DOLCE), or the labels of the object properties in the BFO v2.1 draft, where they mention temporality that cannot be represented formally in OWL: ^k691d5r7ug82
+  - DOLCE has a temporally indexed parthood in the paper-based version but this could not be transferred into the OWL file.
+- there is no single computational solution to solve these examples all at once in another way beyond OWL. Thus far, it is a bit of a patchwork of various theo- ries and some technologies, with, among many aspects, the [[Allen’s interval algebra|t.cs.time.allens-interval-algebra]] with the core qualitative temporal relations (such as before and during), [[Linear Temporal Logics|prdct.ltl-linear-temporal-logics]] (LTL) and Computational Tree Logics (CTL, with branch- ing time). 
+  - some might say [[t.cs.time.allens-interval-algebra]] are all the temporal relations one will ever need, but one may wish to be more specific in specialised subject domains, such as a transformation of a caterpillar into a butterfly, not just that a butterfly was a caterpillar ‘before’, and one thing developed from another thing in developmental biology.
+- Modellers want to do even more than that: temporalising classes and relations. The former is well-known in databases as ‘object migration’; e.g., an active project evolves to a completed project, and each divorcee in the census database must have been married before. Relation migration follows the idea of temporal classes, but applies to n-ary tuples (with n ≥ 2); e.g. ‘during x’s lifetime, it always has y as part’ and ‘every passenger that boards the plane must have checked in before departure of that flight’.
+
+
+#### Temporal DLs
+
+- A very expressive (undecidable) DL language is [[prdct.dlrus]] (with the Until and Since operators), which already has been used for temporal conceptual data modelling [APS07] and for representing essential and immutable parts and wholes [AGK08], which also solves the Boxer example of Section 6.2. It uses linear time and mostly qualitative temporal constraints.
+- [[ar.temporal-representation-and-reasoning-in-owl-2]]
 
 
 ## References

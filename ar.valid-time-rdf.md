@@ -2,12 +2,15 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1720631866058
+updated: 1721851645530
 created: 1711033114556
 ---
 
 - url: https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5097&context=gc_etds
 
+## Log
+
+- t.2024.04.01.11: re-reading this on the plane, I'm amazed how much more helpful and concrete this seems now.
 
 ## Highlights
 
@@ -30,7 +33,7 @@ The formal semantics of the singleton property is derived from the standard RDF 
 
 #### Extended 4D Fluents 
 
-- Batsakis et al. extended 4D Fluents model to incorporate qualitative temporal relations that have unknown temporal information... Semantics of the extended 4D Fluents model is based on the original 4D Fluents model, with the additional temporal semantics needed for qualitative temporal relations.
+- [[Batsakis|user.sotiris-batsakis]] et al. extended 4D Fluents model to incorporate qualitative temporal relations that have unknown temporal information... Semantics of the extended 4D Fluents model is based on the original 4D Fluents model, with the additional temporal semantics needed for qualitative temporal relations.
 
 ![](/assets/images/2024-04-01-11-24-36.png)
 
@@ -69,6 +72,128 @@ time of the relationship and two participating entities."
   - Also, birth-death are not the same as valid. 
   - There's an asymmetry with valid time in open-world. if there's no valid-to, can you assume ***now***? not in open-worlds. If there's no valid-from, you just assume it's missing. 
 
-## Log
+## Valid Time RDF
 
-- t.2024.04.01.11: re-reading this on the plane, I'm amazed how much more helpful and concrete this seems now.
+- In this thesis, we adopt a modeling approach that employs ideas from the 4D view and originated from the study in [66], and propose the Valid Time RDF, or [[prdct.vtrdf-valid-time-rdf]] in short
+- VTRDF is based on temporal resource and temporal relationship or temporal fact.
+  - **temporal resource**: RDF-compliance resource equipped with a timestamp to denote its existence in time
+    - Each temporal resource is a coalesce of all its temporal parts
+      - i.e. wholly present during its existence in time
+    - Temporal parts are derived by slicing or projecting a temporal resource on to the time dimension.
+  - **temporal relationship**: a factual assertion that relates qualified temporal resources, formed between either temporal parts or temporal resources provided that the participating parts or resources coexist in time
+- We introduce VTR, an infinite set of valid time resources, as the building block for VTRDF triples and VTRDF graphs ^6x6gy39e5d24
+  -  valid time resource is a resource with its existence time or valid time
+  -  In VTRDF, we consider a valid time resource as a collection of all its temporal parts.
+  -  Assertions can be made with respect to both the collection and any individual temporal part.
+  -  A temporal resource is a master resource, whereas all its temporal parts are member resources.
+  -  Projections from the master resource to its temporal parts are possible via projection functions.
+  -  The temporal aspects of the resources can use valid time, transaction time, or bitemporal.
+     -  In this research, we focus on the valid time.
+     -  Hence, we would use valid time resources and temporal resources interchangeably as appropriate
+
+### Notations, Namespace, and Time Domain
+
+- vtrdf: and vtrdfs: refer to the namespace of VTRDF vocabulary and VTRDF Schema vocabulary
+- While the symbol # is used to denote an additional part of the primary resource in the standard RDF model, VTRDF requires a second fragment identifier to accommodate the valid time dimen- sion.
+  - t.2024.07.24.11 with slash IRIs, could work too
+  - The symbol • is used as a delimiter that separates the first fragment identifier from the valid
+- T is the set of time points with a linear order less-than (<). For simplicity, we use the standard U.S. calendar dates as the unit of time points in the format of month/day/year, such as 1/10/1995
+- Tɪ is the set of time intervals defined over T
+- 0 is the lower bound of the time axis whose interpretation is open for user’s need of data
+modeling.
+- now is a special constant that represents the current time. Its value will change as time
+advances.
+- ∞ is a constant that represents the upper bound of the time axis.
+- [0, ∞] is a special interval used to represent the maximal interval
+
+### Running Example
+
+- John enrolled in the Semantic Web course
+(SW), lived in New York City (NYC), and had a valid time [2/1/2016, 5/31/2016).
+  - t.2024.07.24.12 kinda weird choice, seems like enrolled and livedIn are unrelated
+![](/assets/images/2024-07-24-12-52-39.png)
+
+
+### Definitions
+
+#### valid time IRI
+
+- a valid time IRI consists of:
+  - resource
+  - valid time
+  - http://example.org/temporal-SW#John•[01-10-1995–now]
+
+####  Valid Time Literal
+
+- Let L be an infinite set of standard literals, [0, ∞] the maximal interval, and V T L = L × [0, ∞]
+be the Cartesian product.
+-  A valid time literal lt ∈ V T L represents a literal that is always valid in
+time.
+  - That is, all literals assume a default maximal interval [0, ∞] unless otherwise specified.
+
+#### Valid Time Data Type
+
+- Let D be an infinite set of standard data types, [0, ∞] the maximal interval, and V T D =
+D × [0, ∞] be the Cartesian product. A valid time data type dt ∈ V T D is a data type recognized
+in the standard RDF with a default maximal interval [0, ∞].
+  - Valid time data types are used to annotate valid time literals.
+  - A special data type vtrdf:langString[0, ∞] can also be used to denote a language-tagged string value.
+
+#### Lexical-to-Value Mapping Function V T L2V
+
+- V T L2V is a partial mapping from the lexical space of valid time literals to the value space V. A valid time literal lt with a valid time data type dt denote the mapped value obtained from the value space. That is, V T L2V (lt, dt) = v where v ∈ V.
+
+
+#### Valid Time Property
+
+- Let P be the set of any properties, including those defined in RDF and RDFS vocabularies [16], TI be the set of intervals, and V T P = P × TI be the Cartesian product of them. A valid time property pt ∈ V T P is any property that is valid during a specified interval i ∈ TI .
+
+#### Valid Time Blank Node
+
+- Let B be an infinite set of blank nodes, TI be the set of intervals, and V T B = B × TI be the Cartesian product. A valid time blank node bt ∈ V T B denotes the existence of a resource whose valid time may or may not be known. For simplicity, every valid time blank node in the VTRDF model assumes a default maximal valid interval [0, ∞] unless otherwise specified. A valid time blank node is usually identified by a local identifier.
+
+#### Valid Time Resource Projection Function
+
+- A valid time resource projection function...
+
+#### Valid Time RDF Triple
+
+A Valid Time RDF triple (st, pt, ot) satisfies the temporal constraint, called Temporal Triple Integrity,such that pt is bounded by the interval that is formed by the common valid time of st and ot.
+  - In other words, the temporal triple integrity requires that a valid time relationship can only be established between two existing resources with non-disjoint valid time
+
+#### Predicate Defining Time (PDT) and Resource Modeling Time (RMT)
+
+- rt takes PDT when it is used in a VTRDF triple as a predicate to define the time of a re- lationship. In this case, PDT corresponds to the interval during which the relationship is valid
+- rt takes RMT when it is used in a VTRDF triple as a subject or an object that eventually involves in a relationship.
+  - "RMT is the time that we want to store about the facts into the database."???
+
+#### Valid Timeslice Operator
+
+- Given a VTRDF graph Gt and an interval i = [l, u), the valid time slice operator, TS, returns a temporal subgraph of Gt at i
+![](/assets/images/2024-07-24-12-55-11.png)
+  - t.2024.07.24.12 i.e., it cuts everything down to the interval)
+
+#### VTRDF Subgraph
+
+- in addition to the common-sense definition, a "valid timeslice of a VTRDF graph Gt is a **temporal subgraph** of it."
+- ![](/assets/images/2024-07-24-12-53-09.png)
+  - t.2024.07.24.12 is it a typo that fig 4.3 has "now" and fig.4.5 has "infinity"
+
+#### VTRDF Underlying Triple/Graph
+
+- basically, de-temporalizing
+- "If two or more triples agree on the subject or object, they are combined to one triple. "
+  - t.2024.07.24.13 typo, should be "subject and object"
+
+#### VTRDF Graph Vocabulary
+
+- the set of valid time IRIs that appear in Gt excluding valid time literals.
+
+#### Ground VTRDF Graph
+
+- no valid time blank nodes
+
+
+### VTRDF Vocabulary
+
+- VTRDF Vocabulary
