@@ -2,8 +2,9 @@
 id: rnubhu48m29sm37djdfv2yc
 title: Devin
 desc: ''
-updated: 1716569863054
+updated: 1721788476294
 created: 1716569827199
 ---
 
 - https://www.cognition.ai/blog/introducing-devin
+- [[c.software.ai.development-assistant]]
