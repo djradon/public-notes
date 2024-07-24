@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1721851645530
+updated: 1721853534568
 created: 1711033114556
 ---
 
@@ -11,6 +11,15 @@ created: 1711033114556
 ## Log
 
 - t.2024.04.01.11: re-reading this on the plane, I'm amazed how much more helpful and concrete this seems now.
+- t.2024.07.24.13 as much as I want it, I'm concerned that valid time is not existence time.
+  - at the very least, it shouldn't mean birth-death
+    - what if John comes back from the dead?
+  - in an immutable data store, valid time needs to be reserved for "this fact was considered valid", 
+  - doesn't make sense to apply vt to (some) resources, because they are eternal
+  - if we use relators, same thing
+  - singleton predicates, maybe
+  - classic predicates/properties might be interesting... valid time properties 
+  - you still need a way to refer to resources/entities at a given time, but probably an instant not an interval. 
 
 ## Highlights
 
@@ -196,4 +205,5 @@ A Valid Time RDF triple (st, pt, ot) satisfies the temporal constraint, called T
 
 ### VTRDF Vocabulary
 
-- VTRDF Vocabulary
+- VTRDF Vocabulary is formulated as layers and RDF-compliant.
+- 
