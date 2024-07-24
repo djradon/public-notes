@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1721693716484
+updated: 1721795338311
 created: 1698268407267
 ---
 
@@ -13,7 +13,7 @@ created: 1698268407267
   - https://nemo.inf.ufes.br/en/projetos/ufo/
   - http://dev.nemo.inf.ufes.br/seon/UFO.html
 - similar: [[prdct.unified-foundational-ontology.gentle]] [[prdct.sumo]] [[prdct.gfo]] [[prdct.dolce]]
-- related: [[prdct.ontouml]] [[prdct.unified-foundational-ontology.eUFO]]
+- related: [[prdct.ontouml]] [[prdct.unified-foundational-ontology.eUFO]] [[prdct.seon-software-engineering-ontology-network]]
 - based_on: [[prdct.dolce]] [[prdct.gfo]] [[prdct.ontoclean]]
 - repo: https://github.com/unibz-core/ufo-formalization
 - docs: [[ar.a-first-order-logic-formalization-of-the-unified-foundational-ontology]]
@@ -76,3 +76,4 @@ Applications of it in Business Modeling](https://ceur-ws.org/Vol-125/paper2.pdf)
 - [[ar.towards-ontological-foundations-for-conceptual-modeling-the-unified-foundational-ontology-ufo-story]]
 - [[ar.ufo-unified-foundational-ontology]]
 - [[ar.endurant-types-in-ontology-driven-conceptual-modeling-towards-onto-uml-2-0]]
+- https://dev.nemo.inf.ufes.br/seon/UFO.html
