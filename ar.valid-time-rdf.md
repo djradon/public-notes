@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1721853534568
+updated: 1721857641242
 created: 1711033114556
 ---
 
@@ -14,7 +14,7 @@ created: 1711033114556
 - t.2024.07.24.13 as much as I want it, I'm concerned that valid time is not existence time.
   - at the very least, it shouldn't mean birth-death
     - what if John comes back from the dead?
-  - in an immutable data store, valid time needs to be reserved for "this fact was considered valid", 
+  - in an immutable data store, valid time needs to be reserved for "this fact was considered valid", from interpretation of "database"
   - doesn't make sense to apply vt to (some) resources, because they are eternal
   - if we use relators, same thing
   - singleton predicates, maybe
