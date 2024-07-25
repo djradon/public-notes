@@ -2,8 +2,8 @@
 id: ksmy9go4mxo2xnw1rfedg9b
 title: Tpfancontrol
 desc: ''
-updated: 1721855698475
+updated: 1721914646175
 created: 1721855676053
 ---
 
-- for when SMART isn't so smart
+- for when BIOS isn't so smart

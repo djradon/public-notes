@@ -2,7 +2,7 @@
 id: 1x3lenylbdctmrkbdkn2v0x
 title: Jena
 desc: 'semantic-web framework for Java which includes a number of different semantic-reasoning modules and rdf-star support'
-updated: 1721272229815
+updated: 1721919102089
 created: 1698707121812
 type: "[[c.software.database.graph.rdf]]"
 ---
@@ -25,6 +25,7 @@ type: "[[c.software.database.graph.rdf]]"
 ## Comparison
 
 ![[prdct.rdf4j#rdf4j-vs-jena]]
+- [jena rules vs shacl](https://groups.google.com/g/topbraid-users/c/gHxbWnz1yuE/m/3ETPK7J4DQAJ)
 
 ## Resources
 
