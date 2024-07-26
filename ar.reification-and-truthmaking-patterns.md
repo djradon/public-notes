@@ -2,7 +2,7 @@
 id: 31n6gtegjp893vfuiz340ml
 title: Reification and Truthmaking Patterns
 desc: 'use truthmaking patterns to put truthmakers in the domain'
-updated: 1721062565796
+updated: 1722014537664
 created: 1720999931301
 ---
 
@@ -52,6 +52,7 @@ account for how something is, on the basis of its qualities.
 -  quality spaces may have a complex structure with multiple dimensions, each corresponding to a simple quality that inheres in a complex quality.
    -  typical example:  colors and taste
    -  but also mental entities such as attitudes, intentions and beliefs as complex qualities, collapsing, for the sake of simplicity, UFO’s distinction between qualities and modes
+      -  t.2024.07.26.09 qualities are descriptive, so I guess intentions could be descriptive, but couldn't you say "having an intent is non-descriptive since it holds in virtue of the object that has the intent"
 -  relational qualities are existentially dependent on the thing they inhere in, but also something else, e.g. John's love for Mary
    -  typical come in bundles called relators
 -  summary: individual qualities are weak TMs for descriptive properties
@@ -60,9 +61,8 @@ account for how something is, on the basis of its qualities.
 ##### descriptive properties
 
 - we may define them as properties holding in virtue of one or more inhering qualities
-  - seems plausible to assume that a descriptive property may hold for an
-  object x in virtue of a quality inhering in a proper part of x, rather than in x
-  itself
+  - seems plausible to assume that a descriptive property may hold for an object x in virtue of a quality inhering in a proper part of x, rather than in x itself
+    - So, having a big nose counts as descriptive since it holds in virtue of the nose’s size, while having a nose is non-descriptive since it holds in virtue of the object that has the nose, which is not a quality.
   - we should account also for descriptive properties that hold in virtue of relational qualities. 
   - 3 possibilities:
     - the weak TM consists of just one rela-
@@ -74,8 +74,17 @@ tional quality inhering in John, as in the case of being in love with Mary;
 ##### intrinsic properties
 
 -  a property holding for x is extrinsic iff it requires the existence of something else external to x in order to hold
+-  Being red and being married are examples of, respectively, intrinsic descriptive and extrinsic descriptive properties
+  - In the former case the minimal weak TM is a non-relational quality
+    - t.2024.07.26.09 why non-relational? only if red isn't "something else"
+  -  in the latter it is a relational quality
 -  The intrinsic/extrinsic distinction turns out to be orthogonal to the descriptive/non-descriptive one, and each of the four combinations has its own peculiarities in terms of TMs
-   -  e.g. being Italian is an extrinsic non-descriptive "historical" property, with minimal weak TM of a birth event.
+   -  e.g. 
+      -  Being red and being married are examples of, respectively, intrinsic descriptive and extrinsic descriptive properties.
+         -  In the former case the minimal weak TM is a non-relational quality
+         -  in the latter it is a relational quality. 
+      -  Being an apple or having a nose are examples of intrinsic non-descriptive properties, whose argument coincides with the minimal weak TM
+      -  being Italian is an extrinsic non-descriptive "historical" property, with minimal weak TM of a birth event.
 -  
 
 #### Truthmaking patterns for properties
@@ -91,12 +100,14 @@ tional quality inhering in John, as in the case of being in love with Mary;
 ##### Intrinsic descriptive properties
 
 - rarely correspond to classes, because they do not carry a principle of identity
-  - e.g. a rose's redness is typically expressed as a attribute-value 
+  - e.g. a rose's redness is typically expressed as a attribute-value pair within the class Rose, where the attribute name implicitly de- notes the color quality
 
 ![](/assets/images/2024-07-14-21-22-28.png)
 
 - We have three reification options, corresponding to different TMPs:
   - A weak TMP emerges when the quality is reified as a separate class
+    - Note the 1-1 cardinality constraint, showing that a quality in- heres in exactly one object, and an object has exactly one quality of a given kind
+      - t.2024.07.26.09 but what if the rose is partially brown?
     - generally more flexible, making it possible
 to describe the way the quality interacts with the world (Mary likes the color of
 this rose), or further information about the quality itself (the color of a rose is
@@ -114,3 +125,14 @@ spatiotemporal context (what happened meanwhile and where...
 - For those of them that are anti-rigid, it certainly makes sense to reify the event during which they hold, i.e., their strong TM. 
   - example: 
 ![](/assets/images/2024-07-15-09-56-03.png)
+    - t.2024.07.26.10 the labels for b and c are mixed up. 
+
+##### Intrinsic non-descriptive properties
+
+- [ ] exercise for the reader
+
+##### Extrinsic descriptive
+
+- [ ] exercise for the reader
+
+

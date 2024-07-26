@@ -2,13 +2,13 @@
 id: xbpa7vv9hwari8435fttsw3
 title: Relator
 desc: ''
-updated: 1721949191030
+updated: 1721950237573
 created: 1721858574759
 ---
 
 - the RDFS concept of class might have be sidelined
 
-## What would it look like to have a "domain-classes-as-individuals" ontology for immutable data where relationships are primarily expressed by relators?
+## What would it look like to have a "domain-classes-as-individuals" data model where relationships are primarily expressed by relators?
 
 instead of 
 
