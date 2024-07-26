@@ -2,7 +2,7 @@
 id: 31n6gtegjp893vfuiz340ml
 title: Reification and Truthmaking Patterns
 desc: 'use truthmaking patterns to put truthmakers in the domain'
-updated: 1722014537664
+updated: 1722014884036
 created: 1720999931301
 ---
 
@@ -136,3 +136,9 @@ spatiotemporal context (what happened meanwhile and where...
 - [ ] exercise for the reader
 
 
+## Relations and their TMs
+
+- In his early work, Guizzardi borrowed from [16] a crisp distinction between formal and material relations 
+  - formal are holding between two or more entities “directly without any further intervening individual"
+  - ;atter requiring the existence of an intervening individual
+  - t.2024.07.26.10 reminds me of [[ar.github.nemo-ufes.gufo.are-all-relations-instances-of-either-material-relationship-type-or-comparative-relationship-type]]
