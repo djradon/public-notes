@@ -2,7 +2,7 @@
 id: xv0quojswmla8fgo2flgdrn
 title: Towards an Ontological Foundation of Agent Based Simulation
 desc: ''
-updated: 1722148730525
+updated: 1722149108501
 created: 1720638065205
 ---
 
@@ -18,6 +18,6 @@ A simulation model is intended to capture a real-world system. Consequently, the
 
 ### Events
 
-- Events are individuals that may be composed of temporal parts. They happen in time in the sense that
-they may extend in time accumulating temporal parts. An event cannot exhibit change in time like a sub-
-stance individual
+- Events are individuals that may be composed of temporal parts. They happen in time in the sense that they may extend in time accumulating temporal parts. 
+- An event cannot exhibit change in time like a substance individual
+  - t.2024.07.27.23 don't tell @ned-markosian
