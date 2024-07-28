@@ -20,6 +20,6 @@ created: 1720926948236
 - https://ontouml.org/ontouml/metamodel-definitions/
 - https://www.utwente.nl/en/eemcs/fois2024/resources/papers/magagna-et-al-ontological-analysis-of-fair-implementation-profiles.pdf
 - [[ar.a-commitment-based-reference-ontology-for-services]]
-- [[ar.agent-oriented-constructivist-knowledge-managemen]]
+- [[book.agent-oriented-constructivist-knowledge-management]]
 - [[ar.socially-grounded-analysis-of-knowledge-management-systems-and-processes]]
 - [[ar.towards-ontological-foundations-for-agent-modeling-concepts-using-ufo]]

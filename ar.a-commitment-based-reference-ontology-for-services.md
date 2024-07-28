@@ -2,11 +2,14 @@
 id: 1uvqmgbpmiku442mpejx26k
 title: A Commitment Based Reference Ontology for Services
 desc: ''
-updated: 1720928679675
+updated: 1722057686791
 created: 1720928622980
 ---
 
 - https://www.researchgate.net/publication/274700112_A_Commitment-based_Reference_Ontology_for_Services
+- topics: [[prdct.unified-foundational-ontology.ufo-c]] 
+- publish-date: 2015
+
 
 ## Abstract
 

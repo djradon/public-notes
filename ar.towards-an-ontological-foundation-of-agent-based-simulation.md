@@ -2,12 +2,13 @@
 id: xv0quojswmla8fgo2flgdrn
 title: Towards an Ontological Foundation of Agent Based Simulation
 desc: ''
-updated: 1720932302103
+updated: 1722057972682
 created: 1720638065205
 ---
 
 - https://www.informs-sim.org/wsc11papers/024.pdf
-
+- topics: [[t.cs.agents.agent-based-simulation]] [[t.km.ontology]] [[t.km.ontology.foundational]] [[prdct.unified-foundational-ontology.eUFO]]
+- author: @giancarlo-guizzardi @gerd-wagner
 
 ## Abstract
 

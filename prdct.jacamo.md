@@ -2,7 +2,7 @@
 id: 5yhncaqw6ftc9by6khl6vhm
 title: JaCaMo
 desc: 'development platform that integrates tools and languages for programming the following dimensions of Multi-Agent Systems: agents, environment, and organisation.JaCaMo platform addresses applications demanding autonomy, decentralisation, coordination, and openness.'
-updated: 1712853438895
+updated: 1722054474562
 created: 1694360138732
 ---
 
@@ -27,6 +27,7 @@ We assume that roles cannot live autonomously: they exist in the system in view 
 
 - [Goal-Oriented Test-Driven Development](https://github.com/jacamo-lang/jacamo/blob/master/doc/tutorials/tdd/readme.adoc)
 - [[book.multi-agent-oriented-programming]]
+- [[ar.multi-agent-oriented-programming-the-ja-ca-mo-platform]]
 
 ## References
 
