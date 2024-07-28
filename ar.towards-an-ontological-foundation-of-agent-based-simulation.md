@@ -2,7 +2,7 @@
 id: xv0quojswmla8fgo2flgdrn
 title: Towards an Ontological Foundation of Agent Based Simulation
 desc: ''
-updated: 1722057972682
+updated: 1722148730525
 created: 1720638065205
 ---
 
@@ -13,3 +13,11 @@ created: 1720638065205
 ## Abstract
 
 A simulation model is intended to capture a real-world system. Consequently, the modeling language used for making the simulation model should have a “real-world semantics” guaranteeing some kind of ontological faithfulness for the models made with it. In this paper, we propose to use ABDESO, a foundational ontology for agent-based discrete event simulation, for evaluating agent-based simulation languages.
+
+## Highlights
+
+### Events
+
+- Events are individuals that may be composed of temporal parts. They happen in time in the sense that
+they may extend in time accumulating temporal parts. An event cannot exhibit change in time like a sub-
+stance individual
