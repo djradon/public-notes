@@ -1,8 +1,8 @@
 ---
 id: m3s2x1ajzacl8o0sfts1fcd
 title: Representing Temporal Information in Lexical Linked Data
-desc: ''
-updated: 1722506252923
+desc: 'pLexical Entry, pLexical Sense, pLexical Form'
+updated: 1722574179152
 created: 1722150870542
 ---
 
@@ -135,3 +135,11 @@ ontolex:writtenRep "gurl"@en .
   owl-time:intervalFinishes :sense_I1_interval ;
   owl-time:intervalContains :a1827 .
 ```
+
+
+### Modeling semantic shifts
+
+- given two lexical senses l_1, l_2 which have un- dergone a process of semantic shift of type s, to model the typed sense shift relationship semanticShift between them: semanticShift (l_1, l_2, s)
+- We can also choose to make this a fluent, a diachronic relationship and add a temporal parameter, i.e., semanticShift (l_1, l_2, s, t)
+  - decided not to
+  - We also introduce a new object property between senses senseShiftsTo which enables us to model the fact that one sense ‘gives birth to’ another
