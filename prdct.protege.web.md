@@ -2,11 +2,11 @@
 id: mi7e2wy4xpdr2j012tfwlpp
 title: Web Protege
 desc: ''
-updated: 1721154493187
+updated: 1722752402869
 created: 1710769052065
 ---
 
-- [[c.software.ontology-editors]]
+- [[c.software.ontology-editor]]
 - url: https://webprotege.stanford.edu
 
 ## Features

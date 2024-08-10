@@ -2,7 +2,7 @@
 id: jxej1bzfm42cbouwzcl0cd4
 title: A Reusable Ontology for Fluents in Owl
 desc: ''
-updated: 1722607037393
+updated: 1723093205561
 created: 1722150651286
 ---
 
@@ -51,11 +51,12 @@ value(CeoOf:holds t 1))
   - proliferation of objects
   - *Redundant Objects*. Since relationship reifications are objects, it is possible to create multiple objects that reify the same relationship, where in other languages that permit n-ary predicates there would only be one tuple in the extension of the corresponding relation. This can be problematic when using reasoners (such as Racer [Haarslev and Möller, 2001]) that make a unique names assumption, as these multiple objects if present can be counted twice when satisfying counting axioms such as cardinality constraints. 
   - *Confusing ontology*. When classes and their instances are defined in an ontology, it is important to define what they refer to. The presence of reified relation classes and roles can create a confusion between events and fluents if one is not careful.
+    - t.2024.08.07.03 yeah, but just be careful
   - *Limited use of OWL reasoning*. The use of OWL language constructs becomes severely limited with reified relationships
     - simple reasoning about inverses can have the highest impact
     - There is no a priori way todetermine which direction may be of more use to an end user.
-    -  Reification prevents us from beingable to express in OWL the relation inverses,
-    -  thus we are stuck with whichever direction is stated in the text
+    -  Reification prevents us from being able to express in OWL the relation inverses, ^zqsq4cdml6ud
+       -  thus we are stuck with whichever direction is stated in the text
     -  Reification also prevents usage of the OWL operators transitive, symmetric, functional, and inverseFunctional on the intended relation.
    -  Local range restrictions on properties in the reified relation class must also be understood to be global restrictions on the intended relation. 
       -  To express the equivalent of local range restrictions on the intended relation, one must use nested restrictions on the role inverses
@@ -95,7 +96,7 @@ Class(Person partial
   (Property fluentProperty Symmetric
     (domain TimeSlice)
     (range TimeSlice))
-  (Property tsTimeSliceOf Functional
+  (Property tsTimeSliceOf functional
     (domain TimeSlice)
     (range complementOf(TimeInterval)))
   (Property tsTimeInterval Functional
@@ -112,4 +113,12 @@ Class(Person partial
 - In our system, it is the responsibility of the component that transforms the output of text analysis into the knowledge-base to enforce these semantics
 - The first advantage of the 4D representation is that we can use the OWL inverse operator in the expected way, as shown in the example ontology.
 - Transitivity and symmetry also have the expected meaning, allowing us to express many spatial axioms in the OWL ontology:
-  - Cardinality restrictions can also be expressed with this approach in a way that was useful for our domain. We had several intended relations whose semantics required temporally qualified cardinality, such as “a company has at-most one CEO at a time”. 
+- Cardinality restrictions can also be expressed with this approach in a way that was useful for our domain. We had several intended relations whose semantics required temporally qualified cardinality, such as “a company has at-most one CEO at a time”. 
+  - does not prevent the unintended model in which a company has two overlapping time slices that have a hasCeo relation to different people
+- The 4D approach is the worst among the approaches discussed here with respect to the proliferation of objects. 
+  - A single fluent requires two extra objects (the time slices) and four triples.
+
+## Conclusion
+
+- reification of relationships further limits the use of what limited expressiveness OWL already has
+- 

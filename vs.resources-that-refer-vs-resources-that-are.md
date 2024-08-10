@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: 'things vs information resources'
-updated: 1720924810972
+updated: 1722955883337
 created: 1633593028328
 ---
 
@@ -26,11 +26,14 @@ one subtle point: things that are also usually refer
 
 - `#this` https://stackoverflow.com/questions/76470569/the-puzzling-semantics-of-rdftype
 - 303 
-- homegrown: 
+- homegrown #1: 
   - use  anyIRI literals for referring to the information resource (so never in subject position)
     - so if you want to say something about a resource, you have to reify it first
   - otherwise, URLs always are indicators/sense
   - if you need to talk about something in the object position, refer to it indirectly
+- homegrown #2: 
+  - always sense
+  - if you want to refer to a document or other ContentLocator, give it an indicator (e.g., using [[k.relation-types.LocatableContent]])
 
 ## Thoughts
 

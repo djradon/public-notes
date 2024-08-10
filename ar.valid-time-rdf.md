@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1721857641242
+updated: 1722728690772
 created: 1711033114556
 ---
 
@@ -80,6 +80,7 @@ time of the relationship and two participating entities."
   - t.2024.07.10.10 really? Do entities have timestamps? John might have a birth and death, but relationships involving John don't need to know that. 
   - Also, birth-death are not the same as valid. 
   - There's an asymmetry with valid time in open-world. if there's no valid-to, can you assume ***now***? not in open-worlds. If there's no valid-from, you just assume it's missing. 
+    - t.2024.08.03.16 seems like you could use SWRL or 
 
 ## Valid Time RDF
 

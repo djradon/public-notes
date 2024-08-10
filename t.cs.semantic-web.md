@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1717096671369
+updated: 1722729345482
 created: 1633629215451
 ---
 
@@ -44,6 +44,10 @@ created: 1633629215451
 
 - Use owl:sameAs when you are certain that two URIs refer to the same entity in every possible way.
 - Use skos:exactMatch when you want to link concepts that are highly similar or equivalent, especially in the context of knowledge organization and concept mapping, but where there may be some contextual or definitional differences.
+
+### Complexity
+
+- according to [[ar.topquadrant.why-i-dont-use-owl-anymore]], "I no longer used RDFS/OWL. I now use [[prdct.shacl]] for everything... because I like to keep things as simple as posssible".
 
 ## Resources
 

@@ -4,7 +4,7 @@ title: Spin
 desc: >-
   sparql inferencing notation is the de-facto industry standard to represent
   SPARQL rules and constraints on Semantic Web models
-updated: 1720738371925
+updated: 1722756483532
 created: 1714576388204
 ---
 
@@ -16,6 +16,7 @@ created: 1714576388204
 
 - [[prdct.allegrograph]]
 - [[prdct.rdf4j]] but "The use of SPIN is no longer recommended."
+- [[prdct.topbraid-composer]]
 
 ## Uses
 
@@ -29,6 +30,7 @@ created: 1714576388204
 ### SPIN vs SHACL
 
 - SHACL offers much greater flexibility w.r.t. the application target of constraints (and rules). While SPIN is limited to classes, SHACL shapes can be applied to either classes or sets of nodes derived by other means. See the various [target mechanisms](https://www.w3.org/TR/shacl/#targets) in SHACL, including the [custom targets](https://www.w3.org/TR/shacl-af/#targets) from the Advanced Features document.
+- "SHACL should be regarded as the next generation of SPIN. Learn how they compare."
 
 ### SPIN vs SWRL
 
