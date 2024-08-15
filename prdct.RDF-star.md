@@ -2,7 +2,7 @@
 id: lTim9plsY3OzVv6gn7TBR
 title: RDF-star
 desc: ''
-updated: 1718134629013
+updated: 1723737495287
 created: 1634426288630
 ---
 
@@ -13,9 +13,15 @@ created: 1634426288630
 - [[p.alsoKnownAs]] RDF-*
 - [[c.usecase]] https://w3c.github.io/rdf-star/UCR/rdf-star-ucr.html#submitted-use-cases
 
+## Features
+
+- makes use of the "many-to-many" nature of reifiers, where multiple triples can be reified at once, and several reifiers can be related to the same triple
+- 
+
 ## To Do
 
 - [ ] [[p.summarized]] rdf-star use cases 
+  - https://gist.github.com/niklasl/f4a5dee1b991ff5a19a33360c6fd3078
 
 ## Implementations
 
