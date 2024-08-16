@@ -2,7 +2,7 @@
 id: lkkkisrk9liyko1av5yoos2
 title: Introducing Ontogen
 desc: ''
-updated: 1723829232446
+updated: 1723832434998
 created: 1723554355082
 ---
 
@@ -173,6 +173,49 @@ published the [[prdct.rdf-triple-compounds]] (RTC) vocabulary last year
   -   The `og:Repository` linked via the `dcat:servesDataset` sub-property `og:serviceRepository`
   -   An `og:Store` linked via the property `og:serviceStore`, which represents the locally running SPARQL triple store in which the repository is stored
 -   While the same Ontogen repository can exist on different computers, the various Ontogen instances on these computers operate as different Ontogen services with different stores but the same repository.
+
+## Ontogen Configuration with Bog
+
+- [[prdct.bog]] has `bog:ref`, whereby a blank-node resource can be given a locally-valid name
+
+```turtle
+# we omit this prefix in the following code snippets
+@prefix : <https://w3id.org/bog#> .
+
+[ :ref "this-service-instance" ; a og:Service ] .
+```
+  - When first interpreted by the Bog interpreter, this is interpreted as minting a new, locally named resource. A random salt is then stored in a file with the specified name.
+  - The interpreter then replaces the blank node with a generated UUIDv5 URI
+  - For each subsequent interpretation, loading the salt reproduces exactly the same UUIDv5 URI, allowing for consistent translation to the same graph.
+- Bog offers another solution to avoid name changes: the indexical `bog:this` property.
+  - The concept of [[t.phil.language.indexicality]] comes from the philosophy of language and refers to linguistic expressions whose meaning depends on the context of their utterance.
+  - It allows referencing individual instances of classes that represent a unique individual relative to this instance in the context of the executing instance.
+  - Consequently, these quasi-relative singletons can also be referenced directly via their class in the context of the executing instance.
+
+### Example
+
+- In the context of execution on an Ontogen instance, there is exactly one distinguished individual of the class `og:Service` that represents this very instance as an `og:Service`. Thus, in Bog, it can also be referenced using the `bog:this` property as follows:
+
+```turtle
+[ :this og:Service ] .
+```
+
+- This is interpreted by the Bog interpreter as follows:
+
+```turtle
+[ :ref "service" ; a og:Service ] .
+```
+
+### Bog Future
+
+- It is planned to spin off Bog as its own project with expanded functionality in the next version of Ontogen. In particular, it should be possible to give the resources managed with Bog proper Linked Data URIs at a later point in time if needed. ^ezq1fl2ro8qr
+
+## Store Adapters
+
+- triple store adapters are implemented as subclasses of og:Store
+  - This solution is not only conceptually very simple but also provides a comprehensive basis for solving this problem thanks to [[prdct.grax]] and its support for polymorphic links
+    - (In particular, we overcome the [“Walled Gardens within Elixir”](https://marcelotto.medium.com/the-walled-gardens-within-elixir-d0507a568015), which potentially allows store adapters to be developed and versioned as separate Hex packages if their complexity should increase over time, which might happen quickly when triple store-specific extensions are implemented in a store adapter.)
+
 
 ## References
 
