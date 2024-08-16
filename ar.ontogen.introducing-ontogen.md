@@ -2,11 +2,11 @@
 id: lkkkisrk9liyko1av5yoos2
 title: Introducing Ontogen
 desc: ''
-updated: 1723555426769
+updated: 1723824464001
 created: 1723554355082
 ---
 
-https://ontogen.io/introduction/part-1
+- https://ontogen.io/introduction/part-1, https://ontogen.io/introduction/part-2, 
 
 ## Highlights
 
@@ -28,3 +28,18 @@ https://ontogen.io/introduction/part-1
 
 published the [[prdct.rdf-triple-compounds]] (RTC) vocabulary last year
 
+## RDF Speech Acts
+
+- An og:SpeechAct represents a very specific form of speech act: the utterance of RDF statements or modification.
+  - allows us to capture not just the content of RDF data, but also the act of asserting or changing that data, along with all the contextual information that surrounds that act.
+  - an action that does not represent the actual addition or modification of the dataset (we will continue to call this action a commit, following the usual versioning terminology)
+  - Instead, it represents the act of the original utterance of the statements in this dataset or subsequent acts that supplement, revise, confirm, etc. the original statements. 
+    - This is because the central questions of provenance, i.e., the origin of the data, revolve around these acts.
+- our aim is to provide a model that allows us to capture information related to all possible questions about these utterances and record them as metadata.
+- we don’t need to develop a new ontology from scratch to model these metadata. There is already an excellent and standardized basis: the [[prdct.prov-o]] vocabulary
+- we define our og:SpeechActs as a special manifestation, i.e., a subclass of prov:Activity
+  - allows us to leverage the extensive semantics of the PROV vocabulary while modelling our specific concept of speech acts for RDF data.
+
+## References
+
+- https://ontogen.io/introduction/part-2
