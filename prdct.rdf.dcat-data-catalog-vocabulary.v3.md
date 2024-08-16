@@ -2,9 +2,16 @@
 id: 54xs03d1txghek4nv0fwqo2
 title: V3
 desc: ''
-updated: 1721429404567
+updated: 1723829691892
 created: 1721429380319
 ---
+
+## Features
+
+### Versioning
+
+- In DCAT 3 (Data Catalog Vocabulary version 3), versioning is managed using properties that allow you to describe different versions of datasets, distributions, and other cataloged resources. Specifically, DCAT 3 introduces the `dcterms:hasVersion`, `dcterms:isVersionOf`, and `adms:versionNotes` properties to indicate relationships between versions, and to describe changes across versions.
+- This enables users to track the evolution of datasets and maintain a clear history of modifications, ensuring that consumers of the data are aware of its version history and any updates that have occurred.
 
 ## Example
 
