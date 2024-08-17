@@ -2,11 +2,17 @@
 id: ln6efm5dgf1lqtozblp35bk
 title: Sparql
 desc: ''
-updated: 1722732386265
+updated: 1723756589228
 created: 1702449433891
 ---
 
 ## Features
+
+- BGP (Basic Graph Pattern) Matching refers to the process of finding matching sets of triples (subject-predicate-object) in an RDF dataset based on a basic graph pattern specified in a SPARQL query.
+Understanding BGP:
+    - A Basic Graph Pattern (BGP) is essentially a collection of triple patterns.
+    - Each triple pattern in the BGP can consist of variables, IRIs (Internationalized Resource Identifiers), or literals in the subject, predicate, and object positions.
+    - The task of BGP matching is to identify all sets of RDF triples in the dataset that correspond to the given patterns in the query.
 
 ### Property Paths
 

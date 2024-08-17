@@ -2,11 +2,12 @@
 id: koLZgakQbzj4K6K72OWFw
 title: JSON
 desc: JavaScript Object Notation
-updated: 1701285747835
+updated: 1723758324856
 created: 1638128778554
 ---
 
 - [[p.instanceOf]] [[c.fileformat]] [[c.dataformat]]
+- similar: [[prdct.hjson]]
 
 ## Cons
 

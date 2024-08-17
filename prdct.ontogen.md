@@ -2,7 +2,7 @@
 id: lo2gql2l1s4q9n27m52bao8
 title: Ontogen
 desc: 'a vocabulary for RDF compounds, with versioning'
-updated: 1723831976826
+updated: 1723919424835
 created: 1723554173768
 ---
 
