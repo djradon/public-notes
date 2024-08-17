@@ -2,7 +2,7 @@
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
 desc: 'a particular knowledge base, describing facts assumed to be always true by a community of users, in virtue of the agreed-upon meaning of the vocabulary used'
-updated: 1720852116220
+updated: 1723911874318
 created: 1633445910705
 ---
 
@@ -94,4 +94,5 @@ https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundat
 
 ## References
 
-[[ar.formal-ontologies-and-information-systems]]
+- [[ar.formal-ontologies-and-information-systems]]
+- https://web.njit.edu/~geller/what_is_an_ontology.html
