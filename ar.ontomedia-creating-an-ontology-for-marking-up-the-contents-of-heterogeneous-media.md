@@ -4,11 +4,12 @@ title: >-
   Ontomedia Creating an Ontology for Marking up the Contents of Heterogeneous
   Media
 desc: ''
-updated: 1710854377337
+updated: 1723957018175
 created: 1710828494951
 ---
 
 - url: https://eprints.soton.ac.uk/261153/1/onto_workshop.pdf
+- related: [[prdct.cidoc-crm]]
 
 ## Highlights
 
