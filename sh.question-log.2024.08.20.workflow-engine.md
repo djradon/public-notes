@@ -2,7 +2,7 @@
 id: hkgnl85l3ma8mfma0jykw3z
 title: Workflow Engine
 desc: ''
-updated: 1724192578977
+updated: 1724195923518
 created: 1724189715756
 ---
 
@@ -130,7 +130,7 @@ Certainly! There are several established ontologies in the domain of business pr
    - **Use Case**: Useful for integrating BPMN diagrams with semantic web technologies, enabling automated reasoning over business processes.
 
 ### 2. **Process Specification Language (PSL)**
-   - **Description**: PSL is an ontology developed by NIST (National Institute of Standards and Technology) to represent the semantics of process descriptions. It aims to facilitate interoperability between different process-related applications.
+   - **Description**: [[prdct.process-specification-language-psl]] is an ontology developed by NIST (National Institute of Standards and Technology) to represent the semantics of process descriptions. It aims to facilitate interoperability between different process-related applications.
    - **Components**: PSL includes concepts like activities, states, timepoints, and objects, which can be used to describe processes in a standardized way.
    - **Use Case**: Standardization and interoperability in manufacturing, engineering, and other industries where process descriptions need to be shared across systems.
 
