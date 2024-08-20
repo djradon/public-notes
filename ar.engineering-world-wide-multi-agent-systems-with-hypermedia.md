@@ -2,12 +2,12 @@
 id: xa1sqwopiyjysp3ukgbt3zm
 title: Engineering World Wide Multi Agent Systems with Hypermedia
 desc: ''
-updated: 1721335199206
+updated: 1724183740469
 created: 1712589851447
 ---
 
 - https://www.alexandria.unisg.ch/server/api/core/bitstreams/37e4cdf0-11b2-4ea6-90c4-e21f1e5bb8bf/content
-- topics: [[t.cs.multi-agent-system]] [[t.cs.api.hypermedia]] 
+- topics: [[t.cs.multi-agent-system]] [[t.cs.api.hypermedia]] [[prdct.hmas-ontology]]
 
 ## Abstract
 

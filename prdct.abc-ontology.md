@@ -2,7 +2,7 @@
 id: 6nwlsa50uotwgilu6ba41yb
 title: Abc Ontology
 desc: ''
-updated: 1724092255684
+updated: 1724184707254
 created: 1717175482307
 ---
 
@@ -10,6 +10,7 @@ created: 1717175482307
   - https://dcpapers.dublincore.org/files/articles/952106556/dcmi-952106556.pdf has an appendix with the ontology represented in RDF
 
 ![](/assets/images/2024-08-19-11-30-47.png)
+
 ## Model
 
 - entity
