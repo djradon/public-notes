@@ -1,8 +1,8 @@
 ---
 id: jx0dx80ur87ov6rhcwnmx3e
-title: '20'
+title: Opencaesar and Closed World
 desc: ''
-updated: 1724173923387
+updated: 1724189170287
 created: 1724173909776
 ---
 
@@ -15,4 +15,6 @@ In OML, the flexibility to specify closed-world semantics is achieved through ca
 This capability is particularly useful in scenarios where you need to enforce strict constraints and ensure that certain conditions hold without ambiguity, which is often required in safety-critical systems and other domains where comprehensive validation is essential.
 
 For more details on how OML supports these features, you can refer to resources provided by the openCAESAR project【148†source】【149†source】.
+
+
 

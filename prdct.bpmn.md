@@ -2,12 +2,17 @@
 id: mmytejxznjmj3oakm472yzd
 title: Bpmn
 desc: ''
-updated: 1720650120128
+updated: 1724188650032
 created: 1690521120122
 spec: https://www.omg.org/spec/BPMN/2.0/
-related:
-  - [[prdct.bpmnator]]
 ---
+
+## Related
+
+- [[prdct.bpel]]
+- [[prdct.bpmnator]]
+
+
 
 ## Issues
 

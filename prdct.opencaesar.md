@@ -22,7 +22,7 @@ created: 1718172067953
 ## Features
 
 - supports closed-world reasoning!? 
-  - see [[pub.question-log.2024.08.20#how-does-opencaesaroml-support-closed-world-reasoning]]
+  - see [[pub.question-log.2024.08.20.opencaesar-and-closed-world#how-does-opencaesaroml-support-closed-world-reasoning]]
 
 ## Concepts
 
