@@ -2,7 +2,7 @@
 id: 6nwlsa50uotwgilu6ba41yb
 title: Abc Ontology
 desc: ''
-updated: 1724184707254
+updated: 1724257020659
 created: 1717175482307
 ---
 
@@ -10,6 +10,10 @@ created: 1717175482307
   - https://dcpapers.dublincore.org/files/articles/952106556/dcmi-952106556.pdf has an appendix with the ontology represented in RDF
 
 ![](/assets/images/2024-08-19-11-30-47.png)
+
+## Issues
+
+- tries to describe everything using the same basic structures and had its roots in factual events outside the document. [^1]
 
 ## Model
 
@@ -47,3 +51,7 @@ created: 1717175482307
 ## Foundations
 
 - [[t.phil.time.situational-calculus]]
+
+## References
+
+[^1]: [[ar.onto-media-creating-an-ontology-for-marking-up-the-contents-of-fiction-and-other-media]]

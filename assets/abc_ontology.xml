@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-
+schema#">
+    <rdfs:Class rdf:ID="Entity" />
+    <rdfs:Class rdf:ID="Temporality">
+        <rdfs:subClassOf rdf:resource="Entity" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Actuality">
+        <rdfs:subClassOf rdf:resource="Entity" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Abstraction">
+        <rdfs:subClassOf rdf:resource="Entity" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Artifact">
+        <rdfs:subClassOf rdf:resource="Actuality" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Event">
+        <rdfs:subClassOf rdf:resource="Temporality" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="State">
+        <rdfs:subClassOf rdf:resource="Temporality" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Action">
+        <rdfs:subClassOf rdf:resource="Temporality" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Agent">
+        <rdfs:subClassOf rdf:resource="Actuality" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Work">
+        <rdfs:subClassOf rdf:resource="Abstraction" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Manifestation">
+        <rdfs:subClassOf rdf:resource="Artifact" />
+    </rdfs:Class>
+    <rdfs:Class rdf:ID="Item">
+        <rdfs:subClassOf rdf:resource="Artifact" />
+    </rdfs:Class>
+    <rdf:Property rdf:ID="hasInput">
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:range rdf:resource="State" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasOutput">
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:range rdf:resource="State" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="contains">
+        <rdfs:domain rdf:resource="State" />
+        <rdfs:range rdf:resource="Actuality" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="inState">
+        <rdfs:domain rdf:resource="Actuality" />
+        <rdfs:range rdf:resource="State" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasInstance">
+        <rdfs:domain rdf:resource="Actuality" />
+        <rdfs:range rdf:resource="Actuality" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="instanceOf">
+        <rdfs:domain rdf:resource="Actuality" />
+        <rdfs:range rdf:resource="Actuality" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasRealization">
+        <rdfs:domain rdf:resource="Work" />
+        <rdfs:range rdf:resource="Manifestation" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasCopy">
+        <rdfs:domain rdf:resource="Manifestation" />
+        <rdfs:range rdf:resource="Item" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="involves">
+        <rdfs:domain rdf:resource="Action" />
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:range rdf:resource="Actuality" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasPatient">
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:domain rdf:resource="Action" />
+        <rdfs:range rdf:resource="Actuality" />
+        <rdfs:subPropertyOf rdf:resource="involves" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="usesTool">
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:domain rdf:resource="Action" />
+        <rdfs:range rdf:resource="Actuality" />
+        <rdfs:subPropertyOf rdf:resource="inPresence" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasResult">
+        <rdfs:domain rdf:resource="Action" />
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:range rdf:resource="Actuality" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="destroys">
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:domain rdf:resource="Action" />
+        <rdfs:range rdf:resource="Actuality" />
+        <rdfs:subPropertyOf rdf:resource="hasPatient" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="creates">
+        <rdfs:domain rdf:resource="Action" />
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:range rdf:resource="Actuality" />
+        <rdfs:subPropertyOf rdf:resource="hasResult" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasAction">
+        <rdfs:domain rdf:resource="Event" />
+        <rdfs:range rdf:resource="Action" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasAgent">
+        <rdfs:domain rdf:resource="Action" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="hasRole" />
+    <rdf:Property rdf:ID="atTime">
+        <rdfs:domain rdf:resource="Temporality" />
+    </rdf:Property>
+    <rdf:Property rdf:ID="inPlace">
+        <rdfs:domain rdf:resource="Actuality" />
+        <rdfs:domain rdf:resource="Temporality" />
+    </rdf:Property>
+</rdf:RDF>
