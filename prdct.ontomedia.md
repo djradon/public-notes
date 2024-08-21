@@ -2,12 +2,13 @@
 id: twccw0iaye1yncgudxrr8a1
 title: Ontomedia
 desc: 'goes  beyond bibliographic data, into the discussion of the relationships that exist within and between elements of heterogeneous media'
-updated: 1724256846085
+updated: 1724258198222
 created: 1710828459496
 ---
 - url: https://purl.archive.org/domain/ontomedia
   - but references squatted contextus.net :(
 - similar: [[prdct.abc-ontology]]
+- creator: @faith-lawrence
 
 ## Motivation
 
