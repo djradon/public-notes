@@ -2,17 +2,20 @@
 id: d8aw6cyckgkgoan59otg79h
 title: Lrmoo
 desc: 'Library Reference Model object-oriented'
-updated: 1724303022515
+updated: 1724344410156
 created: 1724261615741
 ---
 
 - https://cidoc-crm.org/extensions/lrmoo/owl/1.0/LRMoo_v1.0.owl
 - extends: [[prdct.cidoc-crm]]
 - related: [[t.library-science.work_expression_manifestation_item]]
+- similar: [[prdct.resource-description-and-access-rda]]
 
 ## Description
 
 - LRMoo is strictly an extension of CIDOC CRM and cannot be implemented without using key classes and properties from CIDOC CRM.
+- Entities are broken into associated phenomena named “objects”, and are oriented to each other by their attributes. The various models, then, do not rely on temporality or mutually exclusive classes, but rather on associative principles of linked attributes. FRBR’s “W-E-M-I” (works-expressions-manifestations-items) entities in FRBRoo become objects that may be associated multiply according to their related attributes. In a given instantiation network derived from an ideational conception there might be many works, for each of which there might be many expressions. Not all expressions spawn manifestations, and so forth. Also a distinction is made between the intellectual work, and publication events, which might spawn manifestations.
+
 
 ## Highlights
 

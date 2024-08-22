@@ -2,17 +2,34 @@
 id: gpjt0tgwkb6khor1tcvlgmb
 title: Work, Expression, Manifestation, Item
 desc: 'WEMI '
-updated: 1724269616736
+updated: 1724344828141
 created: 1701423935574
 ---
 
-- implementations: [[prdct.frbr-core]] [[prdct.fabio]] [[prdct.functional-requirements-for-information-resources-frir]]
+- implementations: [[prdct.frbr-core]] [[prdct.fabio]] [[prdct.functional-requirements-for-information-resources-frir]] [[prdct.anglo-american-cataloguing-rules-aacr2]] [[prdct.resource-description-and-access-rda]]
+
+![](/assets/images/2024-08-22-09-39-54.png)
 
 ## Terms
 
+### Endeavor
+
+- a super-class created by [[prdct.openwemi]] to encompass all the layers/planes
+- might better be called a "creation", as endeavor (imho) could include trying to shower more often
+
+### Superwork
+
+- "works and their instantiations cluster in metaphorical constellations, having orbital and therefore gravitational relationship to each other, and that there are different sorts of celestial bodies in the bibliographical universe. These “constellations” are groupings of instantiations of works — not only the progenitor work itself, but also its editions, translations, abridgments, adaptations, excerpts, etc., and their instantiations as well. These have been termed variously “bibliographic families” (Wilson [1978]), “superworks” (Svenonius 2001), “textual identity networks” (Leazer and Furner 1999), and “instantiation networks” (Smiraglia 2008)." [^2]
+
 ### Work
 
+- the essence of a creation, such as a novel, a symphony, a painting, a statue, a thesis
 - analagous to Platonic Form
+- have two properties:
+  - ideational content
+    - changes are called mutations
+  - semantic content
+    - changes are called derivations
 - The main purpose of this class is to enable bringing together intellectually equivalent Expressions in order to display to a user all available alternatives of the same intellectual or artistic content.
 - A Work is the outcome of an intellectual process of one or more persons. 
 - Inherent to the notion of work is the existence of recognisable realizations of the work in the form of one or more expressions. 
@@ -73,5 +90,7 @@ created: 1701423935574
 
 ## References
 
-- [^1]: https://rdabasics.com/2012/08/24/theoretical-foundations/
+[^1]: https://rdabasics.com/2012/08/24/theoretical-foundations/
+[^2]: [[ar.isko.work]]
+
 - https://cidoc-crm.org/extensions/lrmoo/owl/1.0/LRMoo_v1.0.owl
