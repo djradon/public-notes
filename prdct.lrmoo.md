@@ -2,7 +2,7 @@
 id: d8aw6cyckgkgoan59otg79h
 title: Lrmoo
 desc: 'Library Reference Model object-oriented'
-updated: 1724267612691
+updated: 1724303022515
 created: 1724261615741
 ---
 
@@ -34,4 +34,4 @@ created: 1724261615741
 
 - https://www.cidoc-crm.org/frbroo/home-0
 - https://ontome.net/namespace/217
-- https://journal.code4lib.org/articles/16491
+- [[ar.works-expressions-manifestations-items-an-ontology]]

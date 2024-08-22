@@ -2,10 +2,12 @@
 id: kpcidsutrvhwhmevqyeopin
 title: FaBiO
 desc: 'FRBR-aligned Bibliographic Ontology'
-updated: 1724268426826
+updated: 1724303796283
 created: 1724268103332
 ---
 
+- https://sparontologies.github.io/fabio/current/fabio.html
+- [[c.ontology.creative-work]]
 - related: [[t.library-science.work_expression_manifestation_item]]
 
 ![](/assets/images/2024-08-21-12-23-06.png)
