@@ -4,7 +4,7 @@ title: CIDOC-CRM
 desc: >-
   International Committee for Documentation - Conceptual Reference Model is a theoretical and practical tool for information integration in the field of
   cultural heritage
-updated: 1724265702495
+updated: 1724353228366
 created: 1710856821434
 ---
 
@@ -15,6 +15,7 @@ created: 1710856821434
 
 ## Highlights
 
+- identifiers! letter+integer for classes and properties
 -  In order to understand the function of a formal ontology of this kind, one needs to make the following distinctions:
   - The material reality
   - The units of description or particulars, i.e. the things and relations which we refer to in order to distinguish parts of reality... What goes on in our minds or is produced by our minds is also regarded as part of the material reality, as it becomes materially evident to other people at least by our utterances, behaviour and products.

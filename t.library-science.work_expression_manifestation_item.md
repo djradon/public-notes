@@ -2,7 +2,7 @@
 id: gpjt0tgwkb6khor1tcvlgmb
 title: Work, Expression, Manifestation, Item
 desc: 'WEMI '
-updated: 1724344828141
+updated: 1724348807181
 created: 1701423935574
 ---
 
@@ -94,3 +94,4 @@ created: 1701423935574
 [^2]: [[ar.isko.work]]
 
 - https://cidoc-crm.org/extensions/lrmoo/owl/1.0/LRMoo_v1.0.owl
+- [[ar.reconceptualizing-superwork-for-improved-access-to-popular-cultural-objects]]
