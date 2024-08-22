@@ -4,7 +4,7 @@ title: >-
   Noctua Literaria a Computer Aided Approach for the Formal Description of
   Literary Characters Using an Ontology
 desc: ''
-updated: 1724368090556
+updated: 1724369188581
 created: 1724362626209
 ---
 
@@ -67,4 +67,20 @@ to similar aspects of human beings
   - character information can be divided into a dynamic and a static modes. ^w1fgxgiqobvx
     - Descriptions and comments (“Which characters judge others?”) are regarded as static elements because they do not move the plot further along, and mark stops in the narrated time.
     - The dynamic mode contains speech and reports (“Which characters initiate action?”)
+    - The categories are not isolated from each other. For example, a character description given in a speech of a character can belong to more than a single category.
 - adopts @seymour-chatman's [[t.lit.communication.chatmans-three-levels-of-narrative]]
+
+### Information Modelling and Representation
+
+- If XML code is directly added to textual data, the data and mark-up can be processed together. 
+  - This might be a good solution for modelling for example literary texts and their characteristics like layout and structure. But the mark-up is directed towards the text structure and does not contain a completely different model like a taxonomy or ontology, especially when using suggested annotation schemes like proposed by the [[prdct.text-encoding-initiative-tei]]
+
+#### SUMO
+
+-  one can consider if one can adopt categories of a general ontology like [[prdct.sumo]].
+   -  at first sight, one can observe that the category “Abstract” subsumes categories, which contain aspects like “InternalAttribute”
+-  Difficulties arise if one tries to add the different activities, e.g. verbal and non-verbal actions of characters
+- If one starts mingling categorisations of model theories (for literary characters) with categories of SUMO, one might loose the focus on representing the theories.   
+  - For example, one would have to spread character actions over a lot of categories, but a common accepted division into verbal and non-verbal actions of characters like proposed by Nieragden in section 2.4, would not be presented by such an ontology.
+    - t.2024.08.22.16 but it could be the basis
+- general ontologies don't support the specific tasks and problems of the humanities
