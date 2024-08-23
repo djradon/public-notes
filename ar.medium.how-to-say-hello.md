@@ -1,0 +1,29 @@
+---
+id: 51awuik8aczu2pvypi047a2
+title: How to Say Hello
+desc: 'Every hello is a chance to have a wonderful life.'
+updated: 1724430128900
+created: 1724429920755
+---
+
+- https://buckhouse.medium.com/how-to-say-hello-bba906e235d3
+
+## Here’s how to do it.
+
+“Hello” happens with your whole body. To do it well, you’ll need to adjust your voice, your body language, and the _focus_ of your attention.
+
+1.  Your voice: take a deep breath or two to drop your voice down from the squeak of social anxiety to its normal, wonderful, natural register. Your voice doesn’t start in your head, as we might imagine, it starts down between your gut and your heart with the pull of your diaphragm. By the time the air travels all the way up your throat to be shaped by your vocal cords, it already should possess the resonance of your body. Think of your voice as something that starts deep inside of you and gains your best qualities as it makes its way towards the ears of others. Your voice should emanate from your center of gravity, and we should feel it as such, even at a whisper. Your goal is to sound sonorous, not sing-songy or loudmouthed, but, dare I say? **beautiful and cool.**
+2.  Roll your shoulders back to pull your frame upwards and raise your gaze. This will shift your posture from the shape of a question mark to an upside-down exclamation point. You want to your spine look like (¡) not (?).
+3.  Relax your face. You don’t have to smile if your mood doesn’t match it—a fake smile erodes trust—instead, just relax away your leftover facial tensions so you don’t accidentally send an expression of hate or worry or disdain to a person you haven’t yet met. Offer positive potential energy instead, and that energy will get reflected and magnified and sent back to you so that you end up getting more than you put in. Breathe in, and then on the exhale, imagine every muscle in your face hearing the end-of-shift whistle and relaxing and taking a break from work. Or imagine your facial muscles as actors on a stage, where you hear the director shout “Cut!” and everyone relaxes and rejoices. Relax your face to neutral — not dead — just not all tensed up from concerns that others do not share.
+4.  “Hello” happens long before you speak. We can tell from across the room when a salutation might soon occur. Start your hello adjustments (mind, body, voice, attention) sooner than later. A challenge: **can you walk into the room already adjusted?**
+5.  You can uncover something interesting about nearly anyone **_if_** you **converse with curiosity** instead of apathy, greed, mistrust, or resignation. And if you don’t happen to uncover something fascinating about the other person—see this as your fault, not theirs. Why? If you blame others for poor conversations you surrender control and condemn yourself to a lifetime of many miserable, meaningless chats. **But, if you take responsibility for building an interesting conversation,** you’ll learn to adjust what you’re doing so that people will want to have positive interactions with you. Also, people will be more willing to share with you their most interesting ideas if you demonstrate that you can be trusted to handle them with care. This takes effort but makes life more vivid. Author Chuck Palahniuk meets people by the hundreds—sometimes for eight hours straight—at his book signings. He [offers this advice](https://www.amazon.com/Consider-This-Moments-Everything-Different/dp/1538717956) on how to do it well: he attempts to treat each person as if they were the only person he would meet that day.
+6.  If someone asks you “what do you do?” resist the temptation to respond with your job title. Instead, **respond with an “I believe” statement.** Example:  
+
+>“So, Jim, What do you do?”  
+    “ I believe story, art, and design can bend the arc of humanity’s progress, and I try to bring that into everything I do: from movies to startups to paintings to books and to ballets.”  
+
+  A statement of belief will start more interesting conversations than your job title. If the person doesn’t immediately ask a question in return, you can _ask them_ _what they believe_. Compare this to the usual path: if you open with your job title or rank, this sets up a confrontational hierarchy. And if you introduce yourself with something vague, like “finance” or “tech” or “science” or “art” this sends a signal that you don’t really want to talk about it. **Open with an idea**, and the conversation is already interesting before it begins. We crave interestingness over almost all else.
+7.  When you greet someone, look at the other person’s eyes. Do not look at their feet or your feet or the ceiling or the person behind them or your phone or your watch or your elbow or anywhere else. **Eyes to Eyes.** If the other person’s eyes are obscured or missing, direct your gaze towards their face, which will magically line up your voice with their ears.
+8.  After you introduce yourself, ask a question. Listen to their response carefully and ask a question that allows them to develop their idea further. You already know your own ideas, so why not focus on theirs? The conversation will be more fun if you uncover interesting ideas hidden behind the foreheads of others.
+9.  Once someone does tell you something, store it away in your mind for the next time you meet. When you see that person again… a day, a week, a year from now… bring it up—so how was that trip to Spain? I remember it sounded wonderful… And weren’t you about to do something interesting at your Tunnel Drilling Startup?
+10.  And with that… no more boring conversations. No more bad first impressions.
