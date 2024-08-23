@@ -2,9 +2,13 @@
 id: 64ugzw02qgdm4umxjzj2mv1
 title: Multi Level Theory
 desc: ''
-updated: 1724442782094
+updated: 1724454525911
 created: 1724441343758
 ---
+
+## Implementations
+
+- [[prdct.ml2]], [[prdct.melanie]], [[prdct.deeptelos]], [[prdct.ontouml]]
 
 ## chatgpt4.o
 

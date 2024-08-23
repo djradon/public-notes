@@ -2,7 +2,7 @@
 id: 5dggkb9889axpi4uzlbsdxm
 title: OWL-DL
 desc: 'decideable'
-updated: 1720225370101
+updated: 1724455044049
 created: 1718171299666
 ---
 
@@ -10,7 +10,7 @@ created: 1718171299666
 
 - The sets of object properties, datatype properties, annotation properties and ontology properties must be mutually disjoint. Thus, in OWL DL dc:creator cannot be at the same time a datatype property and an annotation property.
   - ? so you would use an alternate suffix? Guessing that prefixing can work for single resources
-  - 
+  - lacks direct support for meta-modeling
 
 
 ## Effective Use

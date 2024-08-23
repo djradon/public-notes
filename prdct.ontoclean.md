@@ -2,14 +2,12 @@
 id: 8efvodo7q0cpl7lteme6nib
 title: OntoClean
 desc: >-
-  a methodology for analyzing ontologies based on formal, domain-independent
-  properties of classes
-updated: 1724442752921
+  a methodology for analyzing ontologies based on formal, domain-independent properties of classes
+updated: 1724454368828
 created: 1709752671754
 ---
 
-[[ar.dynamic-is-a-hierarchy-generation-for-user-centric-semantic-web]]
-- 
+- [[c.methodology.semantic-web]]
 - https://people.cs.uct.ac.za/~mkeet/OEbook/ontologies/ontoclean-dl.owl
 
 ## Highlights
@@ -26,4 +24,5 @@ created: 1709752671754
 - https://en.wikipedia.org/wiki/OntoClean
 - [[ar.an-overview-of-onto-clean]]
 - https://keet.wordpress.com/tag/ontoclean/
+- [[ar.dynamic-is-a-hierarchy-generation-for-user-centric-semantic-web]]
 

@@ -2,7 +2,7 @@
 id: 4p9syg1oz2pe0e78c8ry8gq
 title: OntoUML
 desc: ''
-updated: 1721704219108
+updated: 1724455063036
 created: 1709679259786
 ---
 
@@ -10,6 +10,9 @@ created: 1709679259786
   - [[prdct.ontouml-vp-plugin]] 
   - https://ontouml.org/ (dead on arrival)
 
+## Issues
+
+- difficult to translate into OWL, given meta-modeling
 
 ## Theory
 
