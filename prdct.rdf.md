@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1720367242814
+updated: 1724430779630
 created: 1633160681527
 ---
 
@@ -70,6 +70,7 @@ created: 1633160681527
 ### n-ary relations
 
 - aka [[t.cs.semantic-web.relationship-to-entity-conversion]]
+  - although you can also express multiple "arguments" as a list, see http://www.ninebynine.org/RDFNotes/RDFFactsAndRules.html#xtocid-75600719
 - sure you can use a class per relation, but...
 - "Considerations when introducing a new class for a relation
 
