@@ -2,7 +2,7 @@
 id: b2cfxfrvhoqezasf2xm2gel
 title: Representing Narratives in Digital Libraries the Narrative Ontology
 desc: ''
-updated: 1724714779013
+updated: 1724714894425
 created: 1724260420812
 ---
 
@@ -159,6 +159,8 @@ different ways:
 
 ### The NOnt Ontology
 
+![](/assets/images/2024-08-26-16-26-58.png)
+
 - Narrations will be treated as “black boxes”, each represented by a different identifier and characterised as an instance of a special class.
   - Such class will be an extension point of NOnt, in the sense that it is the part of the ontology where the classes and properties for representing narrations can be plugged, for example by drawing them from other standard ontologies.
 - Two parts:
@@ -167,3 +169,4 @@ different ways:
 
 #### Temporal reasoning in narratives
 
+- need a conceptualisation of time that supports both time points and intervals, and absolute and relative relations between them ^qqplujg84n9e
