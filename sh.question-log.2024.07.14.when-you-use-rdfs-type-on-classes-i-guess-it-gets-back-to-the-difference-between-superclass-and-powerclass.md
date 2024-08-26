@@ -4,7 +4,7 @@ title: >-
   When You Use rdfs:type on Classes I Guess It Gets Back to the Difference
   between Superclass and Powerclass
 desc: ''
-updated: 1720998744564
+updated: 1724512358477
 created: 1720998565834
 ---
 
@@ -67,5 +67,6 @@ ex:Car a rdfs:Class ;
 
 - **Superclass-Subclass Relationship**: Use `rdfs:subClassOf` to define a class hierarchy where one class is a subclass of another.
 - **Metaclass-Instance Relationship**: Use `rdfs:type` on classes to define that a class is an instance of a metaclass, establishing a higher-level classification.
-
+  - t.2024.08.23.23 aka [[t.km.ontology.multi-level-theory]]
 These examples should help clarify how to use `rdfs:subClassOf` and `rdfs:type` on classes in RDF using the Turtle syntax.
+
