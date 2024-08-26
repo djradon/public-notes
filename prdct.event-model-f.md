@@ -2,18 +2,25 @@
 id: xea42ww3w05a4e3zwf8ov4o
 title: Event Model F
 desc: 'capturing human experience'
-updated: 1719958432142
+updated: 1724700683397
 created: 1717371389606
 ---
 
 - http://ontologydesignpatterns.org/wiki/Ontology:Event_Model_F
 - RDF:  https://web.archive.org/web/20150919143318if_/http://events.semantic-multimedia.org/ontology/2008/12/15/model.owl
+- built-on: [[prdct.dolce.dns-ultralite]]
 
 ![](/assets/images/2024-07-02-12-35-06.png)
 
 
 ## Features
 
+- compared to [[prdct.dolce.dns-ultralite]], provides
+  - additional properties and classes for modeling participation in events
+  - parthood relations, causal relations, and correlations between
+events
+  -  ability to assert that multiple models represent views
+upon or interpretations of the same event
 - causal relationships between events and interpretations of the same event by different humans
 
 
@@ -27,3 +34,4 @@ created: 1717371389606
 
 - [[ar.f-a-model-of-events-based-on-the-foundational-ontology-dolce-dn-s-ultralite]]
 - [[prdct.descriptions-and-situations-ontology]]
+- [[ar.lode-linking-open-descriptions-of-events]]
