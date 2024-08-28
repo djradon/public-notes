@@ -4,7 +4,7 @@ title: >-
   The Acimov Methodology Agile and Continuous Integration for Modular Ontologies
   and Vocabularies
 desc: ''
-updated: 1721146663822
+updated: 1724871497412
 created: 1712783360619
 ---
 
@@ -39,7 +39,7 @@ created: 1712783360619
 
 ### Agile ontology engineering methods
 
-Many ontology engineering methodologies have been proposed over time, including METHONTOLOGY [ 9], On-To-Knowledge [ 10], DILIGENT [ 11 ], the “Ontology Development 101” [ 12], NeOn [ 13]. Some directly transpose software engineering methodologies, for example UPON Lite [ 14] is based on Rational Unified Process. The LOT methodology [ 15] adopts a V-model approach with conditional feedback at upstream development stages. Other early methods pro- posed to rely and align with existing ontologies to bootstrap new ontologies as in SENSUS [16 ]. More recently, methodologies are inspired by the principles of Agile software engineering, which promote collaboration between developers and stakeholders by producing regular updates of the product1. Among these methods, AMOD [ 17 ] and CD-OAM [ 18 ] are based on SCRUM. AMOD is the first method that describes the cycle of ontology development in a SCRUM sprint. CD-OAM enriches AMOD by describing the management the ontology commitment user community. XPOD [ 19 ] and eXtreme ontology method [ 20] are based on eXtreme Programming. The Lean Ontology Development (LOD) [21] is inspired by the Lean approach: Build-Measure- Learn. SAMOD [ 1 ] is revisiting the motivating scenarios and competency questions of Uschold and Gruninger [22], additionally considering ontology modules and test-driven development.
+Many ontology engineering methodologies have been proposed over time, including [[prdct.methontology]] [ 9], On-To-Knowledge [ 10], DILIGENT [ 11 ], the “Ontology Development 101” [ 12], NeOn [ 13]. Some directly transpose software engineering methodologies, for example UPON Lite [ 14] is based on Rational Unified Process. The LOT methodology [ 15] adopts a V-model approach with conditional feedback at upstream development stages. Other early methods pro- posed to rely and align with existing ontologies to bootstrap new ontologies as in SENSUS [16 ]. More recently, methodologies are inspired by the principles of Agile software engineering, which promote collaboration between developers and stakeholders by producing regular updates of the product1. Among these methods, AMOD [ 17 ] and CD-OAM [ 18 ] are based on SCRUM. AMOD is the first method that describes the cycle of ontology development in a SCRUM sprint. CD-OAM enriches AMOD by describing the management the ontology commitment user community. XPOD [ 19 ] and eXtreme ontology method [ 20] are based on eXtreme Programming. The Lean Ontology Development (LOD) [21] is inspired by the Lean approach: Build-Measure- Learn. SAMOD [ 1 ] is revisiting the motivating scenarios and competency questions of Uschold and Gruninger [22], additionally considering ontology modules and test-driven development.
 
 ### Git and CI/CD for ontology engineering
 

@@ -2,7 +2,7 @@
 id: b2cfxfrvhoqezasf2xm2gel
 title: Representing Narratives in Digital Libraries the Narrative Ontology
 desc: ''
-updated: 1724736320838
+updated: 1724869593824
 created: 1724260420812
 ---
 
@@ -24,6 +24,7 @@ created: 1724260420812
   – the fabula, i.e., the story itself as it happened, in reality or in fiction;
   – the narrations, i.e., one or more expressions, each in its own language and medium, that narrate the fabula. Each narration corresponds to Bal’s definition of presentation [4];
   – the plot, i.e., the story as it is narrated by the narrator. The plot corresponds to the syuzhet of the Russian formalists and to Aristotle’s logos.
+    - @chatgpt.4o: "the sjuzhet is the narrative structure, including flashbacks, flashforwards, and other non-linear storytelling techniques."
 - current digital libraries only contain the "narration" level.
 
 ### The Proposal

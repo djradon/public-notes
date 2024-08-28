@@ -4,12 +4,12 @@ title: openCAESAR
 desc: >-
   upport systems engineers in the development, management, integration,
   deployment, and op- erations of complex models
-updated: 1724180668266
+updated: 1724871567440
 created: 1718172067953
 ---
 
 - https://www.opencaesar.io/oml-tutorials/
-- [[c.Software.Tools.Modeling]] [[c.software.tools.ontology-editor]]
+- [[c.Software.Tools.Modeling]] [[c.software.tools.ontology-editor]] [[c.methodology.ontology-engineering]]
 - related: [[prdct.ontology-modeling-language-oml]] [[prdct.oml-luxor]] [[prdct.ontology-modeling-language-oml]]
 
 ![](/assets/images/2024-08-20-11-52-13.png)

@@ -3,11 +3,11 @@ id: 8efvodo7q0cpl7lteme6nib
 title: OntoClean
 desc: >-
   a methodology for analyzing ontologies based on formal, domain-independent properties of classes
-updated: 1724454368828
+updated: 1724871445312
 created: 1709752671754
 ---
 
-- [[c.methodology.semantic-web]]
+- [[c.methodology.semantic-web]] [[c.methodology.ontology-engineering]]
 - https://people.cs.uct.ac.za/~mkeet/OEbook/ontologies/ontoclean-dl.owl
 
 ## Highlights

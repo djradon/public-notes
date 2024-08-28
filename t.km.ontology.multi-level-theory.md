@@ -2,13 +2,13 @@
 id: 64ugzw02qgdm4umxjzj2mv1
 title: Multi Level Theory
 desc: ''
-updated: 1724454525911
+updated: 1724875163580
 created: 1724441343758
 ---
 
 ## Implementations
 
-- [[prdct.ml2]], [[prdct.melanie]], [[prdct.deeptelos]], [[prdct.ontouml]]
+- [[prdct.ml2]], [[prdct.melanie]], [[prdct.deeptelos]], [[prdct.ontouml]], [[ar.incorporating-types-of-types-in-ontology-driven-conceptual-modeling]]
 
 ## chatgpt4.o
 
