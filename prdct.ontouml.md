@@ -2,7 +2,7 @@
 id: 4p9syg1oz2pe0e78c8ry8gq
 title: OntoUML
 desc: ''
-updated: 1724877048127
+updated: 1724887353216
 created: 1709679259786
 ---
 
@@ -26,6 +26,11 @@ created: 1709679259786
 
 ### Kind
 
+- represent rigid concepts that provide an identity principle for their instances and do not require a relational dependency
+  - When we say that a «Kind» is relationally independent, we mean that it does not necessarily require a relation to be defined, like a «Role» does
+    - e.g. from [[prdct.software-requirements-reference-ontology-srro]]
+- represent a Functional Complex, i.e., a whole that has parts contributing in different ways for its functionality
+- e.g.: human body, forest, computer, key, car, organization
 
 ### Subkind
 
@@ -46,9 +51,16 @@ created: 1709679259786
 ### Relator
 
 - "The «Relator» construct is used to represent truth-makers of material relations, i.e., the “things” that must exist in order for two or more individuals to be connected by material relations. Because of this nature, relators are always dependent on other individuals to exist."
+- e.g.: Marriage, Investigation, Enrollment, Employment, Subscription
+- the «Relator» meta-class is analogous to the «Kind», «Collective» and «Quantity» meta-classes, in the sense that it is rigid and provides an identity principle for its instances.
+  - The difference is that, instead of representing functional complexes, quantities or collections, a «Relator» represents the objectification of relational properties
+  - relators can also be specialised by subkinds, phases and roles, and generalised by categories and mixins
 
 ### Category
 
+- a rigid mixin that does not require a dependency to be specified
+- abstract class that generalizes across multiple kinds.
+  - "essential characteristics that are shared by different kinds but do not directly instantiate entities."
 
 ### PhaseMixin
 
@@ -68,7 +80,7 @@ created: 1709679259786
   ![](/assets/images/2024-08-28-13-29-24.png)
   - The second pattern is a more concise form of the first. They are semantically equivalent.
 - always abstract
-- 
+  - They define characteristics that apply across multiple kinds but are not directly instantiated.
 
 ### Mixin
 
