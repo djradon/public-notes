@@ -2,7 +2,7 @@
 id: b2cfxfrvhoqezasf2xm2gel
 title: Representing Narratives in Digital Libraries the Narrative Ontology
 desc: ''
-updated: 1724714894425
+updated: 1724736320838
 created: 1724260420812
 ---
 
@@ -170,3 +170,12 @@ different ways:
 #### Temporal reasoning in narratives
 
 - need a conceptualisation of time that supports both time points and intervals, and absolute and relative relations between them ^qqplujg84n9e
+- the relations between the time intervals in a narrative are maintained in a network, which will be called Qualitative Temporal Knowledge network (QTK for short)
+  - the nodes of a QTK represent the time intervals in the narrative, while the arcs represent relations between the intervals corresponding to the conjoined nodes. The arcs are labelled with non-empty sets of BTRs (basic temporal relations), and each such set represents the union of its member relations. 
+  - In order to compute the restrictions (on relations between nodes), composition rules are used
+    - A composition rule is a statement about three intervals I, J and K. The statement has a premise and a conclusion as follows:
+      1. the premise gives a set of temporal relations between intervals I and J, and a set of temporal relations between intervals J and K;
+      2. the conclusion gives a set of temporal relations between intervals I and K.
+    - millions of composition rules, but
+    - the conclusions of the rules having non-singleton premises can be efficiently computed from those of the rules having singleton premises. 
+    - issue: it may take an exponential amount of time to compute the QTK resulting from an update. 
