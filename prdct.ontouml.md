@@ -2,13 +2,15 @@
 id: 4p9syg1oz2pe0e78c8ry8gq
 title: OntoUML
 desc: ''
-updated: 1724887353216
+updated: 1724936461909
 created: 1709679259786
 ---
 
 - related: 
   - [[prdct.ontouml-vp-plugin]] 
   - https://ontouml.org/ (dead on arrival)
+  - https://dev.ontouml.org/ "documentation for"
+  - [[prdct.ontouml-ufo-catalog]]
 
 ## Issues
 
@@ -55,6 +57,11 @@ created: 1709679259786
 - the «Relator» meta-class is analogous to the «Kind», «Collective» and «Quantity» meta-classes, in the sense that it is rigid and provides an identity principle for its instances.
   - The difference is that, instead of representing functional complexes, quantities or collections, a «Relator» represents the objectification of relational properties
   - relators can also be specialised by subkinds, phases and roles, and generalised by categories and mixins
+- A «Relator» must always be connected (directly or indirectly) to at least one relation stereotyped as «Mediation»
+- "The sum of the minimum cardinalities of the opposite ends of the mediations connected (directly or indirectly) to the «Relator» must be greater or equal to 2."
+  - but why?
+
+
 
 ### Category
 
