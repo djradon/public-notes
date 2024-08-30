@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1722014872771
+updated: 1724777098078
 created: 1698268407267
 ---
 
@@ -78,3 +78,4 @@ Applications of it in Business Modeling](https://ceur-ws.org/Vol-125/paper2.pdf)
 - [[ar.ufo-unified-foundational-ontology]]
 - [[ar.endurant-types-in-ontology-driven-conceptual-modeling-towards-onto-uml-2-0]]
 - https://dev.nemo.inf.ufes.br/seon/UFO.html
+  - t.2024.08.27.09 finally made the connection of the MLT sub-ontology with  [[t.km.ontology.multi-level-theory]] 
