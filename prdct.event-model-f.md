@@ -2,7 +2,7 @@
 id: xea42ww3w05a4e3zwf8ov4o
 title: Event Model F
 desc: 'capturing human experience'
-updated: 1724700683397
+updated: 1724998075254
 created: 1717371389606
 ---
 
@@ -22,12 +22,14 @@ events
   -  ability to assert that multiple models represent views
 upon or interpretations of the same event
 - causal relationships between events and interpretations of the same event by different humans
+- "By introducing certain types of events and situations, events can be composed to form more complex situations, such as mereological composi- tions of events or causality relations among events." ^uh1jn8phbw3o
 
 
 ## Issues
 
 - imports from swiped-domain http://www.loa-cnr.it/ontologies/DUL.owl
 - why are EventType and EventRole equivalent
+- "the F-Event model does not suggest how to distinguish among different kinds of participants in an event." ^le51vrhfwetp
 
 
 ## References 
@@ -35,3 +37,4 @@ upon or interpretations of the same event
 - [[ar.f-a-model-of-events-based-on-the-foundational-ontology-dolce-dn-s-ultralite]]
 - [[prdct.descriptions-and-situations-ontology]]
 - [[ar.lode-linking-open-descriptions-of-events]]
+- [[ar.linked-data-and-time-modeling-researcher-life-lines-by-events#^uh1jn8phbw3o]]

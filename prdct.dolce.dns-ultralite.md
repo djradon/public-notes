@@ -2,7 +2,7 @@
 id: ulcpsxyesx6mxgsgapascns
 title: DNS Ultralite
 desc: 'DOLCE+DnS (Descriptions and Situation) Ultralite ontology'
-updated: 1721309008113
+updated: 1724997835550
 created: 1710890567295
 ---
 
@@ -14,6 +14,13 @@ created: 1710890567295
   - http://www.ontologydesignpatterns.org/ont/dul/DUL.owl (v4.1)
   - http://www.ontologydesignpatterns.org/ont/dul/DUL_v40.owl
 - authors: [[user.aldo-gangemi]]
+
+## Features
+
+- DUL provides a good combination of flexibility and expressiveness and makes at least the basic distinctions explicit, such as that between events, physical objects and social construction ^y3piqf56xjis
+- In DUL the DOLCE distinction be- tween endurants and perdurants is simplified to a distinction between objects and events, which suffices for most situations and avoids the heavy terminology
+- 
+
 
 ## Issues
 
