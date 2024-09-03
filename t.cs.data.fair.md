@@ -1,8 +1,8 @@
 ---
 id: soywp1lm9api3lfx2zcis3i
-title: Fair Data
+title: FAIR Data
 desc: 'Findable, Accessible, Interoperable, and Reusable'
-updated: 1717523408160
+updated: 1725381963561
 created: 1717523325360
 ---
 
