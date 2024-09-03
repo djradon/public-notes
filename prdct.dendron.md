@@ -2,13 +2,17 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1725393787288
+updated: 1725404629639
 created: 1631142984146
 similar: "[[prdct.foam]]"
 ---
 
 - creator: @kevin-lin
 - [[c.Software.Knowledge-Base]] 
+
+## Tips
+
+- 
 
 ## Resources
 
