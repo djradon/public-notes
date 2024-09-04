@@ -2,7 +2,7 @@
 id: NbYpuH699XIgzU1nsvKtQ
 title: PARA
 desc: 'projects, areas of responsibility, resources, archive'
-updated: 1646440620881
+updated: 1725473446891
 created: 1636342421204
 ---
 
@@ -15,8 +15,7 @@ created: 1636342421204
 - formulate your Project List and then replicate that list across every single tool you use, now and in the future. ^IoqWYbtXfBja
   - consistent spelling, punctuation, and capitalization, so that your transitions between programs are as seamless as possible.
 -  put personally relevant information in Areas, and generally useful information in Resources
-
-## [[p.hasHighlight]]
+## Highlights
 
 - "what you’re committed to is not a collection of vague responsibilities, but a short list of tangible outcomes. In other words, projects."
 - a project without a corresponding goal is known as a “hobby.”

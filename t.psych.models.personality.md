@@ -2,7 +2,7 @@
 id: sTyNYjlGIpve8IxDgXFCn
 title: Personality
 desc: ''
-updated: 1698958116593
+updated: 1725473249541
 created: 1635724858083
 ---
 
@@ -30,7 +30,9 @@ created: 1635724858083
 -   **Role-models:** These people are natural leaders with low levels of neuroticism and high levels of agreeableness, extraversion, openness and conscientiousness. They listen to new ideas and are reliable.
 -   **Self-centered:** While these people score high in extraversion they rank below average openness, agreeableness and conscientiousness.
 
-## #implementations
+## Implementations
+
+
 ## Resources
 
 - [1]: [[The Sixth Model of Personality|ar.psychologytoday.the-sixth-model-personality]]

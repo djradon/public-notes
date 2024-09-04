@@ -2,7 +2,7 @@
 id: dDwSWRhnN0ctUsDXcKqzW
 title: The Garden and the Stream a Technopastoral
 desc: ''
-updated: 1669002492938
+updated: 1725473446813
 created: 1633213395984
 ---
 
@@ -14,7 +14,6 @@ created: 1633213395984
   - [[The Garden and the Stream|idea.the-garden-and-the-stream]]
   - [[video.the-garden-and-the-stream-a-technopastoral]]
 - [[p.references]] [[ar.atlantic.as-we-may-think]]
-
-## [[p.hasHighlight]]
+## Highlights
 
 - "our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected"

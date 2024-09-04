@@ -2,7 +2,7 @@
 id: GVqeh6M7PykvBRBp6yFdN
 title: Atomic Habits
 desc: ''
-updated: 1636063045479
+updated: 1725473446853
 created: 1634094773623
 ---
 
@@ -10,8 +10,7 @@ created: 1634094773623
 - [[p.hasURL]] https://jamesclear.com/atomic-habits
 - [[p.isRelated]] [[course.sunsama.atomic-habits]]
 - [[p.hasSample]] https://s3.amazonaws.com/jamesclear/Atomic+Habits/Atomic_Habits_-_Chapter_1_Excerpt.pdf
-
-## [[p.hasHighlight]]
+## Highlights
 
 - 1% better/day = 3700% better/year
   - but of course, improvement isn't unlimited

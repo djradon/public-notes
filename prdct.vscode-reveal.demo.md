@@ -2,14 +2,14 @@
 id: kXRmSpDVv2Xns2Cj6MsHe
 title: Demo
 desc: ''
-updated: 1644203895385
+updated: 1725473504619
 created: 1644203865050
 ---
 
 ---
 theme : "night"
-transition: "slide"
-highlightTheme: "monokai"
+transition: "slide
+Theme: "monokai"
 logoImg: "logo.png"
 slideNumber: false
 title: "VSCode Reveal intro"
@@ -211,8 +211,7 @@ fade-in-then-out{.fragment .fade-in-then-out}
 fade-in-then-semi-out {.fragment .fade-in-then-semi-out"}
 
 current-visible {.fragment .current-visible}
-
-Highlight **red**{.fragment .highlight-red} **blue**{.fragment .highlight-blue} **green**{.fragment .highlight-green}
+## Highlight **red**{.fragment .highlight-red} **blue**{.fragment .highlight-blue} **green**{.fragment .highlight-green}
 
 ---
 

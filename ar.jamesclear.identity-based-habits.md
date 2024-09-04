@@ -2,15 +2,14 @@
 id: RaJPIC2i7ZBHxepNXNd9h
 title: Identity Based Habits
 desc: ''
-updated: 1635892481927
+updated: 1725473446817
 created: 1635891558123
 ---
 
 
 - [[p.hasURL]] https://jamesclear.com/identity-based-habits
 - [[p.hasTheme]] [[idea.change-is-acheivable]]
-
-## [[p.hasHighlight]]
+## Highlights
 
 - [[p.hasMetaphor]] behavior change is a three-layered onion: outcomes, process, and (at the core) identity
   - 1. Most goals focus on outcomes, i.e. what you get

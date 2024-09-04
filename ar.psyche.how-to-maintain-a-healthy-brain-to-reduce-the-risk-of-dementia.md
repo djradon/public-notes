@@ -2,15 +2,14 @@
 id: xYlYASJCDqsMemVLAqkdy
 title: How to Maintain a Healthy Brain to Reduce the Risk of Dementia
 desc: ''
-updated: 1698704342172
+updated: 1725473446843
 created: 1638108038451
 ---
 
 
 
 - [[p.hasURL]] https://psyche.co/guides/how-to-maintain-a-healthy-brain-to-reduce-the-risk-of-dementia
-
-## [[p.hasHighlight]]
+## Highlights
 
 - develop cognitive reserve
   - conditions: novelty, diversity, repeated practice, complexity, progression of complexity

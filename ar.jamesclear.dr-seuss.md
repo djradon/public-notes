@@ -2,15 +2,14 @@
 id: gVesPOox1bUoPnTS2WlgP
 title: The Weird Strategy Dr. Seuss Used to Create His Greatest Work
 desc: ''
-updated: 1635891436199
+updated: 1725473446835
 created: 1634923305079
 ---
 
 
 - [[p.hasURL]] https://jamesclear.com/dr-seuss
 - [[p.hasTheme]] [[idea.The-Power-of-Constraints]]
-
-## [[p.hasHighlight]]
+## Highlights
 
 - [[p.hasMetaphor]] constraints are the size of your canvas
 

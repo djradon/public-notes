@@ -2,14 +2,13 @@
 id: dwppo4def3uwhabmnp4lq5m
 title: Programming Portals
 desc: 'Small, scoped areas within a graphical interface that allow users to read and write simple programmes'
-updated: 1671701173462
+updated: 1725473446822
 created: 1669803908499
 ---
 
 url: https://maggieappleton.com/programming-portals
 
-
-## [[p.hasHighlight]] 
+## Highlights 
   
 ### Theoretical Framework
 
