@@ -2,14 +2,12 @@
 id: j04ryjhsrmtlbqgui941lcp
 title: Scenario Structure
 desc: ''
-updated: 1725455792100
+updated: 1725458727831
 created: 1725455384520
 ---
 
-## The Alexandrian's Take
+![[ar.the-alexandrian.game-structures#two-fundamental-questions-of-scenario-structure]]
 
-- What do the characters do?
-- How do the players do it?
 
 ## References
 
