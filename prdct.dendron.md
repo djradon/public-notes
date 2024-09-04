@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1725405369818
+updated: 1725474202047
 created: 1631142984146
 similar: "[[prdct.foam]]"
 ---
@@ -12,7 +12,8 @@ similar: "[[prdct.foam]]"
 
 ## Tips
 
-- to customize the next.js template...  
+- to customize the next.js template... use "--dest       override where nextjs-template is located"
+  - https://docs.dendron.so/notes/PgwAXFfotfgpFVqHQRlBl/  
 
 ## Resources
 

@@ -19,7 +19,7 @@ An Agora is a collection of digital gardens and other information sources that a
     - [list of gardens](https://github.com/flancian/agora/blob/master/gardens.yaml)
     - [community contract](https://github.com/flancian/agora/blob/master/CONTRACT.md)
   - [[prdct.agora-server]]
-  - [[son.agora-bridge]]
+  - [[prdct.agora-bridge]]
 
 - [[p.hasURL]] https://anagora.org/agora
 - [[hasIntroduction]] https://docs.google.com/presentation/d/10OWEuLriQpZzSJGq6vCSozZN4M34CNmEC1IrJxqk8xE/edit#slide=id.p
