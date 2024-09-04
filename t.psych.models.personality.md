@@ -10,7 +10,7 @@ created: 1635724858083
 
 ## Six Main Views
 
-- [[p.assertedBy]] @eric-maisel-phd [1]
+- [[p.assertedBy]] @eric-maisel [1]
 
 1. biological
 2. psychological

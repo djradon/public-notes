@@ -1,8 +1,8 @@
 ---
 id: zr35ZhYvuG9BacVXdLnDB
-title: david-kadavy
+title: David Kadavy
 desc: ''
-updated: 1698958102793
+updated: 1725469342249
 created: 1635949645897
 ---
 

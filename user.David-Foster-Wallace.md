@@ -1,7 +1,7 @@
 ---
 id: uq5yxm8y2j1qfwlljllfqro
-title: david-foster-wallace
+title: David Foster Wallace
 desc: ''
-updated: 1677738198749
+updated: 1725469311284
 created: 1677738198749
 ---

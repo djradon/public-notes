@@ -6,7 +6,7 @@ updated: 1659759462690
 created: 1659759383499
 ---
 
-- [[p.hasAuthor]] [[user.nat-eliason]]
+- [[p.hasAuthor]] @nat-eliason
 
 
 		

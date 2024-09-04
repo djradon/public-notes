@@ -13,4 +13,4 @@ created: 1699808826764
 ## Highlights
 
 - “Animation APIs parameterized by duration and curve are fundamentally opposed to continuous, fluid interactivity.”
-  - @andy-matusschak
+  - @andy-matuschak

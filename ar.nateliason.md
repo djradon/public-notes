@@ -4,7 +4,6 @@ title: nateliason.com
 desc: ''
 updated: 1636508323555
 created: 1636341447987
-stub: true
 ---
 
 - [[p.instanceOf]] [[c.website]]

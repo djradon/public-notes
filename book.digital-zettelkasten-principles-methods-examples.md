@@ -4,7 +4,7 @@ title: Digital Zettelkasten Principles Methods Examples
 desc: ''
 updated: 1702954908662
 created: 1631574689382
-url: https://read.readwise.io/read/01hj0042jxavm4wmvrp2xnm11t
+url: 'https://read.readwise.io/read/01hj0042jxavm4wmvrp2xnm11t'
 ---
 
 short book outlining the author's pragmatic [[t.km.zettelkasten]] process. Includes an interesting take on tags.

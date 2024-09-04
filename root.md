@@ -36,7 +36,7 @@ In terms of [[t.tm.getting-things-done]], it's references, someday-maybe, next a
 
 ### [[p.differentFrom]]
 
-- evergreen-notes/digital-garden: for "synthesized" / original-ish publishable big-idea notes that should evolve over time, props to @andy-matusschak
+- evergreen-notes/digital-garden: for "synthesized" / original-ish publishable big-idea notes that should evolve over time, props to @andy-matuschak
 - blog: for "point-in-time" items to be shared: personal news, articles 
 - predicates: a public enumeration of useful properties
 - private-notes: 
