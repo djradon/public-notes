@@ -2,13 +2,13 @@
 id: l5q3vm57bgrb4095uiqftig
 title: Fission
 desc: 'construct identity, data, and compute solutions for the future of the Internet'
-updated: 1713144079393
+updated: 1725409385100
 created: 1682971803349
 ---
 
 - winding down as of 2024-05
 
-## [[c.product]]
+## Products
 
 - [[Odd Dev|prdct.odd-dev]]
 - [[prdct.rhizomedb]]

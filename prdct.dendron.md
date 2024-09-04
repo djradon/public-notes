@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1725404629639
+updated: 1725405369818
 created: 1631142984146
 similar: "[[prdct.foam]]"
 ---
@@ -12,7 +12,7 @@ similar: "[[prdct.foam]]"
 
 ## Tips
 
-- 
+- to customize the next.js template...  
 
 ## Resources
 

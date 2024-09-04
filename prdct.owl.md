@@ -2,7 +2,7 @@
 id: 1c425wcbnwh1esyiwydx1pw
 title: Owl
 desc: Web Ontology Language
-updated: 1721142283094
+updated: 1725421391295
 created: 1696270955675
 ---
 
@@ -33,7 +33,7 @@ created: 1696270955675
    -  The monotonic requirement also makes it impossible to have actual default values, since any such value could not be removed. We are able to avoid that problem through the use of meta-annotations that associate default values not with the individuals, but instead attach them to the properties themselves.
 - [[ar.topquadrant.why-i-dont-use-owl-anymore]]
 
-## [[c.product.related]]
+## Related
 
 - [[prdct.mod-ontology]]
 - [[prdct.shacl]]

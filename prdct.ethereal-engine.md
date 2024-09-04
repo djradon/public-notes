@@ -2,7 +2,7 @@
 id: 63kf9de9lbduuose19qiasc
 title: Ethereal Engine
 desc: ''
-updated: 1707497422150
+updated: 1725421854045
 created: 1672314344300
 ---
 
@@ -24,4 +24,3 @@ created: 1672314344300
 
 - https://www.etherealengine.com/blog
 
-a vibrant ecosystem where content creators, facilitators, and players can easily collaborate to create spectacular computer-mediated experiences

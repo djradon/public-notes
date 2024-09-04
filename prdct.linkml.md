@@ -2,7 +2,7 @@
 id: uhagejfd79c8isushtaciux
 title: LinkML
 desc: 'general purpose modeling language that can be used with linked data, JSON, and other formalisms'
-updated: 1717081289381
+updated: 1725421403519
 created: 1696739554441
 ---
 
@@ -16,7 +16,7 @@ created: 1696739554441
   - [[prdct.rdf]] see https://linkml.io/linkml/intro/tutorial04.html
 - [[c.feature.possible]] 
   - [[prdct.typedb]] converter
-- [[c.product.related]] https://github.com/linkml/linkml-owl
+- related: https://github.com/linkml/linkml-owl
 
 ## Features
 
