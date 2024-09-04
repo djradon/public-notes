@@ -2,9 +2,13 @@
 id: krep8czte91pfp2v07j2rpz
 title: The Muppet Movie
 desc: ''
-updated: 1719860309964
+updated: 1725465768612
 created: 1719860264211
 ---
+
+## Songs
+
+- [[music.the-magic-store]]
 
 ## Reviews
 
@@ -18,7 +22,7 @@ What is it that draws me back to this movie, and The Muppets as a whole, again a
 
 Cinema is a magic store, and I’ve found a home here.
 
-    Life is like a movie, write your own ending. Keep beliving, keep pretending.
+> Life is like a movie, write your own ending. Keep beliving, keep pretending.
 
 
 ## References
