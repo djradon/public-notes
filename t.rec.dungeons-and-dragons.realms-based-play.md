@@ -1,12 +1,12 @@
 ---
 id: q87lsizrmytyossj7m0as9t
 title: Realms Based Play
-desc: 'how do you structure scenarios when the players are kings?'
-updated: 1725454624957
+desc: how do you structure scenarios when the players are kings?
+updated: 1725455383139
 created: 1698787757836
 ---
 
-- topics: [[t.rec.dungeons-and-dragons]]
+- topics: [[t.rec.dungeons-and-dragons]] [[t.role-playing.scenario-structure]]
 
 ## Issues
 
@@ -16,4 +16,4 @@ created: 1698787757836
 
 ## References
 
-- [[ar.thealexandrian.soloing-smaug-the-struggle-for-the-soul-of-dd]]
+- [[ar.the-alexandrian.soloing-smaug-the-struggle-for-the-soul-of-dd]]
