@@ -1,7 +1,7 @@
 ---
 id: 7272514wvvn78ppl0gxbz1o
-title: Resources
+title: Addressable Resources
 desc: ''
-updated: 1725405136244
+updated: 1725472989445
 created: 1724867449827
 ---
