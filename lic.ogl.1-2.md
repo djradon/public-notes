@@ -7,5 +7,5 @@ created: 1700578587224
 ---
 
 - 
-- has [[t.rpg.virtual-tabletop]] addendum, 
+- has [[t.role-playing.virtual-tabletop]] addendum, 
 - 

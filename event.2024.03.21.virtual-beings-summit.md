@@ -87,7 +87,7 @@ created: 1711055161785
 
 - @joshua-johnson @hillary-mason @eugene @harvey-michael-pratt @stephan-bugaj @eugenia 
 - @harvey-michael-pratt: if you've entertained building a video game, now is the time; interested in games 
-- @hillary-mason: opportunity to create new experiences; our approach is collaborative and rigorous; you have to design structures around what these models are really great for. "imagine your favorite author, could be your [[t.rpg.gm]]"
+- @hillary-mason: opportunity to create new experiences; our approach is collaborative and rigorous; you have to design structures around what these models are really great for. "imagine your favorite author, could be your [[t.role-playing.gm]]"
 - shift the creation of what they see until the moment they see it. in skyrim, side quests don't change the world; players can change their world, their social statuses. 
 - @stephan-bugaj: [[game.rival-peak]] and [[game.silent-hill-ascenscion]]
 - @eugenia is wearing a shirt that says "a machine beautiful enough that a soul would want to live in it"
