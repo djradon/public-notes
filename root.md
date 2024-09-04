@@ -2,7 +2,7 @@
 id: CpS9sdQeO83XthdjEzqoL
 title: "djradon's Wiki"
 desc: ''
-updated: 1725475709730
+updated: 1725477562673
 created: 1631142505051
 ---
 
@@ -25,10 +25,10 @@ This vault is the "[[learning-in-public|ar.swyx.learn-in-public]]" part of my Se
   - [[game]]
   - [[loc]]
   - [[org]]
-  - [[user]]
-  - [[prdct]]
+  - [[user]] 
+  - [[prdct]] mostly software products, but also ontologies
   - [[recipe]]
-  - [[videos: movies, tv episodes, etc|video]]
+  - [[video]] movies, tv episodes, youtube, etc
 - [[vs]]
 - [[wanted]]
 - Some "Metadata Notes":
