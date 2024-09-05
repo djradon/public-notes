@@ -1,8 +1,8 @@
 ---
 id: vdligrphd3nnqieslle2hhf
-title: computer-assisted role-playing (CARP)
+title: Computer-Assisted Role-Play (CARP)
 desc: ''
-updated: 1725453421763
+updated: 1725484320992
 created: 1673887756797
 ---
 

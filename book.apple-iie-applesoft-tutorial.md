@@ -1,8 +1,8 @@
 ---
 id: 2d8w307uam6fpvkg1bf9dn9
-title: Apple Iie Applesoft Tutorial
+title: Apple IIe Applesoft Tutorial
 desc: ''
-updated: 1720903669268
+updated: 1725501236329
 created: 1720903664791
 ---
 

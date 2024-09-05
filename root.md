@@ -1,12 +1,12 @@
 ---
 id: CpS9sdQeO83XthdjEzqoL
-title: "djradon's Wiki"
+title: "djradon's wiki"
 desc: ''
-updated: 1725477562673
+updated: 1725501265094
 created: 1631142505051
 ---
 
-Welcome! And beware! This is a cluttered cupboard of notes riddled with inaccuracies and mistakes.
+Welcome! And beware! This is a cluttered cupboard of jumbled jottings riddled with inaccuracies, confusion, and mistakes. 
 
 ## Purpose
 
