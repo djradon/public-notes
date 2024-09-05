@@ -2,11 +2,11 @@
 id: CpS9sdQeO83XthdjEzqoL
 title: "djradon's wiki"
 desc: ''
-updated: 1725501265094
+updated: 1725510005535
 created: 1631142505051
 ---
 
-Welcome! And beware! This is a cluttered cupboard of jumbled jottings riddled with inaccuracies, confusion, and mistakes. 
+Welcome! And beware!  
 
 ## Purpose
 
@@ -40,6 +40,11 @@ In terms of the [[t.km.zettelkasten]] method, this wiki is a commingling of lite
 
 In terms of [[t.tm.getting-things-done]], it's references, someday-maybe, next actions, and public projects.
 
+## Beware!
+
+This is a cluttered cupboard of jumbled jottings riddled with inaccuracies, confusion, and mistakes.
+
+Also, it's littered with remnants of an semantic markdown experiment. 
 
 ## What This Is Not
 

@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1721421509755
+updated: 1725515335855
 created: 1709751631541
 ---
 
@@ -54,7 +54,7 @@ There is an OWL version of GFO, which currently comprises a stable core called g
 
 ## Details
 
-- GFO distinguishes four modes of being, which are associated with the following ontological regions of the world: the region of ma- terial entities, the mental-psychological ontological region, the social region (involving socio-systemic entities), and the region of ideal entities, where the latter includes mathematical entities, idealizations, and ideas.
+- GFO distinguishes four modes of being, which are associated with the following ontological regions of the world: the region of material entities, the mental-psychological ontological region, the social region (involving socio-systemic entities), and the region of ideal entities, where the latter includes mathematical entities, idealizations, and ideas.
 -  trichotomy of processes, continuants and presentials. The latter [presentials] can roughly be seen as snapshots of continuants at time points. The trichotomy comes with an integration law.
 -  distinct notions of process and event: Processes form a central category of time-extended, immutable (can't change, but can contain changes) entities in GFO, whereas any event is relative to a process
 - GFO provides a basic classification (ontology) of categories, whereas the notion of category covers all abstract entities that can be instantiated by or are predicated of other entities
@@ -152,3 +152,4 @@ there are only processes, while material objects are considered as particular pr
 - http://www.thezfiles.co.za/ROMULUS/ontologicalCommitments.html
 - [[ar.towards-ontological-foundations-for-conceptual-modeling-the-unified-foundational-ontology-ufo-story]]
 - [[ar.towards-a-new-foundational-ontology-of-properties-attributives-and-data]]
+- [[ar.developing-gfo-2-0-further-initiating-the-modules-of-space-and-material-objects]]

@@ -2,7 +2,7 @@
 id: 64ugzw02qgdm4umxjzj2mv1
 title: Multi Level Theory
 desc: ''
-updated: 1724875163580
+updated: 1725512639228
 created: 1724441343758
 ---
 
@@ -28,8 +28,8 @@ created: 1724441343758
    - **Description**: At this level, you have the meta-class that defines the general concept of organizational units. This meta-class provides the template for various kinds of organizational units, such as departments, teams, or divisions.
    - **Example**: "OrganizationalUnitType" is a meta-class that describes general properties and behaviors of organizational units across different contexts. It serves as a blueprint for more specific classes like "Department Class."
 
-3. **M1 Level (Type Level): "Department Class"**
-   - **Description**: This level represents a specific type within the broader concept of OrganizationalUnitType. "Department Class" is a type that can have different kinds of departments as its subclasses, such as HR Department, Finance Department, etc.
+3. **M1 Level (Type Level): "HR Department Class"**
+   - **Description**: This level represents a specific type within the broader concept of OrganizationalUnitType. "HR Department Class" is a type that can have different kinds of departments as its subclasses, such as HR Department, Finance Department, etc.
    - **Example**: "Department Class" is a class within the "OrganizationalUnitType." It specifies what it means to be a department and can be further specialized into subclasses like "HR Department" or "Finance Department."
 
 4. **M0 Level (Instance Level): "HR Department of Company X"**
@@ -63,3 +63,4 @@ This structured approach allows for the modeling of complex systems where entiti
 - [[ar.multi-level-conceptual-modeling-theory-language-and-application]]
 - [[ar.melanie-multi-level-modeling-and-ontology-engineering-environment]]
 - [[ar.deep-telos-and-dmla-a-contribution-to-the-multi-2022-collaborative-comparison-challenge]]
+- [[ar.an-extensible-approach-to-multi-level-ontology-modelling]]
