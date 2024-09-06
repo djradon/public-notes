@@ -2,7 +2,7 @@
 id: CpS9sdQeO83XthdjEzqoL
 title: "djradon's wiki"
 desc: ''
-updated: 1725510005535
+updated: 1725581018668
 created: 1631142505051
 ---
 
@@ -43,8 +43,6 @@ In terms of [[t.tm.getting-things-done]], it's references, someday-maybe, next a
 ## Beware!
 
 This is a cluttered cupboard of jumbled jottings riddled with inaccuracies, confusion, and mistakes.
-
-Also, it's littered with remnants of an semantic markdown experiment. 
 
 ## What This Is Not
 

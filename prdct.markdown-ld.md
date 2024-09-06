@@ -2,12 +2,12 @@
 id: 61vfsxkoprebg1j1zjmekn8
 title: Markdown-LD
 desc: 'RDF Linked Data in Markdown'
-updated: 1698320046488
+updated: 1725582837466
 created: 1698319884858
 ---
 
 - repo: https://github.com/ozekik/markdown-ld
-- #eg https://ozekik.github.io/markdown-ld/
+- eg https://ozekik.github.io/markdown-ld/
 
 ## Specification
 

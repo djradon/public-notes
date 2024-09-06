@@ -2,12 +2,12 @@
 id: wwbaouni1jj6zv1ke49sqn0
 title: Hypergraph Ego Networks and Their Temporal Evolution
 desc: ''
-updated: 1683085924079
+updated: 1725581897512
 created: 1683085086563
 ---
 
 - url: https://arxiv.org/pdf/2112.03498.pdf
-- [[p.differentiated]]
+- different:
   - star ego-networks
   - radial ego-networks
   - contracted ego-networks

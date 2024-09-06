@@ -2,7 +2,7 @@
 id: dk31m76ibadozhqu800qbl9
 title: Log
 desc: ''
-updated: 1698275345030
+updated: 1725583654915
 created: 1672667912959
 ---
 
@@ -36,7 +36,7 @@ function identity<Type>(arg: Type): Type {
 ```
 - [x] @greg-solo uses ".h.ts" for header files, but should probably be "[.d.ts](https://www.typescriptlang.org/docs/handbook/declaration-files/templates/module-d-ts.html)"
 - `unknown` is typesafe version of `any`
-  - https://stackoverflow.com/questions/51439843/unknown-vs-any [[p.stated]] 
+  - https://stackoverflow.com/questions/51439843/unknown-vs-any :
     - "unknown is I don't know; any is I don't care"
     - "any value is assignable to unknown; however, unlike any, you cannot access any properties on values with the type unknown, nor can you call/construct them. Furthermore, values of type unknown can only be assigned to unknown or any."
 - [[prdct.typescript.barrel-files]] might be over-used
@@ -90,7 +90,7 @@ function identity<Type>(arg: Type): Type {
 - [[read|p.read]] https://www.typescriptlang.org/docs/handbook/variable-declarations.html -- good, tricky
   - "var declarations are accessible anywhere within their containing function, module, namespace, or global scope... regardless of the containing block."
   - let declarations are block-scoped (aka lexical scoping)
-  - [[p.loved]] [[t.cs.programming.temporal-dead-zone]]
+  - loved [[t.cs.programming.temporal-dead-zone]]
   - `const` means no re-assignment (which is different from immutable, e.g. you can change properties)
 
 ### https://itnext.io/building-a-game-with-typescript-input-system-1-3-46d0b3dd7662

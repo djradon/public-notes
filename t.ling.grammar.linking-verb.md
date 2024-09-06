@@ -2,19 +2,19 @@
 id: gclv4jsvljqwu051sbq883x
 title: Linking Verb
 desc: ''
-updated: 1696822405221
+updated: 1725582837461
 created: 1671632122400
 ---
 
-## #eg
+## eg
 
-- to be / [[p.was]]
+- to be / was
 - sense verbs
-  - [[p.looked]], but not [[p.lookedAt]] or [[p.lookedFor]]
-  - [[p.felt]] 
-  - [[p.smelled]]
-  - [[p.tasted]]
+  - looked, but not lookedAt or lookedFor
+  - felt 
+  - smelled
+  - tasted
 
-## [[p.hadDescription]]
+## Description
 
 - https://www.grammar-monster.com/glossary/linking_verbs.htm
