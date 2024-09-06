@@ -1,6 +1,6 @@
 ---
 id: q87lsizrmytyossj7m0as9t
-title: Realms Based Play
+title: Structure
 desc: how do you structure scenarios when the players are kings?
 updated: 1725455383139
 created: 1698787757836

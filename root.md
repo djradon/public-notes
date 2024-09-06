@@ -2,7 +2,7 @@
 id: CpS9sdQeO83XthdjEzqoL
 title: "djradon's wiki"
 desc: ''
-updated: 1725581018668
+updated: 1725596786107
 created: 1631142505051
 ---
 
@@ -51,4 +51,4 @@ This is a cluttered cupboard of jumbled jottings riddled with inaccuracies, conf
   - e.g., [[ar.substack.carpe-noctem]]
 
 
-[^1]: [[book.how-to-take-smart-notes]]
+[^1]: [[book.how-to-take-smart-notes]]  
