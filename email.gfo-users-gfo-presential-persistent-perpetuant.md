@@ -2,11 +2,11 @@
 id: ok4x3x2gc5rczs80jtdv3fw
 title: Gfo Users Gfo Presential Persistent Perpetuant
 desc: ''
-updated: 1725563474529
+updated: 1725761850990
 created: 1725562860132
 ---
 
-## First email
+## GFO Presential/Persistent/Perpetuant
 
 m I understanding this right (rephrased into my own words)?
 
