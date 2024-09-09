@@ -2,7 +2,7 @@
 id: x4h93xhzc9ab85h4x3tlfko
 title: Class Vs Individual
 desc: aka metaclasses vs superclasses
-updated: 1725666342810
+updated: 1725898374816
 created: 1716575654799
 ---
 
@@ -28,6 +28,7 @@ created: 1716575654799
 
 - just like my Dendron notes, do we have separate classes for things, or can concepts just double as classes?
   - based on my experience, it's better to just have one class/concept/universal, but can be aliased from multiple places
+    - t.2024.09.09.09 thinking about this more in 
 
 ### Classes as Values
 

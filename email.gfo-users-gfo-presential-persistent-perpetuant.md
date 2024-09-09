@@ -2,7 +2,7 @@
 id: ok4x3x2gc5rczs80jtdv3fw
 title: Gfo Users Gfo Presential Persistent Perpetuant
 desc: ''
-updated: 1725761850990
+updated: 1725897721030
 created: 1725562860132
 ---
 
@@ -10,15 +10,14 @@ created: 1725562860132
 
 m I understanding this right (rephrased into my own words)?
 
--        Presential (Queen Elizabeth II) is the physical manifestation of her at a point in time, like (but not equal to) a picture, including her shape/boundary, characteristics, constituent molecules, etc.
+- Presential (Queen Elizabeth II) is the physical manifestation of her at a point in time, like (but not equal to) a picture, including her shape/boundary, characteristics, constituent molecules, etc.
 
--        Persistant (QE2) is like her identity or the social concept of her person, essentially a definition of what makes her unique, that she is a person/queen/woman/British, and the characteristics that would allow someone to recognize a presential as presential(QE2). My personal concept of “QE2” is a direct representation of this.
+- Persistant (QE2) is like her identity or the social concept of her person, essentially a definition of what makes her unique, that she is a person/queen/woman/British, and the characteristics that would allow someone to recognize a presential as presential(QE2). My personal concept of “QE2” is a direct representation of this.
 
--        Perpetuant (QE2) is the actual person  (at the phenomenal level of reality at least) who is moving through time and space. If so, then these correlate most closely with the general concept of endurants.
+- Perpetuant (QE2) is the actual person  (at the phenomenal level of reality at least) who is moving through time and space. If so, then these correlate most closely with the general concept of endurants.
 
--        To this can be added Process(QE2), her life/living.
+- To this can be added Process(QE2), her life/living.
 
- 
 
 If I am on the right track, then this distinction makes perfect sense. However, I am confused as to why the GFO documentation spends very little time talking about perpetuants, giving a half-sentence definition (and the undefined exhib function), but no real explanation or examples, even though they seem to be the most interesting and relevant thing to real life. It isn’t even in the OWL. Conversely, presentials are dealt with at length, and integrated with the rest of the ontology, even though they are arguably the least useful aspect of the three.
 
@@ -30,7 +29,6 @@ What I am looking for is a good formal definition that I can use to create a sim
 
 I’m hoping that there is other GFO-based literature out there that fleshes this out further. Any hints?
 
- 
 
 Thank you,
 
@@ -41,7 +39,13 @@ Brandon Plewe
 ## Thoughts
 
 - no follow-up!?
-- can't find any other mentions of "Perpetuant"
+- can't find any other mentions of "Perpetuant", even the "half-sentence"
+-  the perpetuant seems abstract-ish. 
+
+### Perpetuant vs Life
+
+- @chatgpt.4o: The perpetuant (e.g., the person) is the subject that participates in the process of living. While the perpetuant exists continuously, the process of living is broken into temporal parts (events, stages of life) that the perpetuant experiences.
+
 
 ### chatgpt4.o
 

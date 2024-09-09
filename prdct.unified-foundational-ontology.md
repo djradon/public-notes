@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1724777098078
+updated: 1725900830412
 created: 1698268407267
 ---
 
@@ -13,8 +13,7 @@ created: 1698268407267
   - https://nemo.inf.ufes.br/en/projetos/ufo/
   - http://dev.nemo.inf.ufes.br/seon/UFO.html
 - similar: [[prdct.unified-foundational-ontology.gentle]] [[prdct.sumo]] [[prdct.gfo]] [[prdct.dolce]]
-- related: [[prdct.ontouml]] [[prdct.unified-foundational-ontology.eUFO]] [[prdct.seon-
-- software-engineering-ontology-network]]
+- related: [[prdct.ontouml]] [[prdct.unified-foundational-ontology.eUFO]] [[prdct.seon-software-engineering-ontology-network]]
 - based_on: [[prdct.dolce]] [[prdct.gfo]] [[prdct.ontoclean]]
 - repo: https://github.com/unibz-core/ufo-formalization
 - docs: [[ar.a-first-order-logic-formalization-of-the-unified-foundational-ontology]]

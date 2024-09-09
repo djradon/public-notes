@@ -2,7 +2,7 @@
 id: bgo1umvoasmlbvq3cie4hzj
 title: An Extensible Approach to Multi Level Ontology Modelling
 desc: ''
-updated: 1725666578731
+updated: 1725902157558
 created: 1725511917090
 ---
 
@@ -32,7 +32,16 @@ created: 1725511917090
 - Another approach to avoid separate entities Car and Car Model is described in (Neumayr et al. 2009), called Multi-Level Domain Modeling. Properties are annotated with meta attributes which define rules for inheritance and instantiation. E.g. for the base class Car the data property maxSpeed is annotated with :model to refer to a Car_Model while the data property Milage is annotated with :physical_entity to refer to an individual car. This allows merging the properties of Car and Car_Model into only one class Car while keeping the semantics of the properties clear.
 - In a comparable approach (Frank, 2014), level numbers are assigned to properties. For Car the property Milage would be defined with level=0 which corresponds to the :physical_entity annotation in (Neumayr et al. 2009), while maxSpeed would be annotated with level=1 which corresponds to the :model annotation. Annotating properties with multiple levels or with different levels for different contexts is not possible, as is enabled in our approach.
 - In (Brasileiro et al., 2016a), a fixed separation of entities into individuals, 1 st order type, 2 nd order type and 3 rd order type is proposed. Our approach is more flexible as it allows context-dependent viewpoints.
-- 
+- Multi-facet behaviour as used in (Neumayr et al., 2009) may regard entities as classes and instances simultaneously, where needed. 
+  - In contrast, OWL 1 DL requires a strict separation between the classes and individuals (W3C, 2012). Insofar, multi-facet behaviour is not compatible with OWL1 DL. 
+  - OWL 2 DL relaxes this separation somewhat to allow different uses of the same term which is called [[t.cs.semantic-web.punning]]. 
+    -  “e.g., Eagle, to be used for both a class, the class of all Eagles, and an individual, the individual representing the species Eagle belonging to the (meta)class of all plant and animal species”. 
+    - However, OWL 2 DL still imposes certain restrictions, e.g., a name can only be used for one kind of property (W3C, 2012).
+
+### Example: Animal Ontology
+
+- based on [[prdct.wildlife-ontology-wo]] but adds [[prdct.skos]]
+- we favour a simple modelling approach modelling concrete species like polar bear as instances. 
 
 ## References
 
