@@ -2,7 +2,7 @@
 id: jxej1bzfm42cbouwzcl0cd4
 title: A Reusable Ontology for Fluents in Owl
 desc: ''
-updated: 1723093205561
+updated: 1725998029503
 created: 1722150651286
 ---
 
@@ -49,7 +49,7 @@ value(CeoOf:holds t 1))
 - Reification has a number of known problems that are outlined in more detail in [Noy and Rector, 2005]. 
   - None of these are serious, but they are important to be aware of.
   - proliferation of objects
-  - *Redundant Objects*. Since relationship reifications are objects, it is possible to create multiple objects that reify the same relationship, where in other languages that permit n-ary predicates there would only be one tuple in the extension of the corresponding relation. This can be problematic when using reasoners (such as Racer [Haarslev and Möller, 2001]) that make a unique names assumption, as these multiple objects if present can be counted twice when satisfying counting axioms such as cardinality constraints. 
+  - *Redundant Objects*. Since relationship reifications are objects, it is possible to create multiple objects that reify the same relationship, where in other languages that permit n-ary predicates there would only be one tuple in the extension of the corresponding relation. This can be problematic when using reasoners (such as Racer [Haarslev and Möller, 2001]) that make a unique names assumption, as these multiple objects if present can be counted twice when satisfying counting axioms such as cardinality constraints.  ^t9qzkemy80rd
   - *Confusing ontology*. When classes and their instances are defined in an ontology, it is important to define what they refer to. The presence of reified relation classes and roles can create a confusion between events and fluents if one is not careful.
     - t.2024.08.07.03 yeah, but just be careful
   - *Limited use of OWL reasoning*. The use of OWL language constructs becomes severely limited with reified relationships

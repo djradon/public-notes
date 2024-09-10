@@ -2,7 +2,7 @@
 id: bgo1umvoasmlbvq3cie4hzj
 title: An Extensible Approach to Multi Level Ontology Modelling
 desc: ''
-updated: 1725902157558
+updated: 1725939609564
 created: 1725511917090
 ---
 
@@ -42,6 +42,21 @@ created: 1725511917090
 
 - based on [[prdct.wildlife-ontology-wo]] but adds [[prdct.skos]]
 - we favour a simple modelling approach modelling concrete species like polar bear as instances. 
+- We use the object property skos:broader to specify
+the biological taxonomy,
+- concrete taxons are attributed with
+properties, e.g.:
+```turtle
+:Polar_Bear skos:altLabel "Ursus maritimus" .
+```
+
+### Multi-Facet Behaviour
+
+![[t.cs.semantic-web.class#^6ij3g83vefyj]]
+
+
+
+
 
 ## References
 
