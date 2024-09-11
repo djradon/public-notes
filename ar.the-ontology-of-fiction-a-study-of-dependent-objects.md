@@ -2,7 +2,7 @@
 id: h49meunbijyfab83q4d2zdd
 title: The Ontology of Fiction a Study of Dependent Objects
 desc: ''
-updated: 1717910936124
+updated: 1725549953217
 created: 1717910459846
 ---
 
@@ -17,7 +17,7 @@ created: 1717910459846
 
 ## Similar
 
-# Similar books and articles
+### Similar books and articles
 
 [The Ontology of Fiction.](https://philpapers.org/rec/GETTOO)[Michael Edward Gettings](https://philpapers.org/s/Michael Edward%20Gettings "View other works by Michael Edward Gettings") - 1999 - Dissertation, University of California, Santa Barbara
 
