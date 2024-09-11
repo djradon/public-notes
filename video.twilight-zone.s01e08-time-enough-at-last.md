@@ -1,12 +1,12 @@
 ---
 id: 5otvouu5ddol55s1g9hjece
-title: Time Enough at Last
+title: Time Enough at Last (s01e08)
 desc: ''
-updated: 1726006667919
+updated: 1726095126558
 created: 1725988255747
 ---
   
-- written-by: @rod-sterling
+- written-by: @rod-serling
 - tropes: #isolation #irony #time
 - broadcast: 1959-10-20
 
