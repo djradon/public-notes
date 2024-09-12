@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1722729345482
+updated: 1726163631442
 created: 1633629215451
 ---
 
@@ -11,6 +11,12 @@ created: 1633629215451
   - https://en.wikipedia.org/wiki/Semantic_publishing 
     - "Semantic publication provides a way for computers to understand the structure and even the meaning of the published information, making information search and data integration more efficient" 
   - [[prdct.linked-data-fragments]]
+
+## Philosophy
+
+### Why do we need the semantic web?
+
+- @gavin-mendel-gleason: "Because distributed, interoperable, well-defined data is literally the most central problem for the current and near-future human economy. Knowledge is power, and distributable, actionable knowledge, creates opportunities and efficiencies impossible without it."
 
 ## Interesting
 
@@ -28,6 +34,8 @@ created: 1633629215451
 - [[prdct.eye]]
 
 ## Issues
+
+
 
 ### n-ary relationships
 
@@ -60,3 +68,4 @@ created: 1633629215451
 ## References
 
 - [[ar.a-review-of-the-semantic-web-field]]
+- 

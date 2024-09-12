@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1709620344664
+updated: 1726163392394
 created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
@@ -55,3 +55,4 @@ We also have APIs to expose object history etc. and we hope to include these in 
 - https://forum.solidproject.org/t/terminusdb-a-delightful-database-for-linked-data/3140
   - mentioned: https://news.ycombinator.com/item?id=22867767
 - https://terminusdb.com/blog/graphql-query/
+- [[ar.terminusdb.the-semantic-web-is-dead]]
