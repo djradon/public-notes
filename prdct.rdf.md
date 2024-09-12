@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1724430779630
+updated: 1726181125729
 created: 1633160681527
 ---
 
@@ -66,6 +66,8 @@ created: 1633160681527
 
 
 ## Issues
+
+- "RDF is a shitty data model. It doesn’t have native support for lists."
 
 ### n-ary relations
 

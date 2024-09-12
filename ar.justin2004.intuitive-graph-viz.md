@@ -2,7 +2,7 @@
 id: 8pxwsvl9c2dqwpit8ylvwu8
 title: Intuitive Graph Viz
 desc: ''
-updated: 1726159910031
+updated: 1726175113665
 created: 1726158690395
 ---
 
@@ -11,7 +11,8 @@ created: 1726158690395
 
 - https://github.com/justin2004/weblog/tree/master/intuitive_graph_viz#readme
 - written-by: @justin-dowdy
-- 
+
+
 ## Highlights
 
 I think KG viz today is dissapointing because:
@@ -19,3 +20,11 @@ I think KG viz today is dissapointing because:
     (1) they mostly using circles and lines
     (2) the layout algorithms (radial, circular, force-directed, etc.) are unaware of what the edges and node types mean
     (3) they don't have a way to downsample (when rendering a large graph) while preserving the spirit of the meaning of the data
+
+## Thoughts
+
+- 
+
+## References
+
+- https://www.reddit.com/r/semanticweb/comments/1f5ytbg/intuitive_knowledge_graph_viz/

@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1726163631442
+updated: 1726180933114
 created: 1633629215451
 ---
 
@@ -11,6 +11,7 @@ created: 1633629215451
   - https://en.wikipedia.org/wiki/Semantic_publishing 
     - "Semantic publication provides a way for computers to understand the structure and even the meaning of the published information, making information search and data integration more efficient" 
   - [[prdct.linked-data-fragments]]
+  - [[idea.the-semantic-web-is-dead]]
 
 ## Philosophy
 

@@ -2,7 +2,7 @@
 id: ln6efm5dgf1lqtozblp35bk
 title: Sparql
 desc: ''
-updated: 1723756589228
+updated: 1726178933111
 created: 1702449433891
 ---
 
@@ -89,5 +89,6 @@ SELECT ?person WHERE {
 ## Resources
 
 - https://medium.com/wallscope/constructing-sparql-queries-ca63b8b9ac02
+- https://www.reddit.com/r/semanticweb/comments/1dqh8zw/code_injection_into_sqarql_is_this_done_somehow/
 
 ## References
