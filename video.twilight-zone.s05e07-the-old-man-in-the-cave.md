@@ -2,12 +2,13 @@
 id: 63gcpekfcbvzxyil899kwkd
 title: The Old Man in the Cave (s05e07)
 desc: ''
-updated: 1726249355297
+updated: 1726264651003
 created: 1726078989718
 ---
 
 - https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58a9f770-248d-be20-d2ed-7509c6e802aa
-- tropes: [[t.psych.faith]], [[t.story-telling.tropes.after-the-end]]
+- tropes: [[t.psych.faith]], [[t.story-telling.tropes.after-the-end]], [[t.story-telling.tropes.benevolent-ai]]
+- air-date: 1963-10-08
 
 ## Quotes
 
