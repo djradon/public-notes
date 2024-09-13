@@ -2,9 +2,13 @@
 id: aupqq2yswtykk0z003zk5sj
 title: Night Time is the Write Time
 desc: ''
-updated: 1726073204976
+updated: 1726248907833
 created: 1726072444040
 ---
+
+## Quotes
+
+@franz-kafka: “But sleep? On a night like this? What an idea! Just think how many thoughts a blanket smothers while one lies alone in bed, and how many unhappy dreams it keeps warm.”
 
 ## Famous Nocturnal Writers
 
