@@ -8,7 +8,7 @@ created: 1724260420812
 
 - https://www.semantic-web-journal.net/content/representing-narratives-digital-libraries-narrative-ontology-1
 - authors: @carlo-meghini @valentina-bartalesi @daniele-metilli
-- related: [[prdct.narrative-ontology-nont]] [[t.lit.narratology]]
+- related: [[prdct.narrative-ontology-nont]] [[t.story-telling.narratology]]
 
 ## Abstract
 

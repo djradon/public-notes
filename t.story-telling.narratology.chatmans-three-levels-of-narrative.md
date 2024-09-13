@@ -2,9 +2,11 @@
 id: 1r6fan5ibua2zir4fxawton
 title: Chatmans Three Levels of Narrative
 desc: ''
-updated: 1724367762437
+updated: 1726244596040
 created: 1724367743769
 ---
+
+- similar: [[t.story-telling.narratology.jannidis-three-levels]]
 
 ## chatgpt.4o
 
