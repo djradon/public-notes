@@ -4,7 +4,7 @@ title: Learning in Public
 desc: >-
   the act of creating “learning exhaust” by making the resources you wished you
   had found while you were learning
-updated: 1685988665671
+updated: 1726252688874
 created: 1685988554814
 ---
 
@@ -13,4 +13,6 @@ created: 1685988554814
 
 ## Resources
 
-- https://jonathanbarbato.com/what-is-a-digital-garden
+- https://jonathanbarbato.com/what-is-a-digital-garden (offline, no archive.org cache!)
+- [[ar.maggieappleton.a-brief-history-and-ethos-of-the-digital-garden]]
+- [[ar.swyx.learn-in-public]]

@@ -4,7 +4,7 @@ title: Online Assistant
 desc: >-
   dice rolls, NPC tracking during battles (Fight Tracker / HP Tracker), image
   sharing, private messages between players and DM, battlemaps.
-updated: 1707508410031
+updated: 1726250862675
 created: 1707508251475
 ---
 
@@ -13,7 +13,6 @@ created: 1707508251475
 
 ## Use cases
 
-- remote live games [[sh.gameplay.asynchronous]]
+- remote live games
 - play by forum
 - around a table
-- 

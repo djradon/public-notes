@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1726181125729
+updated: 1726259090168
 created: 1633160681527
 ---
 
@@ -169,7 +169,9 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
   - RDF sources may change their state over time. That is, they may provide different RDF graphs at different times.
   - Some RDF sources may, however, be immutable snapshots of another RDF source, archiving its state at some point in time.
 
+## History
 
+- https://www.tbray.org/ongoing/When/200x/2003/05/21/RDFNet
 
 
 ## can be expressed as 

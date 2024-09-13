@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: ''
-updated: 1726180933114
+updated: 1726258767528
 created: 1633629215451
 ---
 
@@ -14,6 +14,10 @@ created: 1633629215451
   - [[idea.the-semantic-web-is-dead]]
 
 ## Philosophy
+
+### Original Vision
+
+- @tim-berners-lee: "I have a dream for the Web [in which computers] become capable of analyzing all the data on the Web – the content, links, and transactions between people and computers. A "Semantic Web", which makes this possible, has yet to emerge, but when it does, the day-to-day mechanisms of trade, bureaucracy and our daily lives will be handled by machines talking to machines. The "intelligent agents" people have touted for ages will finally materialize."
 
 ### Why do we need the semantic web?
 

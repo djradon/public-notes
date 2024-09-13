@@ -2,7 +2,7 @@
 id: svak6dc31aevjrz7qb7pn8u
 title: JSON-LD and Why I Hate the Semantic Web
 desc: ''
-updated: 1726183039334
+updated: 1726254140530
 created: 1726180292094
 ---
 
@@ -15,7 +15,8 @@ The desire for better Web APIs is what motivated the creation of JSON-LD, not th
 
 ## Highlights
 
-"Precious time is spent in groups discussing how we can query all this Big Data that is sure to be published via RDF instead of figuring out a way of making it easy to publish that data on the Web by leveraging common practices in use today. Too much time is spent assuming a future that’s not going to unfold in the way that we expect it to. That’s not to say that TURTLE, SPARQL, and Quad stores don’t have their place, but I always struggle to point to a typical startup that has decided to base their product line on that technology"
+- "Precious time is spent in groups discussing how we can query all this Big Data that is sure to be published via RDF instead of figuring out a way of making it easy to publish that data on the Web by leveraging common practices in use today. Too much time is spent assuming a future that’s not going to unfold in the way that we expect it to. That’s not to say that TURTLE, SPARQL, and Quad stores don’t have their place, but I always struggle to point to a typical startup that has decided to base their product line on that technology"
+- "RDF is a shitty data model. It doesn’t have native support for lists." ^m9yunsigu2uc
 
 ## Comments
 

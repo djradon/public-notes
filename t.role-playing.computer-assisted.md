@@ -2,7 +2,7 @@
 id: vdligrphd3nnqieslle2hhf
 title: Computer-Assisted Role-Play (CARP)
 desc: 'the artform-of-artforms'
-updated: 1726008262223
+updated: 1726250702046
 created: 1673887756797
 ---
 
@@ -12,3 +12,9 @@ created: 1673887756797
 - improv theater
 - certain kinds of job training
 - a psychotherapeutical technique
+
+## Solutions
+
+### Virtual Tabletops
+
+- 
