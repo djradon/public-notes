@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1726259090168
+updated: 1726267221243
 created: 1633160681527
 ---
 
@@ -171,7 +171,7 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
 
 ## History
 
-- https://www.tbray.org/ongoing/When/200x/2003/05/21/RDFNet
+- [[ar.the-rdf-net-challenge]]
 
 
 ## can be expressed as 
