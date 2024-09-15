@@ -2,11 +2,12 @@
 id: bgo1umvoasmlbvq3cie4hzj
 title: An Extensible Approach to Multi Level Ontology Modelling
 desc: ''
-updated: 1725939609564
+updated: 1726351668399
 created: 1725511917090
 ---
 
 - https://www.scitepress.org/PublishedPapers/2021/106842/106842.pdf
+- topics: [[t.km.ontology.multi-level-theory]]
 
 ## Highlights
 

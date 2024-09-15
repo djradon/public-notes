@@ -2,7 +2,7 @@
 id: e1waym1a2b6aaf9z6te0y6j
 title: jekyll-rdf
 desc: 'include RDF data in your static site or build a complete site for your RDF graph '
-updated: 1717001266158
+updated: 1726344324332
 created: 1714110792113
 ---
 
@@ -15,3 +15,7 @@ created: 1714110792113
 ## Features
 
 - allows for custom SPARQL queries to be embedded in the site templates.
+
+## Issues
+
+- seems to only support a single source file

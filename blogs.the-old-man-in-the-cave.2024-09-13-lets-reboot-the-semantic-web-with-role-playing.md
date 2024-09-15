@@ -1,8 +1,8 @@
 ---
 id: s5z9wyb92268nr1b0cyl20n
-title: "Let's Vitalize the Semantic Web with Role-Playing"
+title: Let's Reboot the Semantic Web with Role-Playing
 desc: ''
-updated: 1726269328479
+updated: 1726291229485
 created: 1726095395686
 ---
 
@@ -29,15 +29,15 @@ In any case, I'm looking to make connections that could lead to collaboration. I
 
 ## Spoiler Alert
 
-In the eponymous Twilight Zone episode from 1959, the Old Man is secretly a computer that keeps the local townsfolk alive by giving them the information they need (through an intermediary, their leader Goldsmith) to survive in a radioactive, post-apocalyptic world. They end up destroying the computer in the name of freedom, and subsequently everyone except Goldsmith dies of radiation poisoning. 
+In the eponymous Twilight Zone episode from 1959, the Old Man is secretly a computer that keeps the local townsfolk alive by giving them the information they need (through an intermediary, their leader Goldsmith) to survive in a radioactive, post-apocalyptic world. They end up destroying the computer in the name of freedom, and then everyone except Goldsmith dies of radiation poisoning. 
 
 It's a story about secular faith and a nice example of the [[t.story-telling.tropes.benevolent-ai]] trope. 
 
-In this exciting and scary new world of god-like [[t.cs.synthetic-intelligence]], hopefully the good-guy computers can help protect us from the bad-guy computers AND the bad-guy humans.
+In this exciting and scary new world of god-like [[t.cs.synthetic-intelligence]], hopefully the good-guy computers can help protect us from the villainous computers AND the bad-guy humans.
 
 ## Likely Topics
 
-As mentioned, the lense through which I've been looking at technology lately is [[t.role-playing.computer-assisted]]. I'm  interested in role-playing *data* and how to represent things like characters, stories, and evolving worlds. To that end, I will be writing about [[applied ontology|t.km.ontology.applied]], the [[t.cs.semantic-web]], [[data temporality|t.cs.data.temporality]], and [[geographic information systems|t.cs.gis]].
+As mentioned, I've been looking at technology lately through the lense of [[t.role-playing.computer-assisted]]. At the moment, I'm especially interested in role-playing *data* and how to represent things like characters, stories, and evolving worlds. To that end, I'll be writing about [[applied ontology|t.km.ontology.applied]], the [[t.cs.semantic-web]], [[data temporality|t.cs.data.temporality]], and [[geographic information systems|t.cs.gis]].
 
 I'm also interested in (and wary of) AI (better termed [[synthetic intelligence|t.cs.synthetic-intelligence]]) and how it can help people role-play and develop role-playing content. Things like [[t.cs.ai.retrieval-augmented-generation.graphrag]] and [[agentic systems|t.cs.agents]] are highly relevant.
 

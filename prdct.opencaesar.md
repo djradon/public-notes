@@ -2,9 +2,9 @@
 id: iyd26hpurr591y06twpnyzk
 title: openCAESAR
 desc: >-
-  upport systems engineers in the development, management, integration,
+  support systems engineers in the development, management, integration,
   deployment, and op- erations of complex models
-updated: 1724871567440
+updated: 1726345269052
 created: 1718172067953
 ---
 

@@ -2,12 +2,13 @@
 id: u37iaufehfennb7gj7wdziw
 title: Multi Level Conceptual Modeling Theory Language and Application
 desc: ''
-updated: 1724512496960
+updated: 1726351653343
 created: 1724441974822
 ---
 
 - https://nemo.inf.ufes.br/wp-content/papercite-data/pdf/multi_level_conceptual_modeling_theory_language_and_application_2021.pdf
 - authors: @claudenir-fonseca @joao-paulo-almeida @giancarlo-guizzardi @victorio-carvalho
+- topics: [[t.km.ontology.multi-level-theory]]
 
 ## Abstract
 
