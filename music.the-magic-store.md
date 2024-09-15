@@ -2,11 +2,12 @@
 id: 3vo58d0zyt05elqcfuli1zz
 title: The Magic Store
 desc: ''
-updated: 1725465670864
+updated: 1726377891833
 created: 1725465477223
 ---
 
 - created: 1979?
+- composed-for: [[video.the-muppet-movie]]
 
 ## Lyrics
 
