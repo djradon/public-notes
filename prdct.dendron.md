@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1725484098212
+updated: 1726469149722
 created: 1631142984146
 similar: "[[prdct.foam]]"
 ---
@@ -15,6 +15,7 @@ similar: "[[prdct.foam]]"
 - to customize the next.js template... use "--dest       override where nextjs-template is located"
   - https://docs.dendron.so/notes/PgwAXFfotfgpFVqHQRlBl/
 - customizing the header is also apparently an option
+- `rm -rf .next && rm -rf docs && rm -rf node_modules`
 - `dendron publish export --target github --yes`
   
 
