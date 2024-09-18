@@ -1,14 +1,14 @@
 ---
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
-desc: A Twilight Zone for the Imagination
-updated: 1726389510322
+desc: An Explorer's Guide to Collaborative Imagination
+updated: 1726502774659
 created: 1725171371808
 ---
 
-## A Twilight Zone for the Imagination
+## An Explorer's Guide to Collaborative Imagination
 
-Good evening from the ol' [[Magic Store|music.the-magic-store]]: Los Angeles, California. My name is Dave Richardson and I think I know how to make virtual reality actually worthwhile while revolutionizing how we make and share information at the same time.
+Good evening from the old [[Magic Store|music.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a role-player, and I'm on a mission to revolutionize virtual reality actually worthwhile while revolutionizing how we make and share information at the same time.
 
 How? 
 
@@ -22,7 +22,7 @@ Aspirationally speaking, *Carpe Noctem* (loosely translated as "harvest the nigh
 
 You can think of it as digital Dungeons & Dragons, but any setting will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning.
 
-Two closely-related art forms are [[t.drama.interactive]] and [[interactive fiction|t.story-telling.fiction.interactive]]. Hopefully we'll be covering those.
+Two closely-related art forms are [[t.drama.interactive]] and [[interactive fiction|t.story-telling.fiction.interactive]]. So we'll be covering those.
 
 And when done well, role-playing (in whatever form) becomes [[collaborative story-telling|t.story-telling.collaborative]]. So that's a biggie.
 
