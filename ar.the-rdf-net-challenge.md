@@ -2,12 +2,13 @@
 id: 71342tzil9h2ok8pe0ewysw
 title: The Rdf Net Challenge
 desc: ''
-updated: 1726267304435
+updated: 1726990414202
 created: 1726267222266
 ---
 
 - https://www.tbray.org/ongoing/When/200x/2003/05/21/RDFNet
 - topics: [[idea.view-source-kickstarted-the-web]]
+- 
 
 ## Highlights
 

@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: 'things vs information resources'
-updated: 1722955883337
+updated: 1726949081734
 created: 1633593028328
 ---
 
@@ -20,7 +20,8 @@ There are four possibilities for a given URI:
 - the URI is being used to identify either content or sense but it’s not specified which
 - the URI is being used to both locate content and refer to a sense (ie a property applies equally to both)
 
-one subtle point: things that are also usually refer
+- one subtle point: things that are also usually refer
+  - t.2024.09.21.13 or better to say that URIs that refer should also be able to return a document/thing that is
 
 ## Solutions
 
@@ -34,6 +35,8 @@ one subtle point: things that are also usually refer
 - homegrown #2: 
   - always sense
   - if you want to refer to a document or other ContentLocator, give it an indicator (e.g., using [[k.relation-types.LocatableContent]])
+- link tag
+  - see [[proj.tomitc.drafts.solving-httprange-14-with-the-link-tag]]
 
 ## Thoughts
 
