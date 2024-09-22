@@ -2,7 +2,7 @@
 id: bgo1umvoasmlbvq3cie4hzj
 title: An Extensible Approach to Multi Level Ontology Modelling
 desc: ''
-updated: 1726351668399
+updated: 1727019858524
 created: 1725511917090
 ---
 
@@ -54,6 +54,7 @@ properties, e.g.:
 ### Multi-Facet Behaviour
 
 ![[t.cs.semantic-web.class#^6ij3g83vefyj]]
+
 
 
 
