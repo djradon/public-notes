@@ -1,7 +1,7 @@
 ---
 id: tp5friqhwq5hwuby48hjl3z
 title: Bioinformatics
-desc: 'methods and software tools for understanding biological data'
+desc: methods and software tools for understanding biological data
 updated: 1726359875875
 created: 1726359662699
 ---
@@ -9,7 +9,7 @@ created: 1726359662699
 
 ## Solutions
 
-- [[org.obo-foundry]]
+- [[prdct.obo-foundry]]
 - [[prdct.gfo.bio]]
 
 

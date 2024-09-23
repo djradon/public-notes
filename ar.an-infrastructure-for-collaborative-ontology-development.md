@@ -2,13 +2,14 @@
 id: l2jfw1ampw7g45427t6rswh
 title: An Infrastructure for Collaborative Ontology Development
 desc: ''
-updated: 1726593692113
+updated: 1727129247002
 created: 1726593532741
 ---
 
 - https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA210375
 - authors: @dean-allemang @pawel-garbacz @przemyslaw-gradzki @elisa-kendall @robert-trypuz
 - topics: [[t.km.ontology]] [[t.cs.sd.continuous-integration]] [[prdct.financial-industry-business-ontology-fibo]]
+- related: [[prdct.ontology-development-kit]]
 
 ## Abstract
 

@@ -8,7 +8,7 @@ created: 1724600322621
 
 - https://www.researchgate.net/publication/374265191_Theory_framework_-_knowledge_hub_message_1
 - author: @alex-shkotin
-- topics: [[t.km.formalization]] [[t.km.theory-modeling]]
+- topics: [[t.km.formalization]] [[t.km.modeling]]
 
 
 ## Abstract

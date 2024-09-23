@@ -1,8 +1,8 @@
 ---
 id: 4j5savydfbqam7x8zwbsgfr
 title: Ontology Development Kit
-desc: ''
-updated: 1721146156207
+desc: 'Bootstrap an OBO Library ontology '
+updated: 1727129276194
 created: 1712783672166
 ---
 

@@ -7,4 +7,4 @@ created: 1698334392665
 ---
 
 - #related [[prdct.basic-formal-ontology]]
-- #publisher [[org.obo-foundry]]
+- #publisher [[prdct.obo-foundry]]

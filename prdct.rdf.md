@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1726267221243
+updated: 1727129710942
 created: 1633160681527
 ---
 
@@ -14,6 +14,12 @@ created: 1633160681527
 
 
 ## Features
+
+### Properties
+
+- Properties are used for specifying information about entities like :Polar_Bear or :Knut. 
+  - Datatype properties like :birthDate or :population relate to literal values like strings, numbers or dates
+  - Object properties like conservation_status relate to other entities
 
 ### Blank Nodes
 

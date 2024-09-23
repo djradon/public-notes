@@ -1,7 +1,10 @@
 ---
 id: r4s8HiOEaLW0Z3lvFUvHL
 title: Ontology
-desc: 'a particular knowledge base, describing facts assumed to be always true by a community of users, in virtue of the agreed-upon meaning of the vocabulary used'
+desc: >-
+  a particular knowledge base, describing facts assumed to be always true by a
+  community of users, in virtue of the agreed-upon meaning of the vocabulary
+  used
 updated: 1723911874318
 created: 1633445910705
 ---
@@ -86,7 +89,7 @@ https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundat
 [[ar.where-to-publish-and-find-ontologies-a-survey-of-ontology-libraries]]
   mentions: 
     [[prdct.cupboard]] (dead)
-    [[org.obo-foundry]]
+    [[prdct.obo-foundry]]
     [[prdct.ontology-lookup-service]]
     [[prdct.ontologydesignpatterns-org]]
       mentions: [[prdct.cognitive-characteristics-ontology]]

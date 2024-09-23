@@ -7,5 +7,5 @@ created: 1721413892130
 ---
 
 - https://github.com/edmondchuc/ontogram
-- [[c.software.semantic.visualization]]
+- [[c.software.visualization.semantic]]
 - kinda dead

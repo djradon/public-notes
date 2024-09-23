@@ -7,4 +7,4 @@ created: 1721252672826
 ---
 
 - https://sketch.zazuko.com/
-- [[c.software.semantic.visualization]]
+- [[c.software.visualization.semantic]]
