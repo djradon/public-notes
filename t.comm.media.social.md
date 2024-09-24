@@ -1,6 +1,6 @@
 ---
 id: 1Czwm1DcNJaC3F8oxaYDm
-title: Social Media
+title: Social
 desc: ''
 updated: 1635719416903
 created: 1633222240455

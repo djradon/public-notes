@@ -33,7 +33,7 @@ persons in fiction, but a complex of letters and sense in a reader’s mind."
 
 ### Survey of Theories of Literary Characters
 
-- @vladimir-propp’s theory is an important precursor for the perspective known as [[t.story-telling.structuralism]]
+- @vladimir-propp’s theory is an important precursor for the perspective known as [[t.humanities.structuralism]]
 - @edward-morgan-forster groups literary characters as “flat” or “round”.
   - flat: few features and consisting of a simple structure
   - round: more complex and have more Information
