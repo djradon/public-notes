@@ -1,8 +1,8 @@
 ---
 id: 64ugzw02qgdm4umxjzj2mv1
-title: Multi Level Theory
+title: Multi-Level Theory
 desc: ''
-updated: 1725512639228
+updated: 1727220135671
 created: 1724441343758
 ---
 
