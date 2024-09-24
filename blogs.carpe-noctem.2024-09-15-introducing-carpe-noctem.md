@@ -2,17 +2,17 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1726502774659
+updated: 1727173096995
 created: 1725171371808
 ---
 
 ## An Explorer's Guide to Collaborative Imagination
 
-Good evening from the old [[Magic Store|music.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a role-player, and I'm on a mission to revolutionize virtual reality actually worthwhile while revolutionizing how we make and share information at the same time.
+Good evening from the old [[Magic Store|music.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a role-player, and I'm on a mission to revolutionize how we make and share information and ideas. 
 
-How? 
+How, specifically? 
 
-I'll give you a hint: collaborative story-telling.
+I'll give you a hint: collaborative story-telling and .
 
 ## What's This All About, Then?
 

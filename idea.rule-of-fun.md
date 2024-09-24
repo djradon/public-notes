@@ -2,7 +2,7 @@
 id: i12uys2wcw5982dpnp7d2o6
 title: Rule of Fun
 desc: ''
-updated: 1698262670388
+updated: 1727174171600
 created: 1671536578791
 ---
 
@@ -15,4 +15,4 @@ created: 1671536578791
       - [[p.provokedThoughts]] 
         - [[game.odyssey]] captures the brutality nicely
         - maybe a little more strategy that just fight or run
-- [[t.cs.game.if]] might not be fun because reading isn't fun; not to mention the open-world tension
+- [[t.story-telling.fiction.interactive]] might not be fun because reading isn't fun; not to mention the open-world tension
