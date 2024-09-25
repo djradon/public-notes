@@ -2,16 +2,12 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1727129710942
+updated: 1727285766784
 created: 1633160681527
 ---
 
-
-
 - related: [[prdct.rdf-processing-toolkit]] [[prdct.spin]]
 - [[p.instanceOf]] [[c.specification]]
-
-
 
 ## Features
 
@@ -20,6 +16,12 @@ created: 1633160681527
 - Properties are used for specifying information about entities like :Polar_Bear or :Knut. 
   - Datatype properties like :birthDate or :population relate to literal values like strings, numbers or dates
   - Object properties like conservation_status relate to other entities
+
+### Objects
+
+- can be either
+  - literal values
+  - [ ] individuals? entity objects? need a better name here
 
 ### Blank Nodes
 

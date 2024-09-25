@@ -1,8 +1,8 @@
 ---
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
-desc: ''
-updated: 1726258767528
+desc: 'the vision: distributed, interoperable, and well-defined data'
+updated: 1727283479872
 created: 1633629215451
 ---
 
