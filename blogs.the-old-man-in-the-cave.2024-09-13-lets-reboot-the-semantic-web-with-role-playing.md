@@ -2,7 +2,7 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: "Let's Reboot the Semantic Web with Role-Playing"
 desc: "I'd bet the Old Man in the Cave can help us out some."
-updated: 1727297476325
+updated: 1727299022646
 created: 1726095395686
 ---
 
@@ -16,11 +16,13 @@ created: 1726095395686
 
 Welcome to my developer journal. 
 
-I'm on a mission to help people build, deconstruct, remix, and engage with the [[multiverse|t.multiverse]], primarily through [[computer-assisted role-play (CARP)|t.role-playing.computer-assisted]] and other [[interactive drama|t.drama.interactive]].
+I'm on a mission to help people build, deconstruct, remix, and engage with the [[multiverse|t.multiverse]] through [[interactive drama|t.drama.interactive]].
 
-The vision is virtual realities (in the broadest sense) worthy of our engagement and an accompanying new artform that weaves together aspects of film, video games, role-playing games, and immersive theatre. I like to call it the [[idea.the-magic-store]], and in additional to imagination and artistry, it will require distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
+The vision is accessible virtual realities (in the broadest sense) worthy of our engagement and the continued development of the corresponding new-ish artform, [[computer-assisted role-play (CARP)|t.role-playing.computer-assisted]], that weaves together aspects of film, video games, role-playing games, and immersive theatre.
 
-So in addition to my main mission mapping out the technical and conceptual landscape of [[computer-assisted role-play|t.role-playing.computer-assisted]], I have a side-quest to reboot the Semantic Web. 
+I like to think of it as [[idea.the-magic-store]] gone digital. In additional to imagination, production skills, and artistry, it will require distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
+
+So in addition to my main public mission to map out the conceptual landscape of [[computer-assisted role-play|t.role-playing.computer-assisted]] here, I have a technical side-quest to reboot the Semantic Web. 
 
 ## Spoiler Alert: It's a Machine
 
@@ -28,7 +30,7 @@ In the eponymous Twilight Zone episode from 1959, the old man in the cave is sec
 
 It's a story about secular faith and a nice example of the [[t.story-telling.tropes.benevolent-ai]] trope.
 
-So in the context of this devlog, the Old Man is a metaphor for synthetic intelligence and how we can use digitized knowledge to help humanity.
+So in the context of this developer journal, the Old Man is a metaphor for synthetic intelligence and how we can use digitized information to help humanity.
 
 ## Making the Semantic Web Usable
 
@@ -41,23 +43,27 @@ The threads of the Semantic Web are [[prdct.rdf]] statements composed of a subje
 :goldsmith :helped :the-townsfolk .
 ```
 
-But of course, the devil is in the details. I guess we should've expected it to take a while to iron the kinks out of something as ambitious as a universal data language. Still, it's been almost 25 years!
+But of course, the devil is in the details.
 
 I want to heed [[Manu Sporny|user.manu-sporny]]'s 2014 [[call-to-arms|ar.json-ld-and-why-i-hate-the-semantic-web]]: "If you want to make the Semantic Web a reality, stop making the case for it and spend your time doing something more useful, like actually making machines smarter or helping people publish data in a way that’s useful to them." 
 
 Turns out that making machines smarter was the easy part!
 
-With the current state of the art, publishing **any** semantic data is still hard, let alone useful data. In a word, the biggest issue for wider SW adoption is **usability**. 
+With the current state of the art, publishing **any** semantic data is still hard, let alone useful data. In a word, the most important theme for wider SW adoption is **usability**. 
 
 I've got some ideas for how to make data publishing free and easy for everyone. So that should help usability.
 
-To make published data useful, we'll need to address some big issues around RDF expressivity: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
+To make published data useful, we'll need to address some long-simmering issues around RDF expressivity: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
 
 Don't even get me started on the state of [[prdct.RDF-star]].
 
 There are also plenty of gaps around SW infrastructure and best practices that have had me searching for solutions and dreaming up my own. I've got a glimmer of a solution to the [[httpRange-14 issue|vs.resources-that-refer-vs-resources-that-are#possible-solutions]], for example. Stay tuned next week!
 
-In the trenches of academia, industry, and the World Wide Web Consortium, the Semantic Web has gotten bogged down. But hopefully we can forge a path forward. And I'd bet the old man in the cave can help us out some.
+In the trenches of academia, industry, and the World Wide Web Consortium, the Semantic Web has gotten bogged down. 
+
+I guess we should've expected it to take a while to iron the kinks out of something as ambitious as a universal data language. Still, it's been almost 25 years!
+
+But it looks to me like the time is right to forge a path forward. And I'd bet the old man in the cave can help us out.
 
 ## Likely Topics
 
