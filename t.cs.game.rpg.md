@@ -1,10 +1,17 @@
 ---
 id: 2eOv6FCWgGjiqaikEqD2s
 title: RPG
-desc: some combination of collaborative storytelling and imaginative play
-updated: 1701575151247
+desc: RPG video games
+updated: 1727287417997
 created: 1635660825055
 ---
 
+- different-from: [[t.role-playing.games]]
 
-- [[c.Resource.List]] https://libregamewiki.org/Role-playing_games
+## Thoughts
+
+- RPG has somehow become a cliche that involves very little role-playing
+
+## Resources
+
+- https://libregamewiki.org/Role-playing_games

@@ -2,7 +2,7 @@
 id: 63gcpekfcbvzxyil899kwkd
 title: The Old Man in the Cave (s05e07)
 desc: ''
-updated: 1726264651003
+updated: 1727296093613
 created: 1726078989718
 ---
 
@@ -13,6 +13,11 @@ created: 1726078989718
 ## Quotes
 
 - Goldsmith: "All the compassion that's left on this earth is in that cave."
+- Jason: "My god! My dear god... It's a machine."
+
+![](/assets/images/2024-09-25-13-25-08.png)
+
+![](/assets/images/2024-09-13-16-11-46.png)
 
 
 ## References

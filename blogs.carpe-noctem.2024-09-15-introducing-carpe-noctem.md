@@ -2,13 +2,13 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: 'Introducing... Carpe Noctem'
 desc: "An Explorer's Guide to Collaborative Imagination"
-updated: 1727281264134
+updated: 1727287777542
 created: 1725171371808
 ---
 
 ## An Explorer's Guide to Collaborative Imagination
 
-Good evening from [[the ol' Magic Store|idea.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a role-player, and I'm on a mission to help people deconstruct, remix, and engage with the multiverse, leaving good stories in the wake.
+Good evening from [[the ol' Magic Store|idea.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a role-player, and I'm on a mission to help people build, deconstruct, remix, and engage with the multiverse, leaving good stories in the wake.
 
 ## What's This All About, Then?
 
