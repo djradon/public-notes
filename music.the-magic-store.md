@@ -2,12 +2,17 @@
 id: 3vo58d0zyt05elqcfuli1zz
 title: The Magic Store
 desc: ''
-updated: 1726377891833
+updated: 1727261973388
 created: 1725465477223
 ---
 
 - created: 1979?
 - composed-for: [[video.the-muppet-movie]]
+- composed-by: @paul-williams
+
+## Description
+
+- "At the beginning of the movie, Bernie the Agent describes Hollywood as "the Dream Factory, the Magic Store". So this song is a callback to that line."
 
 ## Lyrics
 
