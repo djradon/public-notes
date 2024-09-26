@@ -1,21 +1,19 @@
 ---
 id: pk8PcdWdd5M38WncZRnzN
-title: Now (Private)
-desc: ''
-updated: 1726339943916
+title: Now
+desc: 'current projects'
+updated: 1727386665479
 created: 1633726718681
 ---
 
 ## Static Site Generation
 
-- self-hosted blogs to get feet wet
-- eventual goal of [[sh.compnts.semantic-site-generator]]
+- host ontologies and linked data on github
+  - decide on directory structure
 
-## Semantic Web Revolution
+## Semantic Web Reboot
 
+- relator-based linked data
 - how to do multi-level
 - choose a [[t.km.ontology.upper]] or start rolling own
-
-## dj radon's wiki
-
-- merge classes
+- [[proj.tomitc.drafts.solving-httprange-14-with-the-link-tag]]

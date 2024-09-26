@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727358967319
+updated: 1727390238753
 created: 1725171371808
 ---
 
@@ -12,13 +12,11 @@ Good evening from [[the ol' Magic Store|idea.electric-magic-store]]: Los Angeles
 
 ## What's This All About, Then?
 
-*Carpe Noctem* (loosely translated as "harvest the night") will be a series of notes, letters, and articles about [[collaborative storytelling|t.storytelling.collaborative]], [[game studies|t.rec.game.studies]], and [[computer-assisted role-playing (CARP)|t.roleplaying.computer-assisted]].
+*Carpe Noctem* (loosely translated as "harvest the night") will be a series of notes, letters, and articles primarily about [[collaborative storytelling|t.storytelling.collaborative]], [[game studies|t.rec.game.studies]], and [[computer-assisted role-playing (CARP)|t.roleplaying.computer-assisted]].
 
 You can think of CARP as digital Dungeons & Dragons, but any setting will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning.
 
-Closely-related art forms include [[interactive storytelling|t.storytelling.interactive]], [[interactive drama|t.drama.interactive]], [[interactive fiction|t.storytelling.fiction.interactive]] and [[live-action role-play|t.roleplaying.live-action-larp]] (LARP). 
-
-When done well, improvisational and social role-playing (in whatever form) become [[collaborative storytelling|t.storytelling.collaborative]]. 
+Closely-related art forms include [[interactive storytelling|t.storytelling.interactive]], [[interactive drama|t.drama.interactive]], [[interactive fiction|t.storytelling.fiction.interactive]] and [[live-action role-play|t.roleplaying.live-action-larp]] (LARP). When done well, improvisational and social role-playing (in whichever form) become [[collaborative storytelling|t.storytelling.collaborative]]. 
 
 Right now, this new medium looks and plays a lot like drama club meets primitive video games. Which is great. Beautiful, even! I hope we'll always have "retro-carp" as an option.
 
@@ -54,7 +52,7 @@ I also intend to take little bites of philosophy, psychology, literary theory, a
 
 Eight quick years ago I was blessed to get in on the ground floor of a four-player, geographically-distributed Dungeons & Dragons campaign. 
 
-Even if you've never tried it, you probably know that classic "pen and paper" D&D involves folks role-playing characters in a fantasy setting, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. 
+Even if you've never tried it, you probably know that classic "[[pen and paper|t.roleplaying.pen-and-paper]]" roleplaying involves folks "inhabit" characters in a fantasy setting, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. 
 
 Our campaign uses a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]], was set in the [[t.rec.dungeons-and-dragons.forgotten-realms]], and was based on a well-known adventure module called [[superwork.dungeons-and-dragons.storm-kings-thunder]]. 
 

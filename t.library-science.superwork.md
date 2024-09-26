@@ -2,9 +2,13 @@
 id: 46dpthl5tvubjfalrk28row
 title: Superwork
 desc: ''
-updated: 1726244010319
+updated: 1727376833638
 created: 1724348828961
 ---
+
+## Definition
+
+- an overarching collection that includes or is related to multiple individual works
 
 ## Thoughts
 

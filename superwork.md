@@ -1,8 +1,8 @@
 ---
 id: 4qppc4bpj9d3and3abrlvty
 title: Superworks
-desc: ''
-updated: 1725905375112
+desc: 'an overarching collection that includes or is related to multiple individual works'
+updated: 1727376784292
 created: 1725467377954
 ---
 

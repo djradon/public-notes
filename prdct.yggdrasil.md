@@ -3,7 +3,7 @@ id: v9gc1rzp1toqqdn99n4cb0j
 title: Yggdrasil
 desc: >-
   A framework for programming distributed hypermedia environments for autonomous agents.
-updated: 1724183778166
+updated: 1727375978112
 created: 1712555355383
 ---
 
@@ -35,6 +35,9 @@ websub package
 
 This package contains the "HTTP Notification" module. It sends real-time notifications about artifacts' observable property updates or signal firings, as requested by the CArtAgO component. It also sends alerts about changes in the system state, such as entity creations, deletions, and updates, as requested by the HTTP Server component. The class implementing this functionality is the "HttpNotificationVerticle" one. This module implements the "WebSub" protocol for sending notifications to subscribers, a web recommendation for publish-subscribe communication over the Web. A registry of all subscribers is then needed, and the "NotificationSubscriberRegistry" class contains it.
 
+## the name
+
+-  In Norse mythology, Yggdrasil is the tree that connects multiple realms.
 
 ## References
 
