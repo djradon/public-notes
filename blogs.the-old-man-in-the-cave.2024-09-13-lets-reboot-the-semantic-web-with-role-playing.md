@@ -1,8 +1,8 @@
 ---
 id: s5z9wyb92268nr1b0cyl20n
-title: "Let's Reboot the Semantic Web with Role-Playing"
-desc: "I'd bet the Old Man in the Cave can help us out some."
-updated: 1727299022646
+title: Let's Reboot the Semantic Web with Role-Playing
+desc: I'd bet the Old Man in the Cave can help us out some.
+updated: 1727366230719
 created: 1726095395686
 ---
 
@@ -16,21 +16,23 @@ created: 1726095395686
 
 Welcome to my developer journal. 
 
-I'm on a mission to help people build, deconstruct, remix, and engage with the [[multiverse|t.multiverse]] through [[interactive drama|t.drama.interactive]].
+I'm on a mission to help people build, deconstruct, remix, and engage with the [[multiverse|t.multiverse]] through something like [[computer-assisted role-play (CARP)|t.roleplaying.computer-assisted]], [[the metaverse|t.cs.metaverse]] [[t.storytelling.collaborative]]. 
 
-The vision is accessible virtual realities (in the broadest sense) worthy of our engagement and the continued development of the corresponding new-ish artform, [[computer-assisted role-play (CARP)|t.role-playing.computer-assisted]], that weaves together aspects of film, video games, role-playing games, and immersive theatre.
+The dream is accessible alternate realities that draw on our collective cultural history and are worthy of our engagement. I don't love the word, but you could think of it as [[t.cs.metaverse]] Anyone can play, anyone can create, and the experience is meaningful and worthwhile.
 
-I like to think of it as [[idea.the-magic-store]] gone digital. In additional to imagination, production skills, and artistry, it will require distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
+It'll be made possible by a corresponding, new-ish artform. Call it digital adventure production, role-playing experience curation, or [[the electric magic store|idea.electric-magic-store]]. It weaves together aspects of film, video games, immersive theatre, and role-playing gaming. It will be the spiritual successor of today's [[virtual tabletops|t.roleplaying.virtual-tabletop]].
 
-So in addition to my main public mission to map out the conceptual landscape of [[computer-assisted role-play|t.role-playing.computer-assisted]] here, I have a technical side-quest to reboot the Semantic Web. 
+In additional to imagination, artistry, and production skills, this dream require distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
+
+So in addition to my main mission to make this dream a reality, I have a technical side-quest to reboot the Semantic Web. 
 
 ## Spoiler Alert: It's a Machine
 
 In the eponymous Twilight Zone episode from 1959, the old man in the cave is secretly a computer that keeps the local townsfolk alive by giving them the information they need (through an intermediary, their leader Goldsmith) to survive in a radioactive, post-apocalyptic world. They end up destroying the computer in the name of freedom, and then everyone except Goldsmith dies of radiation poisoning. 
 
-It's a story about secular faith and a nice example of the [[t.story-telling.tropes.benevolent-ai]] trope.
+It's a story about secular faith and a nice example of the [[t.storytelling.tropes.benevolent-ai]] trope.
 
-So in the context of this developer journal, the Old Man is a metaphor for synthetic intelligence and how we can use digitized information to help humanity.
+In the context of this developer journal, the Old Man is a metaphor for synthetic intelligence and how we can use digital tools and digitized information to help humanity.
 
 ## Making the Semantic Web Usable
 
@@ -53,7 +55,7 @@ With the current state of the art, publishing **any** semantic data is still har
 
 I've got some ideas for how to make data publishing free and easy for everyone. So that should help usability.
 
-To make published data useful, we'll need to address some long-simmering issues around RDF expressivity: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
+To make published data useful, we'll need to address some long-simmering issues around RDF expressivity: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
 
 Don't even get me started on the state of [[prdct.RDF-star]].
 
@@ -63,11 +65,11 @@ In the trenches of academia, industry, and the World Wide Web Consortium, the Se
 
 I guess we should've expected it to take a while to iron the kinks out of something as ambitious as a universal data language. Still, it's been almost 25 years!
 
-But it looks to me like the time is right to forge a path forward. And I'd bet the old man in the cave can help us out.
+The time is right to forge a path forward. And I'd bet the old man in the cave can help us out.
 
 ## Likely Topics
 
-At the moment, I'm especially interested in role-playing *data modeling* and how to represent things like characters, stories, and evolving worlds. To that end, I'll be writing about [[applied ontology|t.km.ontology.applied]], [[linked data|t.cs.data.linked]], [[semantic methodologies|c.methodology.semantic-web]], virtual reality, and [[geographic information systems|t.cs.gis]]
+At the moment, I'm especially interested in role-playing *data modeling* and how to represent things like characters, stories, and evolving worlds. To that end, I'll be writing about [[applied ontology|t.km.ontology.applied]], [[Semantic Web methodologies|c.methodology.semantic-web]], and [[geographic information systems|t.cs.gis]]
 
 In the near term, I'm hoping to develop some upper-level and meta-conceptualizations, i.e., ontologies, with related best practices, and weave together some publishing infrastructure.
 
@@ -77,7 +79,7 @@ I intend to touch on related topics in [[data science|t.cs.data.science]] and [[
 
 ## Next Steps
 
-If you might be interested in the less-technical aspects of my mission, or [[story-telling|t.story-telling]] and the [[digital humanities|t.humanities.digital]] in general, check out my other blog, [Carpe Noctem]().
+If you might be interested in the less-technical aspects of my mission, or [[story-telling|t.storytelling]] and the [[digital humanities|t.humanities.digital]] in general, check out my other blog, [Carpe Noctem]().
 
 In any case, I'm looking to make connections that could lead to collaboration. If our interests overlap, please reach out!
 

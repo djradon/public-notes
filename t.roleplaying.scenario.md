@@ -1,7 +1,7 @@
 ---
 id: h7vbltov655nkkr6eg39tsl
 title: Scenario
-desc: 'a narrative framework'
+desc: a narrative framework
 updated: 1725661946715
 created: 1725642980716
 ---

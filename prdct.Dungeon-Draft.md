@@ -8,4 +8,4 @@ created: 1635663789552
 
 - [[c.software.rpg]]
 - [[p.hasURL]] https://dungeondraft.net/
-- [[p.hasApplication]] [[t.role-playing.map-making]]
+- [[p.hasApplication]] [[t.roleplaying.map-making]]

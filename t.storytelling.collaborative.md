@@ -1,6 +1,6 @@
 ---
 id: 6asj3x3t8lolgk0qq1h2jw9
-title: Collaborative Storytelling
+title: Collaborative Story-Telling
 desc: ''
 updated: 1727366166047
 created: 1675355066246

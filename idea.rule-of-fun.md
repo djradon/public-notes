@@ -15,4 +15,4 @@ created: 1671536578791
       - [[p.provokedThoughts]] 
         - [[game.odyssey]] captures the brutality nicely
         - maybe a little more strategy that just fight or run
-- [[t.story-telling.fiction.interactive]] might not be fun because reading isn't fun; not to mention the open-world tension
+- [[t.storytelling.fiction.interactive]] might not be fun because reading isn't fun; not to mention the open-world tension

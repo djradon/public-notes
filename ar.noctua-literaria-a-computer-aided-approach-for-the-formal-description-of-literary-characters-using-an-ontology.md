@@ -12,7 +12,7 @@ created: 1724362626209
   - https://pub.uni-bielefeld.de/download/2301795/2301798/diss_08_06_08.pdf
 - author: @amelie-zollner-weber
 - mentions: [[prdct.racer]]
-- topices: [[t.humanities.digital]] [[t.story-telling.character]]
+- topices: [[t.humanities.digital]] [[t.storytelling.character]]
 
 ## Abstract
 
@@ -38,7 +38,7 @@ persons in fiction, but a complex of letters and sense in a reader’s mind."
   - flat: few features and consisting of a simple structure
   - round: more complex and have more Information
     - can be modified during the plot, so it might be difficult to describe it briefly
-- [[t.story-telling.character.greimas-six-actants]]
+- [[t.storytelling.character.greimas-six-actants]]
 - @roland-barthes defines general parts of narration, for example functions and indices.
   - functions
 are mostly plot related, whereas the indices can refer to characters and their features.
@@ -52,7 +52,7 @@ characters, according to general features, like the social status or sex.
 - @fotis-jannidis's approach is based on theories belonging to linguistic and cognitive science oriented literature studies
   - is interested in the process of collecting information from different text sections and arranging them as a unit, which represents a character.
   - features or the actions of a character can be a part of more general problems or patterns. The last aspect comprises the attitude of a reader and the reader steering by a character
-  - proposed [[t.story-telling.narratology.jannidis-three-levels]]
+  - proposed [[t.storytelling.narratology.jannidis-three-levels]]
   - Jannidis’s approach does not afford a deep categorisation of character features, rather, its value lies on the description of the process by which signals in a story can lead to a detection and collection of attributes
 
 #### A Character Taxonomy (Nieragden)
@@ -68,7 +68,7 @@ to similar aspects of human beings
     - Descriptions and comments (“Which characters judge others?”) are regarded as static elements because they do not move the plot further along, and mark stops in the narrated time.
     - The dynamic mode contains speech and reports (“Which characters initiate action?”)
     - The categories are not isolated from each other. For example, a character description given in a speech of a character can belong to more than a single category.
-- adopts @seymour-chatman's [[t.story-telling.narratology.chatmans-three-levels-of-narrative]]
+- adopts @seymour-chatman's [[t.storytelling.narratology.chatmans-three-levels-of-narrative]]
 
 ### Information Modelling and Representation
 

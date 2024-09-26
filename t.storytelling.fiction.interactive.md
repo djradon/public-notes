@@ -1,7 +1,7 @@
 ---
 id: 0isdkx5l3u5m5ykuenmx6o9
 title: Interactive Fiction
-desc: 'a computer program with some story and some game in it'
+desc: a computer program with some story and some game in it
 updated: 1727212405753
 created: 1714079925333
 ---

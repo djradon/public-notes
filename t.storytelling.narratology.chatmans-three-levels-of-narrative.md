@@ -6,7 +6,7 @@ updated: 1726244596040
 created: 1724367743769
 ---
 
-- similar: [[t.story-telling.narratology.jannidis-three-levels]]
+- similar: [[t.storytelling.narratology.jannidis-three-levels]]
 
 ## chatgpt.4o
 

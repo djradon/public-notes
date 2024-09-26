@@ -1,10 +1,17 @@
 ---
 id: qb43f3kavq5pgnw967mbmgz
-title: Role Playing
+title: Roleplaying
 desc: ''
-updated: 1725464222760
+updated: 1727325498698
 created: 1725453395314
 ---
+
+## Description
+
+- broadly construed, includes acting, role-playing gaming, and some kinds of therapy, training, and education
+- can be social, but doesn't have to be
+
+![[t.drama.interactive#role-playing-vs-interactive-drama]]
 
 ## Examples
 
@@ -18,6 +25,6 @@ created: 1725453395314
     - not-serious: 
   - pretending axis:
 
-### RPGs
+### "RPGs"
 
-
+see [[t.cs.game.rpg]]

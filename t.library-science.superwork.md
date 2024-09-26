@@ -8,4 +8,4 @@ created: 1724348828961
 
 ## Thoughts
 
-- often have a single [[t.story-telling.setting]], but on the fringes, can cross into/merge other settings
+- often have a single [[t.storytelling.setting]], but on the fringes, can cross into/merge other settings

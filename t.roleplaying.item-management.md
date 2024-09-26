@@ -6,5 +6,5 @@ updated: 1673893027931
 created: 1650072741670
 ---
 
-- [[p.comparableTo]] [[t.role-playing.inventory-management]]
+- [[p.comparableTo]] [[t.roleplaying.inventory-management]]
   - inventory is player-focused; the DM has a bigger challenge

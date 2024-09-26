@@ -11,4 +11,4 @@ created: 1673903267809
 
 ## [[p.provokedThoughts]]
 
-- theoretically, in-game characters don't know of the [[t.role-playing.oog]] world, but that can be seen as a challenge of authentic acting
+- theoretically, in-game characters don't know of the [[t.roleplaying.oog]] world, but that can be seen as a challenge of authentic acting

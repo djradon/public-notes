@@ -1,32 +1,32 @@
 ---
 id: 4ndmblmh5zuf09cx5rgw0k1
-title: 'Introducing... Carpe Noctem'
-desc: "An Explorer's Guide to Collaborative Imagination"
-updated: 1727287777542
+title: Introducing... Carpe Noctem
+desc: An Explorer's Guide to Collaborative Imagination
+updated: 1727358967319
 created: 1725171371808
 ---
 
 ## An Explorer's Guide to Collaborative Imagination
 
-Good evening from [[the ol' Magic Store|idea.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a role-player, and I'm on a mission to help people build, deconstruct, remix, and engage with the multiverse, leaving good stories in the wake.
+Good evening from [[the ol' Magic Store|idea.electric-magic-store]]: Los Angeles, California. I'm a creative technologist and a role-player, and I'm on a mission to help people build, deconstruct, remix, and engage with the multiverse, leaving good stories in their wake.
 
 ## What's This All About, Then?
 
-*Carpe Noctem* (loosely translated as "harvest the night") will be a series of notes, letters, and articles about [[collaborative storytelling|t.story-telling.collaborative]], [[game studies|t.rec.game.studies]], and [[computer-assisted role-playing (CARP)|t.role-playing.computer-assisted]].
+*Carpe Noctem* (loosely translated as "harvest the night") will be a series of notes, letters, and articles about [[collaborative storytelling|t.storytelling.collaborative]], [[game studies|t.rec.game.studies]], and [[computer-assisted role-playing (CARP)|t.roleplaying.computer-assisted]].
 
 You can think of CARP as digital Dungeons & Dragons, but any setting will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning.
 
-Closely-related art forms are [[interactive storytelling|t.story-telling.interactive]], [[interactive drama|t.drama.interactive]] and [[interactive fiction|t.story-telling.fiction.interactive]]. 
+Closely-related art forms include [[interactive storytelling|t.storytelling.interactive]], [[interactive drama|t.drama.interactive]], [[interactive fiction|t.storytelling.fiction.interactive]] and [[live-action role-play|t.roleplaying.live-action-larp]] (LARP). 
 
-When done well, improvisational and social role-playing (in whatever form) become [[collaborative storytelling|t.story-telling.collaborative]]. 
+When done well, improvisational and social role-playing (in whatever form) become [[collaborative storytelling|t.storytelling.collaborative]]. 
 
-Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix collaboration, player choice (i.e., an open-ish world), role-playing, and the principles of good gaming, and somehow get a great story out of it. 
+Right now, this new medium looks and plays a lot like drama club meets primitive video games. Which is great. Beautiful, even! I hope we'll always have "retro-carp" as an option.
+
+Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix player choice (i.e., an open-ish world), collaborative role-playing, and the principles of good gaming, and somehow get a great story out of it. 
 
 The other half of the dream is making the creation and enjoyment of these collaborative, interactive, role-playing experiences accessible to everyone.
 
 So I want to explore prior art, theory, and the latest innovations around how computers can connect, entertain, and empower us [[without sucking out the creativity, imagination, and fun|ar.screenrant.dnd-ai-controversy-dungeons-and-dragons-fans-hasbro]].
-
-Right now, this new medium looks and plays a lot like drama club meets primitive video games. Which is great. Beautiful, even! I hope we'll always have "retro-carp" as an option.
 
 But role-playing and other forms of interactive drama will continue to get more accessible, inclusive, create-able, and re-mixable. And there's certainly potential for much more elaborate and cinematic experiences if that appeals.
 
@@ -46,7 +46,7 @@ Intellectually and practically speaking, conceptual modelling is a gold mine. Tw
 
 ### Other Topics
 
-I also intend to take little bites of philosophy, psychology, literary theory, and library science. So things like [[narratology|t.story-telling.narratology]], [[theories of creativity|t.phil.creativity]], and the [[philosophy of fictional entities|t.phil.fiction.entities]]. (Spoiler alert: They're all real.)
+I also intend to take little bites of philosophy, psychology, literary theory, and library science. So things like [[narratology|t.storytelling.narratology]], [[theories of creativity|t.phil.creativity]], and the [[philosophy of fictional entities|t.phil.fiction.entities]]. (Spoiler alert: They're all real.)
 
 ## It all started around a gypsy caravan campfire...
 
@@ -56,11 +56,11 @@ Eight quick years ago I was blessed to get in on the ground floor of a four-play
 
 Even if you've never tried it, you probably know that classic "pen and paper" D&D involves folks role-playing characters in a fantasy setting, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. 
 
-Our campaign uses a [[virtual tabletop|t.role-playing.virtual-tabletop]] called [[prdct.roll20]], was set in the [[t.rec.dungeons-and-dragons.forgotten-realms]], and was based on a well-known adventure module called [[superwork.dungeons-and-dragons.storm-kings-thunder]]. 
+Our campaign uses a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]], was set in the [[t.rec.dungeons-and-dragons.forgotten-realms]], and was based on a well-known adventure module called [[superwork.dungeons-and-dragons.storm-kings-thunder]]. 
 
 (For those who aren't familiar, the Forgotten Realms is without doubt one of the richest fictional worlds ever elaborated, with its own detailed [geography](https://forgottenrealms.fandom.com/wiki/Portal:Geography), [hundred of settlements](https://forgottenrealms.fandom.com/wiki/Category:Settlements), [dozens of deities](https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/), and a truly [fantastical history](https://forgottenrealms.fandom.com/wiki/Portal:History). The fan base is huge, so in addition to over 300 "official" published novels, close to 100 different role-playing adventure modules, and a pretty decent [[movie|video.dungeons-and-dragons-honor-among-thieves]], there are countless works of homebrew content and fan fiction.)
 
-In the hands of our highly-capable [[Game Master (GM)|t.role-playing.gm]], the campaign transcended even the vastness of the Realms, and became a bespoke, time-travelling, genre-bending, setting-spanning epic. 
+In the hands of our highly-capable [[Game Master (GM)|t.roleplaying.gm]], the campaign transcended even the vastness of the Realms, and became a bespoke, time-travelling, genre-bending, setting-spanning epic. 
 
 Perhaps the biggest challenge for us hapless players was keeping track of all the places, characters, factions, plotlines, and quests. 
 
@@ -88,7 +88,7 @@ But despite being around for 25 years, the Semantic Web hasn't caught on widely 
 
 Practically speaking, people and their software could use good conceptualizations and shared knowledge to keep track of what happens in games and stories of all kinds, in a way that other people and computers can understand. 
 
-But beyond this documentary function, the conceptualizations I'm talking about could be used by writers, creators and [[Game Masters|t.role-playing.gm]] to help create scenarios, worlds, and systems of their own that could be easily shared, adapted, and remixed. 
+But beyond this documentary function, the conceptualizations I'm talking about could be used by writers, creators and [[Game Masters|t.roleplaying.gm]] to help create scenarios, worlds, and systems of their own that could be easily shared, adapted, and remixed. 
 
 It's the "distributed, interoperable, and well-defined" vision of the Semantic Web applied to the realm of imagination. To supercharge CARP, people will need a way to share their stories and their creations.
 
@@ -138,6 +138,8 @@ Like most entertainment, role-playing gaming is often fitted in after work hours
 Writing too has its nocturnal mystique. [[user.james-baldwin]] wrote in [[book.nothing-personal]] about how the grim realizations of 4am (a "devastating hour"), could in turn be a source of strength. [[Kafka|user.franz-kafka]] wrote ruefully of sleep: "Just think how many thoughts a blanket smothers while one lies alone in bed." Proust, Plath, Fitzgerald, T.S. Eliot and George Sand are among the many writers famed to do their best work at night. 
 
 Regardless of quality, as the father of a wakeful two year old, [[night time is often write time|idea.night-time-write-time]] for me.
+
+Thanks for joining me. And good night!
 
 ![](/assets/images/2024-09-13-16-18-13.png)
 

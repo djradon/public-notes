@@ -1,7 +1,7 @@
 ---
 id: vdligrphd3nnqieslle2hhf
 title: Computer-Assisted Role-Play (CARP)
-desc: 'the artform-of-artforms'
+desc: the artform-of-artforms
 updated: 1726250702046
 created: 1673887756797
 ---

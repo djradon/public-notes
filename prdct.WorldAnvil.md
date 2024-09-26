@@ -8,7 +8,7 @@ created: 1635664151245
 
 - [[c.software.rpg]] [[c.software.rpg.campaign-manager]] [[c.software.rpg.map-maker]] 
 - [[p.hasURL]] https://www.worldanvil.com/
-- [[p.hasApplication]] [[t.role-playing.world-building]]
+- [[p.hasApplication]] [[t.roleplaying.world-building]]
 - [[p.hasCapability]] world-item management
   - Buildings
   - Characters

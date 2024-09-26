@@ -7,4 +7,4 @@ created: 1638769629407
 ---
 
 
-- [[p.hasApplication]] [[t.role-playing.campaign-management]]
+- [[p.hasApplication]] [[t.roleplaying.campaign-management]]

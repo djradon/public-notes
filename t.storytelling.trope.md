@@ -1,7 +1,9 @@
 ---
 id: mwtvy64t0ykza47re9qlsgu
 title: Trope
-desc: 'a story-telling theme, character type, plot device, or concept that is easily recognizable to audiences'
+desc: >-
+  a story-telling theme, character type, plot device, or concept that is easily
+  recognizable to audiences
 updated: 1726265322333
 created: 1726265196759
 ---

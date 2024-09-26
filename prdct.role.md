@@ -1,13 +1,13 @@
 ---
 id: pwgt2m9bbndjgwa2f74g9th
 title: Role
-desc: 'community-focused vtt'
+desc: community-focused vtt
 updated: 1727258142546
 created: 1727257945718
 ---
 
 - https://www.playrole.com/
-- [[t.role-playing.virtual-tabletop]]
+- [[t.roleplaying.virtual-tabletop]]
 - integrates-with: [[prdct.owlbear-rodeo]]
 
 ## Features
