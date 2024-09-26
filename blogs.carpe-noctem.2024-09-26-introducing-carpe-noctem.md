@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727393598158
+updated: 1727393931323
 created: 1725171371808
 ---
 
@@ -108,11 +108,11 @@ The metaverse needs something like that.
 
 ## Will AI Ruin the Fun?
 
-With the recent dramatic improvements in generative AI, we can foresee more realistic synthetic dialogue in virtual reality and video games. We can foresee less-dismaying and less-sterile synthetic artwork. And it's not too hard to imagine a near future where new innovations will support the generation of synthetic-yet-coherent characters, puzzles, worlds, stories, and experiences. 
+With the recent dramatic improvements in generative AI, we can foresee more realistic synthetic dialogue in virtual worlds and video games. We can foresee less-dismaying and less-sterile synthetic artwork. And it's not too hard to imagine a near future where new innovations will support the generation of synthetic-yet-coherent characters, puzzles, worlds, stories, and experiences. 
 
 But do we want that? 
 
-There's a very tricky tension between getting digital assistance and preserving the joy and humanity we find in the DIY crafting of traditional games and narrative. You can expect that to be one of *Carpe Noctem*'s recurring themes.
+There's a very tricky [[tension|ar.screenrant.dnd-ai-controversy-dungeons-and-dragons-fans-hasbro]] between getting digital assistance and preserving the joy and humanity we find in the DIY crafting of traditional games and narrative. You can expect that to be one of *Carpe Noctem*'s recurring themes.
 
 ## Who Are You?
 
