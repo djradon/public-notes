@@ -2,7 +2,7 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: Let's Reboot the Semantic Web with Alternate Realities
 desc: I'd bet the Old Man in the Cave can help us out some.
-updated: 1727390169715
+updated: 1727392809438
 created: 1726095395686
 ---
 
@@ -28,9 +28,9 @@ In the context of this developer journal, the Old Man is a metaphor for syntheti
 
 I'm on a mission to help people build, deconstruct, remix, and engage with the [[cultural multiverse|t.multiverse]] through [[computer-assisted roleplay|t.roleplaying.computer-assisted]], [[interactive drama|t.drama.interactive]], and [[applied ontology|t.km.ontology.applied]]. 
 
-The dream: accessible alternate realities that draw on our collective cultural history and inspire our engagement. Anyone can create, anyone can play, and the experience can easily be meaningful and immersive. It might look like a story-driven version of the [[t.cs.metaverse]], although [[I do not love that term|t.cs.metaverse#^pdbekjzfr2l0]]. But it could also look like [[improv theater|t.drama.theater.improvisational]] or [[pen-and-paper roleplaying|t.roleplaying.pen-and-paper]], perhaps with software listening unobtrusively, documenting and ready to assist.
+The dream: playable alternate realities that draw on our collective cultural history and inspire our engagement. Anyone can create, anyone can play, and the experience can easily be meaningful and immersive. It might look like a story-driven version of the [[metaverse|t.cs.metaverse]], although [[I do not love that term|t.cs.metaverse#^pdbekjzfr2l0]]. But it could also look like [[improv theater|t.drama.theater.improvisational]] or [[pen-and-paper roleplaying|t.roleplaying.pen-and-paper]], perhaps with software listening inobtrusively, documenting and ready to assist.
 
-It'll be made possible by a corresponding, new-ish artform. Call it digital adventure production, roleplay experience curation, or [[the electric magic store|idea.electric-magic-store]]. It weaves together aspects of film, video games, immersive theatre, and role-playing gaming. It will be the spiritual successor of today's [[virtual tabletops|t.roleplaying.virtual-tabletop]].
+It'll be made possible by a corresponding, new-ish art form. Call it digital adventure production, roleplay experience curation, or [[the electric magic store|idea.electric-magic-store]]. It weaves together aspects of film, video games, immersive theatre, and role-playing gaming, and is the spiritual successor of today's [[virtual tabletops|t.roleplaying.virtual-tabletop]].
 
 In additional to imagination, artistry, and production skills, this dream requires distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
 
