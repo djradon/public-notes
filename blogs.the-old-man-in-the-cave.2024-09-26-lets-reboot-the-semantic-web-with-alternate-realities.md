@@ -2,9 +2,11 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: Let's Reboot the Semantic Web with Alternate Realities
 desc: I'd bet the Old Man in the Cave can help us out.
-updated: 1727398972798
+updated: 1727421142091
 created: 1726095395686
 ---
+
+*I'd bet the Old Man in the Cave can help us out.*
 
 ![](/assets/images/2024-09-13-16-11-46.png)
 
@@ -14,7 +16,7 @@ created: 1726095395686
 
 ## Greetings
 
-Welcome to my developer journal! I've been wanting to try [[learning in public|t.edu.learning-in-public]], and I hope this thing will boost my motivation, improve my writing, and put a finer point on some of my ideas. I'm also looking to make connections that could lead to collaboration. So here we are.
+Welcome to my developer journal! I've been wanting to try [[learning in public|t.edu.learning-in-public]] and I hope this thing will boost my motivation, improve my writing, and put a finer point on some of my ideas. I'm also looking to make connections that could lead to collaboration. So here we are.
 
 ## Spoiler Alert: It's a Machine
 
@@ -28,11 +30,11 @@ In the context of this developer journal, the Old Man is a metaphor for syntheti
 
 I'm on a mission to help people build, deconstruct, remix, and engage with the [[cultural multiverse|t.multiverse]] through [[computer-assisted roleplay|t.roleplaying.computer-assisted]], [[interactive drama|t.drama.interactive]], and [[applied ontology|t.km.ontology.applied]]. 
 
-The dream: playable alternate realities that draw on our collective cultural history and inspire our engagement. Anyone can create, anyone can play, and the experience can easily be meaningful and immersive. It might look like a story-driven version of the [[metaverse|t.cs.metaverse]], although [[I do not love that term|t.cs.metaverse#^pdbekjzfr2l0]]. But it could also look like [[improv theater|t.drama.theater.improvisational]] or [[pen-and-paper roleplaying|t.roleplaying.pen-and-paper]], perhaps with software listening inobtrusively, documenting and ready to assist.
+The dream: playable alternate realities that draw on our collective cultural history and inspire our engagement. Anyone can create, anyone can play, and the experience can easily be meaningful and immersive. It might look like a drama-filled version of the [[metaverse|t.cs.metaverse]], although [[I do not love that term|t.cs.metaverse#^pdbekjzfr2l0]]. But it could also look like [[improv theater|t.drama.theater.improvisational]] or [[pen-and-paper roleplaying|t.roleplaying.pen-and-paper]], perhaps with software listening inobtrusively, documenting and ready to assist.
 
-It'll be made possible by a corresponding, new-ish art form. Call it digital adventure production, roleplay experience curation, or [[the electric magic store|idea.electric-magic-store]]. It weaves together aspects of film, video games, immersive theatre, and role-playing gaming, and is the spiritual successor of today's [[virtual tabletops|t.roleplaying.virtual-tabletop]].
+It'll be made possible by a corresponding, new-ish art form. Call it digital adventure production, roleplay experience curation, or [[the electric magic store|idea.electric-magic-store]]. It will weave together aspects of film, video games, immersive theatre, and role-playing gaming, and is the spiritual successor of today's [[virtual tabletops|t.roleplaying.virtual-tabletop]].
 
-In additional to imagination, artistry, and production skills, this dream requires distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
+In additional to imagination, artistry, production skills, and lots of new software, this dream requires distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
 
 So in addition to my main mission to make this dream a reality, I have a technical side-quest to reboot the Semantic Web. 
 
@@ -47,7 +49,7 @@ The threads of the Semantic Web are [[prdct.rdf]] statements composed of a subje
 :goldsmith :helped :the-townsfolk .
 ```
 
-Theoretically, you can say anything with these subject-predicate-object triples, i.e., a graph-based universal data language. But of course, the devil is in the details.
+Theoretically, you can say anything with an interlinked collection of subject-predicate-object triples. It's a graph-based universal data language. But of course, the devil is in the details.
 
 I want to heed [[Manu Sporny|user.manu-sporny]]'s 2014 [[call-to-arms|ar.json-ld-and-why-i-hate-the-semantic-web]]: "If you want to make the Semantic Web a reality, stop making the case for it and spend your time doing something more useful, like actually making machines smarter or helping people publish data in a way that’s useful to them." 
 
@@ -57,7 +59,7 @@ With the current state of the art, publishing **any** semantic data, let alone u
 
 I've got some ideas for how to make data publishing free and easy for everyone. So that should help usability.
 
-To make the data useful, we'll need to address some long-simmering issues around RDF expressivity and context: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
+To make the data useful, we'll need to address some long-simmering issues around RDF expressivity: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
 
 Don't even get me started on the state of [[prdct.RDF-star]].
 

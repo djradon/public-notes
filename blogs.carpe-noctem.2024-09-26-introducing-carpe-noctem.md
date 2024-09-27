@@ -2,9 +2,11 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727419946820
+updated: 1727420510581
 created: 1725171371808
 ---
+
+*An Explorer's Guide to Collaborative Imagination*
 
 ![](/assets/images/2024-09-26-17-40-04.png)
 
@@ -14,8 +16,6 @@ created: 1725171371808
 > Allegra: It's like real life. There's just enough to make it interesting.
 >
 > -[[video.existenz]] (1999)
-
-## An Explorer's Guide to Collaborative Imagination
 
 Good evening from [[the ol' Magic Store|music.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a roleplayer, and I'm on a mission to help people build, deconstruct, remix, and engage with the [[cultural multiverse|t.multiverse]], hopefully leaving good stories in the wake.
 
