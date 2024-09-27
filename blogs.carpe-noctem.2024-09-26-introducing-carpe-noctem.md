@@ -2,9 +2,18 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727397281643
+updated: 1727414028137
 created: 1725171371808
 ---
+
+![](/assets/images/2024-09-26-17-40-04.png)
+
+
+> Ted: Free will is obviously not a big factor in this little world of ours.
+> 
+> Allegra: It's like real life. There's just enough to make it interesting.
+>
+> -[[video.existenz]] (1999)
 
 ## An Explorer's Guide to Collaborative Imagination
 
@@ -12,19 +21,17 @@ Good evening from [[the ol' Magic Store|music.the-magic-store]]: Los Angeles, Ca
 
 ## What's This All About, Then?
 
-*Carpe Noctem* (loosely translated as "harvest the night") will be a series of articles and letters primarily about [[collaborative storytelling|t.storytelling.collaborative]], [[game studies|t.rec.game.studies]], [[alternate realities|t.storytelling.alternate-reality]] and [[computer-assisted roleplaying (CARP)|t.roleplaying.computer-assisted]].
+*Carpe Noctem* (loosely translated as "harvest the night") will be a series of articles and letters primarily about [[digital storytelling|t.storytelling.digital]], [[good gaming|t.rec.game.principles]], [[alternate realities|t.storytelling.alternate-reality]] and [[computer-assisted roleplaying (CARP)|t.roleplaying.computer-assisted]].
 
-You can think of CARP as digital Dungeons & Dragons, but any setting will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning.
+You can think of CARP as digital Dungeons & Dragons, but any setting will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning. When done well, improvisational and social roleplaying (in whatever form) become [[collaborative storytelling|t.storytelling.collaborative]]. 
 
-Closely-related art forms include [[interactive storytelling|t.storytelling.interactive]], [[interactive drama|t.drama.interactive]], [[interactive fiction|t.storytelling.fiction.interactive]] and [[live-action roleplay|t.roleplaying.live-action-larp]] (LARP). When done well, improvisational and social roleplaying (in whichever form) become [[collaborative storytelling|t.storytelling.collaborative]]. 
+Right now, CARP looks and plays a lot like drama club meets primitive video games. Which is great. Beautiful, even! I'm glad we'll always have "retro-carp" as an option.
 
-Right now, CARP looks and plays a lot like drama club meets primitive video games. Which is great. Beautiful, even! I hope we'll always have "retro-carp" as an option.
+Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix player freedom (i.e., an open-ish world) with the [[principles of good gaming|t.rec.game.principles]], and somehow get a great story out of it. And there's certainly potential for much more elaborate and cinematic stories, if that appeals. If you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream become a nightmare.
 
-Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix player choice (i.e., an open-ish world) with the [[principles of good gaming|t.rec.game.principles]], and somehow get a great story out of it. And there's certainly potential for much more elaborate and cinematic experiences, if that appeals. If you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream become a nightmare.
+The other half of the dream is using technology to make the enjoyment of these collaborative, immersive experiences accessible to everyone, and to make their creation accessible to [[those who are not programmers, but who would love to conjure|t.cs.sd.barefoot-developers]] alternate realities and computer-assisted role-playing scenarios.
 
-The other half of the dream is using technology to make the enjoyment of these collaborative, immersive experiences accessible to everyone, and to make their creation accessible to [[those who are not programmers, but who would love to conjure|t.cs.sd.barefoot-developers]] alternate realities and computer-aided role-playing scenarios.
-
-It's going to be wild!
+If it happens, it's going to be wild!
 
 ### Modeling the Imaginary
 
@@ -40,67 +47,78 @@ Intellectually and practically speaking, conceptual modelling is a gold mine. Tw
 
 ### Other Topics
 
+Closely-related art forms include [[interactive storytelling|t.storytelling.interactive]], [[interactive drama|t.drama.interactive]], [[interactive fiction|t.storytelling.fiction.interactive]] and [[live-action roleplay|t.roleplaying.live-action-larp]] (LARP). 
+
 I also intend to take little bites of philosophy, psychology, literary theory, and library science. So things like [[narratology|t.storytelling.narratology]], [[theories of creativity|t.phil.creativity]], and the [[philosophy of fictional entities|t.phil.fiction.entities]]. (Spoiler alert: They're all real.)
 
-## It All Started Around A Gypsy Caravan Campfire...
+![](/assets/images/2024-09-26-21-11-06.png)
 
-![](/assets/images/2024-09-13-16-43-26.png)
 
-Eight quick years ago I was blessed to get in on the ground floor of a four-player, geographically-distributed Dungeons & Dragons campaign. 
+## It All Started Around A Gypsy Caravan Campfire
 
-Even if you've never tried it, you probably know that classic "[[pen and paper roleplaying|t.roleplaying.pen-and-paper]]" involves folks "inhabiting" characters in a fantasy scenario, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. 
+Eight quick years ago I got in on the ground floor of a geographically-distributed Dungeons & Dragons game. Our crew is four players plus a multi-talented facilitator, commonly known as [[the Game Master|t.roleplaying.gm]], or GM for short.
 
-Our campaign uses a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]], was set in the [[t.rec.dungeons-and-dragons.forgotten-realms]], and was based on a well-known adventure module called [[superwork.dungeons-and-dragons.storm-kings-thunder]]. 
+Even if you've never tried it, you probably know that classic [[pen and paper roleplaying|t.roleplaying.pen-and-paper]] involves folks sitting around a table, "inhabiting" characters of their own devising in a fantasy scenario, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. The GM sets the scenes and keeps things moving.
 
-(For those who aren't familiar, the Forgotten Realms is without doubt one of the richest fictional worlds ever dreamed up, with its own detailed [geography](https://forgottenrealms.fandom.com/wiki/Portal:Geography), [hundred of settlements](https://forgottenrealms.fandom.com/wiki/Category:Settlements), [dozens of deities](https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/), and a truly [fantastical history](https://forgottenrealms.fandom.com/wiki/Portal:History). The fan base is huge, so in addition to over 300 "official" published novels, close to 100 different roleplaying adventure modules, and a pretty decent [[movie|video.dungeons-and-dragons-honor-among-thieves]], it's inspired countless works of homebrew content and fan fiction.)
+We use a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]] to host the sessions and [[prdct.google-meet]] for the comms. Our game (or "campaign" in D&D-speak) was set in a well-known alternate reality known as the [[t.rec.dungeons-and-dragons.forgotten-realms]] and we kicked things off with a popular commercial adventure scenario called [[game.storm-kings-thunder]]. 
 
-In the hands of our highly-capable [[Game Master (GM)|t.roleplaying.gm]], the campaign transcended even the vastness of the Forgotten Realms and became a bespoke, time-travelling, genre-bending epic. 
+(For those who aren't familiar, the Forgotten Realms is without doubt one of the richest fictional worlds ever called forth, with its own detailed [geography](https://forgottenrealms.fandom.com/wiki/Portal:Geography), [hundred of settlements](https://forgottenrealms.fandom.com/wiki/Category:Settlements), [dozens of deities](https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/), and a truly [fantastical history](https://forgottenrealms.fandom.com/wiki/Portal:History). The fan base is huge, so in addition to over 300 "official" published novels, close to 100 different roleplaying adventure modules, and a pretty decent [[movie|video.dungeons-and-dragons-honor-among-thieves]], it's inspired countless works of homebrew content and [fan fiction](https://www.fanfiction.net/book/Forgotten-Realms/).)
 
-Perhaps the biggest challenge for us hapless players was keeping track of all the places, characters, factions, plotlines, and quests. 
+In the hands of our highly-capable [[GM|t.roleplaying.gm]], the campaign transcended even the vastness of the Forgotten Realms and became a bespoke, time-travelling, genre-bending epic. 
+
+Perhaps the biggest challenge for us hapless players was keeping track of all the items, places, characters, factions, plotlines, and quests we came across. 
 
 So I started an "as-we-played" written narrative, frantically transcribing memorable dialog, summarizing battles, and generally documenting our adventures from the perspective of my character, an axe-wielding barbarian. After our sessions, I would email these summaries to my eager and grateful crew. 
 
 It was a great opportunity to flex my writing skills.
 
-It also allowed me to experiment with different narrative styles and forms. My summaries evolved from a lengthy Google Doc into an interlinked wiki where I've been trying to encode the relationships between characters, places, items, locations, and achievements. It was essentially a semantic web: a textual network of inter-linked concepts, entities, and happenings.
+It also allowed me to experiment with different narrative styles and forms. My summaries evolved from simple text into an interlinked wiki where I've been trying to capture the relationships between places, characters, etc. It was essentially a semantic web: a textual network of inter-linked concepts, entities, and happenings.
 
-And it helped me realize that roleplaying gaming and alternate realities in general could benefit from some good conceptual modeling.
+And it helped me realize that roleplaying gaming, alternate realities, and storytelling in general could benefit from some good conceptual modeling.
 
 ## Whither the Semantic Web?
 
-My original project to keep track of our adventures in the Forgotten Realms has exploded and seeped into countless gopher holes, including a big one known as the [[t.cs.semantic-web]]. With a capital 'S' and a capital 'W'.
+My original project to keep track of our Forgotten Realms adventures exploded and seeped into countless gopher holes, including a deep one known as the [[t.cs.semantic-web]]. With a capital 'S' and a capital 'W'.
 
 What's that?
 
+The threads of the Semantic Web are statements (known as triples) of the form subject-predicate-object. They look like this:
+
+```turtle
+:ted :likes :allegra
+```
+
+You can say anything about anything with these triples and when they're backed by commonly understood conceptualizations (which are also expressed using triples), they are an elegant means of representing and sharing knowledge.
+
 To borrow from [[user.gavin-mendel-gleason]], the vision of the Semantic Web is distributed, interoperable, and well-defined data. It's a solution, in his words, to "literally the most central problem for the current and near-future human economy," i.e., how to make our data, knowledge and ideas accessible and understandable to each other and our computers.
 
-The Semantic Web has had its best success in the field of [[bioinformatics|t.km.bioinformatics]]. It's also used in [[library science|t.library-science]], healthcare, financial services, and e-commerce.
+The Semantic Web has had its best success in the fields of [[bioinformatics|t.km.bioinformatics]] and medecine. It's also used in [[library science|t.library-science]], healthcare, financial services, and e-commerce.
 
-But despite being around for 25 years, the Semantic Web hasn't caught on widely or lived up to its potential. We can explore some of the reasons later, but in my opinion, it's a technology in need of a killer app.
+But despite its promise and having been around for 25 years, the Semantic Web hasn't caught on widely or lived up to its potential. We can explore some of the reasons later, but in my opinion, it's a technology in need of a killer app.
 
 ## Can Alternate Realities Save the Semantic Web?
 
-Practically speaking, people and their software could use good conceptualizations and shared knowledge to keep track of what happens in games and stories of all kinds, in a way that other people and computers can understand. 
+Practically speaking, people and their software could use good semantic conceptualizations and shared knowledge to keep track of what happens in games and stories of all kinds in a way that other people and computers can understand. 
 
-But beyond this documentary function, the conceptualizations I'm talking about could be used by writers, creators and [[Game Masters|t.roleplaying.gm]] to help create stories, games, and alternate realities that could easily be shared, adapted, and remixed. 
+But beyond this documentary function, the conceptualizations and information I'm talking about could be used by writers, creators and [[Game Masters|t.roleplaying.gm]] to help create alternate realities that can easily be shared, adapted, and remixed. 
 
-It's the "distributed, interoperable, and well-defined" vision of the Semantic Web applied to the realm of imagination. To supercharge CARP, people will need a way to share their stories and their creations.
+To supercharge CARP, people will need a way to share their stories and other creations. It's the "distributed, interoperable, and well-defined" vision of the Semantic Web applied to the realm of imagination.
 
-Roleplaying software and game engines based on open conceptualizations and Semantic Web technologies could empower people to connect, play, create, and collaborate together, in meat-space and online, in ways we can only dream about.
+Roleplaying software and game engines based on open conceptualizations and Semantic Web technologies would allow people to document their adventures for posterity, later enhancement, and potential re-use; and empower people to create and collaborate, in meat-space and online, in ways we can only start to imagine. 
 
 And as a side-effect, I think the innovations and momentum these roleplaying applications would generate for Semantic Web technologies could bring its promise to life for other domains as well.
 
 ## Why Does the Metaverse Suck?
 
-In the words of [[user.ian-bogost]], "3-D worlds seem more and more real. But those worlds feel even more incongruous when the [synthetic] people that inhabit them behave like animatronics and the environments work like Potemkin villages." 
+In the words of [[user.ian-bogost]], "3-D worlds seem more and more real. But those worlds feel even more incongruous when the people that inhabit them behave like animatronics and the environments work like Potemkin villages." 
 
-Traditional roleplaying doesn't have this problem because a good writer *authors* good characters, places, and situations, and then a good GM and the players' imaginations *bring them to life*. 
+Traditional roleplaying doesn't have this problem because a good writer *authors* good characters, places, and situations, and then a good GM and the players' imaginations *bring them to life* as needed. 
 
-Maybe virtual reality and modern RPGs leave too little to the imagination? 
+Maybe the metaverse and modern roleplaying video games (RPGs) leave too little to the imagination? 
 
 But certainly, the [[metaverse|t.cs.metaverse]] currently lacks some essential elements of D&D as originally conceived: the crafting of interesting scenarios, a framework for collaborative play, the simplicity of pen-and-paper, the ease with which you can transcend the system, and the benevolent shepherding of a human behind the curtain.
 
-With D&D, GMs can easily make anything happen, answer out-of-game questions, adjust the pace, call for a snack break, keep things interesting, and fill in gaps with a little improv and some [[t.drama.theater.theater-of-the-mind]]. They run the magic store. 
+With D&D, GMs can easily make anything happen, answer questions, adjust the pace, call for a snack break, keep things interesting, and fill in gaps with a little improv and some [[t.drama.theater.theater-of-the-mind]]. They run the magic store. 
 
 The metaverse needs something like that.
 
@@ -133,8 +151,7 @@ Writing too has its nocturnal mystique. [[user.james-baldwin]] wrote in [[book.n
 
 Regardless of quality, as the father of a wakeful two year old, [[night time is often write time|idea.night-time-write-time]] for me.
 
-Thanks for joining me. And good night!
+Thanks for joining and good night.
 
-![](/assets/images/2024-09-13-16-18-13.png)
-
+![](/assets/images/2024-09-26-21-25-06.png)
 

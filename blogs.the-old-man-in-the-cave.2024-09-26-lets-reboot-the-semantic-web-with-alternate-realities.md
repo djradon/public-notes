@@ -2,7 +2,7 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: Let's Reboot the Semantic Web with Alternate Realities
 desc: I'd bet the Old Man in the Cave can help us out.
-updated: 1727394029049
+updated: 1727398972798
 created: 1726095395686
 ---
 
