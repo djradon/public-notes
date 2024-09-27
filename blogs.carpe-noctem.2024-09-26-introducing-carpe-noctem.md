@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727393931323
+updated: 1727397281643
 created: 1725171371808
 ---
 
@@ -20,11 +20,9 @@ Closely-related art forms include [[interactive storytelling|t.storytelling.inte
 
 Right now, CARP looks and plays a lot like drama club meets primitive video games. Which is great. Beautiful, even! I hope we'll always have "retro-carp" as an option.
 
-Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix , collaborative roleplaying, player choice (i.e., an open-ish world), and the principles of good gaming, and somehow get a great story out of it. 
+Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix player choice (i.e., an open-ish world) with the [[principles of good gaming|t.rec.game.principles]], and somehow get a great story out of it. And there's certainly potential for much more elaborate and cinematic experiences, if that appeals. If you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream become a nightmare.
 
-The other half of the dream is using technology to make the production and enjoyment of these collaborative, immersive experiences accessible to everyone [[without sucking out the creativity, imagination, and fun|ar.screenrant.dnd-ai-controversy-dungeons-and-dragons-fans-hasbro]].
-
-And there's certainly potential for much more elaborate and cinematic experiences if that appeals.
+The other half of the dream is using technology to make the enjoyment of these collaborative, immersive experiences accessible to everyone, and to make their creation accessible to [[those who are not programmers, but who would love to conjure|t.cs.sd.barefoot-developers]] alternate realities and computer-aided role-playing scenarios.
 
 It's going to be wild!
 
