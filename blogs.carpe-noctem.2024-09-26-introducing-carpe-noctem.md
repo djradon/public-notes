@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727414028137
+updated: 1727419946820
 created: 1725171371808
 ---
 
@@ -17,7 +17,7 @@ created: 1725171371808
 
 ## An Explorer's Guide to Collaborative Imagination
 
-Good evening from [[the ol' Magic Store|music.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a roleplayer, and I'm on a mission to help people build, deconstruct, remix, and engage with the multiverse, leaving good stories in their wake.
+Good evening from [[the ol' Magic Store|music.the-magic-store]]: Los Angeles, California. I'm a creative technologist and a roleplayer, and I'm on a mission to help people build, deconstruct, remix, and engage with the [[cultural multiverse|t.multiverse]], hopefully leaving good stories in the wake.
 
 ## What's This All About, Then?
 
@@ -33,9 +33,15 @@ The other half of the dream is using technology to make the enjoyment of these c
 
 If it happens, it's going to be wild!
 
+### The Cultural Multiverse
+
+In physics, the term *multiverse* refers to a possible "patchwork quilt of separate universes all bound by the same laws of physics." In science fiction, the popular imagination, and the Miles Morales Spider-Man movies, it establishes the existence of parallel universes where anything is possible.
+
+I use the term *cultural multiverse* to refer to collection of all the different imagined, artistic, and narrative realities that arise from human creativity across cultures and subcultures. It encompass literature, film, games, folklore, and virtual worlds. 
+
 ### Modeling the Imaginary
 
-*Carpe Noctem* will also touch on conceptual modeling, i.e., how to think about and structure information and ideas. 
+So *Carpe Noctem* will also touch on conceptual modeling, i.e., how to think about and structure information, ideas, fictional entities, and yes, alternate realities.
 
 [[Applied ontology|t.km.ontology.applied]] involves the investigation of the nature of various domains of interest (like fiction or roleplaying) and the cognitive and linguistic constructs we use to understand them.
 
@@ -128,7 +134,7 @@ With the recent dramatic improvements in generative AI, we can foresee more real
 
 But do we want that? 
 
-There's a very tricky [[tension|ar.screenrant.dnd-ai-controversy-dungeons-and-dragons-fans-hasbro]] between getting digital assistance and preserving the joy and humanity we find in the DIY crafting of traditional games and narrative. You can expect that to be one of *Carpe Noctem*'s recurring themes.
+There's a very tricky [[tension|ar.screenrant.dnd-ai-controversy-dungeons-and-dragons-fans-hasbro]] between getting digital assistance and preserving the joy and humanity we find in the DIY crafting of creative works. You can expect that to be one of *Carpe Noctem*'s recurring themes.
 
 ## Who Are You?
 

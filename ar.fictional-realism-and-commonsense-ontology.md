@@ -2,11 +2,12 @@
 id: k6btcrgsyz8jgwmesl67lyh
 title: Fictional Realism and Commonsense Ontology
 desc: 'expressions create reality'
-updated: 1723847761365
+updated: 1727417065709
 created: 1710995795817
 ---
 
 - url: https://philosophia-bg.com/archive/philosophia-28-2021/fictional-realism-and-commonsense-ontology/
+- author: @adetayo-oludare-alade
 
 ## Highlights
 
