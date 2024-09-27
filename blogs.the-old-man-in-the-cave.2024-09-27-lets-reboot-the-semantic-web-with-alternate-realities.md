@@ -2,7 +2,7 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: Let's Reboot the Semantic Web with Alternate Realities
 desc: I'd bet the Old Man in the Cave can help us out.
-updated: 1727421142091
+updated: 1727461667704
 created: 1726095395686
 ---
 
@@ -30,17 +30,19 @@ In the context of this developer journal, the Old Man is a metaphor for syntheti
 
 I'm on a mission to help people build, deconstruct, remix, and engage with the [[cultural multiverse|t.multiverse]] through [[computer-assisted roleplay|t.roleplaying.computer-assisted]], [[interactive drama|t.drama.interactive]], and [[applied ontology|t.km.ontology.applied]]. 
 
-The dream: playable alternate realities that draw on our collective cultural history and inspire our engagement. Anyone can create, anyone can play, and the experience can easily be meaningful and immersive. It might look like a drama-filled version of the [[metaverse|t.cs.metaverse]], although [[I do not love that term|t.cs.metaverse#^pdbekjzfr2l0]]. But it could also look like [[improv theater|t.drama.theater.improvisational]] or [[pen-and-paper roleplaying|t.roleplaying.pen-and-paper]], perhaps with software listening inobtrusively, documenting and ready to assist.
+The dream: playable alternate realities that draw on our collective cultural history and inspire our engagement. Anyone can enjoy these realities, even the non-technical can create them, and the overall experience can easily be meaningful and immersive. It might look like a drama-filled version of the [[metaverse|t.cs.metaverse]], although [[I do not love that term|t.cs.metaverse#^pdbekjzfr2l0]]. 
 
-It'll be made possible by a corresponding, new-ish art form. Call it digital adventure production, roleplay experience curation, or [[the electric magic store|idea.electric-magic-store]]. It will weave together aspects of film, video games, immersive theatre, and role-playing gaming, and is the spiritual successor of today's [[virtual tabletops|t.roleplaying.virtual-tabletop]].
+But it could also look like [[improv theater|t.drama.theater.improvisational]] or [[pen-and-paper roleplaying|t.roleplaying.pen-and-paper]], perhaps with software standing by inobtrusively, documenting and ready to assist.
 
-In additional to imagination, artistry, production skills, and lots of new software, this dream requires distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
+It'll be made possible by a corresponding, new-ish art form. Call it digital adventure production, roleplay experience curation, or [[the electric magic store|idea.electric-magic-store]]. It will weave together aspects of film, video games, immersive theatre, and role-playing. You can think of it as the spiritual successor of today's [[virtual tabletops|t.roleplaying.virtual-tabletop]].
+
+In additional to imagination, artistry, production skills, and some supporting software, this dream requires distributed, interoperable, and well-defined data. Which just happens to be the vision of the [[t.cs.semantic-web]].
 
 So in addition to my main mission to make this dream a reality, I have a technical side-quest to reboot the Semantic Web. 
 
 ## Making the Semantic Web Usable
 
-The vision of the Semantic Web is simple: distributed, interoperable, and well-defined data.
+As I mentioned, the vision of the Semantic Web is simple: distributed, interoperable, and well-defined data.
 
 The threads of the Semantic Web are [[prdct.rdf]] statements composed of a subject, a predicate, and an object. The form is beautiful in its simplicity. For example:
 
@@ -55,7 +57,7 @@ I want to heed [[Manu Sporny|user.manu-sporny]]'s 2014 [[call-to-arms|ar.json-ld
 
 Turns out that making machines smarter was the easy part!
 
-With the current state of the art, publishing **any** semantic data, let alone useful data, is hard. In a word, the most important theme for wider SW adoption is **usability**. 
+With the current state of the art, publishing *any* semantic data, let alone useful data, is hard. In a word, the most important theme for wider SW adoption is **usability**. 
 
 I've got some ideas for how to make data publishing free and easy for everyone. So that should help usability.
 
@@ -73,11 +75,11 @@ The time is right to forge a path forward. And I'd bet the old man in the cave c
 
 I'm interested in and wary of AI (better termed [[synthetic intelligence|t.cs.synthetic-intelligence]]) and how it can help people create [[interactive drama|t.drama.interactive]] and [[t.cs.virtual-worlds]]. Things like [[t.cs.ai.retrieval-augmented-generation.graphrag]] and [[agentic systems|t.cs.agents]] are highly relevant.
 
-At the moment, I'm especially interested in roleplaying *data modeling* and how to represent things like characters, scenarios, play histories, and evolving worlds. 
+At the moment, I'm especially interested in *data modeling* and how to represent things like characters, scenarios, play histories, and evolving worlds. 
 
-In the near term, I'm hoping to start developing some upper-level and meta-conceptualizations, i.e., ontologies, and weave together some publishing infrastructure. After that, some software that can use these ontologies to support [[alternate realities|t.storytelling.alternate-reality]].
+In the near term, I'm hoping to start developing some open upper-level and meta-conceptualizations, i.e., ontologies, and weave together some publishing infrastructure. After that, I aim to start making software that can use these ontologies to support [[alternate realities|t.storytelling.alternate-reality]].
 
-I enjoy [[astronaut architecture|idea.architecture-astronaut]] but want to actually build stuff too. So I intend to touch on relevant topics in [[data science|t.cs.data.science]] and [[software development|t.cs.sd]] including [[visualization|t.cs.data.visualization]], and [[Semantic Web methodologies|c.methodology.semantic-web]]. 
+I enjoy [[astronaut architecture|idea.architecture-astronaut]] but want to actually build stuff too. So I intend to touch on relevant topics in [[data science|t.cs.data.science]] and [[software development|t.cs.sd]] including [[visualization|t.cs.data.visualization]], [[home-cooked software|t.cs.sd.home-cooked-software]], and [[geographics information systems|t.cs.gis]]. 
 
 ## Next Steps
 

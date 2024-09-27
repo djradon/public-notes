@@ -1,8 +1,8 @@
 ---
 id: lzc6hm57p2c9p3ldnxbbbap
-title: Likec4
+title: LikeC4
 desc: 'modeling language for describing software architecture, and tools to generate diagrams from the model. Inspired by C4 Model and Structurizr DSL, but with some flexibility.'
-updated: 1725546914778
+updated: 1727461468590
 created: 1716399409262
 ---
 

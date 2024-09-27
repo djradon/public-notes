@@ -5,7 +5,7 @@ desc: >-
   a particular knowledge base, describing facts assumed to be always true by a
   community of users, in virtue of the agreed-upon meaning of the vocabulary
   used
-updated: 1723911874318
+updated: 1727463709373
 created: 1633445910705
 ---
 
@@ -21,16 +21,16 @@ a logical theory accounting for the intended meaning of a formal vocabulary, i.e
 
 ### "Schools"
 
-  Philosophy School
-  Vocabulary and Taxonomy School
-      These taxonomies often model a domain as hierarchical structures without defining what a link in the hierarchy actually means. As a result, they often mix sub-component and sub-class hierarchies.
-  Relational School
-  Object-Oriented School
-  Standards School
-  Linked Data School
-  NLP/LLM School
-  Data-Centric School
-
+  - Philosophy School
+  - Vocabulary and Taxonomy School
+      - These taxonomies often model a domain as hierarchical structures without defining what a link in the hierarchy actually means. As a result, they often mix sub-component and sub-class hierarchies.
+  - Relational School
+  - Object-Oriented School
+  - Standards School
+  - Linked Data School
+  - NLP/LLM School
+  - Data-Centric School
+  
 ## Issues
 
 - 
