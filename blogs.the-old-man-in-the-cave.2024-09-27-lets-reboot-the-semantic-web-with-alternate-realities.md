@@ -2,7 +2,7 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: Let's Reboot the Semantic Web with Alternate Realities
 desc: I'd bet the Old Man in the Cave can help us out.
-updated: 1727474915131
+updated: 1727477627947
 created: 1726095395686
 ---
 
@@ -83,7 +83,7 @@ I enjoy [[astronaut architecture|idea.architecture-astronaut]] but want to actua
 
 ## Next Steps
 
-If you might be interested in the less-technical aspects of my mission, or [[story-telling|t.storytelling]] and the [[digital humanities|t.humanities.digital]] in general, check out my other blog, [Carpe Noctem]().
+If you might be interested in the less-technical aspects of my mission, or [[story-telling|t.storytelling]] and the [[digital humanities|t.humanities.digital]] in general, check out my other blog, [Carpe Noctem](https://djradon.substack.com/p/introducing-carpe-noctem).
 
 As I mentioned, I'm looking to make connections that could lead to collaboration. If our interests overlap, please reach out!
 

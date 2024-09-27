@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727476707343
+updated: 1727476830897
 created: 1725171371808
 ---
 
@@ -145,7 +145,7 @@ There's a very tricky [[tension|ar.screenrant.dnd-ai-controversy-dungeons-and-dr
 
 My intended audience here is a general one: people who might be interested in storytelling, roleplaying, game studies, alternate realities, or synthetic life. 
 
-If you're be curious about the more technical side of my mission, check out my developer journal, [The Old Man in the Cave](). 
+If you're be curious about the more technical side of my mission, check out my developer journal, [The Old Man in the Cave](https://the-old-man-in-the-cave.hashnode.dev/lets-reboot-the-semantic-web-with-alternate-realities). 
 
 I'm looking to make connections that could lead to collaboration. If our interests overlap, please reach out!
 
