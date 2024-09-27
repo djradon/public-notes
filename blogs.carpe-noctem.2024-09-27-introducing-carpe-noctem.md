@@ -2,25 +2,33 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727463998486
+updated: 1727471225754
 created: 1725171371808
 ---
 
 *An Explorer's Guide to Collaborative Imagination*
 
-Good evening from [[the ol' Magic Store|music.the-magic-store]]: Hollywood, California. I'm a creative technologist and a roleplayer, and I'm on a mission to help people navigate the [[cultural multiverse|t.multiverse]]. Hopefully, they'll be leaving good stories in their wake.
+Good evening from Los Angeles. I'm a creative technologist and a role-player, and I'm on a mission to help people navigate the [[cultural multiverse|t.multiverse]]. Hopefully, we'll be leaving good stories in our wake.
 
 ## What's This All About, Then?
 
-*Carpe Noctem* (loosely translated as "harvest the night") will be a series of articles and letters primarily about [[digital storytelling|t.storytelling.digital]], [[good gaming|t.rec.game.principles]], [[alternate realities|t.storytelling.alternate-reality]] and [[computer-assisted roleplay (CARP)|t.roleplaying.computer-assisted]].
+*Carpe Noctem* (loosely translated as “harvest the night”) will be a series of articles and letters primarily about [[digital storytelling|t.storytelling.digital]], [[good gaming|t.rec.game.principles]], [[alternate realities|t.storytelling.alternate-reality]] and [[computer-assisted roleplay (CARP)|t.roleplaying.computer-assisted]].
+
+### The Cultural Multiverse
+
+In physics, the term *multiverse* refers to a “patchwork quilt of separate universes all bound by the same laws of physics.” It's not so much that anything is possible, but that everything possible actually happens, somewhere. 
+
+In science fiction, the popular imagination, and the Miles Morales Spider-Man movies, the possibility of infinite universes allows writers to explore time travel, alternate histories, and issues around identity and diversity.
+
+I use the term *[[cultural multiverse|t.multiverse]]* to refer to the complete set of all the different imagined, artistic, and narrative realities that arise from human creativity across cultures and subcultures. It encompass literature, film, games, folklore, and virtual worlds. 
 
 ### CARP
 
-You can think of computer-assisted roleplay as digital Dungeons & Dragons, but any setting will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning. The point is, a computer has its own representation of an imagined situation and can help make the roleplaying experience better for humans.
+You can think of computer-assisted roleplay as digital Dungeons & Dragons, but any genre will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning. The point is, a computer has its own representation of an imagined situation and can help make the role-playing experience better for humans.
 
 When done well, improvisational roleplaying (in whatever form) becomes [[collaborative storytelling|t.storytelling.collaborative]]. So CARP can help make stories.
 
-Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix a roleplaying experience with player freedom (i.e., an open-ish world) and the [[principles of good gaming|t.rec.game.principles]], sprinkle in a little CARP, and at least get a decent story out of it. There's certainly the potential for highly elaborate and cinematic stories, if that appeals. Taken to the extreme: if you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream becomes a nightmare.
+Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix a roleplaying experience with player freedom (i.e., an open-ish world) and the [[principles of good gaming|t.rec.game.principles]], sprinkle in a little CARP, and at least get a decent story out of it. And there's certainly the potential for highly elaborate and cinematic stories, if that appeals. Taken to the extreme: if you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream becomes a nightmare.
 
 ![](/assets/images/2024-09-26-17-40-04.png)
 
@@ -32,23 +40,15 @@ Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better
 > -[[video.existenz]] (1999)
 
 
-The other half of the dream is using technology to make the enjoyment of these immersive experiences accessible to everyone, and to make their creation accessible to [[those who are not programmers, but who would love to conjure|t.cs.sd.barefoot-developers]] digital alternate realities and role-playing scenarios.
+The other half of the dream is using technology to make the enjoyment of these immersive experiences accessible to everyone, and to make their creation accessible to [[those who are not programmers, but who would like to conjure|t.cs.sd.barefoot-developers]] digital alternate realities and role-playing scenarios. That will require powerful-but-usable tools and an easy way to share scenario elements.
 
-Right now, CARP looks and plays a lot like "drama club geeks meet primitive video games." Which is great. Beautiful, even! I'm glad we'll always have "retro-carp" as an option. 
+Right now, CARP looks and plays a lot like “isolated drama club geeks meet primitive video games.” Which is great. Beautiful, even! I'm glad we'll always have “retro-carp” as an option. 
 
-But if we start to realize the dream, a billion stories will sprout and things are going to get real.
-
-### The Cultural Multiverse
-
-In physics, the term *multiverse* refers to a possible "patchwork quilt of separate universes all bound by the same laws of physics." It's not so much that anything is possible, as everything possible actually happens, somewhere. 
-
-In science fiction, the popular imagination, and the Miles Morales Spider-Man movies, the possibility of infinite universes allows writers to explore time travel, alternate histories, and issues around identity and diversity.
-
-I use the term *[[cultural multiverse|t.multiverse]]* to refer to the complete collection of all the different imagined, artistic, and narrative realities that arise from human creativity across cultures and subcultures. It encompass literature, film, games, folklore, and virtual worlds. 
+But when we start to realize the dream, we’ll see a lot more variety. The cultural multiverse is going to explode with alternate realities, role-playing will erupt with different play-styles, and things are going to get real.
 
 ### Modeling the Imaginary
 
-Another main focus of mine is conceptual modeling, i.e., how to think about and digitally structure things like fictional entities and alternate realities.
+To be able to share scenario elements and fit them together, we're going to need conceptual modeling. We'll have to settle on shared vocabularies and think about how to structure things like fictional entities, roleplaying scenarios, and alternate realities.
 
 How do we express these constructs digitally? One approach involves a controversial data-modeling technology called the [[Resource Description Framework|prdct.rdf]]. We'll talk more about RDF soon.
 
@@ -67,17 +67,17 @@ I also intend to take little bites out of philosophy, psychology, literary theor
 
 Eight quick years ago I got in on the ground floor of a geographically-distributed Dungeons & Dragons game. Our crew is four players plus a multi-talented facilitator, commonly known as [[the Game Master|t.roleplaying.gm]], or GM for short.
 
-Even if you've never tried it, you probably know that classic [[pen and paper roleplaying|t.roleplaying.pen-and-paper]] involves folks sitting around a table, "inhabiting" a fantasy scenario with characters of their own devising, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. The GM sets the scenes and keeps things moving.
+Even if you've never tried it, you probably know that classic [[pen and paper roleplaying|t.roleplaying.pen-and-paper]] involves folks sitting around a table, “inhabiting” a fantasy scenario with characters of their own devising, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. The GM sets the scenes and keeps things moving.
 
-Because we live far apart, we use a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]] to facilitate the sessions and [[prdct.google-meet]] for the comms. Our game (or "campaign" in D&D-speak) is set in a well-known alternate reality known as [[the Forgotten Realms|t.rec.dungeons-and-dragons.forgotten-realms]] and our GM kicked things off with a homebrew prelude set around a gypsy caravan campfire before launching us into a popular commercial adventure scenario called [[game.storm-kings-thunder]]. 
+Because we live far apart, we use a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]] to facilitate the sessions and [[prdct.google-meet]] for the comms. Our game (or “campaign” in D&D-speak) is set in a well-known alternate reality known as [[the Forgotten Realms|t.rec.dungeons-and-dragons.forgotten-realms]] and our GM kicked things off with a homebrew prelude set around a gypsy caravan campfire before launching us into a popular commercial adventure scenario called [[game.storm-kings-thunder]]. 
 
-(For those who aren't familiar, the Forgotten Realms is without doubt one of the richest fictional worlds ever brought forth, with its own detailed [geography](https://forgottenrealms.fandom.com/wiki/Portal:Geography), [hundred of settlements](https://forgottenrealms.fandom.com/wiki/Category:Settlements), [dozens of deities](https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/), and a truly [fantastical history](https://forgottenrealms.fandom.com/wiki/Portal:History). The fan base is huge, so in addition to over 300 "official" published novels, close to 100 different roleplaying adventure modules, and a pretty decent [[movie|video.dungeons-and-dragons-honor-among-thieves]], it's inspired countless works of homebrew content and [fan fiction](https://www.fanfiction.net/book/Forgotten-Realms/).)
+(For those who aren't familiar, the Forgotten Realms is without doubt one of the richest fictional worlds ever brought forth, with its own detailed [geography](https://forgottenrealms.fandom.com/wiki/Portal:Geography), [hundred of settlements](https://forgottenrealms.fandom.com/wiki/Category:Settlements), [dozens of deities](https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/), and a truly [fantastical history](https://forgottenrealms.fandom.com/wiki/Portal:History). The fan base is huge, so in addition to over 300 official published novels, close to 100 different roleplaying adventure modules, and a pretty decent [[movie|video.dungeons-and-dragons-honor-among-thieves]], it's inspired countless works of homebrew content and [fan fiction](https://www.fanfiction.net/book/Forgotten-Realms/).)
 
 In the hands of our highly-capable [[GM|t.roleplaying.gm]], the campaign transcended even the vastness of the Forgotten Realms and became a bespoke, time-travelling, genre-bending epic. 
 
 Perhaps the biggest challenge for us hapless players was keeping track of all the items, places, characters, factions, plotlines, and quests we came across. 
 
-So I started an "as-we-played" written narrative, frantically transcribing memorable dialog, summarizing battles, and generally documenting our adventures from the perspective of my character, an axe-wielding barbarian. After our sessions, I would email these summaries to my eager and grateful crew. 
+So I started an “as-we-played” written narrative, frantically transcribing memorable dialog, summarizing battles, and generally documenting our adventures from the perspective of my character, an axe-wielding barbarian. After our sessions, I would email these summaries to my eager and grateful crew. 
 
 It was a great opportunity to flex my writing skills.
 
@@ -99,7 +99,7 @@ The threads of the Semantic Web are RDF statements (known as triples) of the for
 
 You can say anything about anything with these triples. When they're backed by commonly understood conceptualizations (which are called [[ontologies|t.km.ontology]] and also expressed using triples), they are an elegant means of representing and sharing knowledge.
 
-To borrow from [[user.gavin-mendel-gleason]], the vision of the Semantic Web is distributed, interoperable, and well-defined data. It's a solution, in his words, to "literally the most central problem for the current and near-future human economy," i.e., how to make our data, knowledge and ideas accessible and understandable to each other and our computers.
+To borrow from [[user.gavin-mendel-gleason]], the vision of the Semantic Web is distributed, interoperable, and well-defined data. It's a solution, in his words, to “literally the most central problem for the current and near-future human economy,” i.e., how to make our data, knowledge and ideas accessible and understandable to each other and our computers.
 
 The Semantic Web has had its best success in the fields of [[bioinformatics|t.km.bioinformatics]] and medecine. It's also used in [[library science|t.library-science]], healthcare, financial services, and e-commerce.
 
@@ -109,9 +109,9 @@ But despite its promise and having been around for 25 years, the Semantic Web ha
 
 People and their software could use good semantic conceptualizations and shared knowledge to track and understand what happens in games and stories of all kinds. 
 
-But beyond this documentary function, virtual tabletops, game engines, reality simulators, and authoring software all based on shared conceptualizations would empower writers, artists, and producers to share and remix alternate realities across platforms and artforms. It's the "distributed, interoperable, and well-defined" vision of the Semantic Web applied to the realm of imagination, and the results would be magical.
+But beyond this documentary function, virtual tabletops, game engines, reality simulators, and authoring software all based on shared conceptualizations would empower writers, artists, and producers to share and remix alternate realities across platforms and artforms. It's the “distributed, interoperable, and well-defined” vision of the Semantic Web applied to the realm of imagination, and the results would be magical.
 
-For example, according to [[user.adetayo-oludare-alade]], authors "simply make-up or stipulate [fictional] entities and their properties into existence" using linguistic devices like referring expressions and descriptions. With language, we create alternate realities and populate them with imagined creatures. You can call them fictional, but if we can describe those realities and creatures in ways that computers can process and simulate, once we set the computational wheels in motion, things seem to take on an life of their own. [[Arguably|ar.aeon.is-life-a-complex-computational-process]], we can literally bring our creations to life and interact with them.
+For example, according to [[user.adetayo-oludare-alade]], authors “simply make-up or stipulate [fictional] entities and their properties into existence” using linguistic devices like referring expressions and descriptions. With language, we create alternate realities and populate them with imagined creatures. You can call them fictional, but if we can describe those realities and creatures in ways that computers can process and simulate, once we set the computational wheels in motion, things seem to take on an life of their own. [[Arguably|ar.aeon.is-life-a-complex-computational-process]], we can literally bring our creations to life and experience drama with them.
 
 ![](/assets/images/2024-09-27-06-15-27.png)
 <small>*Young Frankenstein* (1974)</small>
@@ -120,7 +120,7 @@ As a side-effect, I think the innovations and momentum these roleplaying applica
 
 ## Why Does the Metaverse Suck?
 
-In the words of [[user.ian-bogost]], "3-D worlds seem more and more real. But those worlds feel even more incongruous when the people that inhabit them behave like animatronics and the environments work like Potemkin villages." Realistic graphics don't make characters and situations interesting. Conceptual depth makes situations interesting.
+In the words of [[user.ian-bogost]], “3-D worlds seem more and more real. But those worlds feel even more incongruous when the people that inhabit them behave like animatronics and the environments work like Potemkin villages.” Realistic graphics don't make characters and situations interesting. Conceptual depth makes situations interesting.
 
 Traditional roleplaying doesn't have this problem because good writers author good characters, places, and situations, and then a good GM and the players' imaginations bring them to life. 
 
@@ -158,15 +158,15 @@ I'm looking to make connections that could lead to collaboration. If our interes
 <small>*[[images.baluk-hana-and-method-of-fishing-for-the-red-mullet]]*, [[Thomas Allom|user.thomas-allom]]</small>
 
 
-At least since [[video.dead-poets-society]], the Latin phrase *[[Carpe Diem|t.ling.latin.carpe-diem]]* has come to mean "seize the day." Essentially, grab life by the horns before it slips away.
+At least since [[video.dead-poets-society]], the Latin phrase *[[Carpe Diem|t.ling.latin.carpe-diem]]* has come to mean “seize the day.” Essentially, grab life by the horns before it slips away.
 
-As [[Jack Shepherd|user.jack-shepherd]] beautifully explores in [“Carpe Diem” Doesn’t Mean “Seize the Day”](https://medium.com/the-cellar-door/carpe-diem-doesnt-mean-seize-the-day-770fbf63a820), a more accurate translation is "pluck the day." It's a horticultural metaphor about gathering or harvesting the fruits of life.
+As [[Jack Shepherd|user.jack-shepherd]] says in [“Carpe Diem” Doesn’t Mean “Seize the Day,”](https://medium.com/the-cellar-door/carpe-diem-doesnt-mean-seize-the-day-770fbf63a820) a more accurate translation is “pluck the day.” It's a horticultural metaphor about gathering or harvesting the fruits of life.
 
 But what about the night? 
 
 Like most entertainment, roleplaying games are often fitted in after the sun goes down. Typical sessions last three to five hours and often stretch past midnight. All-nighters are glamorized legend-fodder. Pluck those zombies, harvest the magic items, and seize the stronghold before the sun comes up!
 
-Writing too has its nocturnal mystique. [[user.james-baldwin]] wrote in [[book.nothing-personal]] about how the grim realizations of 4am (a "devastating hour"), could in turn be a source of strength. [[Kafka|user.franz-kafka]] wrote ruefully of sleep: "Just think how many thoughts a blanket smothers while one lies alone in bed." Proust, Plath, Fitzgerald, T.S. Eliot and George Sand are among the many writers famed to do their best work at night. 
+Writing too has its nocturnal mystique. [[user.james-baldwin]] wrote in [[book.nothing-personal]] about how the grim realizations of 4am (a “devastating hour”), could in turn be a source of strength. [[Kafka|user.franz-kafka]] wrote ruefully of sleep: “Just think how many thoughts a blanket smothers while one lies alone in bed.” Proust, Plath, Fitzgerald, T.S. Eliot and George Sand are among the many writers famed to do their best work at night. 
 
 Regardless of quality, as the father of a wakeful two year old, [[night time is often write time|idea.night-time-write-time]] for me.
 

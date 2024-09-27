@@ -2,7 +2,7 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: Let's Reboot the Semantic Web with Alternate Realities
 desc: I'd bet the Old Man in the Cave can help us out.
-updated: 1727461667704
+updated: 1727470195705
 created: 1726095395686
 ---
 
@@ -10,7 +10,7 @@ created: 1726095395686
 
 ![](/assets/images/2024-09-13-16-11-46.png)
 
-> "Friends, Romans, Farm Animals! We are now going up to the cave and check your favorite recluse. We're gonna bring him out in the sunshine and get a good look at him. And then we're gonna decide if he's worthwhile keeping alive." 
+>“Friends, Romans, Farm Animals! We are now going up to the cave and check your favorite recluse. We're gonna bring him out in the sunshine and get a good look at him. And then we're gonna decide if he's worthwhile keeping alive.” 
 > 
 > -Major French, The Twilight Zone: [[video.twilight-zone.s05e07-the-old-man-in-the-cave]]
 
@@ -53,7 +53,7 @@ The threads of the Semantic Web are [[prdct.rdf]] statements composed of a subje
 
 Theoretically, you can say anything with an interlinked collection of subject-predicate-object triples. It's a graph-based universal data language. But of course, the devil is in the details.
 
-I want to heed [[Manu Sporny|user.manu-sporny]]'s 2014 [[call-to-arms|ar.json-ld-and-why-i-hate-the-semantic-web]]: "If you want to make the Semantic Web a reality, stop making the case for it and spend your time doing something more useful, like actually making machines smarter or helping people publish data in a way that’s useful to them." 
+I want to heed [[Manu Sporny|user.manu-sporny]]'s 2014 [[call-to-arms|ar.json-ld-and-why-i-hate-the-semantic-web]]:“If you want to make the Semantic Web a reality, stop making the case for it and spend your time doing something more useful, like actually making machines smarter or helping people publish data in a way that’s useful to them.” 
 
 Turns out that making machines smarter was the easy part!
 
