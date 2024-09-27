@@ -2,7 +2,7 @@
 id: s5z9wyb92268nr1b0cyl20n
 title: Let's Reboot the Semantic Web with Alternate Realities
 desc: I'd bet the Old Man in the Cave can help us out.
-updated: 1727470195705
+updated: 1727474915131
 created: 1726095395686
 ---
 
@@ -14,9 +14,9 @@ created: 1726095395686
 > 
 > -Major French, The Twilight Zone: [[video.twilight-zone.s05e07-the-old-man-in-the-cave]]
 
-## Greetings
+## Greetings!
 
-Welcome to my developer journal! I've been wanting to try [[learning in public|t.edu.learning-in-public]] and I hope this thing will boost my motivation, improve my writing, and put a finer point on some of my ideas. I'm also looking to make connections that could lead to collaboration. So here we are.
+Welcome to my developer journal. I've been wanting to try [[learning in public|t.edu.learning-in-public]] and I hope this thing will boost my motivation, improve my writing, and put a finer point on some of my ideas. I'm also looking to make connections that could lead to collaboration. So here we are.
 
 ## Spoiler Alert: It's a Machine
 
@@ -61,7 +61,7 @@ With the current state of the art, publishing *any* semantic data, let alone use
 
 I've got some ideas for how to make data publishing free and easy for everyone. So that should help usability.
 
-To make the data useful, we'll need to address some long-simmering issues around RDF expressivity: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
+To make the data useful, we'll need to address some long-simmering issues around RDF: [[temporality|t.cs.data.temporality]], [[provenance|t.km.meta-knowledge.provenance]], hypotheticals, [[probabilities|t.cs.data.probability-claims]], [[n-ary relationships|t.cs.semantic-web.n-ary-relationships]], and [[multi-level theory|t.km.ontology.multi-level-theory]].
 
 Don't even get me started on the state of [[prdct.RDF-star]].
 
@@ -73,13 +73,13 @@ The time is right to forge a path forward. And I'd bet the old man in the cave c
 
 ## Other Likely Topics
 
-I'm interested in and wary of AI (better termed [[synthetic intelligence|t.cs.synthetic-intelligence]]) and how it can help people create [[interactive drama|t.drama.interactive]] and [[t.cs.virtual-worlds]]. Things like [[t.cs.ai.retrieval-augmented-generation.graphrag]] and [[agentic systems|t.cs.agents]] are highly relevant.
+I'm interested in and wary of AI (better termed [[synthetic intelligence|t.cs.synthetic-intelligence]]) and how it can help people create [[interactive drama|t.drama.interactive]] and [[virtual worlds|t.cs.virtual-worlds]]. Things like [[t.cs.ai.retrieval-augmented-generation.graphrag]] and [[agentic systems|t.cs.agents]] are highly relevant.
 
 At the moment, I'm especially interested in *data modeling* and how to represent things like characters, scenarios, play histories, and evolving worlds. 
 
 In the near term, I'm hoping to start developing some open upper-level and meta-conceptualizations, i.e., ontologies, and weave together some publishing infrastructure. After that, I aim to start making software that can use these ontologies to support [[alternate realities|t.storytelling.alternate-reality]].
 
-I enjoy [[astronaut architecture|idea.architecture-astronaut]] but want to actually build stuff too. So I intend to touch on relevant topics in [[data science|t.cs.data.science]] and [[software development|t.cs.sd]] including [[visualization|t.cs.data.visualization]], [[home-cooked software|t.cs.sd.home-cooked-software]], and [[geographics information systems|t.cs.gis]]. 
+I enjoy [[astronaut architecture|idea.architecture-astronaut]] but want to actually build stuff too. So I intend to touch on relevant topics in [[data science|t.cs.data.science]] and [[software development|t.cs.sd]] including [[visualization|t.cs.data.visualization]], [[home-cooked software|t.cs.sd.home-cooked-software]], and [[geographic information systems|t.cs.gis]]. 
 
 ## Next Steps
 

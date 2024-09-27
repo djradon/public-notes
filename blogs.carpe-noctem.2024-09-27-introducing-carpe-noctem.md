@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727471225754
+updated: 1727476707343
 created: 1725171371808
 ---
 
@@ -20,7 +20,7 @@ In physics, the term *multiverse* refers to a “patchwork quilt of separate uni
 
 In science fiction, the popular imagination, and the Miles Morales Spider-Man movies, the possibility of infinite universes allows writers to explore time travel, alternate histories, and issues around identity and diversity.
 
-I use the term *[[cultural multiverse|t.multiverse]]* to refer to the complete set of all the different imagined, artistic, and narrative realities that arise from human creativity across cultures and subcultures. It encompass literature, film, games, folklore, and virtual worlds. 
+I use the term *[[cultural multiverse|t.multiverse]]* to refer to the complete set of all the different imagined, artistic, and narrative realities that arise from human creativity across cultures and subcultures. It encompass literature, film, games, folklore, and roleplaying. 
 
 ### CARP
 
@@ -118,7 +118,7 @@ For example, according to [[user.adetayo-oludare-alade]], authors “simply make
 
 As a side-effect, I think the innovations and momentum these roleplaying applications would generate for Semantic Web technologies could bring its promise to life for other domains as well.
 
-## Why Does the Metaverse Suck?
+## Why Is the Metaverse Boring?
 
 In the words of [[user.ian-bogost]], “3-D worlds seem more and more real. But those worlds feel even more incongruous when the people that inhabit them behave like animatronics and the environments work like Potemkin villages.” Realistic graphics don't make characters and situations interesting. Conceptual depth makes situations interesting.
 
