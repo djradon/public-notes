@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727523501912
+updated: 1727523842721
 created: 1725171371808
 ---
 
@@ -60,10 +60,10 @@ Closely-related art forms include [[interactive storytelling|t.storytelling.inte
 
 I also intend to take little bites out of philosophy, psychology, literary theory, and library science. So things like [[narratology|t.storytelling.narratology]], [[theories of creativity|t.phil.creativity]], and the [[philosophy of fictional entities|t.phil.fiction.entities]]. (Spoiler alert: They're all real.)
 
+## It All Started Around A Gypsy Caravan Campfire
+
 ![](/assets/images/2024-09-26-21-11-06.png)
 <small>*[[images.campfire-site-yosemite]]*, [[user.albert-bierstadt]]</small>
-
-## It All Started Around A Gypsy Caravan Campfire
 
 Eight quick years ago I got in on the ground floor of a geographically-distributed Dungeons & Dragons game. Our crew is four players plus a multi-talented facilitator, commonly known as [[the Game Master|t.roleplaying.gm]], or GM for short.
 
@@ -107,14 +107,14 @@ But despite its promise and having been around for 25 years, the Semantic Web ha
 
 ## Can Alternate Realities Bring the Semantic Web to Life?
 
+![](/assets/images/2024-09-27-06-15-27.png)
+<small>*Young Frankenstein* (1974)</small>
+
 People and their software could use good semantic conceptualizations and shared knowledge to track and understand what happens in games and stories of all kinds. 
 
 But beyond this documentary function, virtual tabletops, game engines, reality simulators, and authoring software all based on shared conceptualizations would empower writers, artists, and producers to share and remix alternate realities across platforms and artforms. It's the “distributed, interoperable, and well-defined” vision of the Semantic Web applied to the realm of imagination, and the results would be magical.
 
-For example, according to [[user.adetayo-oludare-alade]], authors “simply make-up or stipulate [fictional] entities and their properties into existence” using linguistic devices like referring expressions and descriptions. With language, we create alternate realities and populate them with imagined creatures. You can call them fictional, but if we can describe those realities and creatures in ways that computers can process and simulate, once we set the computational wheels in motion, things seem to take on an life of their own. [[Arguably|ar.aeon.is-life-a-complex-computational-process]], we can literally bring our creations to life and experience drama with them.
-
-![](/assets/images/2024-09-27-06-15-27.png)
-<small>*Young Frankenstein* (1974)</small>
+For example, according to [[user.adetayo-oludare-alade]], authors “simply make-up or stipulate [fictional] entities and their properties into existence” using linguistic devices like referring expressions and descriptions. With language, we create alternate realities and populate them with imagined creatures. You can call them fictional, but if we can describe those realities and creatures in ways that computers can process and simulate, once we set the computational wheels in motion things seem to take on an life of their own. [[Arguably|ar.aeon.is-life-a-complex-computational-process]], we can literally bring our creations to life and experience drama with them.
 
 As a side-effect, I think the innovations and momentum these roleplaying applications would generate for Semantic Web technologies could bring its promise to life for other domains as well.
 
