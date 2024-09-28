@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727476830897
+updated: 1727523501912
 created: 1725171371808
 ---
 
@@ -120,15 +120,15 @@ As a side-effect, I think the innovations and momentum these roleplaying applica
 
 ## Why Is the Metaverse Boring?
 
-In the words of [[user.ian-bogost]], “3-D worlds seem more and more real. But those worlds feel even more incongruous when the people that inhabit them behave like animatronics and the environments work like Potemkin villages.” Realistic graphics don't make characters and situations interesting. Conceptual depth makes situations interesting.
+In the words of [[user.ian-bogost]], "3-D worlds seem more and more real. But those worlds feel even more incongruous when the people that inhabit them behave like animatronics and the environments work like Potemkin villages." Realistic graphics don't make characters and situations interesting. Conceptual depth is the key.
 
-Traditional roleplaying doesn't have this problem because good writers author good characters, places, and situations, and then a good GM and the players' imaginations bring them to life. 
+Traditional roleplaying is engaging because good writers author good characters and situations, and then a good GM and the players' imaginations bring them to life. 
 
-Maybe virtual reality and modern roleplaying video games (RPGs) leave too little to the imagination? 
+Maybe virtual reality and modern roleplaying video games leave too little to the imagination? 
 
-But certainly, the [[metaverse|t.cs.metaverse]] currently lacks some essential elements of D&D as originally conceived: the crafting of interesting scenarios and characters; a framework for collaborative play; the simplicity of pen-and-paper; the ease with which you can transcend the system; and the benevolent shepherding of a human behind the curtain.
+But certainly, the [[metaverse|t.cs.metaverse]] currently lacks other essential elements of D&D as originally conceived: the crafting of interesting scenarios and characters; a framework for collaborative play; the simplicity of pen-and-paper; the ease with which you can transcend the system; and the benevolent shepherding of a human behind the curtain.
 
-With D&D, GMs can easily make anything happen, answer questions, fast-forward, call for a snack break, keep things interesting, and fill in gaps with a little improv and some [[t.drama.theater.theater-of-the-mind]]. They run the magic store. 
+With traditional roleplaying, GMs can easily make anything happen, answer questions, change the pace, call for a snack break, incorporate player feedback, and fill in gaps with a little improv and some [[t.drama.theater.theater-of-the-mind]]. They run the magic store. 
 
 The metaverse needs something like that.
 
