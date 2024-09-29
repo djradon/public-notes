@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer’s Guide to Collaborative Imagination
-updated: 1727633666053
+updated: 1727646964852
 created: 1725171371808
 ---
 
