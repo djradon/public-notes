@@ -2,11 +2,12 @@
 id: vr6c4kff48dfltfmrmjmh7y
 title: 'Dungeons & Deceptions: The First D&D Players Push Back On The Legend Of Gary Gygax'
 desc: ''
-updated: 1727377638372
+updated: 1727619613460
 created: 1718318158602
 ---
 
 - https://kotaku.com/dungeons-deceptions-the-first-d-d-players-push-back-1837516834
+- author: [[user.cecilia-danastasio]]
   
 ## Highlights
 
