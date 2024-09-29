@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer’s Guide to Collaborative Imagination
-updated: 1727646964852
+updated: 1727650015125
 created: 1725171371808
 ---
 
@@ -34,7 +34,7 @@ But for some people, imaginitave play and simple role-playing evolve into creati
 
 Even if you’ve never tried it, you probably know what [[pen and paper (“tabletop”) roleplaying|t.roleplaying.pen-and-paper]] like classic Dungeons & Dragons involves: folks sitting around a table, “inhabiting” a fantasy scenario with characters of their own devising, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. A facilitator, commonly known as [[the Game Master|t.roleplaying.gm]] (or GM for short) sets the scenes and keeps things moving, while the players keep track of their characters’ statuses on pieces of paper known as character sheets.
 
-Tabletop roleplaying grew out of the combat-based board games of the late 1960s. *Dungeons & Dragons* (1974) is commonly credited as the progenitor, but it seems more accurate to say that one of D&D’s co-creators, [[user.dave-arneson]], established the genre with his [[game.blackmoor]] game session on April 17, 1971. For a great history, I highly recommend [[user.cecilia-danastasio]] [Dungeons & Deceptions: The First D&D Players Push Back On The Legend Of Gary Gygax](https://kotaku.com/dungeons-deceptions-the-first-d-d-players-push-back-1837516834).
+Tabletop roleplaying grew out of the combat-based board games of the late 1960s. *Dungeons & Dragons* (1974) is commonly credited as the progenitor, but it seems more accurate to say that one of D&D’s co-creators, [[user.dave-arneson]], established the genre with his [[game.blackmoor]] game session on April 17, 1971. For a great history, I highly recommend [Dungeons & Deceptions: The First D&D Players Push Back On The Legend Of Gary Gygax](https://kotaku.com/dungeons-deceptions-the-first-d-d-players-push-back-1837516834).
 
 
 ### CARP
@@ -43,11 +43,11 @@ You can think of computer-assisted roleplay as digital Dungeons & Dragons, but a
 
 Just like the movies (which are an interesting example of roleplaying in themselves), role-playing games have three phases. You could call them pre-production, production, and post-production. 
 
-In preparing for a classic tabletop RPG, the GM has to either create an alternate reality with maps, notes, and illustrations; or purchase one ready-made and get familiar with it. Meanwhile, the players have to create their characters, which is often one of the most enjoyable parts of the experience. And everyone has to familiarize themselves with the rule system, if there is one.
+In preparing for a classic tabletop RPG campaign, the players might have to break out the Player's Handbook if they're not already up on the rules. The GM has to either create an alternate reality with maps, notes, and illustrations; or purchase one ready-made and get familiar with it. They might want to distribute a "pre-read" to set the stage for the players. And the players have to create their characters, one of the most enjoyable parts of the whole experience. 
 
-Computers can help us create alternate realities, manage characters,concot role-playing scenarios, and teach the rules. That’s CARP in pre-production. 
+Computers can help us create alternate realities, concot role-playing scenarios, manage characters, and teach the rules. That’s just a few examples of CARP in pre-production. 
 
-As GMs shepherd the players through scenarios, computers can provide a simulation medium where “in-game” events transpire. They can also provide tools to facilitate the experience, and record the happenings. That’s production.
+As the adventure begins and GMs shepherd the players along, computers can provide a simulation medium where “in-game” events transpire. They can help set the stage with visuals, audio, and special effects. Dynamic maps are a popular recent innovation. There are plenty of software tools to facilitate the experience and record the happenings. That’s production.
 
 After the fact, computers can help us shape the experience into good stories and package the results for reflection and to share with others.
 
@@ -65,21 +65,21 @@ So half the dream, and maybe it‘s a [[pipe-dream|ar.atlantic.video-games-are-b
 
 The other half of the dream is using technology to make the enjoyment and creation of these immersive experiences more accessible.
 
-Right now, CARP is fraught with technical challenges that detract from the experience. And it looks and plays a lot like “drama club meets AV geeks meets primitive video games.” Which is great. Beautiful, even! I’m glad we’ll always have “retro-carp” as an option. 
+Right now, CARP is fraught with technical challenges that detract from the experience. It looks and plays a lot like “drama club meets AV geeks meets primitive video games.” Which is great. Beautiful, even! I’m glad we’ll always have “retro-carp” as an option. 
 
-But when we start to realize the dream, we’ll have better playability, more sharing, and a lot more variety. The cultural multiverse is going to explode with alternate realities, we’ll see a profusion of play-styles, and improved accessibility will lead to more player diversity. Things are going to get real.
+But when we start to realize the dream, we’ll have better playability, easy sharing, content marketplaces, and a lot more variety. The cultural multiverse is going to blossom with alternate realities, we’ll see a profusion of play-styles, and improved accessibility will lead to greater player diversity. Things are going to get real.
 
 ### Modeling the Imaginary
 
-To be able to share scenario elements and fit them together, we’re going to need conceptual modeling. We’ll have to settle on some shared high-level vocabularies and think about how to define things like character motivation and conflict.
+To be able to share and sell scenario elements and fit them together, we’re going to need conceptual modeling. We’ll have to settle on some shared high-level vocabularies and think about how to model things as varied as character motivations, trap mechanics, and weather patterns.
 
 How do we express these things digitally? One approach involves a controversial data-modeling technology called the [[Resource Description Framework|prdct.rdf]]. We’ll talk more about RDF shortly.
 
 Intellectually and practically speaking, conceptual modelling is a gold mine. Two rich veins concern the modelling of time and space, and how to model change. If you’re not even remotely interested in how to represent imaginary, evolving spatio-temporal entities, don’t worry... you will be! 
 
-### Other Topics
+### Other Relevant Topics
 
-Closely-related art forms include [[interactive storytelling|t.storytelling.interactive]], [[interactive drama|t.drama.interactive]], [[interactive fiction|t.storytelling.fiction.interactive]] and [[live-action roleplay|t.roleplaying.live-action-larp]] (LARP). 
+Closely-related art forms that bear investigation include [[live-action roleplay|t.roleplaying.live-action-larp]] (LARP), [[interactive drama|t.drama.interactive]], [[interactive fiction|t.storytelling.fiction.interactive]], and [[interactive theater|t.drama.theater.interactive]], which are all quite different. 
 
 I also intend to take little bites out of philosophy, psychology, literary theory, and library science. So things like [[narratology|t.storytelling.narratology]], [[theories of creativity|t.phil.creativity]], and the [[philosophy of fictional entities|t.phil.fiction.entities]]. (Spoiler alert: They’re all real.)
 
@@ -133,7 +133,7 @@ But despite its promise and having been around for 25 years, the Semantic Web ha
 
 People and their software could use good semantic conceptualizations and shared knowledge to track and understand what happens in games and stories of all kinds. 
 
-But beyond this documentary function, virtual tabletops, game engines, reality simulators, and authoring software all based on shared conceptualizations would empower writers, artists, and producers to share and remix alternate realities across platforms and artforms. It’s the “distributed, interoperable, and well-defined” vision of the Semantic Web applied to the realm of imagination, and the results would be magical.
+But beyond this documentary function, virtual tabletops, game engines, reality simulators, and authoring software all based on shared conceptualizations would empower writers, artists, and producers to share and remix alternate realities across platforms and art forms. It’s the “distributed, interoperable, and well-defined” vision of the Semantic Web applied to the realm of imagination, and the results would be magical.
 
 For example, according to [[user.adetayo-oludare-alade]], authors “simply make-up or stipulate [fictional] entities and their properties into existence” using linguistic devices like referring expressions and descriptions. With language, we create alternate realities and populate them with imagined creatures. You can call them fictional, but if we can describe those realities and creatures in ways that computers can process and simulate, once we set the computational wheels in motion things take on an life of their own. [[Arguably|ar.aeon.is-life-a-complex-computational-process]], we can literally bring our creations to life and experience drama with them.
 
