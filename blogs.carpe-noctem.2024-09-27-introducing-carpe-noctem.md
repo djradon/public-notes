@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727523842721
+updated: 1727588131867
 created: 1725171371808
 ---
 
@@ -18,17 +18,17 @@ Good evening from Los Angeles. I'm a creative technologist and a role-player, an
 
 In physics, the term *multiverse* refers to a “patchwork quilt of separate universes all bound by the same laws of physics.” It's not so much that anything is possible, but that everything possible actually happens, somewhere. 
 
-In science fiction, the popular imagination, and the Miles Morales Spider-Man movies, the possibility of infinite universes allows writers to explore time travel, alternate histories, and issues around identity and diversity.
-
 I use the term *[[cultural multiverse|t.multiverse]]* to refer to the complete set of all the different imagined, artistic, and narrative realities that arise from human creativity across cultures and subcultures. It encompass literature, film, games, folklore, and roleplaying. 
 
 ### CARP
 
-You can think of computer-assisted roleplay as digital Dungeons & Dragons, but any genre will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning. The point is, a computer has its own representation of an imagined situation and can help make the role-playing experience better for humans.
+You can think of computer-assisted roleplay as digital Dungeons & Dragons, but any genre will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning. 
 
-When done well, improvisational roleplaying (in whatever form) becomes [[collaborative storytelling|t.storytelling.collaborative]]. So CARP can help make stories.
+Just like the movies (which are an interesting example of roleplaying in themselves), role-playing games have three phases: pre-production, production, and post-production. 
 
-Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix a roleplaying experience with player freedom (i.e., an open-ish world) and the [[principles of good gaming|t.rec.game.principles]], sprinkle in a little CARP, and at least get a decent story out of it. And there's certainly the potential for highly elaborate and cinematic stories, if that appeals. Taken to the extreme: if you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream becomes a nightmare.
+Computers can help us create alternate realities and assemble role-playing scenarios. That's pre-production. As we play through the scenarios, they can provide a medium where "in-game" events transpire, and provide tools to facilitate the experience. And after the fact, they can help us shape the experience into good stories and package the results fpr reflection and to share with others.
+
+So half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix a roleplaying experience with player freedom (i.e., an open-ish world) and the [[principles of good gaming|t.rec.game.principles]], sprinkle in a little CARP, and at least get a decent story out of it. And there's certainly the potential for highly elaborate and cinematic stories, if that appeals. Taken to the extreme: if you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream becomes a nightmare.
 
 ![](/assets/images/2024-09-26-17-40-04.png)
 
@@ -40,17 +40,17 @@ Half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better
 > -[[video.existenz]] (1999)
 
 
-The other half of the dream is using technology to make the enjoyment of these immersive experiences accessible to everyone, and to make their creation accessible to [[those who are not programmers, but who would like to conjure|t.cs.sd.barefoot-developers]] digital alternate realities and role-playing scenarios. That will require powerful-but-usable tools and an easy way to share scenario elements.
+The other half of the dream is using technology to make the make these immersive experiences accessible to everyone, and to make their assembly and execution accessible to [[those who are not programmers, but who would like to conjure|t.cs.sd.barefoot-developers]] alternate realities and role-playing scenarios.
 
-Right now, CARP looks and plays a lot like “isolated drama club geeks meet primitive video games.” Which is great. Beautiful, even! I'm glad we'll always have “retro-carp” as an option. 
+Right now, CARP looks and plays a lot like “drama club geeks meet primitive video games.” Which is great. Beautiful, even! I'm glad we'll always have “retro-carp” as an option. 
 
-But when we start to realize the dream, we’ll see a lot more variety. The cultural multiverse is going to explode with alternate realities, role-playing will erupt with different play-styles, and things are going to get real.
+But when we start to realize the dream, we’ll see a lot more variety. The cultural multiverse is going to explode with alternate realities, we'll see a profusion of play-styles, and things are going to get real.
 
 ### Modeling the Imaginary
 
-To be able to share scenario elements and fit them together, we're going to need conceptual modeling. We'll have to settle on shared vocabularies and think about how to structure things like fictional entities, roleplaying scenarios, and alternate realities.
+To be able to share scenario elements and fit them together, we're going to need conceptual modeling. We'll have to settle on some shared high-level vocabularies and think about how to structure things like characters, motivations, and conflict.
 
-How do we express these constructs digitally? One approach involves a controversial data-modeling technology called the [[Resource Description Framework|prdct.rdf]]. We'll talk more about RDF soon.
+How do we express these constructs digitally? One approach involves a controversial data-modeling technology called the [[Resource Description Framework|prdct.rdf]]. We'll talk more about RDF shortly.
 
 Intellectually and practically speaking, conceptual modelling is a gold mine. Two rich veins concern the modelling of time and space, and how to model change. If you're not even remotely interested in how to represent imaginary, evolving spatio-temporal entities, don't worry... you will be! 
 
