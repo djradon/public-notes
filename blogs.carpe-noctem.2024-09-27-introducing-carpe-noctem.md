@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727620847124
+updated: 1727621187982
 created: 1725171371808
 ---
 
@@ -12,7 +12,7 @@ Good evening from Los Angeles. I'm a creative technologist and a role-player, an
 
 ## What's This All About, Then?
 
-*Carpe Noctem* (loosely translated as “harvest the night”) will be a series of articles and letters about [[alternate realities|t.storytelling.alternate-reality]] and [[t.roleplaying]] of all kinds, but especially [[digital storytelling|t.storytelling.digital]] and [[computer-assisted roleplay (CARP)|t.roleplaying.computer-assisted]].
+*Carpe Noctem* (loosely translated as “harvest the night”) will be a series of articles and letters about storytelling, good gaming, [[alternate realities|t.storytelling.alternate-reality]] and [[roleplaying|t.roleplaying]] of all kinds, but especially [[digital storytelling|t.storytelling.digital]] and [[computer-assisted roleplay (CARP)|t.roleplaying.computer-assisted]].
 
 ### The Cultural Multiverse
 
