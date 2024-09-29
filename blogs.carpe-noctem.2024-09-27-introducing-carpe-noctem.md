@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer's Guide to Collaborative Imagination
-updated: 1727621187982
+updated: 1727623678687
 created: 1725171371808
 ---
 
@@ -22,26 +22,34 @@ I use the term *[[cultural multiverse|t.multiverse]]* to refer to the complete s
 
 ### Simple Roleplaying
 
-"Playing pretend" with external roles is something that kids start doing by the age of 18 months. It emerges spontaneously across cultures, which suggests that role-playing is an intrinsic part of human development. It seems to serve the evolutionary functions of developing empathy and problem-solving skills. 
+"Playing pretend" with external roles is something that kids start doing by the age of 18 months. It emerges spontaneously across cultures, which suggests that role-playing is an intrinsic part of human development. It seems to serve the evolutionary functions of developing empathy and social problem-solving skills. 
 
 Simple roleplaying reaches its peak in the preschool years (ages 3-6), when children start to create elaborate, rule-based pretend scenarios. From the ages of 7 to 11, they become more focused on rules, logic, and structured activities, leading to a decline in spontaneous pretend play.
 
-After that, imaginative play often becomes internalized. But for some, simple role-playing evolves into creative writing, storytelling, acting, and organized role-playing games, also known as RPGs.
+After that, imaginative play often becomes internalized or repressed. Or it just fades away. 
+
+But for some people, imaginitave play and simple role-playing evolve into creative writing, acting, or organized role-playing games, also known as RPGs.
 
 ### Tabletop Roleplay Gaming
 
-Even if you've never tried it, you probably know that classic [[pen and paper ("tabletop") roleplaying|t.roleplaying.pen-and-paper]] involves folks sitting around a table, “inhabiting” a fantasy scenario with characters of their own devising, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. The GM sets the scenes and keeps things moving, while the players keep track of their character's status on a piece of paper known as character sheet.
+Even if you've never tried it, you probably know that classic [[pen and paper ("tabletop") roleplaying|t.roleplaying.pen-and-paper]] involves folks sitting around a table, “inhabiting” a fantasy scenario with characters of their own devising, figuring out what those characters should try to do, and rolling dice to add an element of chance to their imaginary efforts. A facilitator, commonly known as [[the Game Master|t.roleplaying.gm]] (or GM for short) sets the scenes and keeps things moving, while the players keep track of their characters' statuses on pieces of paper known as character sheets.
 
-Tabletop roleplaying seems to have grown out of the combat-based board games of the late 1960s. *Dungeons & Dragons* (1974) is commonly credited as the progenitor, but it seems more accurate to say that one of D&D's co-creators, [[user.dave-arneson]], established the genre with his [[game.blackmoor]] game on April 17, 1971. For a great history of its inception, I recommend [[user.cecilia-danastasio]] [Dungeons & Deceptions: The First D&D Players Push Back On The Legend Of Gary Gygax](https://kotaku.com/dungeons-deceptions-the-first-d-d-players-push-back-1837516834).
+Tabletop roleplaying grew out of the combat-based board games of the late 1960s. *Dungeons & Dragons* (1974) is commonly credited as the progenitor, but it seems more accurate to say that one of D&D's co-creators, [[user.dave-arneson]], established the genre with his [[game.blackmoor]] game on April 17, 1971. For a great history of its inception, I highly recommend [[user.cecilia-danastasio]] [Dungeons & Deceptions: The First D&D Players Push Back On The Legend Of Gary Gygax](https://kotaku.com/dungeons-deceptions-the-first-d-d-players-push-back-1837516834).
 
 
 ### CARP
 
 You can think of computer-assisted roleplay as digital Dungeons & Dragons, but any genre will work. Alien space horror, cyberpunk dystopia, and supernatural gothic are some of the more popular flavors. But also, and more practically: psychotherapy, job training, and language learning. 
 
-Just like the movies (which are an interesting example of roleplaying in themselves), role-playing games have three phases: pre-production, production, and post-production. 
+Just like the movies (which are an interesting example of roleplaying in themselves), role-playing games have three phases, which you could call pre-production, production, and post-production. 
 
-Computers can help us create alternate realities, assemble role-playing scenarios, and define the rules. That's pre-production. As we play through scenarios, computers can provide a medium where "in-game" events transpire and provide tools to facilitate the experience. And after the fact, they can help us shape the experience into good stories and package the results for reflection and to share with others.
+In preparing for a classic tabletop RPG, the GM has to either create an alternate reality with maps, notes, and illustrations; or purchase one ready-made and get familiar with it. Meanwhile, the players have to create their characters, one of the most enjoyable parts of the experience. And everyone has to familiarize themselves with the rule system, if there is one.
+
+Computers can help us create alternate realities, manage characters,concot role-playing scenarios, and document the rules. That's CARP in pre-production. 
+
+As GMs shepherd the players through scenarios, computers can provide a medium where "in-game" events transpire, provide tools to facilitate the experience, and record things. That's production.
+
+And after the fact, computers can help us shape the experience into good stories and package the results for reflection and to share with others.
 
 So half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-better-without-stories]], is that you can mix a roleplaying experience with player freedom (i.e., an open-ish world) and the [[principles of good gaming|t.rec.game.principles]], sprinkle in a little CARP, and at least get a decent story out of it. And there's certainly the potential for highly elaborate and cinematic stories, if that appeals. Taken to the extreme: if you've seen [[Cronenberg's|user.david-cronenberg]] [[video.existenz]], that's where this dream becomes a nightmare.
 
@@ -55,11 +63,11 @@ So half the dream, and maybe it's a [[pipe-dream|ar.atlantic.video-games-are-bet
 > -[[video.existenz]] (1999)
 
 
-The other half of the dream is using technology to make the make these immersive experiences accessible to everyone, and to make their assembly and execution accessible to [[those who are not programmers, but who would like to conjure|t.cs.sd.barefoot-developers]] alternate realities and role-playing scenarios.
+The other half of the dream is using technology to make the make the enjoyment and creation of these immersive experiences more accessible.
 
-Right now, CARP looks and plays a lot like “drama club geeks meet primitive video games.” Which is great. Beautiful, even! I'm glad we'll always have “retro-carp” as an option. 
+Right now, CARP if fraught with technical challenges that detract from the experience. It looks and plays a lot like “drama club meets AV geeks meets primitive video games.” Which is great. Beautiful, even! I'm glad we'll always have “retro-carp” as an option. 
 
-But when we start to realize the dream, we’ll see a lot more variety. The cultural multiverse is going to explode with alternate realities, we'll see a profusion of play-styles, and things are going to get real.
+But when we start to realize the dream, we’ll see a lot more playability which will lead to a lot more variety. The cultural multiverse is going to explode with alternate realities, we'll see a profusion of play-styles, and things are going to get real.
 
 ### Modeling the Imaginary
 
@@ -80,7 +88,7 @@ I also intend to take little bites out of philosophy, psychology, literary theor
 ![](/assets/images/2024-09-26-21-11-06.png)
 <small>*[[images.campfire-site-yosemite]]*, [[user.albert-bierstadt]]</small>
 
-Eight quick years ago I got in on the ground floor of a geographically-distributed Dungeons & Dragons game. Our crew is four players plus a multi-talented facilitator, commonly known as [[the Game Master|t.roleplaying.gm]], or GM for short.
+Eight quick years ago I got in on the ground floor of a geographically-distributed Dungeons & Dragons game. Our crew is four players plus a multi-talented GM.
 
 Because we live far apart, we use a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]] to facilitate the sessions and [[prdct.google-meet]] for the comms. Our game (or “campaign” in D&D-speak) is set in a well-known alternate reality known as [[the Forgotten Realms|t.rec.dungeons-and-dragons.forgotten-realms]] and our GM kicked things off with a homebrew prelude set around a gypsy caravan campfire before launching us into a popular commercial adventure scenario called [[game.storm-kings-thunder]]. 
 
