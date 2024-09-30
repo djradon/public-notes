@@ -4,10 +4,14 @@ title: Hashnode
 desc: >-
   self-publishing with engagement like Medium or Dev.to, but customizable;
   GraphQL API
-updated: 1726268819792
+updated: 1727657593963
 created: 1636170144113
 ---
 
+
+## Issues
+
+- removed Sponsor support
 
 ## Resources
 

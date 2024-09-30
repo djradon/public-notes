@@ -1,8 +1,8 @@
 ---
 id: o5n6qgm9csufd9uxu0566jn
 title: The Old Man in the Cave
-desc: ''
-updated: 1727646452454
+desc: 'A developer journal for my quest to reboot the Semantic Web with computer-assisted roleplaying.'
+updated: 1727656420793
 created: 1726268291458
 ---
 
