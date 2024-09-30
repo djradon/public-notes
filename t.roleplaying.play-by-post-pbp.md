@@ -2,9 +2,13 @@
 id: tjpmw7g0hm2hl3irw4r155d
 title: Play by Post (PbP)
 desc: ''
-updated: 1727658467282
+updated: 1727678113337
 created: 1727298746738
 ---
+
+## Description
+
+- can supplement a synchronous game ()
 
 ## Issues
 
