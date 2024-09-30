@@ -2,10 +2,15 @@
 id: tjpmw7g0hm2hl3irw4r155d
 title: Play by Post (PbP)
 desc: ''
-updated: 1727298792501
+updated: 1727658467282
 created: 1727298746738
 ---
 
+## Issues
+
+- not (as) social
+- slowness (ain't the problem)
+
 ## References
 
-- https://theangrygm.com/a-complete-idiots-guide-to-play-by-post-gaming/
+- [[ar.theangrygm.a-complete-idiots-guide-to-play-by-post-gaming]]

@@ -2,7 +2,7 @@
 id: x27pobn88jv8gp8h3l36hn5
 title: Interactive Drama
 desc: ''
-updated: 1727326429977
+updated: 1727658232941
 created: 1726381035421
 ---
 
@@ -51,7 +51,7 @@ The main differences are:
 
 ## Resources
 
-- http://www.interactivedramas.info/dramatist.htm
+- http://www.interactivedramas.info/dramatist.htm : critical pieces, definitions, and explanations of Interactive Drama, Freeform Role Play, Murder Mystery Whodunits, and Live Action Role Playing Games
 
 ## References
 
