@@ -1,13 +1,13 @@
 ---
 id: 31n6gtegjp893vfuiz340ml
 title: Reification and Truthmaking Patterns
-desc: 'use truthmaking patterns to put truthmakers in the domain'
+desc: use truthmaking patterns to put truthmakers in the domain
 updated: 1722056367254
 created: 1720999931301
 ---
 
 - http://www.inf.ufes.br/~gguizzardi/ER2018-Truthmaking.pdf
-- keywords: [[t.cs.sd.modeling.ontology-driven-conceptual-modeling]] [[prdct.ontouml]] [[prdct.dolce]] [[prdct.unified-foundational-ontology]]
+- keywords: [[t.cs.sd.modeling.conceptual-modeling.ontology-driven]] [[prdct.ontouml]] [[prdct.dolce]] [[prdct.unified-foundational-ontology]]
 
 ## Abstract
 

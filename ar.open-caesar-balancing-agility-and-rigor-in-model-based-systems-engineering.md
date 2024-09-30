@@ -7,7 +7,7 @@ created: 1724174521629
 ---
 
 - https://www.researchgate.net/publication/373652870_openCAESAR_Balancing_Agility_and_Rigor_in_Model-Based_Systems_Engineering
-- topics: [[t.cs.sd.modeling.ontology-driven-conceptual-modeling]] [[prdct.opencaesar]] [[t.cs.sd.model-based-systems-engineering-mbse]]
+- topics: [[t.cs.sd.modeling.conceptual-modeling.ontology-driven]] [[prdct.opencaesar]] [[t.cs.sd.model-based-systems-engineering-mbse]]
 
 ## Abstract
 

@@ -1,14 +1,14 @@
 ---
 id: irpbecuanb3c1sa3fa2q23m
 title: Incorporating Types of Types in Ontology Driven Conceptual Modeling
-desc: 'extends UFO with support for multi-level classification'
+desc: extends UFO with support for multi-level classification
 updated: 1724877863920
 created: 1724872032986
 ---
 
 - https://nemo.inf.ufes.br/wp-content/papercite-data/pdf/incorporating_types_of_types_in_ontology_driven_conceptual_modeling_2022.pdf
 - authors: @claudenir-fonseca @giancarlo-guizzardi @joao-paulo-almeida @tiago-prince-sales @daniele-porello
-- topics: [[t.cs.sd.modeling.ontology-driven-conceptual-modeling]] [[t.km.ontology.multi-level-theory]] [[prdct.ontouml]]
+- topics: [[t.cs.sd.modeling.conceptual-modeling.ontology-driven]] [[t.km.ontology.multi-level-theory]] [[prdct.ontouml]]
 - published: t.2022-10
 
 ## Abstract

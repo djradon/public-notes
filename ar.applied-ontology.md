@@ -1,12 +1,12 @@
 ---
 id: 30cbzccaqpopf0hlfznqc5h
 title: Applied Ontology
-desc: 'An Interdisciplinary Journal of Ontological Analysis and Conceptual Modeling'
+desc: An Interdisciplinary Journal of Ontological Analysis and Conceptual Modeling
 updated: 1725381121746
 created: 1713283690249
 ---
 
-- topics: [[t.cs.sd.modeling.ontology-driven-conceptual-modeling]] [[t.phil.conceptualization]]
+- topics: [[t.cs.sd.modeling.conceptual-modeling.ontology-driven]] [[t.phil.conceptualization]]
 
 ## Aims and Scope
 

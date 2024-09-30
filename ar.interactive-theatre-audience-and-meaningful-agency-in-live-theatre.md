@@ -2,7 +2,7 @@
 id: 2pf0ijqfdkiq0mnh0agkct7
 title: Interactive Theatre 
 desc: 'Audience and Meaningful Agency in Live Theatre'
-updated: 1727649027893
+updated: 1727673166314
 created: 1727648904295
 ---
 
@@ -18,3 +18,10 @@ Agency is concerned with the range of actions that are available to the guest. W
 ### Reactive, Interactive and Proactive Agency (Astrid Breel)
 
 In the article “Audience agency in participatory performance”, agency is described as follows: “Agency is concerned with intention and choice, so for a participant to have agency they should intentionally perform an action (however small) that causes something to happen or change within the performance as a result.
+
+### Visualizing Agency
+
+- The different types of agencies differ in the areas they are concerned with, from the type and amount of freedoms and interactions they give guests to the type of consequences that come from guest decisions. This cannot be meaningfully simplified with a one-dimensional axis.
+![](/assets/images/2024-09-29-22-11-31.png)
+
+![](/assets/images/2024-09-29-22-12-25.png)

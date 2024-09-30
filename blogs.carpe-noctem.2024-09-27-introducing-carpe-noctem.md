@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer’s Guide to Collaborative Imagination
-updated: 1727656053826
+updated: 1727675020815
 created: 1725171371808
 ---
 
@@ -113,7 +113,7 @@ It was a great opportunity to flex my writing skills.
 
 It also allowed me to experiment with different narrative styles and forms. My summaries evolved from simple text into an interlinked wiki where I’ve been trying to capture the relationships between places, characters, etc. It was essentially a semantic web: a textual network of inter-linked concepts, entities, and happenings.
 
-And it helped me realize that role-play gaming and alternate realities in general could benefit from some good conceptual modeling.
+And it helped me realize that role-play gaming and alternate realities in general could benefit from some good [[conceptual modeling|t.cs.sd.modeling.conceptual-modeling]].
 
 ## Whither the Semantic Web?
 
