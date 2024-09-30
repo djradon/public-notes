@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer’s Guide to Collaborative Imagination
-updated: 1727654536907
+updated: 1727656053826
 created: 1725171371808
 ---
 
@@ -175,9 +175,9 @@ There’s a very tricky [[tension|ar.screenrant.dnd-ai-controversy-dungeons-and-
 
 My intended audience here is a general one: people who might be interested in storytelling, roleplaying, game studies, alternate realities, or synthetic life. 
 
-If you’re be curious about the more technical side of my mission, check out my developer journal, [The Old Man in the Cave](https://the-old-man-in-the-cave.hashnode.dev/lets-reboot-the-semantic-web-with-alternate-realities). 
+If you're curious about the technical details of my mission, check out my developer journal: [The Old Man in the Cave](https://theoldmaninthecave.substack.com/p/lets-reboot-the-semantic-web-with-alternate-realities). 
 
-I’m looking to make connections that could lead to collaboration. If our interests overlap, please reach out!
+I’m looking to make connections that could lead to collaboration. If our interests overlap, I’d love to hear from you!
 
 <br><br><br>
 
@@ -196,9 +196,7 @@ But what about the night?
 
 Like most entertainment, roleplaying games are often fitted in after the sun goes down. Typical sessions last three to five hours and often stretch past midnight. All-nighters are glamorized legend-fodder. Pluck those zombies, harvest the magic items, and seize the stronghold before the sun comes up!
 
-Writing too has its nocturnal mystique. [[user.james-baldwin]] wrote in [[book.nothing-personal]] about how the grim realizations of 4am (a “devastating hour”), could in turn be a source of strength. [[Kafka|user.franz-kafka]] wrote ruefully of sleep: “Just think how many thoughts a blanket smothers while one lies alone in bed.” Proust, Plath, Fitzgerald, T.S. Eliot and George Sand are among the many writers famed to do their best work at night. 
+Writing also has its nocturnal mystique. [[user.james-baldwin]] wrote in [[book.nothing-personal]] about how the grim realizations of 4am (a “devastating hour”), could in turn be a source of strength. [[Kafka|user.franz-kafka]] wrote ruefully of sleep: “Just think how many thoughts a blanket smothers while one lies alone in bed.” Proust, Plath, Fitzgerald, T.S. Eliot and George Sand are among the many writers famed to do their best work at night. 
 
-Regardless of quality, as the father of a wakeful two year old, [[night time is often write time|idea.night-time-write-time]] for me.
-
-Thanks for joining and good night.
+Regardless of quality, as the father of a wakeful two year old, [[night time is often the write time|idea.night-time-write-time]] for me.
 
