@@ -2,14 +2,14 @@
 id: zz7x20szxe1fast2m5w5u95
 title: Dokieli
 desc: 'a clientside editor for decentralised article publishing, annotations and social interactions'
-updated: 1721789664427
+updated: 1727721364753
 created: 1710879163289
 ---
 
 - repo: https://github.com/linkeddata/dokieli
-- [[c.software.semantic.authoring]]
+- [[c.software.semantic.authoring]] [[c.software.semantic.activity-pub]]
 - url: https://dokie.li
-- built_on: [[prdct.solid]] 
+- built_on: [[prdct.solid]] [[prdct.activitypub]]
 - written_in: javascript (client-side)
 - supports: [[prdct.activitypub]] [[prdct.web-annotations]]
 

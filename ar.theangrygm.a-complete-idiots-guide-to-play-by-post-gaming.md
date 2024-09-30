@@ -2,7 +2,7 @@
 id: pu73pyd5e6y89h8c0powhh1
 title: A Complete Idiots Guide to Play by Post Gaming
 desc: ''
-updated: 1727678086793
+updated: 1727678742234
 created: 1727658467622
 ---
 
@@ -51,6 +51,12 @@ created: 1727658467622
 - the Game Master has to focus on resolving shit a little above the individual action level. When a fight breaks out, for example, you don’t resolve individual maneuvers and attacks, but rather, you resolve gambits or sorties. ^w8gaab0id97l
   - say the party encounters a dragon. The warrior charges into battle, the wizard casts a protection spell, and the dragon readies a gout of flame. The Game Master would resolve that whole round of action and determine how it works out for everyone involved. Depending on the card pulls, maybe the warrior is held at bay by the dragonfire, but the worst of the blast is stopped by the wizard, and the dragon is now on the offensive. 
 - You resolve situations rather than individual actions. ^acaknyft4w8p
+
+## Comments
+
+- I tried PbP in the past because of its allegedly low commitment, but the reality of reading several long posts and coming up with my own paragraph of prose every day led me to bail on it within a couple of weeks. If I could get by on reading a single Discord page or less of interactions and posting a couple of sentences of my own, I would probably enjoy PbP.
+- , I could see maybe something really zoomed out, where every player contribution represents an extended amount of time. Something like The Quiet Year or some multiplayer version of Thousand Year Vampire. But at that point you’re doing a collaborative writing exercise that’s so different from a TTRPG that it’s silly to even consider it the same activity.
+- it’s a good thing real time gaming doesn’t have that prose
 
 ## Thoughts
 

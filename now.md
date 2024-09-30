@@ -2,7 +2,7 @@
 id: pk8PcdWdd5M38WncZRnzN
 title: Now
 desc: 'current projects'
-updated: 1727386665479
+updated: 1727721813727
 created: 1633726718681
 ---
 
@@ -10,6 +10,8 @@ created: 1633726718681
 
 - host ontologies and linked data on github
   - decide on directory structure
+  - how do you create semantic data that conforms to an ontology
+- [[prdct.linked-data-fragments]]
 
 ## Semantic Web Reboot
 
