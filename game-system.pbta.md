@@ -1,7 +1,7 @@
 ---
 id: gz4ev1lheqalphtclgv32bv
 title: Pbta
-desc: 'Powered by the Apocalypse creates dramatic stories'
+desc: Powered by the Apocalypse creates dramatic stories
 updated: 1698262670434
 created: 1673566763687
 ---

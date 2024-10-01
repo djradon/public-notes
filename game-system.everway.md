@@ -1,7 +1,7 @@
 ---
 id: muwsm9rqzuh85cyt75kd0a8
 title: Everway
-desc: 'pretty light on mechanics and heavily focused on the narrative'
+desc: pretty light on mechanics and heavily focused on the narrative
 updated: 1727678323579
 created: 1727677825827
 ---

@@ -2,7 +2,7 @@
 id: 4ndmblmh5zuf09cx5rgw0k1
 title: Introducing... Carpe Noctem
 desc: An Explorer’s Guide to Collaborative Imagination
-updated: 1727675020815
+updated: 1727633666053
 created: 1725171371808
 ---
 
@@ -99,7 +99,7 @@ I also intend to take little bites out of philosophy, psychology, literary theor
 
 Eight quick years ago I got in on the ground floor of a geographically-distributed Dungeons & Dragons game. Our crew is four players plus a heroic, multi-talented GM.
 
-Because we live far apart, we’ve almost always used a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]] to facilitate the sessions. Our game (or “campaign” in D&D-speak) is set in a well-known alternate reality known as [[the Forgotten Realms|t.rec.dungeons-and-dragons.forgotten-realms]] and our GM kicked things off with a homebrew prelude set around a gypsy caravan campfire before launching us into a popular commercial adventure scenario called [[game.storm-kings-thunder]]. 
+Because we live far apart, we’ve almost always used a [[virtual tabletop|t.roleplaying.virtual-tabletop]] called [[prdct.roll20]] to facilitate the sessions. Our game (or “campaign” in D&D-speak) is set in a well-known alternate reality known as [[the Forgotten Realms|game-system.dungeons-and-dragons.forgotten-realms]] and our GM kicked things off with a homebrew prelude set around a gypsy caravan campfire before launching us into a popular commercial adventure scenario called [[game.storm-kings-thunder]]. 
 
 (For those who aren’t familiar, the Forgotten Realms is without doubt one of the richest fictional worlds ever brought forth, with its own detailed [geography](https://forgottenrealms.fandom.com/wiki/Portal:Geography), [hundred of settlements](https://forgottenrealms.fandom.com/wiki/Category:Settlements), [dozens of deities](https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/), and a truly [fantastical history](https://forgottenrealms.fandom.com/wiki/Portal:History). The fan base is huge, so in addition to over 300 official published novels, close to 100 different roleplaying adventure modules, and a pretty decent [[movie|video.dungeons-and-dragons-honor-among-thieves]], it’s inspired countless works of homebrew content and [fan fiction](https://www.fanfiction.net/book/Forgotten-Realms/).)
 

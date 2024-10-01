@@ -2,7 +2,7 @@
 id: pu73pyd5e6y89h8c0powhh1
 title: A Complete Idiots Guide to Play by Post Gaming
 desc: ''
-updated: 1727678742234
+updated: 1727813613274
 created: 1727658467622
 ---
 
@@ -38,16 +38,16 @@ created: 1727658467622
 
 ### Dungeon World or Genesys
 
-- [[game.pbta.dungeon-world]] 
+- [[game-system.pbta.dungeon-world]] 
   - Resolving an action in Dungeon World involves recognizing the moment when a player says something that requires a resolution and then using a chunk of mechanics called a Move to resolve it. So, when a player says something like, “I’ll smack the goblin with my sword” or “I examine the weird statuette to see what I can make of it,” the Game Master says, “It sounds like you’re Hacking and Slashing, roll plus Strength” or, “You’re trying to Discern Realities, roll plus Wisdom.” ^clwr7w4n7iff
   - There’s not a lot of negotiational back-and-forth in basic action resolution and the whole game is based on just listening to natural descriptions of actions to decide how things play out.
 - [[game.genesys]]
   - you resolve actions in Genesys by building pools from lots of different dice of different sizes marked with different symbols. There are dice for Attribute scores and dice for Skills, dice for positive and negative circumstances, and dice that represent the task’s Difficulty. The pool provides a high-content result. Success and failure are measured in degrees and you can have lucky or unlucky happenstances ride along with them. Not to mention crits and fumbles that sometimes just add to the results rather than overriding them. ^sfwe0h0ipn9l
   - kind of clunky and clumsy to work with. Building pools takes time, interpreting the results carries a learning curve, basically everything you’d expect. But with slow, asynchronous play, those downsides don’t matter. Especially if you, the Game Master, handle the rolling yourself. You don’t work through building the pool with the player and then have them roll it — and you skip any mechanics that require negotiational back-and-forth that affect the roll or else require players to pre-choose those things — and instead just build the pool, resolve the action, and describe the result. ^2oeuqdes6i0x
 
-### Everyway
+### Everway
 
-- weird fantasy multi-verse adventure game very steeped in a variety of ancient Earthly mythologies — particularly non-Western mythology — and based strongly on the Hermetic elements, astrology, and Tarot cartomancy. Especially Tarot cartomancy. The game comes with a special, in-universe Tarot-like deck called The Fortune Deck, which is used in character generation, plot and adventure planning, and action resolution. ^3887hkaim4hv
+- [[game-system.everway]] is a weird fantasy multi-verse adventure game very steeped in a variety of ancient Earthly mythologies — particularly non-Western mythology — and based strongly on the Hermetic elements, astrology, and Tarot cartomancy. Especially Tarot cartomancy. The game comes with a special, in-universe Tarot-like deck called The Fortune Deck, which is used in character generation, plot and adventure planning, and action resolution. ^3887hkaim4hv
 - the Game Master has to focus on resolving shit a little above the individual action level. When a fight breaks out, for example, you don’t resolve individual maneuvers and attacks, but rather, you resolve gambits or sorties. ^w8gaab0id97l
   - say the party encounters a dragon. The warrior charges into battle, the wizard casts a protection spell, and the dragon readies a gout of flame. The Game Master would resolve that whole round of action and determine how it works out for everyone involved. Depending on the card pulls, maybe the warrior is held at bay by the dragonfire, but the worst of the blast is stopped by the wizard, and the dragon is now on the offensive. 
 - You resolve situations rather than individual actions. ^acaknyft4w8p

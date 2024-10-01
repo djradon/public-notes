@@ -6,7 +6,7 @@ updated: 1727407317292
 created: 1705513288984
 ---
 
-- superwork: [[t.rec.dungeons-and-dragons.forgotten-realms]]
+- superwork: [[game-system.dungeons-and-dragons.forgotten-realms]]
 
 ## Expressions: 
 

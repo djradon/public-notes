@@ -2,11 +2,12 @@
 id: 8jtt0se7jzfe53y6cjzcoku
 title: Forgotten Realms
 desc: ''
-updated: 1727407354534
+updated: 1727813275279
 created: 1698875136901
 ---
 
-- [[c.Work.superwork]]
+- [[c.Work.superwork]] 
+- see also: [[setting.forgotten-realms]]
 
 ## Mood
 

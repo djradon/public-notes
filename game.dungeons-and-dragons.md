@@ -6,6 +6,6 @@ updated: 1725454876846
 created: 1670908133382
 ---
 
-![[t.rec.dungeons-and-dragons]]
+![[game-system.dungeons-and-dragons]]
 
 ## Resources

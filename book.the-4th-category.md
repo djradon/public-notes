@@ -1,13 +1,15 @@
 ---
 id: eckvlil4jtcnex6ouh1uaem
 title: The 4th Category
-desc: 'real-time verbal story crafting promoting and growing the creative tendencies of humans'
+desc: >-
+  real-time verbal story crafting promoting and growing the creative tendencies
+  of humans
 updated: 1718394563953
 created: 1718374991631
 ---
 
 - author: @rob-kuntz
-- topics: [[t.rec.dungeons-and-dragons.classic]]
+- topics: [[game-system.dungeons-and-dragons.classic]]
 
 ## Highlights
 

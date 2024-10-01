@@ -6,7 +6,7 @@ updated: 1725455383139
 created: 1698787757836
 ---
 
-- topics: [[t.rec.dungeons-and-dragons]] [[t.roleplaying.scenario-structure]]
+- topics: [[game-system.dungeons-and-dragons]] [[t.roleplaying.scenario-structure]]
 
 ## Issues
 
