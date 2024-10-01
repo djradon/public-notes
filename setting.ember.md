@@ -2,9 +2,11 @@
 id: sti2qutq54vq2t36wm8z4r5
 title: Ember
 desc: ''
-updated: 1727813356628
+updated: 1727813910961
 created: 1727813230771
 ---
+
+- related: [[game-system.crucible]]
 
 ## Description
 
