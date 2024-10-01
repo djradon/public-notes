@@ -2,7 +2,7 @@
 id: dek450y2cja0kq309elq8ch
 title: Frbr
 desc: 'Functional Requirements for Bibliographic Records'
-updated: 1724269935854
+updated: 1727810952014
 created: 1701451108399
 url: https://vocab.org/frbr/
 ---
@@ -16,3 +16,4 @@ url: https://vocab.org/frbr/
 ## References
 
 - [[ar.functional-requirements-for-information-resource-provenance-on-the-web]]
+- http://www.sparontologies.net/examples#frbr_1

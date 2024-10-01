@@ -2,7 +2,7 @@
 id: nnaga3qaq8stv4all4i32gp
 title: Hash Vs Slash
 desc: ''
-updated: 1721270745870
+updated: 1727809265814
 created: 1721255689434
 ---
 
@@ -14,8 +14,12 @@ created: 1721255689434
 - Using a hash in IRIs assumes that the dataset in which all hash-containing IRIs occur is small enough to be downloaded from a server all at once and fully searched though by an unadvanced client. Specifically, the client cannot be assumed to use advanced forms of indexing to ensure speedy retrieval of the fragment. This means that retrieval may be a little bit faster for small vocabularies that are cached well by the client and whose terms are often looked up by the user, and that retrieval is slower or impossible in all other scenarios.
 - Using a hash in IRIs assumes that the small dataset in which all hash-containing IRIs occur will remain small forever. If new hash-containing IRIs are regularly added to the dataset, retrieval times will increase over time.
 
+## Daniel Garijo's take
+
+![[ar.best-practices-for-implementing-fair-vocabularies-and-ontologies-on-the-web#hash-versus-slash-uris]]
 
 ## References
 
 - https://www.w3.org/wiki/HashVsSlash
 - https://triplydb.com/how-to-model/-/stories/how-to-model-iris
+- [[ar.best-practices-for-implementing-fair-vocabularies-and-ontologies-on-the-web]]

@@ -2,9 +2,15 @@
 id: hsk3vbae9mhogfwudnjis79
 title: RDFa
 desc: ''
-updated: 1717795070570
+updated: 1727799165419
 created: 1710795954157
 ---
+
+## Description
+
+- RDFa is a way to embed triples into an HTML document. It can be confusing for beginners, but some software tools generate valid RDFa which is fine, but don't try to create it by hand until you get some experience!
+
+- To decode RDFa in an HTML page, just put the URL into http://graphite.ecs.soton.ac.uk/browser/ 
 
 ## Cons
 
@@ -18,3 +24,7 @@ created: 1710795954157
 - https://www.w3.org/2006/07/SWD/RDFa/primer/
 
 https://github.com/jonaslagoni/asyncapi-miniseries/blob/master/docs/Part%201%20-%20Designing%20the%20API's.md
+
+## References
+
+- [[ar.linked-data-basics-for-techies]]
