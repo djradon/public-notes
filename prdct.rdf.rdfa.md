@@ -2,7 +2,7 @@
 id: hsk3vbae9mhogfwudnjis79
 title: RDFa
 desc: ''
-updated: 1727799165419
+updated: 1727979593856
 created: 1710795954157
 ---
 
@@ -11,6 +11,20 @@ created: 1710795954157
 - RDFa is a way to embed triples into an HTML document. It can be confusing for beginners, but some software tools generate valid RDFa which is fine, but don't try to create it by hand until you get some experience!
 
 - To decode RDFa in an HTML page, just put the URL into http://graphite.ecs.soton.ac.uk/browser/ 
+
+## Examples
+
+```html
+<div about="/alice/posts/trouble_with_bob">
+    <h2 property="dc:title">The trouble with Bob</h2>
+    <h3 property="dc:creator">Alice</h3>
+    ...
+</div>
+```
+
+## Questions
+
+- is <a href> the only way to specify a object resource
 
 ## Cons
 

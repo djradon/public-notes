@@ -2,7 +2,7 @@
 id: ajtyyiy5j7attle4zo8h8im
 title: Datasets
 desc: 'a collection of RDF graphs, where one graph is the default and the others are named'
-updated: 1721473280303
+updated: 1727978330064
 created: 1721250549704
 ---
 
@@ -15,6 +15,11 @@ created: 1721250549704
 - "There are many possible uses for RDF datasets. One such use is to hold snapshots of multiple RDF sources."
 
 - "An RDF document is a document that encodes an RDF graph or RDF dataset in a concrete RDF syntax, such as Turtle"
+
+
+## Issues
+
+- [ ] Dataset iris are different? Are they closed? 
 
 ## Terms
 
