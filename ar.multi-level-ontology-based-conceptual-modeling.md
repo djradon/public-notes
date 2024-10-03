@@ -2,14 +2,18 @@
 id: spggj0zksrszbm2nup7xrkm
 title: Multi-Level Ontology-Based Conceptual Modeling
 desc: ''
-updated: 1727823969862
+updated: 1727848424929
 created: 1727674818306
 ---
 
+- *can't locate a full copy*
 - https://www.sciencedirect.com/science/article/abs/pii/S0169023X17301052
 - authors: @victorio-carvalho @joao-paulo-almeida @claudenir-fonseca @giancarlo-guizzardi
 - topics: [[prdct.unified-foundational-ontology.ufo-mlt]]
 - published: 2017-05
+- similar: 
+  - [[ar.extending-the-foundations-of-ontology-based-conceptual-modeling-with-a-multi-level-theory]] 
+  - 
 
 ## Abstract
 
@@ -20,3 +24,6 @@ Since the late 1980s, there has been a growing interest in the use of foundation
 ### Introduction
 
 - The [[[prdct.ontouml]]-based] approach is so far unable to describe subject domains in which the categorization scheme itself is part of the subject matter.
+  - t.2024.10.01.16 like D&D classes
+- In OntoUML, the taxonomy of types of the Unified Foundational Ontology (UFO) has been reflected in the language such that the distinctions of the foundational ontology can be used to provide useful constraints and modeling guidelines, ultimately leading to ontologically well-founded conceptual models. The resulting conceptual models consist of a collection of types (classes) of individuals in the subject domain (e.g., the “Person” kind, the “Child” phase, the “Student” role). Each of these domain types instantiate types in the foundational ontology (e.g., kind, subkind, role, phase, etc.).
+- 
