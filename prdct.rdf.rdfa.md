@@ -2,7 +2,7 @@
 id: hsk3vbae9mhogfwudnjis79
 title: RDFa
 desc: ''
-updated: 1727979593856
+updated: 1727998169194
 created: 1710795954157
 ---
 
@@ -26,6 +26,17 @@ created: 1710795954157
 
 - is <a href> the only way to specify a object resource
 
+```html
+<div about="http://dbpedia.org/resource/Albert_Einstein">
+  <span property="foaf:name">Albert Einstein</span>
+  <span property="dbp:dateOfBirth" datatype="xsd:date">1879-03-14</span>
+  <div rel="dbp:birthPlace" resource="http://dbpedia.org/resource/German_Empire">
+    <span property="dbp:conventionalLongName">the German Empire</span>
+    <span rel="dbp-owl:capital" resource="http://dbpedia.org/resource/Berlin" />
+  </div>
+</div>
+```
+
 ## Cons
 
 -   adding inline semantic markup to existing web pages can be tricky and time-consuming when it is necessary to understand the existing page structure and the hierarchical nesting of various `<div>` and `<span>` elements - and care must be taken to check that the RDF triples that can be extracted from the page are as intended, without mis-connected nodes or dangling nodes. Sometimes it is necessary to re-assert the `Subject` of a set of RDF triples using the about attribute.
@@ -33,11 +44,13 @@ created: 1710795954157
   - compare "single block markup using [[prdct.JSON-LD]]": 
     - the single block of JSON-LD markup is decoupled from the human-readable HTML markup appearing in the <body> of the page, which means that if changes are made to the structure of the <body> section, there is much less risk of breaking or misconnecting the collection of RDF triples that can be extracted from the page.
 
+## Libriaries
+
+- [[prdct.rdfa-streaming-parser-js]]
+
 ## Resources
 
 - https://www.w3.org/2006/07/SWD/RDFa/primer/
-
-https://github.com/jonaslagoni/asyncapi-miniseries/blob/master/docs/Part%201%20-%20Designing%20the%20API's.md
 
 ## References
 

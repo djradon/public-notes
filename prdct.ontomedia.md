@@ -2,11 +2,12 @@
 id: twccw0iaye1yncgudxrr8a1
 title: Ontomedia
 desc: 'goes  beyond bibliographic data, into the discussion of the relationships that exist within and between elements of heterogeneous media'
-updated: 1727986625065
+updated: 1727995576075
 created: 1710828459496
 ---
 - url: 
   - https://r4isstatic.com/linkeddata/ontologies/ontomedia/core/expression.owl
+  - https://web.archive.org/web/20051125100843/http://ontomedia.ecs.soton.ac.uk:80/ontologies/core/media
   - https://r4isstatic.com/linkeddata/ontologies/ontomedia/ext/common/being.owl 
   - https://r4isstatic.com/linkeddata/ontologies/ontomedia/ext/fiction/char.owl
   - https://r4isstatic.com/linkeddata/ontologies/ontomedia/misc/date.owl
