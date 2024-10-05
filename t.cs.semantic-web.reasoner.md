@@ -2,7 +2,7 @@
 id: stdy7h7as46ehxupm66538k
 title: Reasoner
 desc: 'the most expressive knowledge representation language anyone knows how to design while still preserving practical reasoning.'
-updated: 1718171551621
+updated: 1728144324526
 created: 1698706449311
 ---
 
@@ -44,3 +44,4 @@ created: 1698706449311
 ## References
 
 - https://www.opencaesar.io/blog/2021/06/19/OML-Origin-and-Rationale.html
+- http://owl.cs.manchester.ac.uk/tools/list-of-reasoners/

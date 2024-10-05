@@ -2,12 +2,14 @@
 id: qvg03gclyk3cl38prlc08gu
 title: F—A Model of Events based on the Foundational Ontology DOLCE+DnS Ultralite
 desc: ''
-updated: 1724700600148
+updated: 1728145991862
 created: 1719949382704
 ---
 
 - https://www.researchgate.net/publication/220916829_F_-_A_model_of_events_based_on_the_foundational_ontology_DOLCEDnS_ultralite
 - subject: [[prdct.event-model-f]]
+
+![](/assets/images/2024-10-05-09-29-42.png)
 
 ## Abstract
 
