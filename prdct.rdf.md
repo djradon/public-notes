@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1727285766784
+updated: 1728329793374
 created: 1633160681527
 ---
 
@@ -10,6 +10,8 @@ created: 1633160681527
 - [[p.instanceOf]] [[c.specification]]
 
 ## Features
+
+- "has the aesthetics of steampunk, of some technology for some futuristic Semantic Web1 in a toolset that feels about as lightweight and modern as iron dreadnought."
 
 ### Properties
 
@@ -217,3 +219,4 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
 
 - https://patterns.dataincubator.org/book/custom-datatype.html
 - https://www.w3.org/TR/swbp-n-aryRelations/
+- https://cran.r-project.org/web/packages/rdflib/vignettes/rdf_intro.html
