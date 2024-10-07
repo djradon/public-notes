@@ -4,11 +4,13 @@ title: Hypergraphdb
 desc: >-
   a general purpose, extensible, portable, distributed, embeddable, open-source
   data storage mechanism
-updated: 1698262670440
+updated: 1728320485345
 created: 1650068576540
 ---
 
+- dead
 - [[p.hasAuthor]] @boris-iordanov
+- [[c.software.database.graph.hypergraph]]
 
 ## Resources
 
