@@ -2,14 +2,14 @@
 id: 8d4ujanl4ezw65rraanim0z
 title: Tbox Vs Abox vs MBox
 desc: 'Terminological Box is concerned with taxonomy and structure, vs Assertion Box; aka rules vs facts'
-updated: 1727851556319
+updated: 1728154558024
 created: 1708713849213
 ---
 
 - "when writing an ontology you are often mostly defining classes and properties that you expect to reuse in lots of different sets of instance data. Thus the ontology is often mostly t-box assertions and you can think of the different instance datasets as a-boxes which will be coupled to the t-box (either explicitly with owl:imports or implicitly in your processing system). However, it is pretty common, and perfectly reasonable, for such ontologies to have a few individuals present (e.g. as symbolic labels) and so not be "pure" t-boxes."
 - " you will /never/ find axioms that are soley TBox axiom in RDFS, since there will always be the additional RDF-inherited semantics for all the RDF triples that encode the axiom."
 - "in contrast to OWL DL, in OWL Full you also never have a clear separation between the ABox and the TBox."
-
+- "In OWL DL, classes are sets, while in RDFS a class is an individual with an associated set, the so called "class extension" of the individual."
 
 ## Model Box (MBox)
 

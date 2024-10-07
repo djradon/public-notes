@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1725900830412
+updated: 1728153677106
 created: 1698268407267
 ---
 

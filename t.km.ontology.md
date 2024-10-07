@@ -52,7 +52,7 @@ https://github.com/iddi/sofia/tree/master/eu.sofia.adk.common/ontologies/foundat
 [[prdct.dolce]]
   [[prdct.dolce.dns-ultralite]]
   [[prdct.dolce.lite-plus]]
-  [[prdct.dolce-lite]]
+  [[prdct.dolce.lite]]
   [[prdct.sumo]]
       has an associated open source [Sigma knowledge engineering environment](https://en.wikipedia.org/wiki/Sigma_knowledge_engineering_environment "Sigma knowledge engineering environment"). [[prdct.sigmakee]]
 

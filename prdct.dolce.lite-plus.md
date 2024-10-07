@@ -2,15 +2,29 @@
 id: 7zbpv8xonu8b4k16fpix6fc
 title: DOLCE Lite-Plus
 desc: ''
-updated: 1713463497930
+updated: 1728154047270
 created: 1710890608319
 ---
 
+- url: http://www.loa.istc.cnr.it/old/ontologies/DLP3971.zip
 
-## References
+![](/assets/images/2024-06-05-23-48-20.png)
 
-- https://www.w3.org/2001/sw/BestPractices/WNET/DLP3941_daml.html
-- http://www.ontologydesignpatterns.org/ont/dlp/
+## Expressivity
+
+the current state (for 397) of the DLP library is:
+`DL` Expressivity (for the complete library): SHION(D) [within OWL-DL]
+`S` == ALCR+
+`AL` - Attribute Logic: Conjunction, Universal Value Restriction, Limited Existential Quantification
+`C` - Complement (together with AL allows Disjunction, Full Existential Quantification)
+`R+` - Role Transitivity
+`H` - Role Hierarchy
+`I` - Role Inverse
+`O` - Nominal
+`N` - Unqualified Number Restrictions
+`(D)` - Datatypes
+
+
 
 ## Description
 
@@ -19,3 +33,10 @@ The lite versions of DOLCE are simplified translations of DOLCE into various log
 ### Comment from OWL file
 
 The version 3.9 of DOLCE-Lite (updated to D18 of            DOLCE-Full) with  some basic extensions, called            DOLCE-Lite-Plus, or DLP.  The ontology graph in this version            is the following:            ------Backbone:            http://www.loa-cnr.it/ontologies/DOLCE-Lite#            http://www.loa-cnr.it/ontologies/TemporalRelations#            http://www.loa-cnr.it/ontologies/SpatialRelations#            http://www.loa-cnr.it/ontologies/ExtendedDnS# [includes a minimal            action and process theory]            ------Basic            extensions:            http://www.loa-cnr.it/ontologies/FunctionalParticipation#            http://www.loa-cnr.it/ontologies/Plans#            http://www.loa-cnr.it/ontologies/InformationObjects#            http://www.loa-cnr.it/ontologies/SocialUnits#            http://www.loa-cnr.it/ontologies/Collections#            http://www.loa-cnr.it/ontologies/Collectives#            http://www.loa-cnr.it/ontologies/CommonSenseMapping#            -----Experimental extensions:            http://www.loa-cnr.it/ontologies/MentalObjects# [just a placeholder]            http://www.loa-cnr.it/ontologies/Systems#            http://www.loa-cnr.it/ontologies/SemioticCommunicationTheory#            http://www.loa-cnr.it/ontologies/Causality#            http://www.loa-cnr.it/ontologies/ModalDescriptions#            The backbone of the library is constituted by:           (1)            DOLCE-Lite,             which is an encoding of most            predicates formalized in DOLCE-Full             (S5 and KIF            versions), as presented in the Deliverable D18            of the WonderWeb EU Project            (http://wonderweb-semanticweb.org).           (2) two sets            of temporal relations defined over perdurants            which are adapted from Allen's temporal calculus, and            of spatial relations that simplify the expression of places            and locations from particulars to regions, and           (3) the DnS            (Descriptions and Situations) ontology, which provides a            vocabulary to talk of reified (social) entities such as            relations,             roles, contexts,  situations,            parameters, etc. Appropriate             relations link DnS            reifications to DOLCE-Lite non-reified             entities.            The reification ontology of DnS includes a minimal            vocabulary for action and process theory, following the main            assumptions in situation and action theories, like Situation            and Attitudes, BDI, etc.            The backbone has a stratification, so that TemporalRelations, SpatialRelations, and Extended DnS all inherit the DOLCE-Lite ontology.                 Based on that            backbone, other wide-scoping             ontologies are            provided: (4) ontology of information             objects,            based on semiotics, which provides a vocabulary to            talk of languages, expressions vs. meaning, logical vs.            physical documents, reference, etc. (5) a well-developed ontology of            plans and tasks, containing also a set of individual tasks            that provide grounded primitives to specify process types:            this is             the OWL port of a FOL version as            presented in the Deliverable             D07 of the Metokis            EU Project: http://metokis.salzburgresearch.at;            (6) a preliminary ontology of functional participation            relations, which provide a vocabulary for event-oriented            relations encoded by linguistic verbs (in Western            languages), like  'performs' or 'makes';            (7) an ontology for collections and collectives; (8) a set of            common sense mappings, introduced to support a mapping to            WordNet  (contained in another file).  Besides these basic            extensions, which are currently exploited in several            application  domains, and are actively under development,            there are also some less developed ontologies, all bases on            the backbone, but still at a preliminary and debatable            stage. They are included here as placeholders, and are used            by some applications, but they are not yet stable.            *******Scope of DOLCE-Lite-Plus*******  The lite            versions of DOLCE are simplified translations of DOLCE            into various logical languages. They are maintained for            several reasons:    1. allowing the implementation of            DOLCE-based ontologies in languages that are less expressive            than FOL. In particular, DOLCE-Lite does not make use of S5            modalities and of some temporally-indexed relations.   Modal            operators are not heavily exploited in DOLCE, then the            consequences are not very harmful for most uses.   Temporal            indexing is partly supported by composing            originally indexed relations with temporal location            relations. Even this support is not provided for description            logic versions of DOLCE-Lite like DAML+OIL, OWL-DL, etc.            2. allowing a description-logic-like naming policy for DOLCE            signature. In many cases, different names are adopted for            relations that have the same name but different arities in            the FOL version, or for relations that have polymorphic            domains  3. allowing extensions of DOLCE that do not have a            detailed axiomatization yet, and modularizing them            (placeholders) 4. taking benefit of the services of certain            implemented languages -specially the            classification services provided by  description            logics- in order to support domain applications.            The DLP ontology library is currently maintained in two            languages: a dialect of KIF3.0 (PL), and DAML+OIL (and now            OWL-DL).            The first one contains a complete code            for the library,             including theWordNet alignment            modules. The second one             contains the library            (according to available costructs of             DAML+OIL)            without the WordNet code, since it is very simple            and takes much space.  DLP+KIF is currently used in            some applications that need deep inferences, which can only            be provided by expressive, logic-programming-enabled            languages. DLP+DAML is currently used in Semantic Web            applications, for example in the Core Ontology for Services            (COS).  The extensions to DOLCE presented in the library are            work in progress, and although some of them have been tested            in realistic applications, they should be taken cautiously            from the viewpoint of rigorous formal ontology.            The axioms for constraining the semantics of relations in DLP, which exist in the KIF or FOL versions, are not included into this OWL version, because a workaround is needed for representing relation axioms in OWL-DL, which increases beyond acceptability the time employed by a reasoner to check the ontologies.            *********Updates can be downloaded from: http://dolce.semanticweb.org*********
+
+
+## References
+
+- https://www.w3.org/2001/sw/BestPractices/WNET/DLP3941_daml.html
+- http://www.ontologydesignpatterns.org/ont/dlp/
+- http://www.loa.istc.cnr.it/old/Files/DLPOnts/
