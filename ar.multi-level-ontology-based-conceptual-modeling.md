@@ -2,11 +2,11 @@
 id: spggj0zksrszbm2nup7xrkm
 title: Multi-Level Ontology-Based Conceptual Modeling
 desc: ''
-updated: 1727848424929
+updated: 1728339958051
 created: 1727674818306
 ---
 
-- *can't locate a full copy*
+- https://drive.google.com/open?id=1uAopFMa_YRbaVZo5eNGSyZOEIgoYeIkp&usp=drive_fs
 - https://www.sciencedirect.com/science/article/abs/pii/S0169023X17301052
 - authors: @victorio-carvalho @joao-paulo-almeida @claudenir-fonseca @giancarlo-guizzardi
 - topics: [[prdct.unified-foundational-ontology.ufo-mlt]]

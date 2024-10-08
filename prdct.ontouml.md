@@ -2,7 +2,7 @@
 id: 4p9syg1oz2pe0e78c8ry8gq
 title: OntoUML
 desc: ''
-updated: 1724936461909
+updated: 1728342170286
 created: 1709679259786
 ---
 
@@ -17,6 +17,8 @@ created: 1709679259786
 - difficult to translate into OWL, given meta-modeling
 
 ## Theory
+
+### Identity Principle
 
 ### Types/Classes
 

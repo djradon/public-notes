@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1725575871355
+updated: 1728335619407
 created: 1709751631541
 ---
 
@@ -64,3 +64,4 @@ There is an OWL version of GFO, which currently comprises a stable core called g
 - [[ar.towards-a-new-foundational-ontology-of-properties-attributives-and-data]]
 - [[ar.developing-gfo-2-0-further-initiating-the-modules-of-space-and-material-objects]]
 - [[email.gfo-users-gfo-presential-persistent-perpetuant]]
+- [[ar.general-formal-ontology-gfo-a-foundational-ontology-integrating-objects-and-processes]]

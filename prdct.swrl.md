@@ -5,7 +5,7 @@ desc: >-
   language for the Semantic Web that can be used to express rules as well as
   logic, combining OWL DL or OWL Lite with a subset of the Rule Markup Language
   (itself a subset of Datalog)
-updated: 1717795195582
+updated: 1728341371484
 created: 1710688791666
 ---
 
@@ -16,7 +16,7 @@ created: 1710688791666
 
 ## Issues
 
-- WRL shares OWL’s open world assumption so certain types of rules that assume a closed world may be difficult or impossible to write in SWRL
+- SWRL shares OWL’s open world assumption so certain types of rules that assume a closed world may be difficult or impossible to write in SWRL
 
 ## Resources
 
@@ -26,6 +26,6 @@ created: 1710688791666
 
 - https://www.michaeldebellis.com/post/drools-vs-pellet-for-swrl-rules by @michael-debellis
   - the difference between using [[prdct.drools]] and using the [[prdct.pellet]] reasoner and why using Pellet is usually the better option
-  - Another excellent use of DROOLS is that it is used to extend SWRL's time built-ins to implement the   for reasoning about time.
+  - Another excellent use of DROOLS is that it is used to extend SWRL's time built-ins to implement the [[t.cs.time.allens-interval-algebra]]  for reasoning about time.
 - https://github.com/protegeproject/swrlapi/wiki/ModellingTime
 
