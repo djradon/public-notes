@@ -1,8 +1,8 @@
 ---
 id: kufy1j0t6k0r66bogthlqfg
 title: Mqtt
-desc: ''
-updated: 1714685597991
+desc: 'lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service'
+updated: 1728577780238
 created: 1695421313943
 ---
 
