@@ -4,7 +4,7 @@ title: TerminusDB
 desc: >-
   a labeled, directed, and edge-labeled graph engine where segments of the graph
   are JSON documents: the graph is an interconnected series of documents
-updated: 1726163392394
+updated: 1728591509654
 created: 1637799658994
 type: "[[c.software.database.graph.rdf]]"
 had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
@@ -16,8 +16,8 @@ author: "@kevin-feeny"
 - written_in: prolog
 - [[p.builtWith]] [[prdct.rdf]] but evolved into a document graph db
 - [[p.similarTo]]
-  - [[prdct.typedb]]
-  - [[prdct.fluree]]
+  - [[prdct.typedb]] but more triple/semantic-webby
+  - [[prdct.fluree]] 
 - related: [[prdct.dfrnt]]
 - supports: [[prdct.graphql]] [[prdct.woql]]
 - client_support: 

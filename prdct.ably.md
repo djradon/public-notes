@@ -2,7 +2,7 @@
 id: cbu2jec4r9rhy2u5f65qlut
 title: Ably
 desc: realtime pub/sub and push notification/broadcasting service
-updated: 1714430334766
+updated: 1728588183112
 created: 1699486186122
 ---
 
@@ -14,7 +14,10 @@ created: 1699486186122
 
 ### vs Stream
 
+## Resources
 
+- https://ably.com/blog/ably-aws-web-components
+- https://quest.ably.dev/
 
 ## References
 
