@@ -2,7 +2,7 @@
 id: o5wcm13hu85h1xj1eg96hkr
 title: 'getting kosmion off the ground'
 desc: ''
-updated: 1728647435695
+updated: 1728668577472
 created: 1728645571538
 ---
 
@@ -335,3 +335,75 @@ Some reasoners might not fully support IRIs as objects in annotations or might t
 
 Let me know if you'd like more details on how different tools handle this or any follow-up questions!
 
+## I'm worried about "A «Relator» must mediate at least two distinct individuals." from the OntoUML docs. Why couldn't a relator apply to unary relationships, i.e., no mediation, just ???
+
+The requirement from **OntoUML** that "A «Relator» must mediate at least two distinct individuals" is intended to align with the **ontological commitment** that relators represent **connections** or **dependencies** between entities. This is a foundational idea in **ontological modeling** where relationships are typically modeled between multiple distinct entities to represent some form of interaction, shared activity, or association.
+
+However, in your **Kosmion ontology**, you may wish to represent **unary relationships**—situations where a relator applies to a single individual or even describes something **internal** to that entity. Here are a few reasons why this could make sense:
+
+### Why a Relator Could Apply to Unary Relationships:
+
+1. **Self-Referential States**:
+   - An entity may have internal states, conditions, or **attributes** that do not directly involve other entities. For example, an individual's **status**, such as being "in a reflective state" or "meditating," could be seen as a relationship between the entity and itself or its own internal context.
+
+2. **Complexity of Real-World Scenarios**:
+   - In many real-world applications, an entity might have a context-specific **role** or status that doesn't require interaction with another entity. For instance, the **context** of being "self-employed" may not directly imply another individual, but it is still meaningful to model as a relational state.
+
+3. **Expressivity in Modeling**:
+   - The **expressivity** you are aiming for, especially in **OWL Full**, blurs the line between instances and classes (A-box and T-box), and allows you to be more flexible with how you model **roles** and **relations**. Allowing unary relationships gives you greater flexibility in capturing **complex** scenarios without forcing the introduction of additional entities unnecessarily.
+
+### Possible Implementation Approaches:
+
+1. **Relaxing the Mediation Constraint**:
+   - You can **relax** the mediation constraint for your **relator** class to allow for the possibility of **unary** relationships. This could mean allowing relators to have a minimum cardinality of **one** (instead of two) on their mediated roles.
+
+2. **Contexts as Unary Relators**:
+   - You have already introduced the concept of **context** in your ontology. It could be useful to allow **contexts** to also be represented as a type of **relator** that applies to a single entity, specifying the **applicable reality** without requiring mediation between two distinct entities.
+
+### Example Revision in Kosmion Ontology:
+
+To support unary relationships, you could revise the **SHACL constraints** for the relator to allow **at least one** mediated role, rather than **at least two**. You could also add a property for **mediates** that allows for a **single entity** to be referenced.
+
+Here is how you might modify the SHACL constraints for the **relator** class:
+
+```turtle
+kosm:relator-shape a sh:NodeShape ;
+    sh:targetClass kosm:relator ;
+    sh:property [
+        sh:path kosm:relator-genesis ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:dateTimeStamp
+    ] ;
+    sh:property [
+        sh:path kosm:relator-tombstone ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:dateTimeStamp
+    ] ;
+    sh:property [
+        sh:path kosm:mediates ;
+        sh:minCount 1 ;
+        sh:nodeKind sh:IRI
+    ] .
+```
+
+In this revision:
+- **kosm:mediates** represents the connection between the relator and the mediated entity. By setting `sh:minCount 1`, you allow the relator to mediate **at least one** entity, thereby making **unary relationships** possible.
+
+### Summary:
+The OntoUML requirement that a **relator must mediate at least two distinct individuals** serves a specific philosophical and ontological view, but it is not necessarily suitable for all types of modeling. In your case, you could adopt a more **flexible approach** that supports **unary relationships**, especially for self-referential or contextual scenarios. Modifying the **SHACL constraints** as described could help realize this flexibility while retaining the ability to model **binary or higher-order relationships** where needed.
+
+
+## So , every relator will need at least one "relata". So we need a super-property to use for the relationships described by a relator. gUFO uses "mediates", but maybe something more generic would be appropriate.
+
+
+I've added a **super-property** called `kosm:relates` to serve as a more **generic** property for capturing entities involved in relationships described by a relator. The **SHACL constraint** has also been updated to enforce that every **relator** must use this property to relate at least one entity.
+
+If you have any other thoughts on the naming or additional properties you'd like to introduce, just let me know!
+
+
+## Do you think we should add a class "Type" which is sameAs http://purl.org/nemo/gufo#Type, and its subclass RelationshipType, and RelationshipType's subclasses ComparativeRelationshipType and MaterialRelationshipType ?
+
+I've added the **Type** class, linking it to **gUFO's Type** (`gufo:Type`), and introduced **RelationshipType** as a subclass of **Type**, along with its subclasses **ComparativeRelationshipType** and **MaterialRelationshipType**.
+
+This adds more flexibility to your ontology for defining different **types of relationships**, including their specific subtypes. Let me know if you need more refinements or additional classes!
