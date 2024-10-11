@@ -2,11 +2,12 @@
 id: lxrq8isvua9a8q3lv1p3g3j
 title: Premis Ontology
 desc: 'international standard for metadata to support the preservation of digital objects and ensure their long-term usability.'
-updated: 1707084276554
+updated: 1728649694901
 created: 1707076629976
 ---
 
 - url: https://id.loc.gov/ontologies/premis-3-0-0.html
+- repo: https://github.com/lcnetdev/PREMIS/
 
 ## Class List
 
