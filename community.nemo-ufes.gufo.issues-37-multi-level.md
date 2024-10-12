@@ -2,7 +2,7 @@
 id: dp4w7jmpsawbe3rj7kxa7sf
 title: Issues 37 Multi Level
 desc: ''
-updated: 1724871900049
+updated: 1728704483170
 created: 1724871721394
 ---
 
@@ -20,4 +20,4 @@ Therefore, I would like to know if you have already encountered this problem and
 
 We have been discussing a possible relaxation of some of the domain/range declarations (e.g., the domain of gufo:hasQualityValue and the range of gufo:inheresIn) to include types in addition to concrete individuals. This would be an easy way to accommodate the view of types as endurants and would not impact existing gUFO-based ontologies.
 
-(See https://nemo.inf.ufes.br/wp-content/papercite-data/pdf/incorporating_types_of_types_in_ontology_driven_conceptual_modeling_2022.pdf for how we address types as endurants in UFO more broadly.)
+(See [[ar.incorporating-types-of-types-in-ontology-driven-conceptual-modeling]] for how we address types as endurants in UFO more broadly.)

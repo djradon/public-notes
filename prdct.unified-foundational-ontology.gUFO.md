@@ -2,7 +2,7 @@
 id: c3cf5t7ybox6k56n992pnkr
 title: gUFO
 desc: gentle unified foundational ontology
-updated: 1725384346072
+updated: 1728704240112
 created: 1720274927117
 ---
 
@@ -11,8 +11,9 @@ created: 1720274927117
 
 ## Issues
 
-- not OWL-DL because powerclasses?
+- not OWL-DL because powerclasses? (punning)
 - doesn't support [[t.km.ontology.multi-level-theory]], see [[community.nemo-ufes.gufo.issues-37-multi-level]] 
+- abstract and concrete are disjoint, but e.g. wemi... things are a blend
 
 ## Features
 
@@ -78,3 +79,4 @@ Users may combine the various scenarios discussed. For example, users will often
 ## Resources
 
 - [[ar.ontology-implementation-with-g-ufo-a-hands-on-tutorial]]
+- 
