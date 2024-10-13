@@ -2,13 +2,13 @@
 id: w0n7w9svucjjirnwst7tw37
 title: Iri Referent to Solve Httprange 1
 desc: ''
-updated: 1726992320174
+updated: 1728847921520
 created: 1726992098968
 ---
 
 - chatbot: claude
 
-## I think using <meta> could be good just to assert "the URI(s) that correspond to this document are intended to refer to something other than this document". You could then optionally use the <link> tag to specify what is being referred to
+## I think using the meta tag could be good just to assert "the URI(s) that correspond to this document are intended to refer to something other than this document". You could then optionally use the `link` tag to specify what is being referred to
 
 You've made an excellent point. Using the `<meta>` tag to make a general assertion about the document's URI(s), and then optionally using `<link>` for specifics, is a smart and flexible approach. Let's explore how this could work:
 
