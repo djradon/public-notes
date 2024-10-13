@@ -2,7 +2,7 @@
 id: 14cgtu42xwfpwjh8gos00qr
 title: 'one kosmic step backwards, a couple shuffles forward'
 desc: ''
-updated: 1728765496542
+updated: 1728793548681
 created: 1728756937337
 ---
 
@@ -358,6 +358,142 @@ Modeling **valid-time** as a **facet** is a good fit for your **facet-oriented**
 
 ## doing modular ontologies seems confusing. If you import another ontology, won't you need to use different prefixes?
 
+## It's so annoying that applications and the semantic web community seem to refer to instance data as an ontology
+
+You're absolutely right, managing **prefixes** when importing multiple **modular ontologies** can indeed be confusing. Here are a few points to consider:
+
+### Issues with Prefixes in Modular Ontologies
+1. **Unique Prefixes Required**:
+   - When you import another ontology, you need to use a **different prefix** for each imported ontology to **avoid collisions** between terms. This ensures that all **IRIs (Internationalized Resource Identifiers)** are distinct. This can make querying and referencing a bit cumbersome, especially if you have to frequently refer to concepts from multiple ontologies with different prefixes.
+
+2. **Namespace Management**:
+   - Different ontologies will often use different **namespaces** as prefixes. When combining them, this can lead to **longer, inconsistent prefixes**, making the modeling experience more cumbersome. For example, importing both **gUFO** and another ontology might lead to having to use `gufo:` alongside another distinct prefix (like `ex:` for a new ontology) every time you reference a class.
+
+3. **Human Readability**:
+   - Having multiple prefixes in a document can reduce **readability** for humans, as it becomes harder to track where each concept originates. If every ontology brings in its own set of prefixes, you end up with a document full of different prefixes, making it easy to get confused about which concept is from which ontology.
+
+### Possible Solutions for Prefix Management
+1. **Prefix Aliasing**:
+   - One common approach to simplifying prefixes is to use **aliasing**. When importing an ontology, you can define a **short alias** for it, which makes it easier to reference throughout the document. This keeps the prefixes short and consistent, improving readability.
+
+2. **Merging Concepts Using Common Namespaces**:
+   - Another approach is to use a **common namespace** for similar concepts across different ontologies. For example, if you are working on an **upper ontology** and you have several modular ontologies, you could define your own common prefixes and **re-map** concepts from the imported ontologies to these common namespaces. This helps unify the vocabulary, although it may require some reengineering and careful checking for semantic differences.
+
+3. **Use of Metadata Comments**:
+   - When importing different ontologies, it can be helpful to use **comments** to annotate which ontology a particular prefix corresponds to. This can help keep track of the origin of terms for future maintenance and for others who may need to understand the ontology.
+
+### Example Consideration for Kosmion
+In the case of the **Kosmion ontology**:
+- You currently use **`kosm:`** as your main namespace prefix. If you import **gUFO**, you'll use `gufo:` for that namespace, which means that any reference to a **gUFO** type will need the `gufo:` prefix.
+- For example, `gufo:Type` and `kosm:facet` would both need distinct prefixes. If you’re frequently referencing concepts from **gUFO**, you may consider **aliasing** or **remapping** these concepts to fit better into your `kosm:` namespace, potentially making them **local aliases**.
+
+### Pros and Cons of Modular Ontologies with Multiple Prefixes
+- **Pros**:
+  - **Reusability**: Modular ontologies can be reused across different projects, allowing for **greater flexibility**.
+  - **Focused Design**: Each ontology can focus on a specific domain or aspect, keeping complexity low within each module.
+- **Cons**:
+  - **Prefix Management**: Requires careful management of prefixes to avoid name collisions and keep the ontology **understandable**.
+  - **Complexity in Queries**: SPARQL queries can become more complex because every referenced concept might require its **distinct prefix**, complicating query construction.
+
+Would you like to explore possible ways to simplify prefix usage or consider importing other ontologies into Kosmion and managing those imports? I can help outline a strategy to handle modular imports effectively.
+
+
+## It's so annoying that applications and the semantic web community seem to refer to instance data as an ontology
+
+I completely understand the frustration here. The **semantic web community** tends to blur the lines between **ontologies** and **instance data**. The term "ontology" should ideally refer to a **conceptual schema**—the definitions, classes, relationships, and axioms that define the **structure** of a knowledge domain. However, the community often uses "ontology" more broadly to also include **instance data**, which is the specific **facts or entities** that populate the classes defined by the ontology.
+
+This can be confusing for several reasons:
+
+1. **Conceptual vs. Actual Data**: 
+   - **Ontologies** are supposed to define the **concepts** and the **relationships** between those concepts in a given domain. **Instance data**, on the other hand, populates these concepts with real-world information.
+   - When people refer to **instance data** as part of the **ontology**, they’re mixing the conceptual schema (T-Box in description logic terminology) with the assertional or instance data (A-Box). In theory, these should be clearly distinguished.
+
+2. **Practical Use in Tools**:
+   - Tools like **Protege** handle both **ontologies** (conceptual structures) and **individuals** (instance data) within the same environment. This often leads to users referring to the combined **schema and data** as an "ontology." This is especially true for **OWL ontologies**, where the same RDF framework can represent both the T-Box (conceptual model) and A-Box (instance data).
+
+3. **Naming Issues**:
+   - In practice, importing an "ontology" often brings in both **concepts** and **instance data**, which leads to referring to the entire dataset as an "ontology," regardless of whether it contains just schema definitions or also includes entities and individuals. This makes the lines between the **abstract** and **concrete** levels very blurry.
+
+4. **The RDF Data Model**:
+   - In **RDF and OWL**, there isn’t a strong formal distinction between classes, properties, and individuals at the data model level. Since everything is ultimately represented as **triples**, instance data and ontological definitions are treated similarly. This contributes to the tendency of referring to both as an "ontology" since the toolset doesn’t enforce a distinction.
+
+### Possible Solutions:
+- **Separate Ontology and Instance Files**: When designing an ontology, you can create **separate files** for the **schema** and the **instance data**. This allows you to more clearly differentiate the **conceptual definitions** from the **facts**.
+- **Naming Conventions**: Use distinct **naming conventions** or prefixes for **ontological definitions** and **instance data** to help maintain clarity.
+- **Explicit Documentation**: In your ontology documentation, explicitly differentiate between the **conceptual schema** (ontology) and the **instance data**. Tools like **Protege** allow you to define these separately, even though they are handled within the same environment.
+
+If you want to take a more **modular approach** for Kosmion, you could develop distinct **conceptual modules** (like `kosm:facet` and `kosm:relator` definitions) and create separate datasets for the **instance-level data**, possibly referencing these modules without blending them together.
 
 
 ## what is the relationship between OntoUML's class stereotypes and relationship stereotypes? 
+
+
+## seems like most upper and foundational ontologies define a "base" concept. e.g. gUFO has Individual and Type. I suspect that with a facet-based approach, that's not necessary? other than facet, of course.
+
+The idea of not having a base "thing" or **top-level concept** in **Kosmion** makes a lot of sense in the **facet-based approach** you are exploring. Let's analyze why this might be the case and how it differs from the more conventional **sortal-based approaches**:
+
+### 1. **Conventional Upper Ontologies with Base Concepts**:
+   - Many **upper or foundational ontologies** like **gUFO**, **BFO (Basic Formal Ontology)**, and **SUMO (Suggested Upper Merged Ontology)** define top-level **base concepts** such as **"Individual"**, **"Entity"**, **"Object"**, or **"Type"**.
+   - These base concepts are intended to provide a **starting point** or **root** for categorizing everything else, giving a **hierarchical structure** to the ontology. For example:
+     - **gUFO** has **Individual** and **Type**, which are fundamental building blocks for distinguishing between **concrete instances** and **conceptual definitions**.
+     - **BFO** has concepts like **"Continuant"** and **"Occurrent"** that provide broad categorizations of **what exists** either as a persistent entity or an event.
+
+### 2. **Facets vs. Base Concepts**:
+   - In your **facet-based approach**, there’s less emphasis on establishing a single **hierarchical root**. Instead, everything can be described using **facets**, which act as **characteristics** or **perspectives** rather than as rigid categories.
+   - **Facets** themselves are inherently **modular** and **context-dependent**, which allows entities to be described in a more **compositional** manner. Rather than determining "what an entity fundamentally is," the focus is on **which facets** apply to it.
+
+### 3. **Why a Base Concept May Not Be Necessary**:
+   - **Facets Enable Flexibility**: By using **facets** to describe entities, you avoid the need to explicitly classify entities under a root concept like **"Individual"** or **"Entity"**. This fits well with the idea that **different aspects** of an entity can be relevant in different contexts, without assuming an ontological base for all instances.
+   - **No Rigid Classification**: Unlike sortal approaches, which often have **identity criteria** tied to base classes, the **facet-based model** allows entities to acquire characteristics **dynamically** through the **facets** they possess. Thus, there isn’t a strict need for every entity to fall under an overarching class—each entity is defined by its **collection of facets**.
+   - **No Explicit Subsumption Hierarchy**: Facets do not imply **subsumption** (i.e., they do not inherently classify entities in a strict **type hierarchy**), which means that concepts don’t need to fit neatly under a single base type. This keeps the ontology **open-ended** and more **flexible** for different contexts and purposes.
+
+### Potential Downsides to Not Having a Base Concept:
+1. **Lack of Standardization**: Without a base concept, it may be harder to enforce certain **standardized constraints** across the entire ontology. For example, **global properties** that apply to all individuals may need to be handled differently without a top-level class to attach them to.
+  
+2. **Query Complexity**: In some cases, **SPARQL queries** or other reasoning tasks may become more **complex** since there isn’t a single **"root class"** to use for selecting all entities.
+
+### Practical Considerations:
+- In **Kosmion**, you could still add a very **minimal base concept** if you find that it helps with certain **consistency** or **reasoning** tasks. This could be something like an abstract **"kosm:thing"** class that serves as an anchor without imposing rigid requirements.
+- Alternatively, **facets themselves** could serve as the common ground that **all entities must have**—essentially, every entity needs to have at least one **facet**. This would functionally serve as your base requirement, without needing a **conventional sortal root**.
+
+If you decide that a minimal base is useful after all, it could be purely for technical convenience rather than conceptual necessity, which keeps the **facet-oriented** spirit intact while addressing practical concerns. Would you like me to explore adding such a minimal root, or are you leaning towards continuing without one?
+
+## I think the potential downside are mitigated by the fact that kosmion is already non-standardized, and aims for interoperability. Maybe domain applications should define their own top-level constructs, and they can just implement facets instead of having to instantiate someone else's preconceptions. *domain model first*?
+
+Your approach—**domain model first**—makes a lot of sense, particularly for **Kosmion**, where the goal is to be **non-standardized** and to focus on **interoperability**. Here’s why I think this approach could work really well in your ontology:
+
+### **Why Domain Applications Should Define Their Own Top-Level Constructs**:
+
+1. **Avoiding Imposed Semantics**:
+   - By not having a rigid **upper-level concept** like "Individual" or "Entity," you avoid imposing any **predefined semantics** on domain applications. This allows each **domain** to define what makes sense in their **context** without inheriting **assumptions** from a foundational ontology that might not align with their specific needs.
+   - This aligns with the principle of **facets**: instead of forcing domain-specific constructs to fit into an overarching type hierarchy, **facets** provide a **modular** way of defining properties and relationships that make sense **locally**.
+
+2. **Interoperability Through Facets**:
+   - **Facets** are inherently **modular**, which helps in building **interoperable models**. By allowing domain-specific models to **implement facets** rather than instantiating someone else’s rigid concept of a top-level entity, different domains can **interoperate** more easily by mapping **shared facets** rather than reconciling different top-level taxonomies.
+   - For instance, if a domain ontology defines its top-level concept, like **"Character"** for a role-playing context, it can still **implement facets** like **context** or **temporal aspects** without having to fit into another ontology's conception of **entity types**.
+
+3. **Facilitating Customization**:
+   - With a **domain model first** approach, the **domain ontologies** can define their own **high-level categories** that make sense for their specific context, whether they want to define **physical entities**, **abstract entities**, or even more specialized types.
+   - They can then **add facets** as needed, making it easy to **customize** the ontology for the specific requirements of the domain without having to **inherit** any top-level entity that might add unwanted complexity or assumptions.
+
+4. **Avoiding the "One-Size-Fits-All" Problem**:
+   - One of the biggest challenges with foundational ontologies is that they often adopt a **"one-size-fits-all"** approach, which can be restrictive. Domains like **medicine**, **geography**, and **fantasy role-play** each have very different needs. By allowing domains to define their **own top-level constructs** and use **facets** to extend them, you avoid forcing all these diverse domains into the same high-level schema.
+  
+### **Implications for Kosmion**:
+- **Kosmion** would effectively provide a set of **facets** that any **domain-specific ontology** could choose from. It’s a **toolkit** rather than a **blueprint**, meaning that domain ontologies can pick and choose which facets they need without worrying about fitting into an existing high-level hierarchy.
+- **Facets** like **context**, **temporal aspects**, or **relationship descriptors** can be seen as **interoperable modules** that any domain can apply, and these can serve as the common ground for cross-domain **integration**.
+
+### **Example**:
+- Suppose you have a domain ontology for **urban planning**. Instead of classifying everything under a foundational concept like **"Entity"** or **"Object"**, the domain ontology can define its top-level classes, such as **"Infrastructure"**, **"Service"**, or **"Citizen"**. 
+- Each of these entities can then **implement facets** like **"valid-time"**, **"context"**, or **"category"**, which allows them to align with other domains that use similar facets without enforcing any kind of **common root**.
+
+### **"Domain Model First" and Kosmion’s Development**:
+- This approach also helps when designing **Kosmion** itself. Since Kosmion is designed to provide **relators** and **facets**, it acts as an **interoperable foundation** that different domains can use and extend.
+- The fact that it doesn’t have a strict top-level concept also aligns well with its **non-standardized**, open-ended goals. It essentially pushes the **burden of meaning** onto the **domain-specific ontologies**, which allows Kosmion to remain **lightweight** and **flexible**.
+
+### **Next Steps**:
+- **Focus on Facets**: Continue focusing on defining useful **facets** that can be used across different domains. These should be **modular** and **interoperable** to maximize flexibility.
+- **Domain Implementation**: Let domains develop their **own top-level concepts** and simply implement **facets** as needed. This will keep Kosmion adaptable and suitable for many different contexts.
+
+Would you like me to make changes in the current ontology to emphasize this **facet-only approach**, or perhaps add a comment or metadata indicating this **domain-first philosophy**?
+

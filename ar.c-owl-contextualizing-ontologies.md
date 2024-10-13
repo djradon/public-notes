@@ -1,8 +1,8 @@
 ---
 id: vdeukuusda1ynjl6m8l41pd
-title: C Owl Contextualizing Ontologies
+title: 'C-OWL: Contextualizing Ontologies'
 desc: ''
-updated: 1713465824854
+updated: 1728778251828
 created: 1713465151660
 ---
 

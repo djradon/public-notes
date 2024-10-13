@@ -2,11 +2,12 @@
 id: jcbtfismirdgdb8o8urps4h
 title: Modular Ontology Modeling
 desc: ''
-updated: 1728771275560
+updated: 1728773009145
 created: 1728769289325
 ---
 
 - https://content.iospress.com/articles/semantic-web/sw222886
+- topics: [[t.cs.semantic-web.axiomatization]]
 
 ## Abstract
 
@@ -61,6 +62,30 @@ Reusing ontologies for new purposes, or adapting them to new use-cases, is frequ
 #### 3.3 OWL axioms
 
 axiomatizations can have different interpretations, and while they can, for example, be used for performing deductive reasoning, this is not their main role as part of the MOMo approach. Rather, for our purposes axioms serve to disambiguate meaning, for a human user of the ontology.
+
+##### 3.6.6.Set up documentation and determine axioms for each module
+
+- Since the documentation is meant for human consumption, we prefer to use a concise formal representation of axioms, usually using description logic syntax or rules, together with an additional listing of the axioms in a natural language representation.
+- In our experience, using axioms that only contain two classes and one property suffices to express an overwhelming majority of the desired logical theory [12]. We are thus utilizing the relatively short list of 17 axiom patterns that was determined for support in the OWLAx Protégé plug-in [47] and that can also be found discussed in [56].
+- We would like to mention, in particular, two types of axioms that we found very helpful. One of them are structural tautologies which we have already discussed in Section 3.3. The other are scoped domain (respectively, range) axioms (introduced as the class-oriented strategy in [21]).
+- As such, we recommend a rather complete axiomatization, as long as it does not force an overly specific reading on the ontology. We usually use the checklist from the OWLAx tool [47] to axiomatize with simple axioms. More complex axioms, in particular those that span more than two nodes in a diagram, can be added conventionally or by means of the ROWLTab Protégé plug-in [45,46]. We also utilize what we call structural tautologies which are axioms that are in fact tautologies such as A⊑⩾0R.B, to indicate that individuals in classes A and B may have an R relation between them, and that this would be a typical usage of the property R.88
+
+### Example modular ontologies
+
+Highly spatial data
+
+It is frequently common to model data that has a strong spatial dimension. The challenges that accompany this are unfortunately myriad. In the GeoLink Modular Ontology [34] we utilize the Semantic Trajectory pattern to model discrete representations of continuous spatial movement. Ongoing work regarding the integration of multiple datasets (e.g., NOAA storm data, USGS earthquake data, and FEMA disaster declarations)1717 while using their spatial data as the dimension of integration can be found online.1818 The RealEstateCore Ontology [20,25] provides a set of patterns and modules for the integration of spatial footprints and structures in a real estate property with sensors and other devices present on the Internet of Things.
+Elusive ground truth
+
+Sometimes, it is necessary to model data where it is not known if it is true, or that it is necessary to knowingly ingest possibly contradictory knowledge. In this case, we suggest a records-based approach, with a strong emphasis on the first-class modeling of provenance. That is, knowledge or data is not modeled directly, but instead we model a container for the data, which is then strongly connected to its provenance. An example of this approach can be found in the Enslaved Ontology [54], where historical data may contradict or conflict with itself, based on the interpretations of different historians.
+Rule-based knowledge
+
+In some cases, it may be necessary to directly encode rules or conditional data, such as attempting to describe the action-response mechanisms when reacting to an event. The methods for doing so, and the modules therein associated, can be found in the Modular Ontology for Space Weather Research [57] and in the Domain Ontology for Task Instructions [13].
+Shortcuts & views
+
+Shortcuts and Views are used to manage complexity between rich and detailed ontological truthiness and convenience for data providers, publishers, and consumers. That is, it is frequently desirable to have high fidelity in the underlying knowledge model, which may result in a model that is confusing or unintuitive to the non-ontologist. As such, shortcuts can be used to simplify navigation or publishing according to the model. These shortcuts would also be formally described allowing for a navigation between levels of abstraction. A full examination of these constructs is out of scope, but examples of shortcuts and views, alongside their use, can be found in the Geolink Modular Ontology [34], the tutorial for modeling Chess Game Data [35], and in the Enslaved Ontology [54].
+
+
 
 ## References
 
