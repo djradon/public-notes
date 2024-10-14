@@ -1,8 +1,8 @@
 ---
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
-desc: 'things vs information resources'
-updated: 1727808884335
+desc: things vs information resources
+updated: 1728944113696
 created: 1633593028328
 ---
 
@@ -39,7 +39,7 @@ There are four possibilities for a given URI:
   - always sense
   - if you want to refer to a document or other ContentLocator, give it an indicator (e.g., using [[k.relation-types.LocatableContent]])
 - link tag
-  - see [[proj.tomitc.drafts.solving-httprange-14-with-the-link-tag]]
+  - see [[proj.tomitc.drafts.solving-httprange-14]]
 
 ## Thoughts
 

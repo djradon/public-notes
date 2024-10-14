@@ -1,8 +1,8 @@
 ---
 id: pk8PcdWdd5M38WncZRnzN
 title: Now
-desc: 'current projects'
-updated: 1727721813727
+desc: current projects
+updated: 1728944103022
 created: 1633726718681
 ---
 
@@ -18,4 +18,4 @@ created: 1633726718681
 - relator-based linked data
 - how to do multi-level
 - choose a [[t.km.ontology.upper]] or start rolling own
-- [[proj.tomitc.drafts.solving-httprange-14-with-the-link-tag]]
+- [[proj.tomitc.drafts.solving-httprange-14]]
