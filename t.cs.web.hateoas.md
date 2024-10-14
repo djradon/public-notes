@@ -2,7 +2,7 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1727999377415
+updated: 1728864259025
 created: 1636171046830
 ---
 
@@ -44,4 +44,4 @@ created: 1636171046830
 
 - https://softwareengineering.stackexchange.com/questions/388325/advantages-of-hateoas-based-restful-service
 
-[^1]: - https://webofdata.wordpress.com/2009/12/15/hateos-revisited-rdfa/
+[^1]: https://webofdata.wordpress.com/2009/12/15/hateos-revisited-rdfa/
