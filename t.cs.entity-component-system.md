@@ -4,7 +4,7 @@ title: ECS
 desc: >-
   runtime-flexible, highly compatible, safe, and easily composable approach to
   software
-updated: 1708037425741
+updated: 1728865389444
 created: 1637846686838
 ---
 
@@ -38,7 +38,7 @@ created: 1637846686838
 ## Implementations
 
 - [[prdct.unity]]
-  - [[p.hasDocumentation]] https://docs.unity3d.com/Packages/com.unity.entities@0.1/manual/index.html
+  - docs:  https://docs.unity3d.com/Packages/com.unity.entities@0.1/manual/index.html
 - [[prdct.arch]] (C#)
 - [[prdct.bitecs]] (Javacript)
   - "Strings are expensive and usually unnecessary to have the ECS handle. Instead, create a mapping of integers to strings, and store the integers in the component data as a reference to a string. This makes string serialization minimal and fast." ^34ftr5hv1m8u
@@ -49,7 +49,7 @@ created: 1637846686838
 
 - [[prdct.tick-knock]]
 - [[prdct.a-frame]]
-  - [[p.hasDocumentation]] https://aframe.io/docs/1.3.0/introduction/entity-component-system.html
+  - docs:  https://aframe.io/docs/1.3.0/introduction/entity-component-system.html
   - https://stackoverflow.com/questions/43944365/how-to-do-multiuser-in-a-frame
   - [[p.supports]] [[prdct.networked-aframe]]
 

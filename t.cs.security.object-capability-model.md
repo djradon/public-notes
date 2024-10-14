@@ -2,12 +2,12 @@
 id: q3uwldjsxdyg75e2ae8jitg
 title: Object Capability Model
 desc: ''
-updated: 1680447269533
+updated: 1728865335023
 created: 1652735164588
 ---
 
 
-- [[c.resource]]
+- resources: 
   - https://decentralized-id.com/web-standards/object-capabilities/
 
 

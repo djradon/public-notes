@@ -4,7 +4,7 @@ title: Actionhero
 desc: >-
   reusable, scalable, and quick node.js API server for stateless and stateful
   applications
-updated: 1699481881772
+updated: 1728865334907
 created: 1642897886734
 ---
 
@@ -15,7 +15,7 @@ created: 1642897886734
   - allows you to build or add many types of servers into one application. Not only can you support HTTP and Web Socket, but you can add custom protocols like Quick and Protobuf to your application and easily reuse your Actions!
   - includes a REPL 
   - "not inherently 'RESTful' (which is meaningless for persistent socket connections) but can be extended to be so if you wish."
-- [[c.resource]]
+- resources: 
   - [Why Typescript?](https://www.actionherojs.com/tutorials/typescript)
   - [Key Concepts](https://www.actionherojs.com/key-concepts)
 

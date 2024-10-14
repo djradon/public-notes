@@ -2,7 +2,7 @@
 id: df6lxpcg1811oc1iwsfaoq2
 title: Graphology
 desc: 'robust & multipurpose Graph object for JavaScript and TypeScript.'
-updated: 1701202950710
+updated: 1728865334931
 created: 1656521898305
 repo: https://graphology.github.io/
 features:
@@ -22,7 +22,7 @@ related:
 
 - [[c.software.database.graph.property]]
 - [[p.isComponentOf]] [[prdct.sigma-js]]
-- [[c.resource]]
+- resources: 
   - https://archive.fosdem.org/2017/schedule/event/graph_library_javascript/attachments/slides/1803/export/events/attachments/graph_library_javascript/slides/1803/Graphology___FOSDEM_2017.pdf
 
 

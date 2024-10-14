@@ -2,7 +2,7 @@
 id: HiHsuRl9HeTgwwfuQCf3j
 title: Data Mesh
 desc: ''
-updated: 1674501330827
+updated: 1728865334990
 created: 1637800611402
 ---
 
@@ -14,7 +14,7 @@ created: 1637800611402
 - "federated computational governance"
 
 
-- [[c.resource]]
+- resources: 
   - https://github.com/GavinMendelGleason/data_mesh
   - https://terminusdb.com/blog/knowledge-graph-data-mesh-metaverse-2/
   - 

@@ -2,8 +2,8 @@
 id: 6qcdytxfeftwhmxoro5nwsd
 title: Product Design
 desc: ''
-updated: 1669483653313
+updated: 1728865335048
 created: 1669483179490
 ---
 
-- [[c.resource]] https://www.productplan.com/glossary/product-design/
+- resources:  https://www.productplan.com/glossary/product-design/

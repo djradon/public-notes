@@ -2,7 +2,7 @@
 id: HBfqGJSSJCvCG8gU0UetW
 title: Zettelkasten
 desc: ''
-updated: 1721579067289
+updated: 1728865335051
 created: 1631216404603
 ---
 
@@ -30,7 +30,7 @@ created: 1631216404603
 ## Use Cases
 
 - [[t.storytelling.fiction.writing]]
-  - [[c.resource]] [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
+  - resources:  [Zettelkasten for fiction writing](https://zettelkasten.de/fiction)
 
 ## References
 

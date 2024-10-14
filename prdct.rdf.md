@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1728329793374
+updated: 1728865334971
 created: 1633160681527
 ---
 
@@ -52,7 +52,7 @@ created: 1633160681527
 
 - [-] [[p.summarized]] [RDF datasets](https://www.w3.org/TR/rdf11-datasets/)
   - the concept of the "unnamed default graph"/master-graph is interesting; 
-    - [[c.resource]] [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
+    - resources:  [The unnamed/default graph should have a standard name](https://github.com/w3c/sparql-12/issues/43)
 
 ## Typed Literals
 

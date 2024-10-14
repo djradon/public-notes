@@ -2,10 +2,10 @@
 id: svVpNYjGC5Oldi6Qiqilo
 title: Githooks
 desc: ''
-updated: 1635729064679
+updated: 1728865334935
 created: 1635728997569
 ---
 
 
 
-- [[c.resource]] https://githooks.com/
+- resources:  https://githooks.com/

@@ -2,7 +2,7 @@
 id: joiwdd2KjBWzPf68G3vot
 title: Fluree
 desc: 'Open source immutable semantic graph database that guarantees data integrity, facilitates secure data sharing, and powers connected data insights.'
-updated: 1710563577133
+updated: 1728865334921
 created: 1634617777670
 ---
 
@@ -18,7 +18,7 @@ supports:
 - [[p.hasBlog]] https://flur.ee/blog/
 - [[p.hasFeature]] 
   - [[t.cs.data.time-travel]]
-    - [[c.resource]] https://flur.ee/2019/02/21/time-travel-with-fluree/ x
+    - resources:  https://flur.ee/2019/02/21/time-travel-with-fluree/ x
   - " optionally decentralized (e.g. using StorJ via Tardigrade)"
     - [[p.hasSource]] https://github.com/athensresearch/athens/issues/9#issuecomment-786844129
   - [[prdct.json-ld]] support

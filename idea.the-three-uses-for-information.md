@@ -2,12 +2,12 @@
 id: voEc4Qo3rjQNLC3b5wOaM
 title: The Three Uses for Information
 desc: useful for life or decision making; gossip or signaling; entertainment
-updated: 1644091881015
+updated: 1728865334872
 created: 1643957460762
 ---
 
 
-- [[c.resource]] 
+- resources:  
   - [[p.hasAuthor]] @nat-eliason
 The Three Uses of Information
 

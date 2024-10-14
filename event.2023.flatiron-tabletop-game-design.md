@@ -2,13 +2,13 @@
 id: sjxpzu20u47aq7jxnziwx6n
 title: Flatiron Tabletop Game Design
 desc: ''
-updated: 1673463722825
+updated: 1728865334894
 created: 1673460274900
 ---
 
 - [[p.hostedBy]] @joshua-robinson @alyssa-osterback
 - [[p.hadPanelist]] @zach-saul @tyler-entingh 
-- [[c.resource]] https://boardgamegeek.com
+- resources:  https://boardgamegeek.com
 
 - Where is the overlap between product design and tabletop game design
   - user psychology: 

@@ -2,11 +2,11 @@
 id: v3exfoak8v8v6n1s7ltnphq
 title: Multiplayer Interactive Fiction
 desc: ''
-updated: 1662752145103
+updated: 1728865334999
 created: 1662751943394
 ---
 
-- [[c.resource]]
+- resources: 
   - https://www.ifwiki.org/Multiplayer_IF
     - An IF game where two or more players adopt the roles of multiple PCs simultaneously is referred to as strong multiplayer IF or true multiplayer IF.
     - [[p.hasHighlight]]

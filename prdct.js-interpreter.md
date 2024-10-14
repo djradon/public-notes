@@ -2,9 +2,9 @@
 id: kx6iqe6wyw577hiwzsppum1
 title: JS-Interpreter
 desc: ''
-updated: 1658229645212
+updated: 1728865389438
 created: 1658229603625
 ---
 
-- [[p.hasDocumentation]] https://neil.fraser.name/software/JS-Interpreter/docs.html
+- docs:  https://neil.fraser.name/software/JS-Interpreter/docs.html
 - [[p.hasRepository]] https://github.com/NeilFraser/JS-Interpreter

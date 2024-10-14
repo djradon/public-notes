@@ -2,7 +2,7 @@
 id: DyUK7zKrSwEaMNvad3NYh
 title: C4 Model
 desc: 'model a software system, at various levels of abstraction (context, containers, components and code)'
-updated: 1716531692961
+updated: 1728865335026
 created: 1645831289441
 ---
 
@@ -41,7 +41,7 @@ created: 1645831289441
 
 - https://c4model.com/ 
 
-- [[c.resource]]
+- resources: 
   - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab
   - https://c4model.com/
     - [[p.mentioned]]

@@ -2,11 +2,11 @@
 id: lFiKN8pp7RpUVzcKoLe2K
 title: Sil Q
 desc: ''
-updated: 1643781171472
+updated: 1728865334887
 created: 1641626655249
 ---
 
 
 - [[p.hasRepository]] https://github.com/sil-quirk/sil-q
-- [[c.resource]] http://roguebasin.com/index.php/Sil  
+- resources:  http://roguebasin.com/index.php/Sil  
 - [[p.hasGenre]] [[t.cs.game.roguelike]]

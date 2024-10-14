@@ -2,7 +2,7 @@
 id: cpievtd6f5l3nrcnmyxrz9d
 title: Eventarc
 desc: ''
-updated: 1672335515875
+updated: 1728865389435
 created: 1672334729289
 ---
 
@@ -12,7 +12,7 @@ created: 1672334729289
 - [[p.supports]] [[prdct.cloudevents]]
 
 
-## [[p.hasDocumentation]]
+## docs: 
 
 - https://cloud.google.com/eventarc/docs/event-driven-architectures
 - 

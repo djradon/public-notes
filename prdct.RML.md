@@ -4,7 +4,7 @@ title: RML
 desc: >-
   RML extends R2RML's applicability and broaden R2RML's scope to define mappings
   of data in languages other than RDF
-updated: 1727812978583
+updated: 1728865334965
 created: 1637438742335
 ---
 
@@ -12,7 +12,7 @@ created: 1637438742335
 
 - [[p.hasSpecification]] https://rml.io/specs/rml/
 - [[p.vs]] [[prdct.r2rml]]
-  - [[c.resource]] https://rml.io/docs/rml/rmlvsr2rml/
+  - resources:  https://rml.io/docs/rml/rmlvsr2rml/
 
 ## References
 

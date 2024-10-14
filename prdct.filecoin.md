@@ -2,12 +2,12 @@
 id: bqL2yQo6BekEJhUCbdKBG
 title: Filecoin
 desc: ''
-updated: 1644163321277
+updated: 1728865334928
 created: 1644162349003
 ---
 
 
-- [[c.resource]] https://docs.filecoin.io/build/
+- resources:  https://docs.filecoin.io/build/
 
 -   [Use Glif nodes](https://lotus.filecoin.io/docs/developers/hosted-lotus/)
 - Build with [[Lotus|prdct.lotus]] for users looking to interact with their own, local Lotus nodes.
