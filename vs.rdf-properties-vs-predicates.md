@@ -2,7 +2,7 @@
 id: 1OOKaIig53nVOaqGfj7Z7
 title: Rdf Properties Vs Predicates
 desc: 'predicates are part of the expression of properties'
-updated: 1727292260236
+updated: 1728927359886
 created: 1633817469789
 ---
 
@@ -13,6 +13,8 @@ created: 1633817469789
   - but it's a fuzzy line. [[book.demystifying-owl-for-the-enterprise]] says dates are attributes, like "created", because it's a literal... but you can (and [[gd]] does) represent dates and times as entities
 - one of the biggest mistake of RDF: predicates are ??
   - 2021-11-07 don't remember what I was going to say here, but likely something about how predicates supposedly express properties, when really they just express predicates (i.e., part of a property)
+- "In RDF, a predicate is something that is in the second position of a triple. RDF have no way of referring to positions in triples, so you cannot use a property between two predicates. What is certainly meant by the OP is "can we use owl:sameAs between two properties". Properties can be identified with IRIs, IRIs can occur anywhere in a triple, subject and object can be related by way of a predicate, and any IRI are allowed in any position of a triple. So, syntactically speaking, it is allowed to relate two properties with owl:sameAs."
+
 
 - [[p.isRelated]] [[vs.property-graphs-vs-semantic-graphs]]
 

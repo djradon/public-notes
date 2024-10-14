@@ -2,7 +2,7 @@
 id: lkkkisrk9liyko1av5yoos2
 title: Introducing Ontogen
 desc: ''
-updated: 1723832434998
+updated: 1728884250505
 created: 1723554355082
 ---
 
@@ -169,7 +169,7 @@ published the [[prdct.rdf-triple-compounds]] (RTC) vocabulary last year
 
 ### Ontogen instances as DCAT services
 
-- An `og:Service`, which is defined as a subclass of dcat:DataService, is a resource that structurally consists of two elements:
+  - An `og:Service`, which is defined as a subclass of dcat:DataService, is a resource that structurally consists of two elements:
   -   The `og:Repository` linked via the `dcat:servesDataset` sub-property `og:serviceRepository`
   -   An `og:Store` linked via the property `og:serviceStore`, which represents the locally running SPARQL triple store in which the repository is stored
 -   While the same Ontogen repository can exist on different computers, the various Ontogen instances on these computers operate as different Ontogen services with different stores but the same repository.

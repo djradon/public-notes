@@ -2,7 +2,7 @@
 id: 0Masr5sW1zHAAM0UmTcnB
 title: Rdfs Vs Owl
 desc: owl is more expressive
-updated: 1710803986972
+updated: 1728927063797
 created: 1635666331115
 ---
 
@@ -22,3 +22,4 @@ It may be sufficient to use RDFS if you just need to manipulate class hierarchie
 - https://www.researchgate.net/post/What-is-the-difference-between-RDF-Schema-and-Ontology-OWL
 - https://cambridgesemantics.com/blog/semantic-university/learn-owl-rdfs/rdfs-vs-owl/
 - https://link.springer.com/book/10.1007/978-3-540-92673-3
+- https://lists.w3.org/Archives/Public/semantic-web/2010Jun/0094.html and https://lists.w3.org/Archives/Public/semantic-web/2010Jun/0095.html
