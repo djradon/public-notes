@@ -2,7 +2,7 @@
 id: 13s2lqwflayx6ft508wgzpw
 title: Atomic Data
 desc: 'use all knowledge of the world as if it were a big JSON object; can be thought of as a more constrained, type safe version of RDF'
-updated: 1729112554235
+updated: 1729118961076
 created: 1714115290895
 ---
 
@@ -14,6 +14,7 @@ created: 1714115290895
 
 ## Thoughts
 
+- like [[prdct.solid]], requies the use of a personal server, aka [[t.cs.data.personal-online-datastore]].
 - requiring resolvable properties and emphasizing resolvable URLs seems limiting.
 - not being able to use common namespace:terms is kinda sad. you could adopt a no-modification- (or -restriction?-) -of-existing classes and properties
 - giving up "anyone can say anything about anyone" is too much. 

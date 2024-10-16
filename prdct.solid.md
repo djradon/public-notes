@@ -4,7 +4,7 @@ title: Solid
 desc: >-
   a specification that lets people store their data securely in decentralized
   data stores called Pods
-updated: 1714766202091
+updated: 1729119409222
 created: 1636253430285
 ---
 
@@ -12,6 +12,10 @@ created: 1636253430285
 
 - [[p.hasSite]] https://solidproject.org/
 - supports: [[prdct.nextcloud]] via [[prdct.solid-nextcloud]]
+
+## Features
+
+- use [[t.cs.semantic-web.n3-patch]]
 
 ## Implementations
 
