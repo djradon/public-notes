@@ -2,7 +2,7 @@
 id: 178ZuAuS3pVbx4PGWgAWj
 title: Semantic Web
 desc: 'the vision: distributed, interoperable, and well-defined data'
-updated: 1727283479872
+updated: 1729109421726
 created: 1633629215451
 ---
 
@@ -40,7 +40,7 @@ created: 1633629215451
 
 ## Issues
 
-
+- [[ar.ycombinator.the-semantic-web-is-now-widely-adopted]]
 
 ### n-ary relationships
 

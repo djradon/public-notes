@@ -1,24 +1,30 @@
 ---
 id: 13s2lqwflayx6ft508wgzpw
 title: Atomic Data
-desc: 'use all knowledge of the world as if it were a big JSON object'
-updated: 1714187671353
+desc: 'use all knowledge of the world as if it were a big JSON object; can be thought of as a more constrained, type safe version of RDF'
+updated: 1729108115715
 created: 1714115290895
 ---
 
 - published-by: [[org.ontola]]
 - related: [[prdct.json-ad]]
+- creators: @joep-meindertsma
+
+![](/assets/images/2024-10-16-12-12-59.png)
 
 ## Thoughts
 
-- not being able to use common namespace:terms is kinda ugly. you could adopt a no-modification- (or -restriction?-) -of-existing classes and properties
+- not being able to use common namespace:terms is kinda sad. you could adopt a no-modification- (or -restriction?-) -of-existing classes and properties
 - giving up "anyone can say anything about anyone" is too much. 
 - requiring online-ness and lookups for parsing is too troubling.
 - it is true that minting IRIs is troublesome.
 
 ## Comparisons
 
-## vs [[prdct.rdf]]
+
+## vs [[prdct.rdf]] 
+
+(from https://docs.atomicdata.dev/interoperability/rdf)
 
 -   Atomic calls the three parts of a Triple `subject`, `property` and `value`, instead of `subject`, `predicate`, `object`.
 -   Atomic does not support having multiple statements with the same `<subject> <predicate>`, every combination must be unique.

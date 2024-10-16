@@ -2,7 +2,7 @@
 id: aibtsf1xzaqxtjk4pkylkuf
 title: Semantic Site Generator
 desc: ''
-updated: 1710948023265
+updated: 1729108830448
 created: 1710782379138
 ---
 
@@ -12,5 +12,5 @@ created: 1710782379138
   - mentions: @ruben-verborgh
 - https://csarven.ca/how-to-create-a-linked-data-site
   - mentions: 
-    - https://www.w3.org/DesignIssues/LinkedData.html
+    - [[ar.w3.design-issues.linked-data]] https://www.w3.org/DesignIssues/LinkedData.html
     - [[prdct.dokieli]]
