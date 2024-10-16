@@ -2,7 +2,7 @@
 id: c8fGFc04CU0O6zEOgg8OT
 title: Resources That Refer Vs Resources That Are
 desc: things vs information resources
-updated: 1728944113696
+updated: 1729095280192
 created: 1633593028328
 ---
 
@@ -33,11 +33,11 @@ There are four possibilities for a given URI:
 - homegrown #1: 
   - use  anyIRI literals for referring to the information resource (so never in subject position)
     - so if you want to say something about a resource, you have to reify it first
-  - otherwise, URLs always are indicators/sense
+  - otherwise, IRIreferences always are indicators/sense
   - if you need to talk about something in the object position, refer to it indirectly
 - homegrown #2: 
   - always sense
-  - if you want to refer to a document or other ContentLocator, give it an indicator (e.g., using [[k.relation-types.LocatableContent]])
+  - if you want to refer to a document or other ContentLocator, give it an indicator (e.g., using [[ko.relation-types.LocatableContent]])
 - link tag
   - see [[proj.tomitc.drafts.solving-httprange-14]]
 
