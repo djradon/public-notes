@@ -2,7 +2,7 @@
 id: 13s2lqwflayx6ft508wgzpw
 title: Atomic Data
 desc: 'use all knowledge of the world as if it were a big JSON object; can be thought of as a more constrained, type safe version of RDF'
-updated: 1729108115715
+updated: 1729112554235
 created: 1714115290895
 ---
 
@@ -14,8 +14,10 @@ created: 1714115290895
 
 ## Thoughts
 
+- requiring resolvable properties and emphasizing resolvable URLs seems limiting.
 - not being able to use common namespace:terms is kinda sad. you could adopt a no-modification- (or -restriction?-) -of-existing classes and properties
 - giving up "anyone can say anything about anyone" is too much. 
+  - i.e., "Atomic only allows those who control a resource's subject URL endpoint to edit the data. This means that you can't add triples about something that you don't control."
 - requiring online-ness and lookups for parsing is too troubling.
 - it is true that minting IRIs is troublesome.
 

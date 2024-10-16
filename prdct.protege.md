@@ -4,12 +4,12 @@ title: Protege
 desc: >-
   free, open-source ontology editor and framework for building intelligent
   systems
-updated: 1721500096940
+updated: 1729111595241
 created: 1701803022127
 ---
 
 
-- [[c.software.tools.ontology-editor]]
+- [[c.software.semantic.ontology-editor]] [[c.software.semantic.authoring]]
 - url: https://protege.stanford.edu/
 - written_in: java
 - aka: "Protege 2000"

@@ -9,7 +9,7 @@ created: 1718172067953
 ---
 
 - https://www.opencaesar.io/oml-tutorials/
-- [[c.Software.Tools.Modeling]] [[c.software.tools.ontology-editor]] [[c.methodology.ontology-engineering]]
+- [[c.Software.Tools.Modeling]] [[c.software.semantic.ontology-editor]] [[c.methodology.ontology-engineering]]
 - related: [[prdct.ontology-modeling-language-oml]] [[prdct.oml-luxor]] [[prdct.ontology-modeling-language-oml]]
 
 ![](/assets/images/2024-08-20-11-52-13.png)

@@ -6,7 +6,7 @@ updated: 1722752402869
 created: 1710769052065
 ---
 
-- [[c.software.ontology-editor]]
+- [[c.software.semantic.ontology-editor]]
 - url: https://webprotege.stanford.edu
 
 ## Features

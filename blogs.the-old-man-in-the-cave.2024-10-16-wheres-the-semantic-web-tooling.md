@@ -2,7 +2,7 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: Where‘s the Semantic Web Tooling?
 desc: ''
-updated: 1729111119665
+updated: 1729113498150
 created: 1729093723913
 ---
 
@@ -14,7 +14,7 @@ Why so long? Those ~900 words were so agonized that I'm still recovering. I also
 
 But I do want this dev journal to be somewhat-regular even when progress is slow. So I'm going to lower my standards and just publicize some learnings, goddammit. I'll save the over-polishing for [[blogs.carpe-noctem]].
 
-So anyhow, I was highly motivated to get down to work on a revolutionary [[foundational ontology|t.km.ontology.foundational]] (I swear!) and then...
+So anyhow, I was raring to go on a revolutionary [[foundational ontology|t.km.ontology.foundational]]  and then...
 
 
 ## Let Me Just Open the Preferred Semantic Web GUI...
@@ -29,15 +29,17 @@ I've been using the hallowed and venerable [[prdct.protege]] to browse raw ontol
 
 [[prdct.topbraid-composer]] is the other well-known tool, but the free edition was discontinued in May, 2020. The paid “Maestro Edition” is $3450/year and no longer actively developed. [[org.topquadrant]] is focusing on [[prdct.topbraid-edg]] which has neither a free version nor public pricing.
 
+So I started a frustrating search for better [[authoring tools|c.software.semantic.authoring]].
+
 [[prdct.vocbench]] might be the best lesser-known alternative. It's a web app, but you can install it locally and it seems to have decent support for mixing local development with connected resources. But it doesn't seem to have a text editor and it has some [[other limitations|pub.question-log.2024.10.16#limitations-of-vocbench]].
 
-[[prdct.fluent-editor]] uses Controlled English as a knowledge modeling language but hasn't been updated since 2015. (It was ahead of its time.)
+[[prdct.fluent-editor]] was an eye-opener, but never reached maturity but hasn't been updated since 2015. Definitely ahead of its time... It used Controlled English as a knowledge modeling language, something LLMs are poised to take over. 
 
 There's also the [[prdct.open-link-structured-data-editor-osde]], which hasn't seen an update in two years and requires an RDF service.
 
-Turns out there was a [[reddit titled “Best Ontology Development Environment Tool?”|ar.reddit.semanticweb.best_ontology_development_environment_tool]] started a couple weeks ago, right around the time I started my search. They mostly came to the same conclusion: if you're comfortable using an IDE, making RDF data by hand is probably the best option.
+Turns out there was a [[reddit titled “Best Ontology Development Environment Tool?”|ar.reddit.semanticweb.best_ontology_development_environment_tool]] started a couple weeks ago, right around the time I started my search. They mostly came to the same conclusion: if you're comfortable using an IDE, making RDF data by hand is probably the best option. The alternatives are few, clumsy and mostly dead.
 
-That thread did mention [[prdct.atomicserver]], which is an interesting and exciting RDF-based alternative to the conventional semantic web. I have some [[concerns about the approach|prdct.atomic-data#thoughts]], but I admire the ambition and love the [strategy](https://docs.atomicdata.dev/roadmap). 
+That thread did mention [[prdct.atomicserver]], which is an  exciting RDF-based alternative to the conventional semantic web. I have some [[concerns about the approach|prdct.atomic-data#thoughts]]. Primarily,  but I admire the ambition and love the [strategy](https://docs.atomicdata.dev/roadmap). 
 
 If we're going to revolutionize the semantic web, we're going to need a tool that supports local-first hacking on semantic data and ontologies in text files, but ideally with something graphical to provide people with a guided workflow and guardrails.
 

@@ -1,12 +1,12 @@
 ---
 id: kncqwr817a3kp7h5sm2xx6g
 title: Hozo
-desc: 'ontology editor'
+desc: ontology editor
 updated: 1720209595198
 created: 1709761791922
 ---
 
-- [[c.software.tools.ontology-editor]]
+- [[c.software.semantic.ontology-editor]]
 - url: https://www.hozo.jp/
 
 ## Advantages

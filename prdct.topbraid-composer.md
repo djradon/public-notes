@@ -2,15 +2,14 @@
 id: 3irxfday05mpzz40iicc8ca
 title: Topbraid Composer
 desc: ''
-updated: 1729106914581
+updated: 1729111410494
 created: 1701801531187
-url: 
-  - https://archive.topquadrant.com/topbraid-composer-install/
-type: ""
+url:
+  - 'https://archive.topquadrant.com/topbraid-composer-install/'
 ---
 
 - https://franz.com/agraph/tbc/
-- [[c.software.ontology-editor]]
+- [[c.software.semantic.ontology-editor]] [[c.software.semantic.authoring]]
 - download: https://archive.topquadrant.com/topbraid-composer-install/
 - based-on: [[prdct.eclipse]]
 ![[prdct.protege#similar]]

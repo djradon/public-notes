@@ -1,8 +1,8 @@
 ---
 id: w0s3iul0vzdrzi2iil61mc0
-title: Authoring
+title: Semantic Authoring Software
 desc: ''
-updated: 1729105164785
+updated: 1729112188014
 created: 1721518152184
 ---
 

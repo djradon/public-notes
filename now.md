@@ -2,9 +2,15 @@
 id: pk8PcdWdd5M38WncZRnzN
 title: Now
 desc: current projects
-updated: 1728944103022
+updated: 1729111984738
 created: 1633726718681
 ---
+
+## [[ko]]
+
+- datasets, catalogs, named graphs, distributions
+- how to do multi-level
+- [[proj.tomitc.drafts.solving-httprange-14]]
 
 ## Static Site Generation
 
@@ -13,9 +19,3 @@ created: 1633726718681
   - how do you create semantic data that conforms to an ontology
 - [[prdct.linked-data-fragments]]
 
-## Semantic Web Reboot
-
-- relator-based linked data
-- how to do multi-level
-- choose a [[t.km.ontology.upper]] or start rolling own
-- [[proj.tomitc.drafts.solving-httprange-14]]

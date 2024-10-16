@@ -2,11 +2,12 @@
 id: 22193vpn9mrpiunwmsh5al5
 title: VocBench
 desc: 'web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets'
-updated: 1729104546254
+updated: 1729111365130
 created: 1717001730540
 ---
 
 - https://vocbench.uniroma2.it/
+- [[c.software.semantic.authoring]]
 - built-on: [[prdct.semantic-turkey]]
 - repo: https://bitbucket.org/art-uniroma2/vocbench3/src/master/
 
