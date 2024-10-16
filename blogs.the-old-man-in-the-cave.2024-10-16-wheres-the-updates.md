@@ -2,7 +2,7 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: Where‘s the Updates?
 desc: ''
-updated: 1729096339076
+updated: 1729097812133
 created: 1729093723913
 ---
 
@@ -10,14 +10,14 @@ created: 1729093723913
 
 Actually, it's been closer to three weeks since my [first post](https://theoldmaninthecave.substack.com/p/lets-reboot-the-semantic-web-with-alternate-realities).
 
-Those ~900 words were so agonized that I'm still recovering. But I also wanted to focus on getting some work done that was worth writing about. I've been going from minus one to zero for long enough already!
+Those ~900 words were so agonized that I'm still recovering. But I also wanted to focus on getting some work done that was worth writing about. I've been going from minus one to zero for long enough already.
 
-But I do want dev journal to be somewhat-regular even when progress is slow. So I'm going to lower my standards and just publicize some learnings, goddammit.
+But I do want this dev journal to be somewhat-regular even when progress is slow. So I'm going to lower my standards and just publicize some learnings, goddammit. I'll save the over-polishing for [[blogs.carpe-noctem]]
 
 
 ## Let Me Just Open the Preferred GUI...
 
-I'd been composing little bits of RDF in my favorite editor, [[prdct.vscode]]
+I'd been composing little bits of RDF in my ~~favorite text editor~~ all-time-favorite tool, [[vscode|prdct.vscode]]. I was
 
 
 ## Enter Kosmion

@@ -1,13 +1,13 @@
 ---
 id: QcGJOGoacQKTGmnp3sK8J
-title: VSCode
+title: VS Code
 desc: ''
-updated: 1729096858481
+updated: 1729097593669
 created: 1632921837510
 ---
 
 - https://code.visualstudio.com/
-- [[c.software.text-editor]]
+- [[c.software.ide]] [[c.software.text-editor]]
 
 ## tips
 
