@@ -2,21 +2,24 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1726469149722
+updated: 1729096952699
 created: 1631142984146
 similar: "[[prdct.foam]]"
 ---
 
 - creator: @kevin-lin
-- [[c.Software.Knowledge-Base]] 
+- [[c.software.Knowledge-Base]] 
 
 ## Tips
 
+## Publishing
+
+- `rm -rf .next && rm -rf docs`
+- `dendron publish export --target github --yes`
 - to customize the next.js template... use "--dest       override where nextjs-template is located"
   - https://docs.dendron.so/notes/PgwAXFfotfgpFVqHQRlBl/
 - customizing the header is also apparently an option
-- `rm -rf .next && rm -rf docs && rm -rf node_modules`
-- `dendron publish export --target github --yes`
+- for "files to include", vaults have to be specified as, e.g. ./public-notes
   
 
 ## Resources

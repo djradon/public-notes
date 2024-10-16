@@ -1,8 +1,8 @@
 ---
 id: XGynaZczE1ZM7e7HKVE6g
-title: Keybindings
+title: djradon‘s vscode keybindings
 desc: ''
-updated: 1634236684643
+updated: 1729097146465
 created: 1634193873243
 ---
 

@@ -2,19 +2,25 @@
 id: QcGJOGoacQKTGmnp3sK8J
 title: VSCode
 desc: ''
-updated: 1696613278322
+updated: 1729096858481
 created: 1632921837510
 ---
 
-
-
-- [[p.instanceOf]] [[c.application]]
+- https://code.visualstudio.com/
+- [[c.software.text-editor]]
 
 ## tips
 
-- [c] turn off angle bracket auto-closing
-- [x] mapped extension activity to ctrl+g by removing workbench.scm.active from keybinding
-- [x] mapped ctrl+d to dendron activity
 - "join lines" when copying from pdf
 
-Of course, you and I are in a sense extended not only in space but also in time. But we do not have temporal parts in the sense in which lives and headaches and orbits have temporal parts. This, at least, will be the assumption in what follows – sometimes called the assumption of three-dimensionalism
+## Issues
+
+- Why doesn't vscode have underlined shortcut accelerator keys in context menus? 
+
+## Wanted
+
+- [[wanted.vscode-frontmatter-single-quote-warning]]
+
+## Resources
+
+- [Writing a Visual Studio Code Completion Provider](https://blog.dendron.so/notes/IThOx1Oag1r0JAglpiDLp/)  ^xgE2QepxX0Cy
