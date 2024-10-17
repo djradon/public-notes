@@ -8,4 +8,4 @@ created: 1725382889555
 
 - https://notes.nicolevanderhoeven.com/Fork+My+Brain
 - author: @nicole-van-der-hoeven
-- platform: [[prdct.Obsidian-notes]]
+- platform: [[prdct.obsidian]]

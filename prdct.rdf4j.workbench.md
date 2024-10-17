@@ -1,8 +1,8 @@
 ---
 id: u37pkmunxmv8id5r6x5vs8j
-title: Rdf4j Workbench
+title: rdf4j Workbench
 desc: ''
-updated: 1729191965321
+updated: 1729192541196
 created: 1729191825455
 ---
 

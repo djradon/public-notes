@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1729096952699
+updated: 1729193263416
 created: 1631142984146
 similar: "[[prdct.foam]]"
 ---
@@ -11,6 +11,8 @@ similar: "[[prdct.foam]]"
 - [[c.software.Knowledge-Base]] 
 
 ## Tips
+
+- don't end your dendron top-level domain with the same letter. i.e., `prdct.`, `t.` - it hampers search autocomplete ^ln5q1ooyf17z
 
 ## Publishing
 

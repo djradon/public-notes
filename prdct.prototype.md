@@ -2,7 +2,9 @@
 id: p1pgesouyuhossdby4oqkqc
 title: Prototype
 desc: ''
-updated: 1701711856199
+updated: 1729193020595
 created: 1701711690437
-type: "[[c.software.web.toolkit]]"
 ---
+
+- [[c.software.web.toolkit]]
+![[prdct.dojo_toolkit#^tmacjwe8emtq]]

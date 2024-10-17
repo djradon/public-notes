@@ -2,7 +2,7 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: What‘s the Best Semantic Web Authoring Tool?
 desc: a grim survey of RDF data management apps
-updated: 1729191633945
+updated: 1729194501054
 created: 1729093723913
 ---
 
@@ -64,14 +64,6 @@ I have some [[hesitations about the Atomic approach|prdct.atomic-data#thoughts]]
 
 Still, I admire the ambition, love the [strategy](https://docs.atomicdata.dev/roadmap), and depending on your use case, it might work for you.
 
-### Solid?
-
-At this point, I should probably mention [[prdct.solid]], an initiative/specification that lets people store their data securely in decentralized data stores called Pods. The vision is data is decoupled from applications, so that people are no longer locked into specific platforms simply because their data is held there. 
-
-It‘s similar to Atomic Data and also exciting and ambitious, with a large and active developer community and commercial backing to boot. But while Solid is built on RDF, it‘s not viable as a general RDF authoring tool. 
-
-It could benefit from one though.
-
 
 ### Overkill Options
 
@@ -91,8 +83,21 @@ The consensus in the Reddit discussion seemed to be: if you‘re comfortable usi
 
 [[prdct.vocbench]] might be the best web-based alternative. You can install it locally and it seems to have caching and decent support for mixing local development with connected resources. It has options for history, validation, and undo. But it doesn‘t seem to have a source editor and it has some [[other limitations|pub.question-log.2024.10.16#limitations-of-vocbench]].
 
-There‘s also the [[prdct.open-link-structured-data-editor-osde]], which hasn‘t seen an update in two years and doesn‘t work with text files. 
+There‘s also the [[prdct.open-link-structured-data-editor-osde]], which hasn‘t seen an update in two years and doesn‘t work with text files. Catchy name, tho.
 
+Finally, there's [[prdct.rdf4j.workbench]]. You can enter RDF directly into an HTML &lt;textarea&rt;. 
+
+![](/assets/images/2024-10-17-12-06-02.png)
+
+A picture is worth a lot of words here, but I‘ll spend some anyhow: If your text-oriented application has to be web-based, it has to use [[prdct.monaco-editor]].
+
+### Solid?
+
+At this point, I should probably mention [[prdct.solid]], an initiative/specification that lets people store their data securely in decentralized data stores called Pods. The vision is data is decoupled from applications, so that people are no longer locked into specific platforms simply because their data is held there. 
+
+It‘s similar to Atomic Data and also exciting and ambitious, with a large and active developer community and commercial backing to boot. But while Solid is built on RDF, it‘s not viable as a general RDF authoring tool. 
+
+It could benefit from one though.
 
 
 ## Prognosis
