@@ -2,7 +2,7 @@
 id: wqm09s60dkxpcrex3ms3j6c
 title: Sustainable Web Apps
 desc: ''
-updated: 1717084229328
+updated: 1729183300314
 created: 1717082727971
 ---
 
@@ -20,7 +20,7 @@ Thus, the second reason: there is a technological disincentive. It's simply much
 
 -   The JavaScript code and other static assets of the Web App (the _app_, in pink) are served from some origin via HTTP.
 -   The app establishes a working Graph Model, comprised of _semantic web_ data \[\[RDF-NOT\]\] (non-specific serialisation).
--   The Graph is stored locally, and so is available without a network round-trip (unless it has to be fetched to get started!). It is local-first \[\[LOFI\]\].
+-   The Graph is stored locally, and so is available without a network round-trip (unless it has to be fetched to get started!). It is [[local-first|t.cs.sd.local-first]] \[\[LOFI\]\].
 -   If other replicas of the Graph exist elsewhere, they are synchronised, when the network is available, via a Message Delivery service.
 -   If desired for data safety, the Graph can also be replicated to a Backup service, having its own persistent storage.
 -   Such a Backup service may also expose the data in the Graph as Linked Data \[\[LINKED-DATA\]\] via its own API. This makes the data de-referencable, via HTTP, for more loosely-coupled consumers.
