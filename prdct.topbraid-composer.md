@@ -27,5 +27,5 @@ url:
 ## References
 
 - https://semantrix.com.au/pages/products-platforms/topquadrant/topbraid-composer/
-- [[vs.tbox-vs-abox]]
+- [[vs.tbox-vs-abox-vs-mbox]]
 - https://www.mail-archive.com/topbraid-users@googlegroups.com/msg12100.html

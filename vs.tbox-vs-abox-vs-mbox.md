@@ -1,8 +1,9 @@
 ---
 id: 8d4ujanl4ezw65rraanim0z
 title: Tbox Vs Abox vs MBox
-desc: 'Terminological Box is concerned with taxonomy and structure, vs Assertion Box; aka rules vs facts'
-updated: 1728154558024
+desc: >-
+  Terminological Box is concerned with taxonomy and structure; Assertion Box with rules vs facts; Model Box is kinda fuzzy
+updated: 1729147312503
 created: 1708713849213
 ---
 
