@@ -1,8 +1,8 @@
 ---
 id: QcGJOGoacQKTGmnp3sK8J
-title: VS Code
+title: VSCode
 desc: ''
-updated: 1729097593669
+updated: 1729154665326
 created: 1632921837510
 ---
 

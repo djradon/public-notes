@@ -1,8 +1,8 @@
 ---
 id: k435qlp9xsvxvjtfpez4x9p
-title: Stardog Rdf Grammars vscode extension
+title: Stardog RDF Grammars vscode extension
 desc: ''
-updated: 1729099183871
+updated: 1729154747612
 created: 1729099011061
 ---
 

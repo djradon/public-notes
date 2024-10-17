@@ -1,8 +1,8 @@
 ---
 id: 76k77lkhmabk7paurrd27eb
-title: Linkeddatahub
+title: LinkedDataHub
 desc: 'collaboratively create and edit RDF ontologies, instance data, and document content enjoying a consistent user experience.'
-updated: 1716500234064
+updated: 1729152839043
 created: 1716500096760
 ---
 
