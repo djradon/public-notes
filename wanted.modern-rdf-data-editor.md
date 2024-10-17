@@ -2,9 +2,13 @@
 id: rydhquvp5xs87ib7lhufbnv
 title: Modern RDF Data Editor
 desc: 'semantic web meets vscode'
-updated: 1729183402634
+updated: 1729188721328
 created: 1729182328295
 ---
+
+## Ideas
+
+- keep a cache (per-user, per dataset, per domain) of the most-used and trending properties and identifiers.
 
 ## hey chatgpt, could you build a form-based (GUI) vscode extension for authoring RDF data?
 

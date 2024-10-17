@@ -2,7 +2,7 @@
 id: 14cgtu42xwfpwjh8gos00qr
 title: 'one kosmic step backwards, a couple shuffles forward'
 desc: ''
-updated: 1728793548681
+updated: 1729190689266
 created: 1728756937337
 ---
 
@@ -357,8 +357,6 @@ In this example:
 Modeling **valid-time** as a **facet** is a good fit for your **facet-oriented** ontology, especially given its **temporal focus**. It allows you to manage temporal validity in a flexible and expressive way, making it easier to apply **bitemporality** and to extend the model as needed. If you'd like, I can help integrate this concept into your current **Kosmion ontology** document.
 
 ## doing modular ontologies seems confusing. If you import another ontology, won't you need to use different prefixes?
-
-## It's so annoying that applications and the semantic web community seem to refer to instance data as an ontology
 
 You're absolutely right, managing **prefixes** when importing multiple **modular ontologies** can indeed be confusing. Here are a few points to consider:
 

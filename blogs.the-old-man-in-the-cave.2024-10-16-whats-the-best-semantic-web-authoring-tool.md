@@ -2,7 +2,7 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: What‘s the Best Semantic Web Authoring Tool?
 desc: a grim survey of RDF data management apps
-updated: 1729183468827
+updated: 1729191633945
 created: 1729093723913
 ---
 
@@ -16,13 +16,15 @@ Why so long? Those ~900 words were so agonized that I‘m still recovering. Also
 
 But this dev journal should be somewhat regular even when output is slow. So I‘m going to lower my standards and just publicize some learnings, goddammit. Judging from my ChatGPT chat histories, there are more than enough learnings to choose from. I‘ll save the over-polishing for my other blog, [[blogs.carpe-noctem]].
 
-So anyhow, I was raring to go on a revolutionary [[foundational ontology|t.km.ontology.foundational]] and accompanying example data.
+So anyhow, I've been raring to go on a revolutionary [[foundational ontology|t.km.ontology.foundational]] and accompanying example data. Let me just open my go-to Semantic Web authoring tool...
 
-## Let me just open my go-to Semantic Web authoring tool...
+## The Usual Suspects 
 
-I‘ve been composing little bits of raw RDF in [[Turtle|prdct.rdf.turtle]] “by hand” with my ~~preferred text editor~~ all-time-favorite software, [[VSCode|prdct.vscode]]. Turtle is the most human-readable of the various RDF syntaxes and with the handy [[Stardog RDF extension|prdct.stardog.rdf-grammars]] for syntax checking and highlighting, the experience is pretty good. I wouldn‘t recommend it for non-coders though.
+I‘ve been composing little bits of raw RDF in [[Turtle|prdct.rdf.turtle]] “by hand” with my ~~preferred text editor~~ all-time-favorite software, [[VSCode|prdct.vscode]]. Turtle is the most human-readable of the various RDF syntaxes and with the handy [[Stardog RDF extension|prdct.stardog.rdf-grammars]] for syntax checking and highlighting, the experience is pretty good. I wouldn‘t recommend it for non-coders though, and even coders deserve something better.
 
-For a little GUI goodness, I‘ve been using the hallowed and venerable [[Protege application|prdct.protege]] “ontology editor” to browse raw ontology files. I know it has some support for instance data, but it doesn‘t have “source editing.” It‘s also complicated and intimidating, and it‘s not ideal for actual data management. Stick to the [[t-box|vs.tbox-vs-abox-vs-mbox]], Protege.
+For a little GUI goodness, I‘ve been using the hallowed and venerable [[Protege application|prdct.protege]] “ontology editor” to browse raw ontology files. I put ontology editor in quotes here because there's been an [[annoying blurring of the line|pub.question-log.2024.10.12#its-so-annoying-that-applications-and-the-semantic-web-community-seem-to-refer-to-instance-data-as-an-ontology]] between ontologies (i.e., conceptual schemas, also known as the “terminologic box“) and the facts and entities that use ontologies, aka instance data or the “assertional box.“
+
+I know Protege is commonly used for instance data, probably because of its mature [[reasoner|c.software.reasoner]] support. But it doesn‘t have source editing; it‘s complicated and intimidating; and it‘s not ideal for actual data management. 
 
 [[prdct.topbraid-composer]] is the other well-known GUI tool for the Semantic Web, but the free edition was discontinued in May 2020, and the paid “Maestro Edition” is $3450/year and no longer actively developed. [[org.topquadrant]] is focusing on [[prdct.topbraid-edg]] which has neither a free version nor public pricing.
 
@@ -33,17 +35,16 @@ Even so, Composer Free might be your best option for affordable, GUI-based RDF d
 
 ## A Frustrating Search
 
-I started looking for a friendlier, purpose-built [[authoring tool|c.software.semantic.authoring]]. Surely there‘s something that allows you to *browse, create, and update RDF data* with a GUI!? Like [[prdct.Excel]] or [[prdct.datagrip]], but for the Semantic Web!? 
+I started looking for a friendlier, purpose-built [[authoring tool|c.software.semantic.authoring]]. Surely there‘s something that allows you to *browse, create, and update RDF data* with a GUI!? Like [[prdct.Excel]] or [[prdct.datagrip]], but for the Semantic Web. I mean, people have been doing this for 25 years!
 
-A user-friendly data management application should have a simple means of entering and updating data. Helpful graph and hierarchy visualizations would be nice. It should also have guardrails:
+You would expect a user-friendly data management app to have a simple means of entering and updating data. Helpful graph and hierarchy visualizations would be nice. It should also have guardrails:
   - consistency checks
   - a revision history or per-object undo mechanism
   - wizards and other user-experience affordances for common workflows like setting up projects, commiting changes, and publishing datasets
 
-Ideally, I‘d want a stand-alone application that you can run disconnected on a laptop. 
+Ideally, I‘d want a stand-alone application that you can run disconnected on a laptop. (Local-first forever!)
 
-
-## What Are the Other Options?
+### There Must Be Plenty of Options, Right?
 
 The only stand-alone alternative to Protege and Composer that I could find was [[prdct.fluent-editor]]. It‘s quirky, doesn‘t have direct source editing, and hasn‘t been updated since 2015. I love the idea of using Controlled English for modeling knowledge, but LLMs are poised to do that in any language, controlled or not. 
 
@@ -52,6 +53,8 @@ Fluent Editor was definitely ahead of its time, but I'd be suprised to hear of a
 ## Reddit To the Rescue?
 
 While researching this post, I stumbled on a recent [[reddit entitled “Best Ontology Development Environment Tool?”|ar.reddit.semanticweb.best_ontology_development_environment_tool]]. 
+
+### Atomic 
 
 It mentioned [[prdct.atomicserver]], which implements the [[prdct.atomic-data]] spec. Atomic Data is an exciting RDF-based alternative to the conventional semantic web. I particularly love its use of [[t.cs.sd.event-sourcing]].
 
@@ -63,11 +66,14 @@ Still, I admire the ambition, love the [strategy](https://docs.atomicdata.dev/ro
 
 ### Solid?
 
-At this point, I should probably mention [[prdct.solid]], a specification and platform that lets people store their data securely in decentralized data stores called Pods. It‘s similar to Atomic Data and also exciting and ambitious, with a large and active developer community and commercial backing to boot. But while Solid is built on RDF, it‘s not viable as a general RDF authoring tool. 
+At this point, I should probably mention [[prdct.solid]], an initiative/specification that lets people store their data securely in decentralized data stores called Pods. The vision is data is decoupled from applications, so that people are no longer locked into specific platforms simply because their data is held there. 
+
+It‘s similar to Atomic Data and also exciting and ambitious, with a large and active developer community and commercial backing to boot. But while Solid is built on RDF, it‘s not viable as a general RDF authoring tool. 
 
 It could benefit from one though.
 
-### Overkill
+
+### Overkill Options
 
 The Reddit thread mentioned a few other web-based possibilities: LinkedDataHub, Metaphactory, Stardog Studio, and Semaphore.
 
@@ -81,18 +87,20 @@ The Reddit thread mentioned a few other web-based possibilities: LinkedDataHub, 
 
 The consensus in the Reddit discussion seemed to be: if you‘re comfortable using an IDE, making RDF data by hand is probably your best option.
 
-### Anything Else?
+## Anything Else?
 
 [[prdct.vocbench]] might be the best web-based alternative. You can install it locally and it seems to have caching and decent support for mixing local development with connected resources. It has options for history, validation, and undo. But it doesn‘t seem to have a source editor and it has some [[other limitations|pub.question-log.2024.10.16#limitations-of-vocbench]].
 
 There‘s also the [[prdct.open-link-structured-data-editor-osde]], which hasn‘t seen an update in two years and doesn‘t work with text files. 
 
-### Conclusion
 
-The situation is disheartening to say the least.
 
-If we‘re going to [[reboot the semantic web|blogs.the-old-man-in-the-cave.2024-09-27-lets-reboot-the-semantic-web-with-alternate-realities]], we‘re going to want a usable data editor that supports [[t.cs.sd.local-first]] authoring, guided workflows and data guardrails.
+## Prognosis
 
-For now, I guess I‘ll be sticking with VSCode, but please let me know if I‘ve missed something. I‘d love to be wrong here. 
+The situation is disappointing to say the least.
 
-Also, let me know if you're interested in buildinng or funding a [[wanted.modern-rdf-data-editor]]! That‘s a project I could sink my teeth into.
+If we‘re going to [[reboot the semantic web|blogs.the-old-man-in-the-cave.2024-09-27-lets-reboot-the-semantic-web-with-alternate-realities]], we‘ll want a usable data editor that supports [[t.cs.sd.local-first]] authoring, guided workflows and data guardrails.
+
+For now, I guess I‘ll be sticking with VSCode, but let me know if I‘ve missed something. I‘d love to be wrong here. 
+
+Also, let me know if you're interested in buildinng or backing a [[modern RDF data editor|wanted.modern-rdf-data-editor]]! That‘s a project I could sink my teeth into.

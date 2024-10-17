@@ -1,6 +1,6 @@
 ---
 id: WHFKyCQdqtPcnugSV27Op
-title: Obsidian
+title: Obsidian-notes
 desc: 'markdown-based, local-first knowledge base platform'
 updated: 1701794003215
 created: 1632952911734

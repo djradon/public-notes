@@ -10,7 +10,7 @@ created: 1715023042174
 
 - [[c.software.rpg.data-mover]] 
 - https://github.com/Praxxian/lava-flow/
-- works-with: [[prdct.Foundry-VTT]] [[prdct.Obsidian]]
+- works-with: [[prdct.Foundry-VTT]] [[prdct.Obsidian-notes]]
 
 ## References
 

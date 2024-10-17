@@ -4,14 +4,16 @@ title: Solid
 desc: >-
   a specification that lets people store their data securely in decentralized
   data stores called Pods
-updated: 1729119409222
+updated: 1729189937408
 created: 1636253430285
 ---
 
-
-
 - [[p.hasSite]] https://solidproject.org/
 - supports: [[prdct.nextcloud]] via [[prdct.solid-nextcloud]]
+
+## Vision
+
+-  data is decoupled from applications, meaning users are no longer locked into specific platforms simply because their data is held there
 
 ## Features
 
