@@ -2,7 +2,7 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: Where‘s the Simple Semantic Web Authoring Tool?
 desc: ''
-updated: 1729157278177
+updated: 1729174315467
 created: 1729093723913
 ---
 
@@ -32,12 +32,12 @@ For me, not being able to see the source for more than one element at a time is 
 
 So I started a frustrating search for friendlier [[authoring tools|c.software.semantic.authoring]]. Surely there‘s something that allows you to *browse, create, and update RDF data* with a GUI, like [[prdct.Excel]] or [[prdct.datagrip]] but for the Semantic Web!? 
 
-A purpose-built application for a general audience should have:
-  - simple ways of entering and updating data with consistency checks and, ideally, a revision history or undo mechanism
-  - graph and hierarchy visualization
+A user-friendly data management application must have a simple means of entering and updating data and helpful graph and hierarchy visualization. It should also have guardrails:
+  - consistency checks
+  - a revision history or per-object undo mechanism
   - wizards and other user-experience affordances for common workflows like setting up projects, commiting changes, and managing and publishing datasets
 
-Ideally, I‘d want a stand-alone application that you can run disconnected on a laptop. 
+Ideally, I‘d want a stand-alone application that you can run disconnected on a laptop to allow offline work. 
 
 
 ## What Are the Other Options?
@@ -58,12 +58,17 @@ I have some [[hesitations about the Atomic approach|prdct.atomic-data#thoughts]]
 
 Still, I admire the ambition, love the [strategy](https://docs.atomicdata.dev/roadmap), and depending on your use case, it might work for you.
 
-The Reddit thread mentioned a few other web-based possibilities:
+The Reddit thread mentioned a few other web-based possibilities: LinkedDataHub, Metaphactory, Stardog Studio, and Semaphore.
 
-- [[prdct.linkeddatahub]] is an incredible, web-based, open-source Knowledge Graph platform that deserves an article of its own. Its target audience includes “researchers and data scientists” and “developers and data publishers.“ While it could be used for authoring RDF data, it seems like overkill as an authoring tool.
-- [[prdct.metaphactory]] is similar, but not open-source
-- [[prdct.stardog.studio]] looks slick and might fit the bill if it worked with text files or non-Stardog triple stores.
-- [[prdct.semaphore]] the most overkill anywhere!
+[[prdct.linkeddatahub]] is an impressive, web-based, open-source Knowledge Graph platform that deserves an article of its own. Its target audience includes “researchers and data scientists” and “developers and data publishers.“ It inspires you, as a developer, to base your application on it. While it can be used for authoring RDF data, it seems like overkill as an authoring tool.
+
+[[prdct.metaphactory]] is similar, but not open-source.
+
+[[prdct.semaphore]] looks to be the most overkill of all!
+
+
+[[prdct.stardog.studio]] looks slick and might fit the bill for an authoring tool if it worked with text files or non-Stardog triple stores.
+
 
 The consensus in the Reddit discussion seemed to be: if you‘re comfortable using an IDE, making RDF data by hand is probably your best option.
 
@@ -73,14 +78,14 @@ At this point, I should probably mention [[prdct.solid]], a specification and pl
 
 ### Anything Else?
 
-[[prdct.vocbench]] might be the best web-based alternative. You can install it locally and it seems to have decent support for mixing local development with connected resources. But it doesn‘t seem to have a source editor and it has some [[other limitations|pub.question-log.2024.10.16#limitations-of-vocbench]].
+[[prdct.vocbench]] might be the best web-based alternative. You can install it locally and it seems to have caching and decent support for mixing local development with connected resources. But it doesn‘t seem to have a source editor and it has some [[other limitations|pub.question-log.2024.10.16#limitations-of-vocbench]].
 
 There‘s also the [[prdct.open-link-structured-data-editor-osde]], which hasn‘t seen an update in two years and doesn‘t work with text files. 
 
 ### Conclusion
 
-The situation is disheartening to say the least.
+The situation is grim and disheartening to say the least.
 
-If we‘re going to reboot the semantic web, we‘re going to need a tool that supports local-first authoring that can provide guided workflows and data guardrails.
+If we‘re going to [[reboot the semantic web|blogs.the-old-man-in-the-cave.2024-09-27-lets-reboot-the-semantic-web-with-alternate-realities]], we‘re going to need a usable tool that supports local-first authoring, guided workflows and data guardrails.
 
-For now, I guess I‘ll be sticking with VSCode, but please let me know if I missed something.
+For now, I guess I‘ll be sticking with VSCode, but please let me know if I missed something. I‘d love to be wrong here.
