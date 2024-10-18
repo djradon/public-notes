@@ -1,8 +1,10 @@
 ---
 id: pi9eqxk27aaedm6ae8tn180
-title: Dcat Data Catalog Vocabulary
-desc: 'provides RDF classes and properties to allow datasets and data services to be described and included in a catalog'
-updated: 1728922748366
+title: DCAT Data Catalog
+desc: >-
+  provides RDF classes and properties to allow datasets and data services to be
+  described and included in a catalog
+updated: 1729274827902
 created: 1721241717863
 ---
 
@@ -29,7 +31,7 @@ spatial resolution
 
 #### 	dcat:temporalResolution
 
-intended to provide a summary indication of the temporal resolution of the data distribution as a single value. More complex descriptions of various aspects of temporal precision, accuracy, resolution and other statistics can be provided using the Data Quality Vocabulary [VOCAB-DQV](https://www.w3.org/TR/vocab-dcat/#Property:dataset_distribution#bib-vocab-dqv) "Data on the Web Best Practices: Data Quality Vocabulary")\].
+intended to provide a summary indication of the temporal resolution of the data distribution as a single value. More complex descriptions of various aspects of temporal precision, accuracy, resolution and other statistics can be provided using the Data Quality Vocabulary [VOCAB-DQV](https://www.w3.org/TR/vocab-dcat/#Property:dataset_distribution#bib-vocab-dqv) "Data on the Web Best Practices: Data Quality Vocabulary".
 
 #### prov:wasGeneratedBy
 

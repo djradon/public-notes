@@ -1,10 +1,10 @@
 ---
 id: hexrd109e9ac3r9e96ga8v3
-title: Protege
+title: Protégé
 desc: >-
   free, open-source ontology editor and framework for building intelligent
   systems
-updated: 1729111595241
+updated: 1729197837845
 created: 1701803022127
 ---
 

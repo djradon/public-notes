@@ -12,7 +12,7 @@ created: 1705548129652
 
 - [[prdct.eagle]]
 - [[prdct.prov-o]]
-- [[t.cs.web.w3c.data-catalog]] has frequency (of publishing),
+- [[prdct.dcat-data-catalog.v2]] has frequency (of publishing),
 
 ## References
 

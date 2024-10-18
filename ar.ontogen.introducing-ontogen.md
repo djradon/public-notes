@@ -155,7 +155,7 @@ published the [[prdct.rdf-triple-compounds]] (RTC) vocabulary last year
 
 ### Ontogen repositories as DCAT catalogs
 
-- [[prdct.rdf.dcat-data-catalog-vocabulary]] is suitable:
+- [[prdct.dcat-data-catalog]] is suitable:
   -   Flexibility and extensibility: DCAT provides a basic vocabulary that can be easily adapted and extended to specific needs.
   -   Hierarchical structuring: DCAT allows the modeling of nested catalog structures, which is ideal for organizing complex RDF datasets.
   -   Comprehensive metadata: DCAT offers a rich set of properties for describing datasets, including license information, access rights, and temporal aspects, some of which can even be provided automatically in the context of Ontogen, as these can be derived from the speech act and commit history (authors, creation period, data sources, etc.)

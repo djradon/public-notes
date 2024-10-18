@@ -2,7 +2,7 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: What’s the Best Semantic Web Authoring Tool?
 desc: a grim survey of RDF data management apps
-updated: 1729196866803
+updated: 1729274287752
 created: 1729093723913
 ---
 
@@ -10,23 +10,37 @@ created: 1729093723913
 
 ## Has it been two weeks already?
 
-Actually, it’s been closer to three weeks since my [first post](https://theoldmaninthecave.substack.com/p/lets-reboot-the-semantic-web-with-alternate-realities).
+Actually, it’s been three weeks since my [first dev journal post](https://theoldmaninthecave.substack.com/p/lets-reboot-the-semantic-web-with-alternate-realities) and [first general article](https://djradon.substack.com/p/introducing-carpe-noctem).
 
-Why so long? Those ~900 words were so agonized that I’m still recovering. Also wanted to get some work worth writing about done. I’ve been going from minus one to zero for long enough already.
+Why so long? Those combined ~3500 words were so agonized that I’m still recovering. Also wanted to get some work worth writing about done. I’ve been going from minus one to zero for long enough already. 
+
+So I've made some slow progress on a revolutionary foundational ontology. I'll provide an update on that soon. Progress might've been quicker, but I’ve been down many gopher holes, including planning for a [[semantic static site generator|sflow]], reviewing the [[w3c Data Catalog|prdct.dcat-data-catalog]] standard, and today’s topic: a review of currently available authoring tools for Semantic Web data.
 
 ![](/assets/images/2024-10-08-10-10-13.png)
 
-But this dev journal should be somewhat regular even when output is slow. So I’m going to lower my standards and just publicize some learnings, goddammit. Judging from my ChatGPT chat histories, there are more than enough learnings to choose from. I’ll save the over-polishing for my other blog, [[blogs.carpe-noctem]].
+I'd like this dev journal to be somewhat frequent even when output is slow. So I’m going to lower my standards and just publicize some learnings, goddammit. Judging from my ChatGPT chat histories, there are more than enough learnings to choose from. I can save the over-polishing for my other blog, [[blogs.carpe-noctem]].
 
-So anyhow, I've been raring to go on a revolutionary [[foundational ontology|t.km.ontology.foundational]] and accompanying example data. Let me just open my go-to Semantic Web authoring tool...
+So anyhow, I’m raring to go on my [[foundational ontology|t.km.ontology.foundational]] and accompanying example data. Let me just open my go-to RDF tools...
 
 ## The Usual Suspects 
 
-I’ve been composing little bits of raw RDF in [[Turtle|prdct.rdf.turtle]] “by hand” with my ~~preferred text editor~~ all-time-favorite software, [[VSCode|prdct.vscode]]. Turtle is the most human-readable of the various RDF syntaxes and with the handy [[Stardog RDF extension|prdct.stardog.rdf-grammars]] for syntax checking and highlighting, the experience is pretty good. I wouldn’t recommend it for non-coders though, and even coders deserve something better.
+### VSCode and JetBrains
 
-For a little GUI goodness, I’ve been using the hallowed and venerable [[Protege application|prdct.protege]] “ontology editor” to browse raw ontology files. I put ontology editor in quotes here because there's been an [[annoying blurring of the line|pub.question-log.2024.10.12#its-so-annoying-that-applications-and-the-semantic-web-community-seem-to-refer-to-instance-data-as-an-ontology]] between ontologies (i.e., conceptual schemas, also known as the “terminologic box“) and the facts and entities that use ontologies, aka instance data or the “assertional box.“
+I’ve been composing little bits of raw RDF in [[Turtle|prdct.rdf.turtle]] “by hand” with my ~~preferred text editor~~ all-time-favorite software, [[VSCode|prdct.vscode]]. Turtle is the most human-readable of the various RDF syntaxes and with the handy [[Stardog RDF extension|prdct.stardog.rdf-grammars]] for syntax checking and highlighting, the experience is pretty good. 
 
-I know Protege is commonly used for instance data, probably because of its mature [[reasoner|c.software.reasoner]] support. But it doesn’t have source editing; it’s complicated and intimidating; and it’s not ideal for actual data management. 
+If you prefer the [[org.jetbrains]] IDEs, apparently the [[prdct.rdf-and-sparql]] plugin is the best thing since sliced arrays. For €5 / month, you can query local RDF files with [[SPARQL|prdct.sparql]] and validate [[prdct.shacl]]. Pretty cool. 
+
+I wouldn’t recommend either path for non-coders though. And I’ve definitely found myself wishing for a more purpose-built tool.
+
+### Protégé
+
+For a little GUI goodness, there's the hallowed and venerable [[prdct.protege]] “ontology editor.” I put ontology editor in quotes here because there's been an [[annoying blurring of the line|pub.question-log.2024.10.12#its-so-annoying-that-applications-and-the-semantic-web-community-seem-to-refer-to-instance-data-as-an-ontology]] between ontologies (i.e., conceptual schemas, also known as the “terminologic box” or t-box) and the facts and entities that use ontologies, aka instance data or the “assertional box” or a-box. I know it can be a hard line to draw, but apparently everything’s an ontology now.
+
+Anyhow, I know Protégé is commonly used for instance data. Maybe that has to do with its mature [[reasoner|c.software.reasoner]] support. Maybe it’s because the only people who create ontology-conforming instance data by hand are the people who created the ontology. If the tool ya know works, keep using it, am I right?
+
+But Protégé doesn’t have source editing. It’s complicated and intimidating. And it’s not ideal for actual data management. 
+
+### Topbraid Composer
 
 [[prdct.topbraid-composer]] is the other well-known GUI tool for the Semantic Web, but the free edition was discontinued in May 2020, and the paid “Maestro Edition” is $3450/year and no longer actively developed. [[org.topquadrant]] is focusing on [[prdct.topbraid-edg]] which has neither a free version nor public pricing.
 
@@ -46,23 +60,31 @@ You would expect a user-friendly data management app to have a simple means of e
 
 Ideally, I’d want a stand-alone application that you can run disconnected on a laptop. (Local-first forever!)
 
-### There Must Be Plenty of Options, Right?
+There must be some good options, right?
 
-The only stand-alone alternative to Protege and Composer that I could find was [[prdct.fluent-editor]]. It’s quirky, doesn’t have direct source editing, and hasn’t been updated since 2015. I love the idea of using Controlled English for modeling knowledge, but LLMs are poised to do that in any language, controlled or not. 
+### Fluent Editor
+
+The only stand-alone alternative to Protégé and Composer that I could find was [[prdct.fluent-editor]]. It’s quirky, doesn’t have direct source editing, and hasn’t been updated since 2015. I love the idea of using Controlled English for modeling knowledge, but LLMs are poised to do that in any language, controlled or not. 
 
 Fluent Editor was definitely ahead of its time, but I'd be suprised to hear of anyone using it in 2024.
 
-## Reddit To the Rescue?
+### Reddit To the Rescue?
 
-While researching this post, I stumbled on a recent [[reddit entitled “Best Ontology Development Environment Tool?”|ar.reddit.semanticweb.best_ontology_development_environment_tool]]. 
+While researching this article, I stumbled on a recent “[[reddit post entitled Best Ontology Development Environment Tool?|ar.reddit.semanticweb.best_ontology_development_environment_tool]]”. [[user.daniel-bakas]] of [[ar.best-rdf-triplestore-graph-database]] fame mentioned he's looking for tools suitable for “high-impact big scale projects.” But whatever the scope, his considerations are largely the same as mine.
 
 ### Atomic 
 
-It mentioned [[prdct.atomicserver]], which implements the [[prdct.atomic-data]] spec. Atomic Data is an exciting RDF-based alternative to the conventional semantic web. I particularly love its use of [[t.cs.sd.event-sourcing]].
+One of the threads in Daniel’s post, from the creator of [[prdct.atomic-data]], [[user.joep-meindertsma]], mentioned [[prdct.atomicserver]]. 
 
-According to creator [[user.joep-meindertsma]], it “now has an ontology editor with a nice UI, even shows the UML diagram.” Sounds great, but...
+Atomic Data is an exciting RDF-based alternative to the conventional semantic web. I particularly love its use of [[t.cs.sd.event-sourcing]].
 
-I have some [[hesitations about the Atomic approach|prdct.atomic-data#thoughts]], especially in view of my [[democratized alternate realities use case|blogs.the-old-man-in-the-cave.2024-09-27-lets-reboot-the-semantic-web-with-alternate-realities]]. Primarily, it is too restrictive about being able to say anything about anything, and all data requires validation with an Atomic Schema before it’s stored on an Atomic-compatible service. I want something flexible where data can be stored in Git repositories and get forked easily.
+According to Joep, Atomic Server “now has an ontology editor with a nice UI, even shows the UML diagram.” 
+
+Sounds great, but...
+
+I have some [[hesitations about the Atomic approach|prdct.atomic-data#thoughts]], especially in view of my [[democratized alternate realities use case|blogs.the-old-man-in-the-cave.2024-09-27-lets-reboot-the-semantic-web-with-alternate-realities]]. Primarily, it is too restrictive about being able to say anything about anything. My users have to be able to pick up other peoples' content and riff on it. 
+
+Another restrictive aspect of Atomic is that all data requires validation with an Atomic Schema before it’s stored on an Atomic-compatible service. I want something flexible where data can be created by hand, stored in Git repositories, and get forked easily. 
 
 Still, I admire the ambition, love the [strategy](https://docs.atomicdata.dev/roadmap), and depending on your use case, it might work for you.
 

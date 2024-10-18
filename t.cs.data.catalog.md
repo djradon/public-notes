@@ -12,4 +12,4 @@ created: 1635713246433
 
 ## [[p.isRelated]]
 
-- [[t.cs.web.w3c.data-catalog]]
+- [[prdct.dcat-data-catalog.v2]]
