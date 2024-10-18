@@ -4,7 +4,7 @@ title: TypeDB
 desc: >-
   Composed of entity, relationship, and attribute types, as well as type
   hierarchies, roles, and rules
-updated: 1710364786782
+updated: 1729284857200
 created: 1643725570180
 ---
 
@@ -43,7 +43,7 @@ created: 1643725570180
 - 
 
 
-## [[p.hasIssue]]
+## Issues
 
 - [Run TypeDB Studio in a web browser](https://github.com/vaticle/typedb-studio/issues/118)
   - we have recently rewritten Workbase as Studio, and it is no longer an Electron app

@@ -2,7 +2,7 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1729282614757
+updated: 1729284748231
 created: 1633596039729
 ---
 
@@ -22,7 +22,7 @@ created: 1633596039729
     - subjects/objects (aka "things" or, in graph theory, [[gd.concepts.nodes]])
 - for time travel, maybe could be nice to have properties for valid datetimes
 
-## [[p.isRelated]]
+## Related
 
 - [1]: [[ar.forbes.when-graphs-collide-the-coming-merger-of-property-and-semantic-graphs]]
 - [ ] http://blog.liu.se/olafhartig/2019/01/10/position-statement-rdf-star-and-sparql-star/

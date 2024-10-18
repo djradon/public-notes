@@ -2,7 +2,7 @@
 id: rmPG8335YFX94rgmmWKpg
 title: 'RDF Triple Stores vs. Labeled Property Graphs: What’s the Difference?'
 desc: ''
-updated: 1698704342175
+updated: 1729284857189
 created: 1633884018280
 ---
 
@@ -17,6 +17,6 @@ a biased comparison of the two prevailing graph data models
 
 - relationships can be uniquely identified via
 ## [[p.hasSummaryPoints]]
-## [[p.hasIssue]]
+## Issues
 
 - `edges` are portrayed as relationships, but in an important sense, edges express part of a relationship.  

@@ -2,7 +2,7 @@
 id: yMBMF4AbVvZWuiXz9aVxN
 title: Digital Gardening
 desc: ''
-updated: 1716410094628
+updated: 1729284857204
 created: 1632835407320
 ---
 
@@ -32,7 +32,7 @@ created: 1632835407320
 - Create something that matches your style and brand quickly. 
 - Own the content, domain, and traffic.
 
-## [[p.hasIssue]]
+## Issues
 
 - takes time
 - opportunity cost
