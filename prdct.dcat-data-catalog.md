@@ -4,7 +4,7 @@ title: DCAT Data Catalog
 desc: >-
   provides RDF classes and properties to allow datasets and data services to be
   described and included in a catalog
-updated: 1729274827902
+updated: 1729277422666
 created: 1721241717863
 ---
 
@@ -38,3 +38,5 @@ intended to provide a summary indication of the temporal resolution of the data 
 
 ## References
 
+- [[prdct.dcat-data-catalog.v2]]
+- [[prdct.dcat-data-catalog.v3]]

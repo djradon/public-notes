@@ -1,8 +1,8 @@
 ---
 id: 14cgtu42xwfpwjh8gos00qr
-title: 'one kosmic step backwards, a couple shuffles forward'
-desc: ''
-updated: 1729190689266
+title: 'Kosmion Conceptual Foundations'
+desc: 'one kosmic step backwards, a couple shuffles forward'
+updated: 1729278001619
 created: 1728756937337
 ---
 

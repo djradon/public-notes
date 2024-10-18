@@ -1,6 +1,6 @@
 ---
 id: o5wcm13hu85h1xj1eg96hkr
-title: 'getting kosmion off the ground'
+title: getting kosmion off the ground
 desc: ''
 updated: 1728668577472
 created: 1728645571538
