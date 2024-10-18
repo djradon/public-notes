@@ -2,7 +2,7 @@
 id: ZvBXkgWq3edRQ7TAYBG7a
 title: Property Graphs Vs Semantic Graphs
 desc: ''
-updated: 1720208783670
+updated: 1729282614757
 created: 1633596039729
 ---
 
@@ -38,3 +38,5 @@ created: 1633596039729
 
 [^1]: https://docs.arcadedb.com/#Graph-Database
  [^2]: https://protegeproject.github.io/owl2lpg/
+
+- https://flur.ee/fluree-blog/rdf-versus-lpg/
