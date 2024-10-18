@@ -1,6 +1,6 @@
 ---
 id: joiwdd2KjBWzPf68G3vot
-title: Fluree-db
+title: Fluree
 desc: >-
   Open source immutable semantic graph database that guarantees data integrity,
   facilitates secure data sharing, and powers connected data insights.

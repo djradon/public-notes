@@ -2,11 +2,9 @@
 id: pffjx545yi3rpv85hx18wqk
 title: Progress Report
 desc: ''
-updated: 1729285795558
+updated: 1729291924967
 created: 1729285725308
 ---
-
-![](/assets/images/2024-10-08-10-10-13.png)
 
 ## Has it been two weeks already?
 
@@ -20,3 +18,5 @@ So I made some progress on a [[hot-shot foundational ontology|ko]], announcement
 ## Moving Forward
 
 I’d like this dev journal to be somewhat frequent and less engrossing (to write, that is). So I might have to lower my standards and just crank out [[some public learnings|t.edu.learning-in-public]], goddammit. Judging from my ChatGPT history, there are more than enough topics to choose from. I can save the over-polishing for my other blog, [[blogs.carpe-noctem]].
+
+![](/assets/images/2024-10-08-10-10-13.png)
