@@ -2,9 +2,11 @@
 id: h07vryk8k662pa29x609myn
 title: 'Non-Kosmion stuff'
 desc: ''
-updated: 1729104543262
+updated: 1729290699739
 created: 1729071751510
 ---
+
+- interlocutor: chatgpt4.o
 
 ##  limitations of Vocbench
 
