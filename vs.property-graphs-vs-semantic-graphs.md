@@ -36,7 +36,8 @@ created: 1633596039729
   
 ## References
 
-[^1]: https://docs.arcadedb.com/#Graph-Database
- [^2]: https://protegeproject.github.io/owl2lpg/
-
 - https://flur.ee/fluree-blog/rdf-versus-lpg/
+
+[^1]: https://docs.arcadedb.com/#Graph-Database
+[^2]: https://protegeproject.github.io/owl2lpg/
+

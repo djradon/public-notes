@@ -2,7 +2,7 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: What’s the Best Semantic Web Authoring Tool?
 desc: a grim survey of RDF data management apps
-updated: 1729284230475
+updated: 1729284497485
 created: 1729093723913
 ---
 
@@ -98,23 +98,23 @@ Still, I admire the ambition, love the [strategy](https://docs.atomicdata.dev/ro
 
 The Reddit thread mentioned a few other web-based possibilities: LinkedDataHub, Metaphactory, and Semaphore. They're more platforms than authoring tools.
 
-[[prdct.linkeddatahub]] is an impressive, web-based, open-source Knowledge Graph platform that deserves an article of its own. Its target audience includes “researchers and data scientists” and “developers and data publishers.“ It inspires you, as a developer, to base your application on it. But while it could be used for authoring RDF data, that is not its focus.
+[[prdct.linkeddatahub]] is an impressive, web-based, open-source Knowledge Graph platform that deserves an article of its own. Its target audience includes “researchers and data scientists” and “developers and data publishers.“ It inspires you, as a developer, to base your application on it. But while it could be used for authoring RDF data, that is not its focus. As an authoring too, it is probably overkill.
 
-[[prdct.metaphactory]] is similar, but not open-source. And pricing isn't cheap, [“starting from $13.03/hr or from $52,900.00/yr” on Amazon](https://aws.amazon.com/marketplace/seller-profile?id=a04eaa90-2616-469a-a304-96d35bd77641).
+[[prdct.metaphactory]] is similar, but not open-source. And pricing isn't cheap, [“starting from $13.03/hr or from $52,900.00/yr”](https://aws.amazon.com/marketplace/seller-profile?id=a04eaa90-2616-469a-a304-96d35bd77641) on AWS.
 
-[[prdct.semaphore]] is also commercial, probably expensive, and is definitely overkill.
+[[prdct.semaphore]] is probably expensive and definitely overkill.
 
 The consensus in the Reddit discussion seemed to be: if you’re comfortable using an IDE, making RDF data by hand is probably your best option.
 
 ## Anything Else?
 
-[[prdct.vocbench]] might be the best web-based alternative. You can install it locally and it seems to have caching and decent support for mixing local development with connected resources. It has options for history, validation, and undo. But it doesn’t seem to have a source editor and it has some [[other limitations|pub.question-log.2024.10.16#limitations-of-vocbench]].
+[[prdct.vocbench]] might be the best web-based option. You can install it locally and it seems to have caching and decent support for mixing local development with connected resources. It has options for history, validation, and undo. But it doesn’t seem to have a source editor and it has some [[other limitations|pub.question-log.2024.10.16#limitations-of-vocbench]].
 
 There’s also the [[prdct.open-link-structured-data-editor-osde]], which hasn’t seen an update in two years and doesn’t work with text files.
 
 [[prdct.stardog.studio]] looks slick and might fit the bill for an authoring tool if it worked with text files or even non-Stardog triple stores. I love that they have a free cloud offering though, and am forever grateful for the VSCode extension.
 
-[[prdct.Fluree]] is an inspiring take on RDF graph databases, with immutability and time travel. I keep eyeing Fluree because of its potential as a game-changing graph database. The Fluree cloud offering, [[Nexus|prdct.fluree.nexus]], has a modern GUI for data management. Like Datadog Studio, it doesn't support text files or other triple stores.
+[[prdct.Fluree-db]] is an inspiring take on RDF graph databases, with immutability and time travel. I keep eyeing Fluree because of its potential as a game-changing graph database. The Fluree cloud offering, [[Nexus|prdct.fluree.nexus]], has a modern GUI for data management. Like Datadog Studio, it doesn't support text files or other triple stores.
 
 Finally, there's [[prdct.rdf4j.workbench]]. You can enter RDF directly into an HTML &lt;textarea&gt;. 
 

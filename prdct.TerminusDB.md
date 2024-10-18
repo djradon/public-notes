@@ -6,10 +6,13 @@ desc: >-
   are JSON documents: the graph is an interconnected series of documents
 updated: 1728591509654
 created: 1637799658994
-type: "[[c.software.database.graph.rdf]]"
-had_query_language_support: ["[[prdct.graphql]]", "[[prdct.woql]]"]
-had_client_language_support: [python, javascript]
-author: "@kevin-feeny"
+had_query_language_support:
+  - '[[prdct.graphql]]'
+  - '[[prdct.woql]]'
+had_client_language_support:
+  - python
+  - javascript
+author: '@kevin-feeny'
 ---
 
 - repo: https://github.com/terminusdb/terminusdb
@@ -17,7 +20,7 @@ author: "@kevin-feeny"
 - [[p.builtWith]] [[prdct.rdf]] but evolved into a document graph db
 - [[p.similarTo]]
   - [[prdct.typedb]] but more triple/semantic-webby
-  - [[prdct.fluree]] 
+  - [[prdct.Fluree-db]] 
 - related: [[prdct.dfrnt]]
 - supports: [[prdct.graphql]] [[prdct.woql]]
 - client_support: 
