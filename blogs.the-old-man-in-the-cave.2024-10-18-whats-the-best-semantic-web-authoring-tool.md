@@ -2,13 +2,13 @@
 id: ebbj5ovrdqvao6v4mhxxb0o
 title: What’s the Best Semantic Web Authoring Tool?
 desc: a grim survey of RDF data management apps
-updated: 1729295081347
+updated: 1729315960009
 created: 1729093723913
 ---
 
 *a grim survey of RDF data management apps*
 
-So I was raring to go on a [[foundational ontology|t.km.ontology.foundational]] and accompanying example data. Let me just open my go-to RDF tools...
+So I was chomping at the bit on a [[foundational ontology|t.km.ontology.foundational]] with accompanying example data. Let me just open my go-to RDF tools...
 
 ## The Usual Suspects 
 

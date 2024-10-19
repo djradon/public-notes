@@ -2,7 +2,7 @@
 id: pffjx545yi3rpv85hx18wqk
 title: Progress Report for Subscriber
 desc: 'yes, singluar'
-updated: 1729314570519
+updated: 1729316929393
 created: 1729285725308
 ---
 
@@ -21,6 +21,6 @@ Progress might’ve been quicker but I’ve been deep in the gopher holes, inclu
 
 I’d like this dev journal to be somewhat frequent and less engrossing (to write, that is). So I might have to rein in the rumination, lower my standards, and just crank out more updates and [[public learnings|t.edu.learning-in-public]], goddammit. I can save the over-polishing for my other blog, [[blogs.carpe-noctem]].
 
-If you're curious about Kosmion, I’m posting chats with my tireless synthetic buddy [[here|ko.conversations]].
+If you're curious about Kosmion, I’m posting chats with my tireless synthetic co-conspirator [[here|ko.conversations]].
 
 ![](/assets/images/2024-10-08-10-10-13.png)
