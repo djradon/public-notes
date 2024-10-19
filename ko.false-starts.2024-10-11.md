@@ -1,8 +1,8 @@
 ---
 id: 4mertdorsdyo6uq223ssgaq
 title: 2024 10 11
-desc: ''
-updated: 1728675536675
+desc: 'too gufo'
+updated: 1729312196432
 created: 1728675519071
 ---
 
