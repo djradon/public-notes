@@ -2,7 +2,7 @@
 id: YLmAMnIoOcUUOlbXQGNFl
 title: Dendron
 desc: ''
-updated: 1729193263416
+updated: 1730641078283
 created: 1631142984146
 similar: "[[prdct.foam]]"
 ---
@@ -22,6 +22,7 @@ similar: "[[prdct.foam]]"
   - https://docs.dendron.so/notes/PgwAXFfotfgpFVqHQRlBl/
 - customizing the header is also apparently an option
 - for "files to include", vaults have to be specified as, e.g. ./public-notes
+- `rm -rf .next && rm -rf docs; cd public-notes; git pull; cd ..; dendron publish export --target github --yes; git add *;`
   
 
 ## Resources
