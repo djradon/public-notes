@@ -2,7 +2,7 @@
 id: onf6e2kcaralhmgleu7k8ys
 title: Summary Un Asserted
 desc: ''
-updated: 1725998306307
+updated: 1729475901159
 created: 1720553570464
 ---
 
@@ -232,7 +232,7 @@ On Tue, Jul 9, 2024 at 4:50 PM Thomas Lörtsch <tl@rat.io> wrote:
 > >>      ]
 > >>      rdf12:reifies rdfs:range rdf:Statement .    # axiomatic triple
 > >>
-> >> An instantiation via rdf12:instantiates OTOH does indeed assert the statement it annotates, in addition to providing an identifier to annotate that assertion. To make the connection between statement and annotation direct and solid, but not break the set semantics of RDF, the model and semantics mimick the singleton property approach. A mapping to RDF 1.1 clarifies that:
+> >> An instantiation via rdf12:instantiates OTOH does indeed assert the statement it annotates, in addition to providing an identifier to annotate that assertion. To make the connection between statement and annotation direct and solid, but not break the set semantics of RDF, the model and semantics mimick the [[singleton property|t.cs.semantic-web.singleton-property]] approach. A mapping to RDF 1.1 clarifies that:
 > >>
 > >>     :i_1 rdf12:instantiates <<( :s :p :o )>> .
 > >>

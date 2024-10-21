@@ -2,7 +2,7 @@
 id: 1c42tiomb7vf83bkch5i1b9
 title: 'verbs vs relators'
 desc: ''
-updated: 1728322395322
+updated: 1729469859527
 created: 1728318054728
 ---
 
@@ -237,7 +237,7 @@ There is some prior art and related research in using **RDF** to represent knowl
    - While not directly creating instances of predicates, named graphs can provide a mechanism for **grouping statements** and treating the entire collection as an entity for further description, which aligns with a "predicate-instance" type of approach for contextual information.
 
 ### 4. **Singleton Property Pattern**:
-   - The **singleton property pattern** is another approach that deals with adding metadata to a statement by creating a **unique property** for each instance of a triple.
+   - The **[[singleton property|t.cs.semantic-web.singleton-property]] pattern** is another approach that deals with adding metadata to a statement by creating a **unique property** for each instance of a triple.
    - Instead of using a generic predicate, a **unique predicate** is created as a subclass or specialization of the original predicate, allowing you to make specific statements about that individual property.
    - This can be thought of as treating each occurrence of a predicate in a particular statement as a **distinct instance** of that predicate.
 

@@ -2,12 +2,13 @@
 id: ln6efm5dgf1lqtozblp35bk
 title: Sparql
 desc: ''
-updated: 1726178933111
+updated: 1729468399435
 created: 1702449433891
 ---
 
 ## Features
 
+-  SPARQL, the standard query language for RDF graphs, uses CWA (as do all common query languages). ^sjsxjl2oyczk
 - BGP (Basic Graph Pattern) Matching refers to the process of finding matching sets of triples (subject-predicate-object) in an RDF dataset based on a basic graph pattern specified in a SPARQL query.
 Understanding BGP:
     - A Basic Graph Pattern (BGP) is essentially a collection of triple patterns.

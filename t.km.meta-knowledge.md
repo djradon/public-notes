@@ -2,15 +2,16 @@
 id: DKUhnvxvR2Z79tT1EgdDj
 title: Meta Knowledge
 desc: ''
-updated: 1631400235592
+updated: 1729475856576
 created: 1631327714703
 ---
 
+- related: [[t.cs.semantic-web.singleton-property]]
 
 
 ## Metaknowledge
 
-from [Don’t Like RDF Reification? Making Statements about Statements Using Singleton Property](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4350149/)
+from [[ar.don-t-like-rdf-reification-making-statements-about-statements-using-singleton-property]]
 
 ```
 ### Table 1

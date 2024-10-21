@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1728998485207
+updated: 1729469415674
 created: 1711033114556
 ---
 
@@ -23,13 +23,16 @@ created: 1711033114556
 
 ## Highlights
 
+- proposals of temporal extensions to RDF reported in the
+literatures mostly use RDF reification explicitly or implicitly
+
 ### Instantiating-Identifying Concept/Relationship (IIR)
 
 In IIR models, a concept or relationship is reified and further temporalized. Either such relationship is abstracted as a new object, or a concept is viewed as four dimensional and instantiated to have temporal extents. Singleton Property converts each relationship to be universally unique. 4D fluents use concepts that view each resource as a perdurant. Fluents represent properties that change over time
 
 #### Singleton Property
 
-The formal semantics of the singleton property is derived from the standard RDF and RDFS semantics with the additional semantics extension for the vocabulary rdf:singletonPropertyOf. The singleton property gives rises to three cases of query patterns: data, metadata and mixed patterns which SPARQL supports. 
+The formal semantics of the [[singleton property|t.cs.semantic-web.singleton-property]] is derived from the standard RDF and RDFS semantics with the additional semantics extension for the vocabulary rdf:singletonPropertyOf. The singleton property gives rises to three cases of query patterns: data, metadata and mixed patterns which SPARQL supports. 
 
 #### 4D Fluents
 

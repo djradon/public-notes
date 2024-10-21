@@ -1,8 +1,8 @@
 ---
 id: ahbj9ejugov8rjiywj5qqc8
-title: Shacl
+title: SHACL
 desc: 'designed for validating RDF data against a set of constraints (shapes)'
-updated: 1722756611535
+updated: 1729468833489
 created: 1706306106639
 ---
 
@@ -20,7 +20,7 @@ created: 1706306106639
 
 ## Features
 
-- 
+- "SHACL uses CWA in its reasoning" ^6uscvziiubke
 
 - "SHACL uses RDFS subclassing mechanism. When you create SHACL models you define classes and more specific subclasses. Additionally, you can separate Node Shapes from classes to define application specific views.Take a look at [this blog](https://www.topquadrant.com/classes-and-node-shapes-when-to-separate/) to understand differences between classes and node shapes... With SHACL, you can deactivate constraints that you don’t need or can’t agree with. This is done declaratively, using the standard so it is unambiguously clear what aspects of the models you are using and what aspects you are not using."
 - "SHACL is a semantic constraint language, which is quite useful as a guard for updates to a triple store. Because SHACL is less concerned with meaning and more concerned with structure, many object-oriented ontologists prefer it to OWL for defining their classes."
@@ -64,3 +64,4 @@ created: 1706306106639
 - [[ar.topquadrant.why-i-use-shacl-for-defining-ontology-models]]
 - [[ar.hackernews.semantic-web-is-like-the-guy-that-tells-everyone-that-he-is-an-asshole]]
 - [[ar.a-formal-approach-for-customization-of-schema-org-based-on-shacl]]
+- [[ar.linkedin.the-open-world-assumption-in-modeling-what-does-it-mean-to-you]]

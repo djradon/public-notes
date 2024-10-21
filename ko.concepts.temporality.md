@@ -2,7 +2,7 @@
 id: gevpci170z4xpynl0eyhkhf
 title: Temporality
 desc: ''
-updated: 1723214858616
+updated: 1729468979883
 created: 1722876821821
 ---
 
@@ -68,3 +68,10 @@ created: 1722876821821
 - might be helpful to differentiate between corrections and updates, but that line is very thin and unstable, 
   - e.g. in a role-playing experience platform where in-world facts get bent/corrected and truth is more of a "what we decided worked best in the narrative"
   - i wanted to say abstractions are always true, but what about the case of corrections
+
+
+## Prior Art
+
+### 
+
+![[ar.valid-time-rdf#instantiating-identifying-conceptrelationship-iir]]
