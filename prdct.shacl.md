@@ -1,7 +1,7 @@
 ---
 id: ahbj9ejugov8rjiywj5qqc8
 title: SHACL
-desc: 'designed for validating RDF data against a set of constraints (shapes)'
+desc: designed for validating RDF data against a set of constraints (shapes)
 updated: 1729468833489
 created: 1706306106639
 ---
@@ -32,7 +32,7 @@ created: 1706306106639
 
 - https://archive.topquadrant.com/edg-ontologies-overview/
   - "If a group of properties is reusable across assets that are not subclasses of each other (e.g., enterprise, technical and data assets are not subclasses of each other), EDG ontologies define an aspect class to hold or comprise this group of properties."
-  - mentions [[t.cs.semantic-web.aspect-classes]]
+  - mentions [[t.cs.semantic-web.class.aspect]]
 
 ## Constraint Types
 

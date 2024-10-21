@@ -2,9 +2,11 @@
 id: 64ugzw02qgdm4umxjzj2mv1
 title: Multi-Level Theory
 desc: ''
-updated: 1727674817873
+updated: 1729505988580
 created: 1724441343758
 ---
+
+- similar: [[t.cs.semantic-web.class.class-as-values]]
 
 ## Implementations
 

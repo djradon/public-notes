@@ -2,9 +2,11 @@
 id: aqlimlaytofoqkt8f23z9cn
 title: Relator
 desc: 'an intermediary entity that connects or relates other entities through specific relationships'
-updated: 1728695809063
+updated: 1729504763577
 created: 1721858229634
 ---
+
+- aka: [[Relationship to Entity Conversion|ar.valid-time-rdf#relationship-to-entity-conversion-rec]]
 
 ## Features
 

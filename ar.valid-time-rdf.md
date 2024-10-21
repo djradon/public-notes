@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1729469415674
+updated: 1729505154035
 created: 1711033114556
 ---
 
@@ -26,7 +26,11 @@ created: 1711033114556
 - proposals of temporal extensions to RDF reported in the
 literatures mostly use RDF reification explicitly or implicitly
 
-### Instantiating-Identifying Concept/Relationship (IIR)
+### Implicit Reification Based Temporal Model
+
+implicit reification based models use different types of abstraction for handling reification. They do not employ reification vocabularies of RDF specifications. Two subcategories follow.
+
+#### Instantiating-Identifying Concept/Relationship (IIR)
 
 In IIR models, a concept or relationship is reified and further temporalized. Either such relationship is abstracted as a new object, or a concept is viewed as four dimensional and instantiated to have temporal extents. Singleton Property converts each relationship to be universally unique. 4D fluents use concepts that view each resource as a perdurant. Fluents represent properties that change over time
 
@@ -52,6 +56,33 @@ The formal semantics of the [[singleton property|t.cs.semantic-web.singleton-pro
 #### Temporal Web Ontology Language
 
 - [[prdct.owl.towl]]
+
+### Relationship to Entity Conversion (REC)
+
+In REC models, a relationship is transformed to a composite entity. The transformed entity comes in two forms: a new entity that implicitly reifies the original triple, or an abstract object that becomes a term for further use. As an example of REC models, N-ary relations provide a main modeling concept: a triple is objectified as a new entity and can further be associated to properties, such as time.
+
+#### N-ary relations
+
+In principle, the N-ary relation is a generalization of reification. For each N-ary relation, a new class with an instance is introduced for it as if the relation is objectified. Further property assertions can be made with respect to the newly introduced instance. Figure 3.8 gives the running example in N-ary relations.
+
+![](/assets/images/2024-10-21-03-01-13.png)
+
+The resource :enrolled1 in Figure 3.8 is introduced as a new instance encapsulating both the course name value, SW, and its valid time interval through two properties, :hasCourse and :hasVT. The relation (:John, :enrolled, :SW) is converted to an entity class :Enrollment. The property :enrolled is overloaded, so its range becomes the newly introduced class :Enrollment. Adding time to the original triple, i.e., (John, enrolled, SW), requires three more triples.
+
+N-ary relation approach does not require extension to RDF, RDFS or OWL vocabularies. It simply converts relationships to entities that encapsulate properties. The semantics for N-ary relation approach is based on RDF and RDFS semantics. In Figure 3.8, the new object :enrolled1 may also be represented by a blank node. A blank node does not have any meaning, but acts like a wrapper for grouping related objects.
+
+```sparql
+SELECT ?ti ?tf
+WHERE {
+:John :enrolled ?e.
+?e rdf:type :Enrollment.
+?e :hasCourse :SW.
+?e :hasVT ?i.
+?i :hasBeginning ?ti.
+?i :hasFinish ?tf.
+}
+```
+While N-ary relation approach can be applied to OWL, it would incur overheads. For instance, multiple inverse properties are needed for a N-ary relation. Moreover, the use of cardinality re- strictions becomes limiting on some roles that depend on the class of some other roles [^53].
 
 #### Valid-Time Temporal Model
 
@@ -107,7 +138,7 @@ time of the relationship and two participating entities."
 ### Notations, Namespace, and Time Domain
 
 - vtrdf: and vtrdfs: refer to the namespace of VTRDF vocabulary and VTRDF Schema vocabulary
-- While the symbol # is used to denote an additional part of the primary resource in the standard RDF model, VTRDF requires a second fragment identifier to accommodate the valid time dimen- sion.
+- While the symbol # is used to denote an additional part of the primary resource in the standard RDF model, VTRDF requires a second fragment identifier to accommodate the valid time dimension.
   - t.2024.07.24.11 with slash IRIs, could work too
   - The symbol • is used as a delimiter that separates the first fragment identifier from the valid
 - T is the set of time points with a linear order less-than (<). For simplicity, we use the standard U.S. calendar dates as the unit of time points in the format of month/day/year, such as 1/10/1995
@@ -210,4 +241,8 @@ A Valid Time RDF triple (st, pt, ot) satisfies the temporal constraint, called T
 ### VTRDF Vocabulary
 
 - VTRDF Vocabulary is formulated as layers and RDF-compliant.
-- 
+
+
+## References
+
+[^53]: [[ar.defining-n-ary-relations-on-the-semantic-web]]

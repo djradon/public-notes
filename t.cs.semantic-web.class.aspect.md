@@ -2,7 +2,7 @@
 id: zb0xkpayej27q9l0n7vp5m6
 title: Aspect Classes
 desc: ''
-updated: 1720731154458
+updated: 1729506043898
 created: 1720730123207
 ---
 
