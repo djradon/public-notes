@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1729505154035
+updated: 1729549615478
 created: 1711033114556
 ---
 
@@ -49,7 +49,7 @@ The formal semantics of the [[singleton property|t.cs.semantic-web.singleton-pro
 
 #### Extended 4D Fluents 
 
-- [[Batsakis|user.sotiris-batsakis]] et al. extended 4D Fluents model to incorporate qualitative temporal relations that have unknown temporal information... Semantics of the extended 4D Fluents model is based on the original 4D Fluents model, with the additional temporal semantics needed for qualitative temporal relations.
+- [[Batsakis|user.sotiris-batsakis]] et al. [[extended 4D Fluents|ar.representing-temporal-knowledge-in-the-semantic-web-the-extended-4d-fluents-approach]] model to incorporate qualitative temporal relations that have unknown temporal information... Semantics of the extended 4D Fluents model is based on the original 4D Fluents model, with the additional temporal semantics needed for qualitative temporal relations.
 
 ![](/assets/images/2024-04-01-11-24-36.png)
 

@@ -1,8 +1,8 @@
 ---
 id: i12uys2wcw5982dpnp7d2o6
 title: Rule of Fun
-desc: ''
-updated: 1727174171600
+desc: 'Games must be fun to play.'
+updated: 1729611003253
 created: 1671536578791
 ---
 

@@ -2,12 +2,13 @@
 id: tq4knxb7t4ln11ktfuwiye3
 title: Defining N-ary Relations on the Semantic Web
 desc: ''
-updated: 1729505641422
+updated: 1729540848235
 created: 1729505155337
 ---
 
 - https://www.w3.org/TR/swbp-n-aryRelations/
 - authors: @natasha-noy @alan-rector @pat-hayes @christopher-welty
+- published-by: [[org.w3c.semantic-web-best-practices-working-group-swbp]]
 - related: [[ar.representing-classes-as-property-values-on-the-semantic-web]]
 
 ## Abstract
@@ -22,4 +23,5 @@ Issue 2: If instances of properties can link only two individuals, how do we rep
 
 Issue 3: If instances of properties can link only two individuals, how do we represent relations in which one of the participants is an ordered list of individuals rather than a single individual?
 
-### 
+### Pattern 1: Introducing a new class for a relation
+

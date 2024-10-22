@@ -2,7 +2,7 @@
 id: nnaga3qaq8stv4all4i32gp
 title: Hash Vs Slash
 desc: ''
-updated: 1727809265814
+updated: 1729508309521
 created: 1721255689434
 ---
 
@@ -23,3 +23,4 @@ created: 1721255689434
 - https://www.w3.org/wiki/HashVsSlash
 - https://triplydb.com/how-to-model/-/stories/how-to-model-iris
 - [[ar.best-practices-for-implementing-fair-vocabularies-and-ontologies-on-the-web]]
+- [[ar.best-practice-recipes-for-publishing-rdf-vocabularies]]

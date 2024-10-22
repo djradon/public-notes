@@ -2,13 +2,14 @@
 id: 7gdjffs2qd4lj0b7v7ei4vf
 title: Representing Classes as Property Values on the Semantic Web
 desc: ''
-updated: 1729507918351
+updated: 1729508187523
 created: 1729505642229
 ---
 
 - https://www.w3.org/TR/swbp-classes-as-values/
 - authors: @natasha-noy @michael-uschold @christopher-welty
 - topics: [[t.km.ontology.multi-level-theory]] [[t.cs.semantic-web.class.class-as-values]]
+- published-by: [[org.w3c.semantic-web-best-practices-working-group-swbp]]
 
 ## Abstract
 
