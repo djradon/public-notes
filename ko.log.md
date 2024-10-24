@@ -88,4 +88,13 @@ created: 1723147341720
 - it's going to be so great, you'll want to use quasi-immutable, facet-oriented RDF for your ontologies too.
 - make two versions avail, one with owl:includes, or rather kosm:includes means the same thing 
 - everything is a data catalog, or rather, every decent (kosmethodology-compliant entity) is
-- 
+
+
+## t.2024.10.24.06
+
+- maybe a "semantic repo" is the top-level concept, with:
+  - ns/entity
+  - ns/graph
+  - ns/dataset
+  - ns/catalog
+  - 
