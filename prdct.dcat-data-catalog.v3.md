@@ -13,6 +13,12 @@ created: 1721429380319
 - In DCAT 3 (Data Catalog Vocabulary version 3), versioning is managed using properties that allow you to describe different versions of datasets, distributions, and other cataloged resources. Specifically, DCAT 3 introduces the `dcterms:hasVersion`, `dcterms:isVersionOf`, and `adms:versionNotes` properties to indicate relationships between versions, and to describe changes across versions.
 - This enables users to track the evolution of datasets and maintain a clear history of modifications, ensuring that consumers of the data are aware of its version history and any updates that have occurred.
 
+### Dataset Series
+
+- DCAT makes dataset series first class citizens of data catalogs by minting a new class dcat:DatasetSeries, defined as a subclass of dcat:Dataset. The datasets are linked to the dataset series by using the property dcat:inSeries. Note that a dataset series can also be hierarchical, and a dataset series can be a member of another dataset series.
+- see [[community.github.w3c.dxwg.issues.868]]
+- 
+
 ## Example
 
 ```turtle

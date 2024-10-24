@@ -97,4 +97,9 @@ created: 1723147341720
   - ns/graph
   - ns/dataset
   - ns/catalog
-  - 
+
+## t.2024.10.24.11
+
+- maybe a dataset defines a graph of exportable data... stuff that's not about the dataset (i.e., no metadata). This is the "metadata lives in the default graph" pattern
+- maybe differentiate between EssentialsCatalog and RelevantCatalog, or just have the catalogs specify 
+- 
