@@ -2,7 +2,7 @@
 id: imx167fidgm5kg7qht8lkh2
 title: Kosmion Log
 desc: ''
-updated: 1729047676451
+updated: 1729804076161
 created: 1723147341720
 ---
 
@@ -102,4 +102,8 @@ created: 1723147341720
 
 - maybe a dataset defines a graph of exportable data... stuff that's not about the dataset (i.e., no metadata). This is the "metadata lives in the default graph" pattern
 - maybe differentiate between EssentialsCatalog and RelevantCatalog, or just have the catalogs specify 
-- 
+
+## t.2024.10.24.14
+
+- maybe need a ReverseList, 
+  - would it work with last and rest?

@@ -2,7 +2,7 @@
 id: lsqn84g8faksg2jxvbj9e1f
 title: JSON-AD
 desc: 'atomic data'
-updated: 1729151010579
+updated: 1729803229597
 created: 1710789774943
 ---
 
@@ -17,7 +17,7 @@ created: 1710789774943
 
 -   Very **low parsing cost / high performance**. It can be parsed as plain JSON, which means that many efficient and performant parsers are available.
 -   **Easy to understand**. Since it supports only a subset of RDF, it doesn't suffer from some of the [quirks of RDF](https://docs.atomicdata.dev/interoperability/rdf.html) such as predicate-non-uniqueness
--   It supports **native JSON arrays** as collections, which prevents the complexities of dealing with [ordered data in RDF](https://ontola.io/blog/ordered-data-in-rdf/).
+-   It supports **native JSON arrays** as collections, which prevents the complexities of dealing with [ordered data in RDF](https://ontola.io/blog/ordered-data-in-rdf/). 
     -   t.2024.05.27.12 but if you can't represent ordered colelctions easily in RDF, it's not a strict subset
 -   **Type safety**. Each key in a JSON-AD object should resolve to a [Property](https://atomicdata.dev/classes/Property), which describes [datatype](https://atomicdata.dev/properties/datatype) and [description](https://atomicdata.dev/properties/description).
 

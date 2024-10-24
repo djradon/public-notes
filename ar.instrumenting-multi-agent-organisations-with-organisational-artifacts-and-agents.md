@@ -1,14 +1,14 @@
 ---
 id: q9aopy11berm8bok7gyt8rr
 title: >-
-  Instrumenting Multi Agent Organisations with Organisational Artifacts and
-  Agents
+  Instrumenting Multi Agent Organisations with Organisational Artifacts and Agents
 desc: ''
-updated: 1712857950946
+updated: 1729800769111
 created: 1712857770725
 ---
 
 - https://www.researchgate.net/publication/220660654_Instrumenting_multi-agent_organisations_with_organisational_artifacts_and_agents_Giving_the_organisational_power_back_to_the_agents
+- topics: [[t.cs.multi-agent-system]]
 
 ## Abstract
 
@@ -20,3 +20,6 @@ We are thus considering two main mechanisms to implement norm in a MAS:2
   – Regimentation is a mechanism that simply prevents the agents to perform actions that are forbidden by a norm. More precisely, we regiment some actions in order to preserve important features of the system (e.g. the access to the computers).
   – Enforcement is a mechanism which is applied after the detection of the violation of some norm. While regimentation is a preventive mechanism, enforcement is a reactive one. From the point of view of the agents, they may decide to obey or not the norm according to their local view of the organisation. From a system point of view, the fulfilled/unfulfilled of the norms should be detected, evaluated as a violation or not, and then judged as worth of sanction/reward or not.
 
+### 3. The Moise+ Organisational Model and Its Artifacts
+
+- proposes an organisational modelling language that explic- itly decomposes the specification of organisation into structural, functional, and [[deontic|t.phil.deontology]] dimensions

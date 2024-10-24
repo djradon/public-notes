@@ -1,8 +1,8 @@
 ---
 id: 34q02enbuq3z6r04y6s07o0
-title: Type Vocabulary Dcmityp
+title: Type Vocabulary DCMITYPE
 desc: ''
-updated: 1729782249733
+updated: 1729802395267
 created: 1729782249733
 ---
 

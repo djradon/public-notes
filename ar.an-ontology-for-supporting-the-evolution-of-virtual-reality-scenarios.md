@@ -2,13 +2,14 @@
 id: sogw5ltzq6qgctlvh2xw4yp
 title: An Ontology for Supporting the Evolution of Virtual Reality Scenarios
 desc: ''
-updated: 1724871406904
+updated: 1729801062639
 created: 1712858553876
 ---
 
 - https://cgi.csc.liv.ac.uk/~valli/OWLED2015/OWLED_2015_paper_5.pdf
-- related: [[prdct.cojack]]
+- related: [[prdct.cojack]] [[prdct.presto-ontology]]
 
+![](/assets/images/2024-10-24-13-17-35.png)
 
 ## Abstract
 

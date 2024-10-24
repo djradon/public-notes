@@ -2,9 +2,12 @@
 id: n2ln43dertdv5hpgd6lyb4v
 title: Event Streaming
 desc: 'you need to implement event streaming into your systems to capture, integrate, access, and analyze data in real-time.'
-updated: 1718518454353
+updated: 1729801247379
 created: 1674620815689
 ---
+
+- https://thenewstack.io/choosing-between-message-queues-and-event-streams/
+- topics: [[t.cs.sd.messaging.queues]] [[t.cs.sd.architecture.event-streaming]]
 
 ## Highlights
 

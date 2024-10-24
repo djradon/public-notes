@@ -2,11 +2,12 @@
 id: falfwb66pelex063ht0vx8t
 title: Event Driven Programming in Simulation Games
 desc: ''
-updated: 1715629033830
+updated: 1729801187240
 created: 1715628898026
 ---
 
 - https://krisnamughni24.medium.com/event-driven-programming-in-simulation-games-16cbd266680b
+- topics: [[t.cs.sd.architecture.event-driven]] [[c.game.simulation]]
 
 ## Thoughts
 

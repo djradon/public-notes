@@ -2,7 +2,7 @@
 id: 54xs03d1txghek4nv0fwqo2
 title: DCATv3
 desc: ''
-updated: 1729277392919
+updated: 1729812046941
 created: 1721429380319
 ---
 
@@ -16,8 +16,9 @@ created: 1721429380319
 ### Dataset Series
 
 - DCAT makes dataset series first class citizens of data catalogs by minting a new class dcat:DatasetSeries, defined as a subclass of dcat:Dataset. The datasets are linked to the dataset series by using the property dcat:inSeries. Note that a dataset series can also be hierarchical, and a dataset series can be a member of another dataset series.
-- see [[community.github.w3c.dxwg.issues.868]]
-- 
+- see [[community.github.w3c.dxwg.issues.868]] and [[community.github.w3c.dxwg.issues.1409-using-dcat-next-and-dcat-version-in-dataseries]]
+
+#### 
 
 ## Example
 
