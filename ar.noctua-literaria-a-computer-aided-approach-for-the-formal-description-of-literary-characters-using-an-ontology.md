@@ -4,7 +4,7 @@ title: >-
   Noctua Literaria a Computer Aided Approach for the Formal Description of
   Literary Characters Using an Ontology
 desc: ''
-updated: 1724369188581
+updated: 1729886970587
 created: 1724362626209
 ---
 
@@ -12,7 +12,7 @@ created: 1724362626209
   - https://pub.uni-bielefeld.de/download/2301795/2301798/diss_08_06_08.pdf
 - author: @amelie-zollner-weber
 - mentions: [[prdct.racer]]
-- topices: [[t.humanities.digital]] [[t.storytelling.character]]
+- topics: [[t.humanities.digital]] [[t.storytelling.character]] [[t.storytelling]]
 
 ## Abstract
 
@@ -84,3 +84,10 @@ to similar aspects of human beings
   - For example, one would have to spread character actions over a lot of categories, but a common accepted division into verbal and non-verbal actions of characters like proposed by Nieragden in section 2.4, would not be presented by such an ontology.
     - t.2024.08.22.16 but it could be the basis
 - general ontologies don't support the specific tasks and problems of the humanities
+
+### Chapter 4
+
+#### 4.1 Modelling Theories of Literature Studies by an Ontology
+
+- According to [[user.fotis-jannidis]]’s work, a character constitutes as a mental representation (cf. section 2.3) whereas [[user.goran-nieragden]] describes a categorisation for the description of literary characters (cf. section 2.4). [[user.jurij-lotman]] instead, forms characters as a bunch of features (cf. section 2.2)
+- Although these three theories developed in literature studies seem to be different, they will be merged in this approach to form a formal description of characters.

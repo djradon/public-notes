@@ -2,7 +2,7 @@
 id: imx167fidgm5kg7qht8lkh2
 title: Kosmion Log
 desc: ''
-updated: 1729804076161
+updated: 1729887692059
 created: 1723147341720
 ---
 
@@ -107,3 +107,7 @@ created: 1723147341720
 
 - maybe need a ReverseList, 
   - would it work with last and rest?
+
+## t.2024.10.25.13
+
+- a rdf triple (or relator-atom) is not necessarily an assertion, it is just a configuration of content units or at best a statement. 

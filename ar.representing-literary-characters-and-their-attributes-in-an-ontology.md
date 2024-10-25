@@ -2,12 +2,12 @@
 id: 3soxx69xxsbswz4gkhc4esq
 title: Representing Literary Characters and Their Attributes in an Ontology
 desc: ''
-updated: 1724366802350
+updated: 1729887331964
 created: 1724357577067
 ---
 
 - authors: @janna-hastings @stefan-shulz
-- topics: [[t.humanities.digital]] [[t.km.ontology]]
+- topics: [[t.humanities.digital]] [[t.km.ontology]] [[t.storytelling.character]] [[prdct.basic-formal-ontology]]
 
 ## Abstract
 
@@ -16,8 +16,12 @@ The digital humanities is a burgeoning field of research, bringing computational
 
 ## Highlights
 
+### 1. Introduction
+
 - Ontologies and ontology- based terminologies and indexing vocabularies are widely used throughout the natural sciences, medical and engineering domains [2], but they have not yet seen adoption to the same extent in the social sciences and humanities. One of the possible reasons for this is that the types of entities and relations the social sciences and humanities deal with are more complex, controversial and open to subjective interpretations.
 - In this contribution, we attempt to address the question of how best to represent fictional entities and their attributes. We consider it undesirable to create a parallel hierarchy for fictional attributes which mirrors the hierarchy of attributes which real people can have and are the subject of ontologies in e.g. behavioural science (fictional age vs age as an attribute of people), but we also consider it undesirable to accidentally entail bizarre claims that cross over between the fictional and the real worlds.
+
+
 
 ## References
 
