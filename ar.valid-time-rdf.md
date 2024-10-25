@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1729848430555
+updated: 1729889298589
 created: 1711033114556
 ---
 
@@ -82,7 +82,7 @@ WHERE {?ts1 :temporalPartOf :John.
 
 ### Relationship to Entity Conversion (REC)
 
-In REC models, a relationship is transformed to a composite entity. The transformed entity comes in two forms: a new entity that implicitly reifies the original triple, or an abstract object that becomes a term for further use. As an example of REC models, N-ary relations provide a main modeling concept: a triple is objectified as a new entity and can further be associated to properties, such as time.
+In [[REC|t.cs.semantic-web.relationship-to-entity-conversion]] models, a relationship is transformed to a composite entity. The transformed entity comes in two forms: a new entity that implicitly reifies the original triple, or an abstract object that becomes a term for further use. As an example of REC models, N-ary relations provide a main modeling concept: a triple is objectified as a new entity and can further be associated to properties, such as time.
 
 #### N-ary relations
 
@@ -105,7 +105,7 @@ WHERE {
 ?i :hasFinish ?tf.
 }
 ```
-While N-ary relation approach can be applied to OWL, it would incur overheads. For instance, multiple inverse properties are needed for a N-ary relation. Moreover, the use of cardinality re- strictions becomes limiting on some roles that depend on the class of some other roles [^53].
+While N-ary relation approach can be applied to OWL, it would incur overheads. For instance, multiple inverse properties are needed for a N-ary relation. Moreover, the use of cardinality restrictions becomes limiting on some roles that depend on the class of some other roles [^53]. ^v79ztcpa0633
 
 #### Valid-Time Temporal Model
 

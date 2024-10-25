@@ -2,13 +2,14 @@
 id: b2cfxfrvhoqezasf2xm2gel
 title: Representing Narratives in Digital Libraries the Narrative Ontology
 desc: ''
-updated: 1724869593824
+updated: 1729890757735
 created: 1724260420812
 ---
 
 - https://www.semantic-web-journal.net/content/representing-narratives-digital-libraries-narrative-ontology-1
 - authors: @carlo-meghini @valentina-bartalesi @daniele-metilli
 - related: [[prdct.narrative-ontology-nont]] [[t.storytelling.narratology]]
+- topics: [[t.storytelling.narratology.narrative-engineering]]
 
 ## Abstract
 

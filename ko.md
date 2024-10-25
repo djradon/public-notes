@@ -2,7 +2,7 @@
 id: c5qcd8cate4ic318mkmmkn0
 title: Kosmion 
 desc: 'a new approach to the semantic web'
-updated: 1729888519907
+updated: 1729889472632
 created: 1729094754216
 ---
 
@@ -12,7 +12,7 @@ The Kosmion ontology is designed with a human-first orientation and a domain-fir
 
 But if you're already using an upper ontology, it can work with that too.
       
-Kosmion is intended to be a utilitarian foundational ontology, advocating for “relator instances” as a reification-like alternative to traditional properties/relations. This approach allows:
+Kosmion is intended to be a utilitarian foundational ontology, advocating for “relator-atoms,” also known as [[t.cs.semantic-web.relationship-to-entity-conversion]], as an alternative to traditional properties/relations. This approach allows:
 
 - relevant facets instead of instantiating traditional classes.
 - n-ary relations, including unary relations

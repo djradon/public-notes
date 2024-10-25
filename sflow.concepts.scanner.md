@@ -2,11 +2,11 @@
 id: ftgxb98eadjykrlmm9dpnfo
 title: Scanner
 desc: ''
-updated: 1729881258284
+updated: 1729890518014
 created: 1729880605012
 ---
 
-- scans dataset sources, which can be:
+- scans datasets and dataset distributions, which can be :
   - local folders
   - git repos
   - compliant URLs

@@ -1,12 +1,15 @@
 ---
 id: ggw3ek46ptgebsgxgihr1dh
 title: Semantic Flow
-desc: a workflow and tooling for publishing semantic data
-updated: 1729888194856
+desc: workflow and tooling for publishing semantic data
+updated: 1729890413528
 created: 1716959415785
 ---
 
+## Features
 
+- use github or gitlab to manage namespaces and mint IRIs
+- scan [[IRI sources|sflow.concepts.namespace-repo]]
 
 ## Requirements
 
@@ -16,7 +19,8 @@ created: 1716959415785
 
 ## Relationship with Kosmion
 
-- kosmion is a relator-based
+- [[ko]] is a unorthodox, relator-based foundational ontology developed side-by-side with Semantic Flow. 
+- hopefully Semantic Flow has no dependencies on Kosmion and can be used for any kind of RDF data
 
 
 ## References

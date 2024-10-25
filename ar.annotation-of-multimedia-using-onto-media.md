@@ -2,12 +2,12 @@
 id: 6depmxxn1wui5t4tpdavwkb
 title: Annotation of Multimedia Using onto Media
 desc: ''
-updated: 1727985418002
+updated: 1729891064005
 created: 1727984428790
 ---
 
 - https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=13a85dd949eefca66c4f6b69187b381a5b5ffd0d
-- authors: @michael-jewell @faith-lawrence @m-schraefel
+- authors: @michael-jewell @faith-lawrence @monica-schraefel
 - mentions: [[prdct.fiction-finder]] [[prdct.screenplays-in-xml-six]]
 
 ## Abstract
