@@ -2,7 +2,7 @@
 id: o99h4umwihpwctxh1uwle9u
 title: Valid Time RDF
 desc: 'VTRDF and VT-SPARQL,'
-updated: 1729549615478
+updated: 1729848430555
 created: 1711033114556
 ---
 
@@ -42,10 +42,31 @@ The formal semantics of the [[singleton property|t.cs.semantic-web.singleton-pro
 
 - Perdurantism is a philosophical theory of persistence and identity [34], and it is closely related to four dimensionalism. In the four dimensional view, an object that persists through time has distinct temporal parts at every time instant through its existence in time. Furthermore, each persisting object can be considered a four dimensional spacetime worm that stretches across space-time. Slicing the worm at a specific time interval or instant of the time dimension yields a temporal part.
   - t.2024.03.21.08: and endurant 
-- Fluent is a component of [[t.phil.logic.situational-calculus]]
+  
 ![[t.phil.logic.situational-calculus#^vmhpi7mrf12z]]
+- In 4D Fluents model, fluents are properties that change over time [73]. These properties are special cases in that both the domain and range of them are temporal parts of the corresponding entities. TemporalPart is the main class for converting regular entities to 4D spacetime worm ones. OWL-Time ontology of [37] is used as time domain in 4D Fluents model. Particularly, a class TimeInterval derived from the equivalent class of OWL-Time is used for all temporal terms.
 ![](/assets/images/2024-04-01-11-15-48.png)
+- In Figure 3.5, individuals :John and :SW are two 4D entities. Each entity has temporal parts,
+:John@i1 and :SW@i1 respectively. The property :enrolled is transformed to a fluent whose domain and range are both temporal parts. Each temporal part is associated with a specific temporal extent , i.e., time interval, that denotes its valid time. One fluent property requires two extra ob- jects, i.e., temporal parts, and two properties, in contrast to reification, that uses one extra object and four properties as illustrated in Figure 2.10. 
+
+##### Advantages
+
 - "OWL inverse operator and cardinality constraints are available and standard OWL reasoners can be used for inferencing."
+- The 4D Fluents model is within standard RDF and OWL-DL. 
+- The running example
+query can be written in SPARQL 4D Fluents model:
+```sparql
+SELECT ?ti ?tf
+WHERE {?ts1 :temporalPartOf :John.
+?ts2 :temporalPartOf :SW.
+?ts1 :enrolled ?ts2.
+?ts1 :temporalExt ?i.
+?ts2 :temporalExt ?i.
+?i :hasBeginning ?ti.
+?i :hasEnd ?tf.
+}
+```
+- Since the 4D Fluents model imports OWL-Time [37], :i1 in Figure 3.5 is an OWL-Time interval, while ?ti and ?tf in the above query are two OWL-Time instants.
 
 #### Extended 4D Fluents 
 
@@ -53,9 +74,11 @@ The formal semantics of the [[singleton property|t.cs.semantic-web.singleton-pro
 
 ![](/assets/images/2024-04-01-11-24-36.png)
 
+- [[TOQL|prdct.toql]] [5] is the SQL-like query language for Extended 4D Fluents model. To accommodate querying qualitative temporal relations, additionally query constructs, such as ”AT” clause and Allen temporal operators [4], such as before, after, meets, etc., are included in TOQL.
+
 #### Temporal Web Ontology Language
 
-- [[prdct.owl.towl]]
+![[prdct.owl.towl#^927zza20f03z:#^b8t2dt9958m2]]
 
 ### Relationship to Entity Conversion (REC)
 

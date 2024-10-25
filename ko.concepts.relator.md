@@ -2,13 +2,21 @@
 id: xbpa7vv9hwari8435fttsw3
 title: Relator
 desc: ''
-updated: 1728319563785
+updated: 1729850519794
 created: 1721858574759
 ---
 
-- the RDFS-style class might have to be sidelined
-  - t.2024.08.09.20 what? more like traditional "relationship directly expressed with predicate" gets replaced by "RelationshipClass has shapes, pieced together impressionistic style from meta-predicates"
+- aka: [[Relationship to Entity Conversion (REC)|ar.valid-time-rdf#relationship-to-entity-conversion-rec]]
+- facets provide a mixin-style impressionistic
+- the RDFS-style class is replaced by [[type facets|ko.concepts.facet]]
+  - rdfs:Class is still used in meta ways, e.g., classifying relators
+  
+## Benefits
 
+- relations can be temporalized and contextualized
+- supports unary and n-ary relations
+- multiple subjects can participate in relations
+- 
 
 ## What would it look like to have a "domain-classes-as-individuals" data model where relationships are primarily expressed by relators?
 
@@ -26,38 +34,40 @@ instead of
 we would have
 
 ```turtle
-:matt-groening-hasName-Matt a :NamingRelation ;
+:matt-groening-hasName-Matt a :NamingRelator ;
   :named-thing :matt-groening ;
   :name  "Matt" .
 
-:matt-groening-named-Bart a :NamingRelation ;
+:matt-groening-named-Bart a :NamingRelator ;
   :name-giver  :matt-groening ;
   :named-thing :bart ;
   :name "Bart" .
 
-:bart-isa-Simpson a :MembershipRelation ;
+:bart-isa-Simpson a :MembershipRelator ;
   :context :simpsons-world
   :member :bart ;
-  :group :simpsons-family ;
-  :groupClass :SimpsonsFamily, foaf:Person. //kinda redundant, but that's OK
+  :group :simpsons-family 
+  .
 
 
-:bart-isa-character-in-reality a :KindRelation ;
+:bart-isa-character-in-reality a :KindRelator ;
   :context :reality ;
   :individual :bart ;
-  :kind :fictional-character .
+  :kind :fictional-character # punning or OWL-Full
+  .
 
-:bart-isa-person-in-simpsons-world a :KindRelation ;
+:bart-isa-person-in-simpsons-world a :KindRelator ;
   :context :simpsons-world
   :individual :bart
-  :kind :person
+  :kind :Person # punning or OWL-Full
+  .
 
 ```
 
 and then you can go to town with relator enhancement (temporality, attribution) etc.:
 
 ```turtle
-:matt-groening-hasName-Matt a :NamingRelation ;
+:matt-groening-hasName-Matt a :NamingRelator ;
   :named-thing :matt-groening ;
   :name  "Matt" ;
   :name-giver :margaret-groening ;
@@ -98,11 +108,12 @@ and then you can go to town with relator enhancement (temporality, attribution) 
 - I thought I saw somewhere that there would just be a profusions of inverse properties, but maybe it's actually impossible.
 - it seems like inversion might not be appliable to relator-based RDF. and that's probably okay. Who cares about ceoOf vs hasCEO when you have a ceo role and a company role on the same footing
   - t.2024.10.07.09 for meaning, it obviates the need to distinguish between active and passive voices, although you might want to preserve that distinction for reasons of accuracy. I guess there might be small variations in meaning
+    - t.2024.10.25.02 you could have an additional property like ":subject" (which I'd been, perhaps foolishly, using generically )
 
 ## so the question becomes, generality
 
 ```turtle
-:Sam-Palmisano-CEO-of-IBM a OrganizationalRoleRelation;
+:Sam-Palmisano-CEO-of-IBM a OrganizationalRoleRelator;
   :role :CEO
   :role-holder :Sam-Palmisano
   :organization :IBM

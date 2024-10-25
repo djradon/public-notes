@@ -2,7 +2,7 @@
 id: 5s2dskuhqq5w8ikcp36no4c
 title: Trifid
 desc: 'lightweight and easy way to access Linked Data URIs via HTTP, '
-updated: 1716960113552
+updated: 1729873416266
 created: 1714109080591
 ---
 
@@ -13,6 +13,11 @@ created: 1714109080591
 - published-by: [[org.zazuko]]
 - built_on: [[prdct.node]]
 ![[prdct.pubby#^4ldbidz2j6c8]]
+
+## Requirements
+
+- SPARQL endpoint, or
+- triple in a local file (uses built-in in-memory store)
 
 ## Features
 
