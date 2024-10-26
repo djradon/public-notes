@@ -2,7 +2,7 @@
 id: 54xs03d1txghek4nv0fwqo2
 title: DCATv3
 desc: ''
-updated: 1729812046941
+updated: 1729977018884
 created: 1721429380319
 ---
 
@@ -17,8 +17,13 @@ created: 1721429380319
 
 - DCAT makes dataset series first class citizens of data catalogs by minting a new class dcat:DatasetSeries, defined as a subclass of dcat:Dataset. The datasets are linked to the dataset series by using the property dcat:inSeries. Note that a dataset series can also be hierarchical, and a dataset series can be a member of another dataset series.
 - see [[community.github.w3c.dxwg.issues.868]] and [[community.github.w3c.dxwg.issues.1409-using-dcat-next-and-dcat-version-in-dataseries]]
+- dcat:inSeries 
 
-#### 
+### 7. Use of inverse properties
+
+The properties described in 6. Vocabulary specification do not include inverses intentionally, with the purpose of ensuring interoperability also in systems not making use of OWL reasoning.
+
+However, recognizing that inverses are needed for some use cases, DCAT supports them, but with the requirement that they MAY be used only in addition to those described in 6. Vocabulary specification, and that they MUST NOT be used to replace them.
 
 ## Example
 
@@ -67,3 +72,7 @@ ex:dataset-001-csv
   dcat:byteSize "5120"^^xsd:nonNegativeInteger ;
   .
 ```
+
+## References
+
+- [[prdct.provencance-authoring-versioning-ontology-pav]]

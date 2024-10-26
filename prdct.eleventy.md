@@ -2,7 +2,7 @@
 id: s4doimimjk93q3ebvgdgc0p
 title: Eleventy
 desc: ''
-updated: 1720732673201
+updated: 1729970983480
 created: 1716410467066
 ---
 
@@ -18,3 +18,6 @@ created: 1716410467066
 ## Resources
 
 - https://11ty.rocks/posts/going-beyond-static-with-eleventy/
+- [[ar.pieterheyvaert.11ty-cache]]
+- [[ar.pieterheyvaert.11ty-full-paths-locally]]
+- 
