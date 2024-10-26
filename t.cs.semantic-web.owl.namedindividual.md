@@ -1,8 +1,8 @@
 ---
 id: kfm768wswqk5s7pkti4kwud
-title: Namedindividual
+title: NamedIndividual
 desc: ''
-updated: 1729635010402
+updated: 1729957454658
 created: 1729634949678
 ---
 
