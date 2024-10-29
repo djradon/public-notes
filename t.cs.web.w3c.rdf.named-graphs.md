@@ -2,7 +2,7 @@
 id: 836unuyt1okg2szo6u8hn1g
 title: Named Graphs
 desc: ''
-updated: 1726339489924
+updated: 1730136271059
 created: 1724995299262
 ---
 
@@ -27,3 +27,4 @@ This was not retained eventually, because of the lack of experience, so there is
 ## References
 
 - https://www.w3.org/TR/rdf11-datasets/
+- https://patterns.dataincubator.org/book/named-graphs.html

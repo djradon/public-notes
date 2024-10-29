@@ -2,19 +2,17 @@
 id: ggw3ek46ptgebsgxgihr1dh
 title: Semantic Flow
 desc: workflow and tooling for publishing semantic data
-updated: 1729890413528
+updated: 1730209861985
 created: 1716959415785
 ---
 
 ## Features
 
-- use github or gitlab to manage namespaces and mint IRIs
-- scan [[IRI sources|sflow.concepts.namespace-repo]]
+- use github or gitlab to manage namespaces using [[sflow.concepts.namespace-repo]] and mint IRIs
+- copy scan IRI sources,  
 
 ## Requirements
 
-- for [[dereference pages|sflow.concepts.dereference-pages]] you don't want all assertions, only some of the most useful ones, perhaps with links to where you can get more
-- mapping of templates to facets, namespaces, datasets, sparql queries
 
 
 ## Relationship with Kosmion
