@@ -2,7 +2,7 @@
 id: ipi4rlc29200er1dhrxvog3
 title: Provencance, Authoring, Versioning Ontology (PAV)
 desc: ''
-updated: 1730140764063
+updated: 1730217972081
 created: 1729977019216
 ---
 
@@ -18,6 +18,10 @@ created: 1729977019216
 - createdBy indicates the agent primary responsible for making the digital artifact or resource representation.
 - authoredBy indicates who authored the knowledge expressed by this resource
 - curatedBy indicates who curated the knowledge into its current form.
+
+#### Thoughts
+
+- the concepts are good, but the names are confusing.
 
 #### Examples
 

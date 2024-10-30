@@ -2,10 +2,13 @@
 id: iPmGRChUgfLhzeUTlfXef
 title: Iri
 desc: ''
-updated: 1634943750639
+updated: 1730225558358
 created: 1634922765107
 ---
 
+## Issues
+
+- hyphens not allowed (but underscores are)
 
 
 ## Resources

@@ -2,16 +2,19 @@
 id: ggw3ek46ptgebsgxgihr1dh
 title: Semantic Flow
 desc: workflow and tooling for publishing semantic data
-updated: 1730209861985
+updated: 1730224461096
 created: 1716959415785
 ---
 
+- requirements: [[sflow.requirements]]
+- issues: [[sflow.issues]]
+
 ## Features
 
-- use github or gitlab to manage namespaces using [[sflow.concepts.namespace-repo]] and mint IRIs
-- copy scan IRI sources,  
+- use github or gitlab to manage namespaces using [[sflow.concepts.sf-root-repo]] and mint IRIs
+- an [[sflow.concepts.sf-data-repo]] could have files/distributions for more than one namespace, so it should have each of those namespaces segregated by a top-level folder
+- scan IRI sources,  
 
-## Requirements
 
 
 

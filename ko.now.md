@@ -2,7 +2,7 @@
 id: vfyko2naxiommmkt6u5p253
 title: Now (Kosmion)
 desc: ''
-updated: 1729463197467
+updated: 1730218492417
 created: 1729359756551
 ---
 
@@ -11,4 +11,4 @@ created: 1729359756551
 * datasets, catalogs, named graphs, distributions
 * how to do multi-level
 * can facets/aspects replace classes
-
+* provenance, attribution, versioning

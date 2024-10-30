@@ -2,11 +2,12 @@
 id: lo2gql2l1s4q9n27m52bao8
 title: Ontogen
 desc: 'a vocabulary for RDF compounds, with versioning'
-updated: 1728875068450
+updated: 1730217740237
 created: 1723554173768
 ---
 
 - https://ontogen.io/
+- author: [[user.marcel-otto]]
 - tested-with: [[prdct.jena.fuseki]] and [[prdct.oxigraph]]
 - related: [[prdct.rtc-ex]]
 - docs: https://ontogen.io/docs/user-guide/
@@ -15,6 +16,44 @@ created: 1723554173768
 
 - RDF Triple Compounds (RTC) allow named-graph-like functionality without using named graphs
 - uses [[prdct.RDF-star]] for annotations
+
+### Triple Compounds
+
+- a set of triples assigned to a common resource. 
+- The triples are assigned to a compound with an RDF-star statement using the rtc:elementOf property.
+
+#### Example with rtc:elementOf
+
+```turtle
+:employee38 
+    :firstName "John" {| rtc:elementOf :compound1 |} ;
+    :familyName "Smith" {| rtc:elementOf :compound1 |} ;
+    :jobTitle "Assistant Designer" {| rtc:elementOf :compound1 |} .
+
+:compound1 a rtc:Compound ;
+    :statedBy :bob ; 
+    :statedAt "2022-02-16" .
+```
+
+#### Example with rtc:elements
+
+```turtle
+PREFIX : <http://www.example.org/>
+PREFIX rtc: <https://w3id.org/rtc#>
+ 
+:employee38 
+    :firstName "John" ;
+    :familyName "Smith" ;
+    :jobTitle "Assistant Designer" .
+
+:compound1 a rtc:Compound ;
+    :statedBy :bob ; 
+    :statedAt "2022-02-16" ;
+    rtc:elements        
+       << :employee38 :firstName "John" >> ,
+       << :employee38 :familyName "Smith" >> ,
+       << :employee38 :jobTitle "Assistant Designer" >> .
+```
 
 ### IRI minting
 
