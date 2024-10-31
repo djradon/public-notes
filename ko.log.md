@@ -2,7 +2,7 @@
 id: imx167fidgm5kg7qht8lkh2
 title: Kosmion Log
 desc: ''
-updated: 1729887692059
+updated: 1730373054471
 created: 1723147341720
 ---
 
@@ -110,4 +110,10 @@ created: 1723147341720
 
 ## t.2024.10.25.13
 
-- a rdf triple (or relator-atom) is not necessarily an assertion, it is just a configuration of content units or at best a statement. 
+- a rdf triple (or [[ko.concepts.relator-compound]]) is not necessarily an assertion, it is just a configuration of content units or at best a statement. 
+
+## t.2024.10.31.03
+
+- removed chatgpt memories:
+  - Foundational ontology, Kosmion, enables domain ontologies to capture distinctions, overlap, and temporality of the physical, social, mental/conceptual, and representational/digital modalities without encumbering them with restrictions or too much complexity.
+  - 

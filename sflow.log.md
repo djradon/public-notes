@@ -2,7 +2,7 @@
 id: fd1whkyvoagggk6ubysjl50
 title: Semantic Flow Log
 desc: ''
-updated: 1730228396869
+updated: 1730374228104
 created: 1727801720160
 ---
 
@@ -36,4 +36,13 @@ created: 1727801720160
 - how do we keep a history of the index.trig file? I guess it might change while in development, but once settled, it should very rarely change. 
   - if it does change, perhaps its content could be discovered using the inverse properties from the default and catalog datasets
   - it might be easiest if everything was a dataset; I mean, everything almost already is, for gods sake. I just can't bear to say that <dave-richardson> a dcat:dataset.
-  - 
+
+## t.2024.10.31.04
+
+from [[t.cs.ai.assistant.memory-hygiene]]:
+
+![[daily.journal.2024.10.31#^fsmlpwwwuvic]]
+![[daily.journal.2024.10.31#^padng51sf3k8]]
+![[daily.journal.2024.10.31#^4wdvmcwtsqi6]]
+![[daily.journal.2024.10.31#^rx7vbtp5gar1]]
+ 
