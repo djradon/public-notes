@@ -1,8 +1,8 @@
 ---
 id: kn3h16trg2bql5lbem3grhw
-title: Inquirer
+title: Inquirer.js
 desc: ''
-updated: 1673119459647
+updated: 1730668735753
 created: 1652768981147
 ---
 
@@ -11,7 +11,7 @@ created: 1652768981147
 ## #features
 
 - tab-based autosuggest with [[prdct.inquirer-prompt-suggest]]
-  - [-] but it's not dynamic
+  - but it's not dynamic
 
 ## [[p.hasLearningResource]]
 
