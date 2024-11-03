@@ -1,8 +1,8 @@
 ---
 id: ebbj5ovrdqvao6v4mhxxb0o
-title: What’s the Best Semantic Web Authoring Tool?
-desc: a grim survey of RDF data management apps
-updated: 1729315960009
+title: '2024-10-18: What’s the Best Semantic Web Authoring Tool?
+desc: a grim survey of RDF data management apps'
+updated: 1730671034945
 created: 1729093723913
 ---
 

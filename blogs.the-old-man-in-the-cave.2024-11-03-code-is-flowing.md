@@ -1,8 +1,8 @@
 ---
 id: 6d0cdipyv5jxdbs615ssb32
-title: Code Is Flowing
-desc: 'The Semantic Flow CLI Lives!'
-updated: 1730669747359
+title: '2024-11-03: Code Is Flowing'
+desc: 'sf-cli lives!'
+updated: 1730671079223
 created: 1730646458171
 ---
 

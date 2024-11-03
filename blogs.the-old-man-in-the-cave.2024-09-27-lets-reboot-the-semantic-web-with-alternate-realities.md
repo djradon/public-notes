@@ -1,8 +1,8 @@
 ---
 id: s5z9wyb92268nr1b0cyl20n
-title: Let’s Reboot the Semantic Web with Alternate Realities
+title: '2024-09-27: Let’s Reboot the Semantic Web with Alternate Realities'
 desc: I’d bet the Old Man in the Cave can help us out.
-updated: 1727656848437
+updated: 1730671024498
 created: 1726095395686
 ---
 
