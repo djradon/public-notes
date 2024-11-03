@@ -1,16 +1,14 @@
 ---
 id: 73soy8ll9zpqtlyru0ceeex
-title: 2024 11 03 What Lame Chatgpt Says about Our Semantic Flow CLI
+title: 2024 11 03 Chatgpt Lame Update Semantic Flow CLI
 desc: ''
-updated: 1730647425621
+updated: 1730660237999
 created: 1730647232988
 ---
 
-(I didn't write this, chatgpt did)
+(I didn't write this, chatgpt4.o did. It should not be trusted and is only published for illustrative purposes.)
 
 ## blog update about my semantic flow cli
-
-- chatgpt4.o with canvas:
 
 Hey everyone,
 
