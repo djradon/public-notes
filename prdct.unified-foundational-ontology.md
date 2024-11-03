@@ -2,7 +2,7 @@
 id: rtuuqd5q8nrxidfii77jh9n
 title: Unified Foundational Ontology
 desc: ''
-updated: 1728153677106
+updated: 1730646216311
 created: 1698268407267
 ---
 
@@ -26,6 +26,7 @@ created: 1698268407267
 - no OWL or any other machine-readable represenation
   - but [[prdct.unified-foundational-ontology.gUFO]]
 - [[ar.github.nemo-ufes.gufo.are-all-relations-instances-of-either-material-relationship-type-or-comparative-relationship-type]]
+- 
 
 ## Features
 
