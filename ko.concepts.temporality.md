@@ -2,7 +2,7 @@
 id: gevpci170z4xpynl0eyhkhf
 title: Temporality
 desc: ''
-updated: 1729468979883
+updated: 1730641278727
 created: 1722876821821
 ---
 
@@ -75,3 +75,7 @@ created: 1722876821821
 ### 
 
 ![[ar.valid-time-rdf#instantiating-identifying-conceptrelationship-iir]]
+
+## References
+
+- [[ar.telicent.4d-ontology]]

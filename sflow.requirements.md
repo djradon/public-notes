@@ -9,7 +9,7 @@ created: 1729878881397
 ## IRI minting
 
 - ideally there could be some kind of signature that affirms "the dataset published to this IRI was authorized by a person who has control of the namespace" but I guess its existance at that URL speaks for itself.
-- see [[sflow.conv.2024.10.25.semantic-flow-overview#authority]] for approaches to trust
+- see [[sflow.conv.2024-10-25-semantic-flow-overview#authority]] for approaches to trust
 
 ### Dereference Pages
 
@@ -33,5 +33,5 @@ There are multiple levels of "this data was added, changed, or tombstoned":
 
 ### Version-On-Commit
 
-- see [[sflow.conv.2024.10.25.semantic-flow-overview#i-think-that-releasing-a-new-version-of-any-component-of-a-namespace-requires-a-version-bump-all-the-way-up-the-chain]]
+- see [[sflow.conv.2024-10-25-semantic-flow-overview#i-think-that-releasing-a-new-version-of-any-component-of-a-namespace-requires-a-version-bump-all-the-way-up-the-chain]]
 

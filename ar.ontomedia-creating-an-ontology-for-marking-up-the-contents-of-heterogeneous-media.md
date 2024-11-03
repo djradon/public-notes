@@ -1,11 +1,9 @@
 ---
 id: x219kze2gk6lbvyfa7ftlv5
 title: >-
-  Ontomedia Creating an Ontology for Marking up the Contents of Heterogeneous
-  Media
+  Ontomedia Creating an Ontology for Marking up the Contents of Heterogeneous Media
 desc: ''
-upda
-updated: 1729891098545
+updated: 1730645843820
 created: 1710828494951
 ---
 

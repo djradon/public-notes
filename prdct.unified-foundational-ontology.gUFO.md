@@ -12,7 +12,7 @@ created: 1720274927117
 ## Issues
 
 - not OWL-DL because powerclasses? (punning)
-- doesn't support [[t.km.ontology.multi-level-theory]], see [[community.nemo-ufes.gufo.issues-37-multi-level]] 
+- doesn't support [[t.km.ontology.multi-level-theory]], see [[community.nemo-ufes.gufo.issues.37-multi-level]] 
 - abstract and concrete are disjoint, but e.g. wemi... things are a blend
 
 ## Features

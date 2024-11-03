@@ -4,14 +4,14 @@ title: >-
   Using a Trope Based Foundational Ontology for Bridging Different Areas of
   Concern in Ontology Driven Conceptual Modeling
 desc: ''
-updated: 1727674749757
+updated: 1730641534686
 created: 1721704219874
 ---
 
 - https://www.sciencedirect.com/science/article/pii/S0167642314000896
 - authors: @giancarlo-guizzardi @veruska-zamborlini
 - publish-date: 2014
-- topics: [[prdct.ontouml]]
+- topics: [[prdct.ontouml]] [[t.km.ontology.four-category]]
 
 ## Abstract
 

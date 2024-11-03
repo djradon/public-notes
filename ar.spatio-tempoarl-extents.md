@@ -2,12 +2,13 @@
 id: p784e5cnghmf0bfrbmlmgj1
 title: Spatio Tempoarl Extents
 desc: ''
-updated: 1720471921231
+updated: 1730641316418
 created: 1720471892135
 ---
 
 - author: @matthew-west
 - https://www.sciencedirect.com/science/article/abs/pii/B9780123751065000117
+- related: [[vs.three-dimensional-vs-four-dimensional-ontologies]]
 
 ## Summary
 

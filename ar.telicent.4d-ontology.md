@@ -2,7 +2,7 @@
 id: r7a2v2n97x72orahsjloesf
 title: 4d Ontology
 desc: ''
-updated: 1720499925816
+updated: 1730641185459
 created: 1720470755138
 ---
 
@@ -14,6 +14,7 @@ created: 1720470755138
 - mentions: 
   - [[prdct.information-exchange-standard-ontology]]
   - [[prdct.business-objects-reference-ontology]]
+- topics: [[vs.three-dimensional-vs-four-dimensional-ontologies]]
 
 ![](/assets/images/2024-07-08-13-53-16.png)
 
