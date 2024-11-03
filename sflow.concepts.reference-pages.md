@@ -1,7 +1,9 @@
 ---
 id: wvzsqsdcvkd1d2adyeqw996
-title: Dereference Pages
-desc: 'If you want to know more about the thing referenced by an IRI, dereference pages can help'
+title: Reference Pages
+desc: >-
+  If you want to know more about the thing referenced by an IRI, dereference
+  pages can help
 updated: 1729883838712
 created: 1729880396813
 ---

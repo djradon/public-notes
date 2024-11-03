@@ -2,36 +2,41 @@
 id: 6d0cdipyv5jxdbs615ssb32
 title: Semantic Flow CLI
 desc: ''
-updated: 1730660784167
+updated: 1730667267106
 created: 1730646458171
 ---
 
-I just started a new conversation with ChatGPT: "blog update about my semantic flow cli." Without my asking, it filled a canvas with [[a suggested update|sf.conv.2024-11-03-chatgpt-lame-update-semantic-flow-cli]] that I hated before even looking at it. Then I tried to read it and started finding falsehoods, annoyances, and lameness everywhere.
+I just started a new conversation with ChatGPT. In response to its "What can I help with?", I gave a rather impersonal message: "blog update about my semantic flow cli." Without my asking, it filled a canvas with [[a suggested update|sf.conv.2024-11-03-chatgpt-lame-update-semantic-flow-cli]] that I hated before even looking at it. Then I tried to read it and started finding falsehoods, annoyances, and lameness everywhere.
 
-I prize my writing as something human so I'm biased against incorporating synthetic prose. But it is an easy way to get things going, even if it's just providing an enemy to oppose. 
+Yes, I'm hostile to synthetic prose. But it is an easy way to get things going, even just as an enemy to indignantly oppose. But for experiment's sake, the rest of this update is going to be a rewriting of ChatGPT's crappy draft. 
 
-For experiment's sake, the rest of this update is going to be a rewriting of chatgpt's draft. I'm going to limit myself to ol' ChatGPT's structure, but rewrite each sentence in defiance. 
+I'll admit though... I'm curious to hear its feedback.
 
 ---
 
+![](/assets/images/2024-11-03-07-51-56.png)
+
+
 To my four subscribers and posterity:
 
-I'm reluctantly sharing an update about the [Semantic Flow CLI](https://github.com/semantic-flow/sf-cli) I've been bumbling through. At the moment, this under-designed command-line tool will set up a folder hierarchy and a configuration file for a [[semantic site "root" repository|sflow.concepts.sf-root-repo]], the foundation of an RDF versioning and self-publishing methodology. I'm proud to be making progress on an actual piece of software (and the kids need breakfast) so I'll make this quick.
+I'm reluctantly sharing an update about the [Semantic Flow CLI](https://github.com/semantic-flow/sf-cli) I've been bumbling through. At the moment, this under-designed command-line tool will set up a folder hierarchy and a configuration file for a [[semantic site "root" repository|sflow.concepts.sf-root-repo]], the foundation of the Semantic Flow RDF versioning and self-publishing methodology. I'm proud to be making progress on an actual piece of software and the kids need breakfast, so I'll try to make this quick.
 
 **Key Features Under Development:**
 
-1. **Namespace and IRI curation**: Semantic Flow is about publishing RDF data, and useful RDF resources need a namespace, a place where their identifiers can live. I'd like to be able to create [[git repositories of semantic data|sflow.concepts.sf-data-repo]] that can define and populate [[namespaces|sflow.concepts.namespace]] in a [[Semantic Flow site|sflow.concepts.site]] with a single deft command, or at worst a series of prompts.
+1. **De-referenceable entity IRIs**: From the [[t.cs.web.w3c]]'s [[ar.w3.rdf-1-1-concepts-and-abstract-syntax]] recommendation: "Any IRI or literal denotes something in the world (the "universe of discourse"). These things are called resources. Anything can be a resource, including physical things, documents, abstract concepts, numbers and strings; the term is synonymous with "entity" as it is used in the RDF Semantics specification. The resource denoted by an IRI is called its referent..." and "The IRI owner can establish the intended referent by means of a specification or other document that explains what is denoted... A good way of communicating the intended referent is to set up the IRI so that it dereferences to such a document." Semantic Flow can generate these documents. I'm calling them reference pages.
 
-2. **Dataset Series Handling**: The central conceit of Semantic Flow is that every entity worth its salt should be associated with at least two [[versioned set of datasets|sflow.concepts.dataset-series.vset]]: a [[catalog|sflow.concepts.catalog]] and a [[sflow.concepts.dataset-series.default]]  Managing versioned datasets and dataset series is at the heart of Semantic Flow, and the CLI is being designed to automate these version bumps across the board. When changes are made, you can update the corresponding catalogs automatically—no need to dig through multiple files or manually track changes.
+2. **Namespace and IRI curation**: Semantic Flow is about publishing RDF data, and useful RDF resources need a namespace, a place where their identifiers can live. I'd like to be able to create [[git repositories of semantic data|sflow.concepts.sf-data-repo]] that can define and populate [[namespaces|sflow.concepts.namespace]] in a [[Semantic Flow site|sflow.concepts.site]] with a single deft command, or at worst a series of prompts.
 
-3. **Template Integration**: The CLI supports applying templates from the ‘templates’ folder in a consistent manner across all generated RDF resources. If you want a unified look or consistent metadata across your generated static site, this feature will take care of it.
+3. **Dataset Series Handling**: The central conceit of Semantic Flow is that every entity worth its salt should be associated with at least two [[versioned sets of datasets|sflow.concepts.dataset-series.vset]]: a [[catalog series|sflow.concepts.dataset-series.catalog]] and a [[default series|sflow.concepts.dataset-series.default]]. Grouping dataset versions into a series is the heart of Semantic Flow, and the CLI is helps automate version bumps at the entity level. When changes are made to entity data (in the default series or otherwise), sf-cli should update the corresponding catalog automatically.
 
-**Tech Stack**: I'm building the CLI using Deno, which has been a great experience so far, especially with TypeScript support out of the box. Deno's security model and easy module imports have been a big plus. I'm also using Cliffy for handling the interactive aspects of the CLI—it's helping make the user experience smooth and efficient.
+4. **Template Integration**: When generating the HTML [[sflow.concepts.reference-pages]], you should be able to apply one or more templates to convey information visually and make the pages usable. 
 
-**Challenges**: One of the more interesting challenges I'm working through is the need for both stability and flexibility in version management. There’s a balance to be found between keeping track of everything as it evolves, but also providing 'current' and 'next' indicators that make it easy for developers to know which version they should be using.
+5. **Tech Stack**: I'm building the CLI using Deno, which has been a frustrating experience so far. Eventually, Deno's ability to run untrusted remote code in a hopefully-secure way might be a great foundation for composing [[alternate realities|t.storytelling.alternate-reality]]. I'm using [[prdct.cliffy]] for the command-line framework, although I keep glancing at [[prdct.oclif]].
+
+**Challenges**: [[sflow.concepts.immutability]] holds a great deal of promise for data management. See [XTDB's walkthrough](https://docs.xtdb.com/tutorials/immutability-walkthrough/part-1.html) for some insight. But I'm doing a lot of mental hand-waving right now: Will entity reference in RDF have to specify the version they're referring to? Or can some kind of software reasoner figure it out for us? 
 
 **What's Next?**
-- I plan to expand support for **SFRootRepo management**, allowing users to easily configure new root repositories for their Semantic Flow sites.
-- I'm looking at ways to **better handle cross-repo references** so that multiple repositories can contribute individuals and datasets in a unified namespace without chaos.
+- importing existing [[Data Repos|sflow.concepts.sf-data-repo]] into a [[Root Repo|sflow.concepts.sf-root-repo]]
+- scanning Data Repos for covered IRIs and minting some primitive [[sflow.concepts.reference-pages]]
 
-If you’re interested in following along or contributing, I’d love to hear your feedback. I’m aiming to get a beta version out soon, and your thoughts could really help shape how it develops.
+I’m expecting to get a beta version out... no time soon. ChatGPT has been a valuable, tireless coding partner, but I'm practically a beginner and I'll need more than its credulous efforts to get things flowing. So please reach out! 

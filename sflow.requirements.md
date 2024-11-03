@@ -13,7 +13,7 @@ created: 1729878881397
 
 ### Dereference Pages
 
-- for [[dereference pages|sflow.concepts.dereference-pages]] you don't want all assertions, only some of the most useful ones, perhaps with links to where you can get more (ie., catalog links)
+- for [[Reference Pages|sflow.concepts.reference-pages]] you don't want all assertions, only some of the most useful ones, perhaps with links to where you can get more (ie., catalog links)
 - mapping of templates to facets, namespaces, datasets, sparql queries
 
 ## Canonicalization
