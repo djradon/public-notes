@@ -1,10 +1,12 @@
 ---
 id: 6d0cdipyv5jxdbs615ssb32
 title: '2024-11-03: Code Is Flowing'
-desc: 'sf-cli lives!'
-updated: 1730671079223
+desc: 'sf-cli Lives!'
+updated: 1730672426551
 created: 1730646458171
 ---
+
+*sf-cli lives!*
 
 I just started a new conversation with ChatGPT. In response to its “What can I help with?”, I gave a rather impersonal message: “blog update about my semantic flow cli.” Usually I’m a bit friendlier.
 
@@ -21,15 +23,27 @@ I’ll admit though... I’m curious to hear its feedback. Maybe I’ll post it 
 
 To my four subscribers and posterity:
 
-I’m reluctantly sharing an update about the [Semantic Flow CLI](https://github.com/semantic-flow/sf-cli) I’ve been bumbling through. At the moment, this under-designed command-line tool will set up a folder hierarchy and a configuration file for a [[semantic site “root” repository|sflow.concepts.sf-root-repo]], the foundation of the Semantic Flow RDF versioning and self-publishing methodology. I’m proud to be making progress on an actual piece of software and the kids need breakfast, so I’ll try to make this quick.
+I’m reluctantly sharing an update about the [Semantic Flow CLI](https://github.com/semantic-flow/sf-cli) I’ve been bumbling through. At the moment, this under-designed command-line tool will set up a folder hierarchy and a configuration file for a [[semantic site “root” repository|sflow.concepts.sf-root-repo]], the foundation of the Semantic Flow RDF versioning and self-publishing methodology. I’m proud to be making progress on an actual piece of software that I’m eager to get back to, and the kids need breakfast, so I’ll try to make this quick.
 
 ## Semantic Flow CLI: Key Features
 
-### De-referenceable entity IRIs
+### Reference Pages for De-referenceable entity IRIs
 
 You may know that Semantic Web data is composed of triples that link together resources. The subject is the resource being described. The predicate is a property resource that defines the relationship. And an object is another resource that is related to the subject. 
 
-You may also know that an IRI is a URL that supports international characters and doesn’t necessarily locate a web page, although it should. IRIs are how resources are identified (or uniquely named if you prefer) on the Semantic Web.
+For two examples:
+
+```turtle
+:the-old-man-in-the-cave :helped :goldsmith .
+```
+
+You may also know that an IRI is a URL that supports international characters and doesn’t necessarily locate a web page, although it should. IRIs are how resources are identified (or uniquely named, if you prefer) on the Semantic Web.
+
+The above examples use namespacing to hide the full IRI, which otherwise might look something like this:
+
+```turtle
+<https://djradon.github.io/the-old-man-in-the-cave> <https://djradon.github.io/ns/d/helped> <https://djradon.github.io/ns/d/goldsmith> .
+```
 
 From the [[t.cs.web.w3c]]’s [[ar.w3.rdf-1-1-concepts-and-abstract-syntax]] recommendation: “Any IRI or literal denotes something in the world (the "universe of discourse"). These things are called resources. Anything can be a resource, including physical things, documents, abstract concepts, numbers and strings; the term is synonymous with "entity" as it is used in the RDF Semantics specification. The resource denoted by an IRI is called its referent...” and “The IRI owner can establish the intended referent by means of a specification or other document that explains what is denoted... A good way of communicating the intended referent is to set up the IRI so that it dereferences to such a document.”
 
@@ -37,11 +51,11 @@ Semantic Flow can generate these documents. I’m calling them reference pages.
 
 ### Namespace and IRI curation
 
-Semantic Flow is about publishing RDF data, and useful RDF resources need a namespace, a place where their identifiers can live. I’d like to be able to create [[git repositories of semantic data|sflow.concepts.sf-data-repo]] that can define and populate [[namespaces|sflow.concepts.namespace]] in a [[Semantic Flow site|sflow.concepts.site]] with a single deft command, or at worst a series of prompts.
+Semantic Flow is about publishing RDF data, and useful RDF resources need a namespace, a place where their identifiers can live and be made legible. I’d like to be able to create [[git repositories of semantic data|sflow.concepts.sf-data-repo]] that can define and populate [[namespaces|sflow.concepts.namespace]] in a [[Semantic Flow site|sflow.concepts.site]] with a single deft command, or at worst a series of prompts.
 
 ### Dataset Series Handling
 
-The central conceit of Semantic Flow is that every entity worth its salt should be associated with at least two [[versioned sets of datasets|sflow.concepts.dataset-series.vset]]: a [[catalog series|sflow.concepts.dataset-series.catalog]] and a [[default series|sflow.concepts.dataset-series.default]]. Grouping dataset versions into a series is the heart of Semantic Flow, and the CLI is helps automate version bumps at the entity level. When changes are made to entity data (in the default series or otherwise), sf-cli should update the corresponding catalog automatically.
+The central conceit of Semantic Flow is that every entity worth its salt should be associated with at least two [[sets of versioned datasets|sflow.concepts.dataset-series.vset]]: a [[catalog series|sflow.concepts.dataset-series.catalog]] and a [[default series|sflow.concepts.dataset-series.default]]. Grouping dataset versions into a series is the heart of Semantic Flow, and the CLI will help automate version bumps at the entity level. When changes are made to entity data (in the default series or otherwise), sf-cli can update the corresponding catalog automatically.
 
 ### Template Integration
 
@@ -51,13 +65,11 @@ When generating the HTML [[sflow.concepts.reference-pages]], you should be able 
 
 I’m building the CLI using Deno, which has been a frustrating experience so far, no fault of Deno’s. Eventually, Deno’s ability to run untrusted remote code in a hopefully-secure way might be a great foundation for composable, interactive [alternate realities](https://theoldmaninthecave.substack.com/p/lets-reboot-the-semantic-web-with-alternate-realities). 
 
-I’m using [[prdct.cliffy]] for the command-line framework, although I keep glancing at [[prdct.oclif]] and [[prdct.inquirer]].
+I’m using [[prdct.cliffy]] for the command-line framework although I keep glancing at [[prdct.oclif]] and [[prdct.inquirer]].
 
 ## Challenges
 
 From smallest to biggest: 
-
-- Just figuring out [[Deno|prdct.deno]] debugging in VSCode under [[prdct.windows.wsl]] took awhile. 
 
 - Dealing with [Cliffy and Deno release candidate compatibility](https://github.com/c4spar/deno-cliffy/issues/763) has been tricky.
 
