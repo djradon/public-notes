@@ -2,12 +2,13 @@
 id: bvqecybtit80as0koga8eth
 title: Oakton
 desc: ''
-updated: 1708904787270
+updated: 1730495671673
 created: 1708903572290
 ---
 
 - [[c.Software.CLI-framework]]
 - url: https://jasperfx.github.io/oakton/
+- written-in: C#
 
 ## Description
 

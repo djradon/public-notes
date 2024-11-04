@@ -2,14 +2,14 @@
 id: 34h1rab0px1av5hqy4l631o
 title: Glue Gun
 desc: ''
-updated: 1698252759233
+updated: 1730495812749
 created: 1680581583824
 ---
 
-- #dead but good
 - [[c.topic]] [[t.cs.ui.cli]] [[t.cs.programming.repl]]
 - [[p.instanceOf]] [[c.software.cli-framework]]
 - repo: https://github.com/infinitered/gluegun
+- written-in: typescript
 
 ## Features
 

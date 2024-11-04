@@ -2,13 +2,14 @@
 id: mvo83tedz9u6fkr22d687ru
 title: Bandersnatch
 desc: framework for Node.js CLI programs
-updated: 1698252759201
+updated: 1730495850431
 created: 1672804422577
 ---
 
 - [[c.topic]] [[t.cs.ui.cli]] [[t.cs.programming.repl]]
 - [[p.instanceOf]] [[c.software.cli-framework]]
 - repo: https://github.com/hongaar/bandersnatch
+- written-in: typescript
 
 ## Features
 
