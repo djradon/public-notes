@@ -2,7 +2,7 @@
 id: 6d0cdipyv5jxdbs615ssb32
 title: '2024-11-03: Code Is Flowing'
 desc: sf-cli Lives!
-updated: 1730743812235
+updated: 1730744017549
 created: 1730646458171
 ---
 
@@ -24,7 +24,7 @@ I’ll admit though... I’m curious to hear its feedback. Maybe I’ll post it 
 
 To my four subscribers and posterity:
 
-I’m reluctantly sharing an update about the [Semantic Flow CLI](https://github.com/semantic-flow/sf-cli) I’ve been bumbling through. At the moment, this under-designed command-line tool will set up a folder hierarchy and a configuration file for a [[semantic site “root” repository|sflow.concepts.sf-root-repo]], the foundation of the Semantic Flow RDF versioning and self-publishing methodology. I’m proud to be making progress on an actual piece of software that I’m eager to get back to, and the kids need breakfast, so I’ll try to make this quick.
+I’m reluctantly sharing an update about the [Semantic Flow CLI](https://github.com/semantic-flow/sf-cli) I’ve been bumbling through. At the moment, this under-designed command-line tool will set up a folder hierarchy and a configuration file for a [[semantic site “root” repository|sflow.concepts.sf-root-repo]], the foundation of the Semantic Flow RDF versioning and self-publishing methodology. I’m excited to be in the flow with an actual piece of software, I’m eager to get back to it, and the kids need breakfast. So I’ll try to make this quick.
 
 ## Semantic Flow CLI: Key Features
 

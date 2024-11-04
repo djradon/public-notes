@@ -2,7 +2,7 @@
 id: 74xz2kw8sjpc5ifkske9z3c
 title: The Midnight Sun (s03e10)
 desc: 'When Earth deviates from its normal orbit and moves closer to the sun, painter Norma and her landlady Mrs. Bronson try to cope with increasingly oppressive heat in a nearly abandoned New York City.'
-updated: 1730743378776
+updated: 1730743868884
 created: 1730648581104
 ---
 
@@ -14,6 +14,10 @@ created: 1730648581104
 ## Stills
 
 ![](/assets/images/2024-11-03-07-51-56.png)
+
+## Quotes
+
+- Norma: We could live in that waterfall.
 
 ## Transcript
 
