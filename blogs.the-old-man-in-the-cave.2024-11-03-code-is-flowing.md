@@ -1,25 +1,26 @@
 ---
 id: 6d0cdipyv5jxdbs615ssb32
 title: '2024-11-03: Code Is Flowing'
-desc: 'sf-cli Lives!'
-updated: 1730672426551
+desc: sf-cli Lives!
+updated: 1730743812235
 created: 1730646458171
 ---
 
-*sf-cli lives!*
+*We could live in that waterfall.*
 
 I just started a new conversation with ChatGPT. In response to its “What can I help with?”, I gave a rather impersonal message: “blog update about my semantic flow cli.” Usually I’m a bit friendlier.
 
-Without my asking, it filled a canvas with [[a suggested update|sf.conv.2024-11-03-chatgpt-lame-update-semantic-flow-cli]] that I hated before even looking at it. Then I tried to read it and started finding falsehoods and lameness everywhere.
+Without my asking, it filled a canvas with [[a suggested update|sfow.conv.2024-11-03-chatgpt-lame-update-semantic-flow-cli]] that I hated before even looking at it. Then I tried to read it and started finding falsehoods and lameness everywhere.
 
 Yes, I’m hostile to synthetic prose. But ChatGPT at least gave me a skeleton and the motivational annoyance to get things going. So for experiment’s sake, the meat of this update is going to be a rewrite of ChatGPT’s intolerable draft. 
 
 I’ll admit though... I’m curious to hear its feedback. Maybe I’ll post it in the comments.
 
+
+[![The Midnight Sun](/assets/images/2024-11-03-07-51-56.png)](https://djradon.github.io/wiki/notes/74xz2kw8sjpc5ifkske9z3c/)
+
+
 ---
-
-![](/assets/images/2024-11-03-07-51-56.png)
-
 
 To my four subscribers and posterity:
 
@@ -59,7 +60,7 @@ The central conceit of Semantic Flow is that every entity worth its salt should 
 
 ### Template Integration
 
-When generating the HTML [[sflow.concepts.reference-pages]], you should be able to apply one or more templates to effectively convey information visually and make the pages usable. 
+When generating the HTML [[reference pages|sflow.concepts.reference-pages]], you should be able to apply one or more templates to effectively convey information visually and make the pages usable. 
 
 ## Tech Stack
 
