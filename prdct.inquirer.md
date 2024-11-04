@@ -2,11 +2,12 @@
 id: kn3h16trg2bql5lbem3grhw
 title: Inquirer.js
 desc: ''
-updated: 1730668735753
+updated: 1730742150737
 created: 1652768981147
 ---
 
 [[p.hasSite]] https://www.npmjs.com/package/inquirer
+- similar: [[prdct.enquirer]]
 
 ## #features
 
