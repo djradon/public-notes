@@ -2,12 +2,12 @@
 id: i1211kezxlz8q23n9eb6j58
 title: Oclif
 desc: ''
-updated: 1730574539937
+updated: 1730715043538
 created: 1672900642072
 ---
 
 repo: https://github.com/oclif/oclif
-
+- [[c.software.CLI-framework]]
 javascript-cli-framework
 
 ## #features
@@ -25,3 +25,8 @@ javascript-cli-framework
 
 - https://dev.to/raphaelmansuy/boost-your-productivity-by-creating-your-own-cli-command-with-typescript-and-oclif-part-2-1jlk
 - https://medium.com/free-code-camp/writing-a-command-line-database-client-in-10-minutes-aa608536ae4b
+
+## Resources
+
+- https://tlakomy.com/notes-egghead-cli-tooling-oclif-ts
+- https://www.joshcanhelp.com/oclif/
