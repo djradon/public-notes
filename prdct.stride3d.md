@@ -2,12 +2,12 @@
 id: YEENs52Vldkdwe2jkkRpe
 title: Stride3d
 desc: Open-source C# Game Engine
-updated: 1699307971102
+updated: 1730843232317
 created: 1637846271510
 ---
 
 - [[c.software.game-engine]]
-- [[p.alsoKnownAs]] Xenko
+- aka: Xenko
 - url: https://www.stride3d.net/
 - repo: https://github.com/stride3d/stride
 - [[c.comparable]] [[prdct.unity]] [[prdct.monogame]]

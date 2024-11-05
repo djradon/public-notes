@@ -2,13 +2,13 @@
 id: GTdqyUIA63npnTWJNCAFj
 title: Testing
 desc: ''
-updated: 1730840708584
+updated: 1730843232333
 created: 1638028289877
 ---
 
 - aka: QA; quality assurance
 
-## Kinds of Tests
+##aka:
 
 ### 
 - "Rather than thinking of tests along the traditional unit / integration / end-to-end spectrum, I think it's helpful to think along a few other dimensions

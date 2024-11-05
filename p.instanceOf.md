@@ -2,13 +2,13 @@
 id: s2AA4w4SyPFu44ylTFLQH
 title: instanceOf
 desc: the subject is a concrete example of a Class
-updated: 1728865334904
+updated: 1730843232288
 created: 1633270478774
 ---
 
 #ontology
 
-- [[p.alsoKnownAs]] isA, is a, is an instance of the class
+- aka: isA, is a, is an instance of the class
 - [[p.hasDomain]] resources: 
 - [[p.hasRange]] [[c.class]]
 - [[p.equivalentPredicate]] [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type)

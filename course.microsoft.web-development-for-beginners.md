@@ -2,7 +2,7 @@
 id: o2vu2wH8CQEdqEmJU58XF
 title: Web Development for Beginners
 desc: even I probably should not start here
-updated: 1698704342150
+updated: 1730843232262
 created: 1642483433436
 ---
 
@@ -28,7 +28,7 @@ created: 1642483433436
   - use when the func wouldn't be used anywhere else
   - presumably programmers occasionally convert anonymous functions into named functions
 - [[t.cs.programming.functions.arrow]]
-  - [[p.alsoKnownAs]] fat arrow functions
+  - aka: fat arrow functions
   - replace the word `function`
   - Compared with ordinary functions (declared with the function keyword): [[p.hasSource]] https://javascript.plainenglish.io/3-scenarios-where-you-shouldnt-use-arrow-functions-862388acd05d
     - An arrow function doesn’t have its own this value

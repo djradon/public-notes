@@ -2,13 +2,13 @@
 id: dtxqxxlj51rdmv6e40xddpg
 title: R Markdown
 desc: ''
-updated: 1699025399589
+updated: 1730843358973
 created: 1699022520111
 ---
 
 - url: https://rmarkdown.rstudio.com/
 - repo: https://github.com/rstudio/rmarkdown
-- [[p.supportedBy]]: [[prdct.rstudio]] 
+- supported-by:: [[prdct.rstudio]] 
   related: [[prdct.blogdown]]
 
 ## Features

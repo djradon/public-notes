@@ -2,11 +2,11 @@
 id: sHD1wrihZAJGLOn4dLUjG
 title: Mirror
 desc: decentralized writing platform for writers
-updated: 1654754595496
+updated: 1730843358984
 created: 1638666857798
 ---
 
 
 
 - [[p.hasSite]] https://mirror.xyz/
-- [[p.supportedBy]] [[prdct.arweave]]
+- supported-by: [[prdct.arweave]]

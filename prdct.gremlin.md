@@ -2,11 +2,11 @@
 id: dpjxfrsbrza4su29rfn9qds
 title: Gremlin
 desc: 'Query/Graph Traversal Language for TinkerPop'
-updated: 1698252759243
+updated: 1730843358968
 created: 1696473197713
 ---
 
-- [[p.supportedBy]] [[prdct.tinkerpop]]
+- supported-by: [[prdct.tinkerpop]]
 
 ## Features
 

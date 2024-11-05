@@ -2,10 +2,10 @@
 id: uPeDKjVTxhCylObcOdgZe
 title: Bullet Journaling
 desc: ''
-updated: 1637048776628
+updated: 1730843232335
 created: 1637048710540
 ---
 
 
 
-- [[p.alsoKnownAs]] BuJo
+- aka: BuJo

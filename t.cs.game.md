@@ -2,11 +2,11 @@
 id: mKIBBpM3NmUGSAgjc2CjR
 title: Computer Game
 desc: null
-updated: 1709256517930
+updated: 1730843232330
 created: 1636728660373
 ---
 
-- [[p.alsoKnownAs]] video games;
+- aka: video games;
 - [[p.hasSubClass]] [[c.game.sandbox]]
 
 

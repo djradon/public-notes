@@ -2,13 +2,13 @@
 id: Z4PNg5GQEIDy0tOfiGJAp
 title: integratesWith
 desc: ''
-updated: 1671185334907
+updated: 1730843232290
 created: 1633307909302
 ---
 
 
 
-- [[p.alsoKnownAs]] works with;
+- aka: works with;
 - [[p.hasDomain]] [[c.solution]]
 - [[p.hasRange]] [[c.solution]]
 - [[p.instanceOf]] [[c.pred]] 

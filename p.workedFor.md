@@ -2,13 +2,13 @@
 id: dA5jagGGUjVQ0vdh11Yii
 title: workedFor
 desc: ''
-updated: 1634854619277
+updated: 1730843232299
 created: 1634684809616
 ---
 
 
 
-- [[p.alsoKnownAs]] employed by
+- aka: employed by
 - [[p.hasRange]] [[c.agent]]
 - [[p.hasDomain]] [[c.agent]]
 - [[p.equivalentPredicate]] [schema:worksFor](http://schema.org/worksFor)

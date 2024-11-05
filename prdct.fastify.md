@@ -4,13 +4,13 @@ title: Fastify
 desc: >-
   web framework focused on developer experience and plugin architecture,
   inspired by Hapi and Express
-updated: 1672414469679
+updated: 1730843358971
 created: 1672412440061
 ---
 
 repo: https://github.com/fastify/fastify
 
-- [[p.supportedBy]] [[prdct.nestjs]]
+- supported-by: [[prdct.nestjs]]
 
 ## [[p.hasFeature]]
 

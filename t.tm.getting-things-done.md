@@ -2,14 +2,14 @@
 id: 3vjT0mrbOhXc1R0Z8SAUY
 title: Getting Things Done
 desc: 'Capture, Clarify, Organise, Reflect and Engage'
-updated: 1719895627962
+updated: 1730843232342
 created: 1632805137761
 ---
 
 
 
 
-- [[p.alsoKnownAs]] GTD
+- aka: GTD
 - comparable: [[t.tm.intend-philosophy]]
 
 a personal productivity paradigm originated by @David-Allen

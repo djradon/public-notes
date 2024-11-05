@@ -2,9 +2,9 @@
 id: hufc9wumo1yubvz163lsged
 title: Publisher
 desc: ''
-updated: 1685032142092
+updated: 1730843232348
 created: 1685032108468
 ---
 
-- [[p.alsoKnownAs]] 
+- aka: 
   - [[c.publisher]]

@@ -2,14 +2,14 @@
 id: ZjUjDK0ee5q09Qvh3kYQl
 title: One More Multiverse
 desc: ''
-updated: 1634943567897
+updated: 1730843232308
 created: 1632953696662
 ---
 ttrpg engine with retro 2D graphics and the promise of a marketplace
 
-- [[p.alsoKnownAs]] Multiverse
+- aka: Multiverse
 - [[p.hasURL]] https://www.playmultiverse.com/
-- [[p.alsoKnownAs]] One More Multiverse
+- aka: One More Multiverse
 
 ## 2021-10-22
 

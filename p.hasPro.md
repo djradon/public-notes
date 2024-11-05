@@ -2,12 +2,12 @@
 id: FZuEzk1DnrPw3LydUPSUB
 title: hasPro
 desc: ''
-updated: 1637407278689
+updated: 1730843232284
 created: 1633208109127
 ---
 
 
 
-- [[p.alsoKnownAs]] has pros, has advanatages, has benefits
+- aka: has pros, has advanatages, has benefits
 - [[p.similarReferentTo]] [[p.hasFeature]]
 - [[p.hasContext]]  

@@ -2,13 +2,13 @@
 id: 0DE3L2THV4fMFrCZdKplT
 title: Spaced Repetition
 desc: how to memorize stuff
-updated: 1698957978909
+updated: 1730843232315
 created: 1633090443072
 ---
 
 
 
-- [[p.alsoKnownAs]] distributed practice
+- aka: distributed practice
 - [[p.hasApplication]] [[t.km]] 
 - [[p.hasLearningResource]] 
   - https://ncase.me/remember/

@@ -2,12 +2,12 @@
 id: 1t6ydud7kqwtwww2sryrvlk
 title: QuestJS
 desc: javascript-based interactive fiction framework
-updated: 1696530444813
+updated: 1730843232310
 created: 1662753009547
 ---
 
 - [[p.instanceOf]] [[c.software.game-framework.interactivefiction]]
-- [[p.alsoKnownAs]] Quest6
+- aka: Quest6
 - [[p.hasLearningResource]]
   - https://github.com/ThePix/QuestJS/wiki
 - [[p.hasExample]] 

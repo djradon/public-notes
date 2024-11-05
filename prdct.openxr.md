@@ -4,12 +4,12 @@ title: OpenXR
 desc: >-
   an API aimed for application developers targeting virtual reality or augmented
   reality hardware
-updated: 1697986701493
+updated: 1730843358980
 created: 1696354349576
 ---
 
 - [[p.publishedBy]] [[org.khronos-group]]
-- [[p.supportedBy]]
+- supported-by:
   - [[prdct.godot]]
     - https://github.com/GodotVR/godot_openxr
   - [[prdct.unity]] 
