@@ -2,7 +2,7 @@
 id: i1211kezxlz8q23n9eb6j58
 title: Oclif
 desc: ''
-updated: 1730715043538
+updated: 1730843132961
 created: 1672900642072
 ---
 
@@ -30,3 +30,4 @@ javascript-cli-framework
 
 - https://tlakomy.com/notes-egghead-cli-tooling-oclif-ts
 - https://www.joshcanhelp.com/oclif/
+- [[vs.gluegun-vs-oclif]]

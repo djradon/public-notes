@@ -29,7 +29,7 @@ created: 1650122141316
 
 - Rust enabled runtime
   - The Glamorous Toolkit virtual machine is formed by a Rust runtime that wraps and runs the Pharo virtual machine as a library in a separate operating system thread. The runtime also comes with Rust plugins and with an infrastructure for creating Rust plugins.
-- supports [[t.cs.sd.example-driven-development]], which is like [[t.cs.sd.test-driven-development]], but supports [[t.cs.sd.live-tutorials]]
+- supports [[t.cs.sd.example-driven-development]], which is like [[t.cs.sd.testing.test-driven-development]], but supports [[t.cs.sd.live-tutorials]]
 
 ## Use Cases
 

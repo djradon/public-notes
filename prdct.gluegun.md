@@ -2,7 +2,7 @@
 id: gjsaosaehcd6c442grpqedc
 title: Gluegun
 desc: ''
-updated: 1730712477084
+updated: 1730843121632
 created: 1672965049549
 ---
 
@@ -28,3 +28,8 @@ created: 1672965049549
 👩✈️ _semver_ - working with semantic versioning  
 🎻 _strings_ - manipulating strings & template data  
 📦 _packageManager_ - installing NPM packages with Yarn or NPM
+
+
+## References
+
+- [[vs.gluegun-vs-oclif]]

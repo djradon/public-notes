@@ -2,7 +2,7 @@
 id: br373h3njm5ejoo3rwqjyw9
 title: Semantic Flow CLI Implementation
 desc: ''
-updated: 1730595698079
+updated: 1730842832433
 created: 1730494728887
 ---
 
@@ -1018,3 +1018,4 @@ To set up VSCode debugging for your Deno project using either `--inspect-brk` or
 The choice between `--inspect-brk` and `--inspect-wait` depends on how much control you need at the start of the script. For general purposes, `--inspect-brk` is often sufficient and convenient, but `--inspect-wait` provides greater control, especially useful in remote or delayed debugging scenarios.
 
 
+## Let's go with gluegun for now. Should I go with javascript or typescript?
