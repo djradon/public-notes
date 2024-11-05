@@ -2,7 +2,7 @@
 id: yc40keh2zrpwnsyolhp1md1
 title: PROV-O
 desc: 'the Provenance Ontology provides a set of classes, properties, and restrictions that can be used to represent and interchange provenance information'
-updated: 1730072361636
+updated: 1730815008869
 created: 1712534043697
 ---
 
@@ -27,7 +27,9 @@ created: 1712534043697
 
 ## Issues
 
-- prov:generatedAtTime and prov:invalidatedAtTime seem to point to valid time, but feel like system time in the examples 
+- prov:generatedAtTime and prov:invalidatedAtTime seem to point to valid time, but feel like system time in the examples
+  - t.2024.11.05.05 They talk about things in the real world?
+  - also, "no longer available for use" probably excludes historical purposes. 
 
 
 ## References

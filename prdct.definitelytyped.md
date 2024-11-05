@@ -1,8 +1,8 @@
 ---
 id: vj60dvbtgx3i9j8nb01dksj
-title: Definitelytyped
+title: DefinitelyTyped
 desc: 'The repository for high quality TypeScript type definitions.'
-updated: 1700904927118
+updated: 1730778564283
 created: 1700904902205
 ---
 
