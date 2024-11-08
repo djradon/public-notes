@@ -2,11 +2,11 @@
 id: 95i87rdf941m1gys955bjfr
 title: Temporal Semantic Web
 desc: ''
-updated: 1724994895764
+updated: 1731024852920
 created: 1720469797265
 ---
 
-![](/assets/images/2024-07-10-09-58-55.png)
+![from valid time rdf](/assets/images/2024-07-10-09-58-55.png)
 
 ## References
 

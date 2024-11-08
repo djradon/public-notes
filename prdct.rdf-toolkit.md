@@ -2,12 +2,12 @@
 id: xfgsz06xqzrfizxkhvghgma
 title: Rdf Toolkit
 desc: 'RDF Serializer, to be used in a git commit-hook to force automatic correct rewrite of every OWL ontology '
-updated: 1716323153620
+updated: 1731027785745
 created: 1716322742260
 ---
 
 - repo: https://github.com/edmcouncil/rdf-toolkit
-- [[c.software.semantic]]
+- [[c.software.semantic.canonization]] [[c.software.semantic]] 
 - written-in: java
 
 

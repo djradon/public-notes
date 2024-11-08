@@ -2,7 +2,7 @@
 id: 64ugzw02qgdm4umxjzj2mv1
 title: Multi-Level Theory
 desc: ''
-updated: 1729505988580
+updated: 1731024125331
 created: 1724441343758
 ---
 
@@ -11,6 +11,11 @@ created: 1724441343758
 ## Implementations
 
 - [[prdct.ml2]], [[prdct.melanie]], [[prdct.deeptelos]], [[prdct.ontouml]], [[ar.incorporating-types-of-types-in-ontology-driven-conceptual-modeling]]
+
+## UFO
+
+![](/assets/images/2024-11-07-16-02-01.png)
+
 
 ## chatgpt4.o
 

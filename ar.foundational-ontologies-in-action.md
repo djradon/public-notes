@@ -2,11 +2,11 @@
 id: ghlsg7kgdqzmhsebsf4df3m
 title: Foundational Ontologies in Action
 desc: ''
-updated: 1709767212232
+updated: 1731023989221
 created: 1709751228551
 ---
 
-- author: @stefano-borgo
+- authors: @stefano-borgo
 - url:
   - https://drive.google.com/open?id=1-M83WYA8yDFSL8I4ZmzSgBRmkZ6O5qOI&usp=drive_fs
   - https://www.academia.edu/80990810/Foundational_ontologies_in_action

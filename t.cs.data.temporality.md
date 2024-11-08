@@ -2,7 +2,7 @@
 id: gksoywxa18kxwc9g8r7b2v8
 title: Data Temporality
 desc: ''
-updated: 1720851647111
+updated: 1731024725268
 created: 1634620119007
 ---
 
@@ -67,3 +67,5 @@ created: 1634620119007
 - https://realfiction.net/posts/2d-or-bitemporal-historization-a-primer/
 - [[book.bitemporal-data-theory-and-practice]]
 - [[ar.enabling-retroactive-computing-through-event-sourcing]]
+- [ ] [[ar.fuzzy-spatiotemporal-data-modeling-and-operations-in-rdf]]
+- [ ] [[ar.towards-semantic-identification-of-temporal-data-in-rdf]]

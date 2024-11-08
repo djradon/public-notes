@@ -2,10 +2,12 @@
 id: ursx3z0sljbaugrm8nwshzr
 title: Zazuko Ontology Manager
 desc: 'web application for serving, browsing and modeling RDF Schemas and Ontologies'
-updated: 1718210043915
+updated: 1731027148985
 created: 1714109997904
 ---
 
+- dead, archived 2024-06-26
+- [[c.software.semantic.ontology-editor]]
 - https://zazuko.com/products/ontology-manager/
 - repo: https://github.com/zazuko/ontology-manager
 - published-by: [[org.zazuko]]

@@ -2,9 +2,11 @@
 id: lcbxpavzjfy9p71s6ick0a7
 title: Instances Are Sometimes Classes
 desc: ''
-updated: 1724184736327
+updated: 1731023622090
 created: 1701832231724
 ---
+
+- related: [[t.km.ontology.multi-level-theory]]
 
 ## t.2024.03.16.17
 

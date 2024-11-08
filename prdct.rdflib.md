@@ -2,13 +2,12 @@
 id: eoificzvnephbms5gpupfvi
 title: Rdflib
 desc: ''
-updated: 1716925471810
+updated: 1731027664677
 created: 1716874721355
 ---
 
 
 - written-in: python
-- docs: [[public-notes\prdct.rdf-canonize.md]]
 
 ## Features
 
