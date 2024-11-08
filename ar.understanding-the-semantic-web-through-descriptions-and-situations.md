@@ -2,11 +2,12 @@
 id: a42wc66z30xxlppln5hfm3p
 title: Understanding the Semantic Web through Descriptions and Situations
 desc: ''
-updated: 1720271320976
+updated: 1731042689133
 created: 1717384032283
 ---
 
 - https://www.researchgate.net/publication/225119791_Understanding_the_Semantic_Web_through_Descriptions_and_Situations/
+- topics: [[prdct.dolce]] [[prdct.dolce.dns-ultralite]]
 
 ## Highlights
 

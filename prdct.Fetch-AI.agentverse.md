@@ -2,11 +2,12 @@
 id: ynqpf4ikn6y7jh09pv3eh49
 title: agentverse
 desc: 'a secure and decentralized platform for agents to communicate and perform actions with each other.'
-updated: 1698609496386
+updated: 1731041345065
 created: 1698608745633
 ---
 
 - url: https://agentverse.ai/
+- [[c.software.Agent-Framework]]
 
 ## Pricing
 

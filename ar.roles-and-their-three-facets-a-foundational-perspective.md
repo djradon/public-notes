@@ -2,11 +2,12 @@
 id: g4mcfss08k8e4n3d04hgh3w
 title: Roles and Their Three Facets a Foundational Perspective
 desc: ''
-updated: 1721422021487
+updated: 1731042026861
 created: 1721421892022
 ---
 
 https://content.iospress.com/articles/applied-ontology/ao210244
+- topics: [[prdct.gfo]] 
 
 ## Abstract
 

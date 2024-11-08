@@ -1,9 +1,9 @@
 ---
 id: 81gql7gppjs4x7raw3v9twp
-title: Copilot
+title: Github Copilot
 desc: ''
-updated: 1710963322283
+updated: 1731034167837
 created: 1678569080882
 ---
 
-- [[c.software.ai.development-assistant]]
+- [[c.software.ai.assistant.code]]

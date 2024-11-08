@@ -7,4 +7,4 @@ created: 1716569827199
 ---
 
 - https://www.cognition.ai/blog/introducing-devin
-- [[c.software.ai.development-assistant]]
+- [[c.software.ai.assistant.code]]

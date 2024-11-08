@@ -2,10 +2,11 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1728335619407
+updated: 1731040448352
 created: 1709751631541
 ---
 
+- https://onto-med.github.io/GFO/release/latest/index-en.html
 - url: 
   - https://raw.githubusercontent.com/Onto-Med/GFO/main/gfo-basic.owl
   - https://www.onto-med.de/sites/www.onto-med.de/files/files/uploads/Ontologies/gfo.owl

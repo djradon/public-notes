@@ -2,12 +2,13 @@
 id: 7vvx9npw4cvo6kbsriu6tkl
 title: Processes Endure Whereas Events Occur
 desc: ''
-updated: 1721760605932
+updated: 1731042223918
 created: 1721707969231
 ---
 
 - https://philpapers.org/archive/KASPEW-2.pdf
 - keywords: [[c.ontology.events]] 
+- author: @gilles-cassel
 
 ## Abstract
 

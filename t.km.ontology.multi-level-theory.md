@@ -2,7 +2,7 @@
 id: 64ugzw02qgdm4umxjzj2mv1
 title: Multi-Level Theory
 desc: ''
-updated: 1731024125331
+updated: 1731040606064
 created: 1724441343758
 ---
 
@@ -72,3 +72,5 @@ This structured approach allows for the modeling of complex systems where entiti
 - [[ar.deep-telos-and-dmla-a-contribution-to-the-multi-2022-collaborative-comparison-challenge]]
 - [[ar.an-extensible-approach-to-multi-level-ontology-modelling]]
 - [[ar.multi-level-ontology-based-conceptual-modeling]]
+- [[ar.extending-the-foundations-of-ontology-based-conceptual-modeling-with-a-multi-level-theory]]
+- [[ar.foundations-for-multi-level-ontology-based-conceptual-modeling]]

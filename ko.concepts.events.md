@@ -2,7 +2,7 @@
 id: rlafu31038e4dwitn9di81v
 title: Events
 desc: ''
-updated: 1722575341105
+updated: 1731042279263
 created: 1722055242086
 ---
 
@@ -18,3 +18,5 @@ created: 1722055242086
 - [[ar.reification-and-truthmaking-patterns]]
 - [[ar.towards-ontological-foundations-for-the-conceptual-modeling-of-events]] 
 - [ ] [[ar.towards-an-ontological-foundation-of-agent-based-simulation]]
+- [[book.ontology-makes-sense.processes-endure-whereas-events-occur]]
+- 

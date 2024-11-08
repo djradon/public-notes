@@ -2,7 +2,7 @@
 id: gevpci170z4xpynl0eyhkhf
 title: Temporality
 desc: ''
-updated: 1730641278727
+updated: 1731042333262
 created: 1722876821821
 ---
 
@@ -79,3 +79,4 @@ created: 1722876821821
 ## References
 
 - [[ar.telicent.4d-ontology]]
+- [[ar.temporal-representation-and-reasoning-in-owl-2]]

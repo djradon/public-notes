@@ -2,7 +2,7 @@
 id: z3pkf5refvqjdtlwon2gu3f
 title: Polyhierarchy Vs Heterarchy
 desc: ''
-updated: 1724447523494
+updated: 1731041939798
 created: 1724446938865
 ---
 
@@ -53,3 +53,8 @@ Both polyhierarchy and heterarchy are valuable for organizing complex informatio
 ## could a polyhierarchy have multiple top-items? or would that be a heterarchy?
 
 A polyhierarchy can have multiple top items and still be considered a polyhierarchy, as long as the overall structure remains hierarchical (i.e., entities are organized into levels or categories, with relationships that respect a top-down or parent-child structure). On the other hand, a heterarchy is characterized by the lack of such hierarchical organization, favoring a more network-like structure where there are no fixed top items.
+
+
+## References
+
+- [ ] [[ar.heterarchy]]
