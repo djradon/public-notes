@@ -1,6 +1,6 @@
 ---
 id: zsaw29dxuikv8rbgofvjm78
-title: Metalsmith Semantic Flow
+title: 2024 10 29 Metalsmith Semantic Flow
 desc: ''
 updated: 1730310140834
 created: 1730208164226
