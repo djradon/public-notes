@@ -2,7 +2,7 @@
 id: lvhd3wl7fkyor4tisi0rcio
 title: 2024 11 04 Sflow Site Hierarchy
 desc: ''
-updated: 1731190949924
+updated: 1731219982897
 created: 1730780990994
 ---
 
@@ -1684,4 +1684,750 @@ Consider organizing the dataset and version references as follows:
 
 This structure aims to keep your terminology clear, intuitive, and unambiguous, making it easier for others to understand and for tools to interact consistently with the data. Let me know if this helps, or if you'd like to refine any part of this further!
 
-## 
+## ontology use case (dave)
+
+You should be able to place a complete ontology file (a dataset file) in the data directory, and it mints the ontology IRI and all the ontology elements' IRIs in subfolders. In a sense the ontology IRI is a sub-namespace, but a very different thing from a SFNamespaceRepo. Would each of the ontology elements get their own _touchstone and _catalog series? I think we need to flesh out _catalog... does it lists other references, or only the serieses subsumed under the NamedIndividual in the hierarchy.
+
+## ontology use case (chatgpt)
+
+These are some important questions, especially as you dive deeper into the intricacies of ontology management and versioning. Let's break down each aspect:
+
+### **Ontology IRI and Sub-Namespace Considerations**
+1. **Ontology as a Sub-Namespace**:
+   - When placing a **complete ontology file** in the data directory, minting an **ontology IRI** and then each of the **ontology elements** into subfolders seems like a logical way to organize the ontology elements.
+   - The **ontology IRI** serving as a **sub-namespace** is intuitive, as it allows you to logically group all the related elements. However, it differs significantly from a **SFNamespaceRepo**, which is broader and potentially integrates multiple ontologies, datasets, and more within a larger, centralized namespace.
+
+2. **Minting IRIs for Ontology Elements**:
+   - Each **ontology element**—such as classes, properties, or individuals—could get its own **IRI** represented within subfolders, keeping the structure clear and consistent.
+   - This would allow for greater granularity and modularity when managing ontology elements, which can be useful when evolving individual parts of the ontology over time.
+
+### **Should Each Ontology Element Get `_touchstone` and `_catalog`?**
+- **_touchstone for Ontology Elements**:
+  - It makes sense to consider that **each ontology element** could have its own `_touchstone`. This would establish each element's **authoritative version**, allowing updates and changes to be handled in a systematic way.
+  - For example, an ontology class might evolve independently from other classes, so having a `_touchstone` for each element provides a stable reference point and allows for independent versioning.
+
+- **_catalog for Ontology Elements**:
+  - The question of whether each element should get its own `_catalog` depends on the role you envision for `_catalog`. Here are two possible interpretations:
+    1. **If `_catalog` serves to list all available versions or related series**:
+       - Then each ontology element might also benefit from having its own `_catalog`. This would be particularly useful if you want to track and document all historical versions or variations of a specific element (e.g., a class evolving through multiple iterations).
+    2. **If `_catalog` only refers to subsumed series**:
+       - This could be more restrictive, in that the `_catalog` would list only the series **directly under the hierarchy of the NamedIndividual**. In that case, the ontology as a whole would have a `_catalog`, while individual elements might be tracked differently.
+
+### **Defining `_catalog` More Fully**
+1. **Role of `_catalog`**:
+   - The **function of `_catalog`** should be clearly defined, depending on how much metadata and contextual information you need to store:
+     - **Listing References**: If `_catalog` should **list other references**, it could point to **external ontologies, imported classes**, or other relevant metadata. This would make it useful for ontology reuse and discovery.
+     - **Subsumed Series**: Alternatively, if `_catalog` is meant to **list only the series under the NamedIndividual**, it would serve as a kind of internal directory, strictly managing the elements that are part of the ontology.
+
+2. **Hybrid Catalog Approach**:
+   - It might make sense to create a **hybrid `_catalog`** that:
+     - **Lists all series** directly within the **NamedIndividual's hierarchy**.
+     - **Includes pointers** to **external references or linked ontologies**. This could allow you to have a clear view of the ontology's internal evolution while also making it easy to understand its relationships with external sources.
+   - This could look like:
+     - **Internal Reference**: List of `_touchstone` and `_series` elements for ontology classes, properties, etc.
+     - **External Links**: Pointers to imported ontologies, external datasets, or other referenced ontological resources.
+
+3. **Examples of What `_catalog` Could Include**:
+   - **Versions and Series** of ontology elements (`_touchstone`, `_series` paths).
+   - **Imported Elements** from other ontologies (`owl:imports`).
+   - **Related NamedIndividuals** that provide contextual links or dependencies.
+   - **Historical Information** that tracks changes and updates to the ontology elements over time.
+
+### **Workflow for Ontology and Element Management**
+1. **Placing Ontology File in Data Directory**:
+   - When you place an ontology file in the **data directory**, the **ontology IRI** is minted, and the **IRIs of ontology elements** are automatically created based on the ontology's structure.
+   - For each ontology element, a subfolder could be created, such as:
+     ```
+     {namespace}/ontology/
+       ├── ClassA/
+       │   ├── _touchstone/
+       │   └── _catalog/
+       ├── PropertyB/
+       │   ├── _touchstone/
+       │   └── _catalog/
+       └── IndividualC/
+           ├── _touchstone/
+           └── _catalog/
+     ```
+2. **Managing Versions and Evolution**:
+   - Each **element** could evolve independently, meaning that **_touchstone** serves as the authoritative, evolving version of each element, while **_catalog** provides pointers to past versions or references.
+   - When elements evolve, new versions would be added to their respective **_series** paths (or whatever naming convention you finalize).
+
+3. **Automation for Consistency**:
+   - The **automated creation** of IRIs, `_touchstone`, and `_catalog` for ontology elements can ensure consistency and reduce manual errors.
+   - **Validation scripts** could ensure that each new ontology file placed in the directory adheres to the expected structure, automatically creating the subfolders and IRIs needed.
+
+### **Summary**
+- **_touchstone** works well for providing a **stable, evolving reference** for each ontology element.
+- **_catalog** needs a clearer definition: it could list **subsumed series** and/or **external references**, depending on whether it serves as an **internal directory** or a broader **contextual reference**.
+- The process of placing a **complete ontology** into the data directory and minting IRIs for elements should create a structured approach where each element can evolve independently while being tied to the ontology as a whole.
+
+If you need help further specifying the role of `_catalog` or structuring the automation for this workflow, let me know!
+
+## touchstone
+
+I understand your concerns about **"origin"** potentially implying a one-time starting point that doesn’t evolve, which might mislead users regarding the nature of the dataset series. Let's explore **"_touchstone"**:
+
+### **Touchstone as a Choice**
+- **_touchstone** has a very interesting connotation:
+  - It suggests something that serves as a **benchmark or standard**—a reference against which other versions or instances are evaluated.
+  - It conveys **authority and reliability**, which aligns with your idea of having a definitive version without implying it is static or incapable of evolving.
+  - Historically, a **touchstone** was used to test the quality of gold or silver, which gives it a connotation of being the measure of **authenticity**—a fitting metaphor for a dataset that serves as the core reference.
+
+### **Pros of Using "_touchstone"**:
+1. **Authority Without Stagnation**:
+   - Unlike "origin," **"touchstone"** doesn’t imply that it’s the progenitor or a fixed starting point. Instead, it implies ongoing **relevance and importance**.
+2. **Benchmarking**:
+   - It implies that other versions might be **compared to or evaluated against** it, which makes sense for a dataset that evolves but remains the central reference.
+3. **Uniqueness**:
+   - The term **"touchstone"** is unique and memorable, which helps differentiate it from other terms like "main," "core," or "standard."
+
+### **Considerations**:
+- **Abstract Nature**: **Touchstone** is more abstract compared to terms like "standard" or "primary," so it may require some explanation when introduced to others, especially in a technical context. However, it has a memorable quality and conveys the right level of importance.
+
+### **Final Thoughts**:
+**_touchstone** seems like a strong candidate—it suggests both **authority** and **continuity** while avoiding implications of being static or unchanging, which is ideal for a dataset that will evolve but remain definitive. It gives a sense of something that all versions should relate to or be evaluated by, maintaining its role as the key reference point.
+
+If you decide on **_touchstone**, it should convey the idea of being the core standard clearly, without the unintended connotations of "origin." Let me know if this works for you or if you'd like to explore any other directions!
+
+(and then)
+
+Great choice! **_touchstone** definitely has a unique and memorable quality to it, standing out from the usual terminology. It gives your system a distinct identity and conveys authority without being too rigid or clichéd. If you need any further assistance integrating this into your framework or defining its role in detail, just let me know!
+
+
+## _catalog elaboration (dave)
+
+I think _catalog should at least reference external vsets / series that the namespaced series might be a continuation of (or branch of). So at least some external references. 
+
+## _catalog elaboration (chatgpt)
+
+That makes perfect sense—having `_catalog` include **external references** like `vsets` or series that the current namespaced series builds upon or branches from helps to provide valuable **context and provenance**. This approach will allow you to represent **lineage**, making it clear how the current dataset or ontology **connects to previous work** or **diverges from a parent**.
+
+### **Role of External References in `_catalog`**
+1. **External Continuations or Branches**:
+   - **Referencing external series** as part of `_catalog` establishes clear relationships, like which datasets or ontology elements the current series is derived from or is extending.
+   - This can be incredibly valuable for understanding the **evolutionary history** of a dataset, especially when dealing with **branches or forks** from a common base.
+
+2. **Provenance and Traceability**:
+   - Including these references will enhance **traceability**, allowing users or tools to follow the evolution of data across namespaces.
+   - It also gives a clear view of where a dataset **originated** and helps maintain a logical **flow of authority**, especially important when datasets or ontologies are used collaboratively or across different projects.
+
+### **Suggested `_catalog` Structure**:
+The `_catalog` structure could be extended to accommodate:
+- **Internal References**: 
+  - Pointing to **subsumed series** or elements directly under the current NamedIndividual’s hierarchy.
+- **External References**: 
+  - Linking to **external `vsets` or series** that are related by:
+    - **Continuation**: If the current series is a direct continuation or update of an external series.
+    - **Branching**: If it diverges from another dataset or ontology but retains some shared lineage.
+  - You could include metadata indicating the **type of relationship** (e.g., continuation, branch, import) to make these references richer and more informative.
+
+### **Catalog Example with External References**:
+```turtle
+{namespace}/dave-richardson/_catalog/index.trig
+    :containsSeries {namespace}/dave-richardson/_touchstone/
+    :hasExternalReference [
+        :type "continuation" ;
+        :refersTo <https://external.org/ontology/vset/v1/>
+    ] ;
+    :hasExternalReference [
+        :type "branch" ;
+        :refersTo <https://example.org/related-dataset-series/v2/>
+    ] .
+```
+- This structure provides a **clear view of relationships**, both internal and external, with appropriate metadata to define the nature of the reference.
+- **Relationships** like "continuation" or "branch" help convey whether this dataset builds on previous work or represents a divergence.
+
+### **Benefits of Including External References**:
+1. **Enhanced Discoverability**:
+   - By listing **external references**, you make it easier for consumers to discover related datasets or ontologies, providing a **wider context** for understanding how a particular series fits into the broader picture.
+2. **Collaboration**:
+   - This could also facilitate **collaborative ontology development**—other teams or projects could more easily see how your dataset extends or diverges from an existing one.
+3. **Provenance Data**:
+   - Keeping track of external continuations or branches within `_catalog` also forms a **provenance trail**, which is crucial for **data integrity** and **accountability**, especially in open or distributed data environments.
+
+### **Next Steps for `_catalog`**:
+- **Define Metadata Schema**: Decide on the **types of relationships** (e.g., "continuation," "branch," "import") that you will track in `_catalog`. This will make the external references more meaningful.
+- **Automation of External Linking**: When placing a dataset file in the data directory, you could use **automated scripts** to:
+  - Detect **external dependencies** (e.g., based on imports).
+  - Automatically create appropriate **references** within `_catalog`.
+- **Visual Representation**: Consider how these references could be **visualized** on a static site, making it easier for users to navigate both internal and external relationships.
+
+Your decision to include these external references will certainly strengthen the contextual understanding of your data and support a more connected and discoverable dataset landscape. Let me know if you need further assistance in fleshing out the `_catalog` role or automating this process!
+
+## namespace repo layout
+
+- data
+  - sflow-ontology.ttl
+  - dave-richardson.jsonld
+- docs
+  - sflow-ontology
+    - _dss 
+      - _catalog
+        - vset
+          - v1
+            - dist
+              - index.ttl
+              - index.jsonld
+      - _touchstone
+        - vset
+          - v1
+            - dist
+              - index.ttl
+              - index.jsonld
+          - v2
+            - dist
+              - index.ttl
+              - index.jsonld
+    - SFNamespaceRepo
+      - _dss 
+        - _catalog
+          - vset
+            - v1
+              - dist
+                - index.ttl
+                - index.jsonld
+        - _touchstone
+          - vset
+            - v1
+              - dist
+                - index.ttl
+                - index.jsonld
+            - v2
+              - dist
+                - index.ttl
+                - index.jsonld
+      - index.html
+      - index.trig
+      - index.jsonld
+    - hasOutputFolder
+      - _dss 
+        - _catalog
+          - vset
+            - v1
+              - dist
+                - index.ttl
+                - index.jsonld
+        - _touchstone
+          - vset
+            - v1
+              - dist
+                - index.ttl
+                - index.jsonld
+            - v2
+              - dist
+                - index.ttl
+                - index.jsonld
+      - index.html
+      - index.trig
+      - index.jsonld
+    - index.html
+    - index.trig                       # TTL: pointers to current _touchstone and _catalog and maybe their contents in named graphs
+    - index.jsonld                     # JSONLD: pointers to current _touchstone and _catalog and maybe their contents in named graphs
+    - sflow-ontology.ttl               # Current distribution of the touchstone dataset
+    - sflow-ontology.jsonld            # Current distribution in JSON-LD
+    - sflow-ontology-catalog.ttl       # Current catalog dataset distribution
+    - sflow-ontology-catalog.jsonld    # Current catalog in JSON-LD
+  - dave-richardson
+    - _dss 
+      - _catalog
+        - vset
+          - v1
+            - dist
+              - index.ttl
+              - index.jsonld
+      - _touchstone
+        - vset
+          - v1
+            - dist
+              - index.ttl
+              - index.jsonld
+          - v2
+            - dist
+              - index.ttl
+              - index.jsonld
+- ssg
+- sflow.config
+
+## index vs matched filename (dave)
+
+I've used "index.ttl" and "index.jsonld" in the vset versions, but those will be copies of the source "data" files, so maybe the name should be preserved. On the other hand, I didn't illustrate that every single folder (e.g., sflow-ontology/dss/_catalog/vset) will also have an index.html file, and probably index.ttl/index.json-ld files too, so you could argue that for consistency, the distributions should stay as index.ttl too... but I think I'm leaning towards making those leaf distribution filenames match the source.
+
+## index vs matched filename (chatgpt)
+
+You've raised an important point about maintaining **consistency** and preserving the **integrity of the original data files** while ensuring that your structure is navigable and intuitive. Let's break down the pros and cons of each approach and what might best serve your goals.
+
+### **Option 1: Preserve Original Filenames for Leaf Distributions**
+1. **Advantages of Preserving Filenames**:
+   - **Traceability**: By preserving the **original file names** in the **leaf distributions** (`vset` folders), there is a **clear, direct link** between the source file in `data` and its representation in the `docs` structure.
+   - **Reduced Confusion**: Users and collaborators working with the ontology or datasets will find it easier to identify the original file just by looking at the name in the distribution folder. For example, `sflow-ontology.ttl` appearing in `vset/v1/` is much more explicit about its origins than a generic `index.ttl`.
+   - **Less Duplication Ambiguity**: Maintaining unique filenames helps reduce potential confusion, especially if multiple versions or different ontologies end up in the same workspace (e.g., if someone downloads files locally).
+
+2. **Workflow Clarity**:
+   - When **automating workflows** (e.g., updates from `data` to `docs`), it's easier to **track changes** in a source-to-distribution manner if filenames match.
+   - This approach supports a **more granular version control** process since each specific dataset or ontology file is distinctly identifiable across different versions.
+
+3. **Example Structure with Preserved Filenames**:
+   ```
+   - docs
+     - sflow-ontology
+       - _dss 
+         - _touchstone
+           - vset
+             - v1
+               - dist
+                 - sflow-ontology.ttl
+                 - sflow-ontology.jsonld
+             - v2
+               - dist
+                 - sflow-ontology.ttl
+                 - sflow-ontology.jsonld
+     - dave-richardson
+       - _dss 
+         - _touchstone
+           - vset
+             - v1
+               - dist
+                 - dave-richardson.jsonld
+   ```
+   - Each **distribution file** retains the original name, preserving its identity.
+
+### **Option 2: Use `index.ttl` for Consistency Across All Folders**
+1. **Advantages of Consistent Filenames**:
+   - **Uniformity**: Every folder, regardless of what it represents, follows a **consistent naming convention** (`index.ttl`, `index.jsonld`). This makes it easy to **know what to expect** when navigating the structure, reducing ambiguity about which file to look for within a folder.
+   - **Simple Navigation**: If every folder has an `index.html` or `index.ttl`, it makes web-based discovery more consistent, especially when using a **static site generator**. The idea of default files (`index.*`) is commonly understood, which might make the SSG easier to configure.
+   - **Reduced Overhead in SSG**: Using a consistent file naming convention means that **templates and automation scripts** don’t have to consider different filenames for different versions, which can simplify the configuration and setup.
+
+2. **Potential Drawbacks**:
+   - **Ambiguity** in Representation: The term "index" is **generic**, and without sufficient metadata, it might not be immediately clear which version or element the file refers to. This could lead to some confusion if users are dealing with multiple datasets.
+   - **Loss of Traceability**: By not preserving the original filenames, the **direct link** between the source data (`data` folder) and its representation in the `docs` structure is less obvious, which could make tracking data provenance slightly harder.
+
+3. **Consistency at the Cost of Clarity**:
+   - If all **leaf nodes** are named `index.ttl`, you'll need a **strong metadata strategy** to identify and differentiate versions. This might include using metadata within the RDF itself to indicate the original source, version, or other unique identifiers.
+
+### **Leaning Towards Preserving Filenames in Leaf Nodes**
+Considering your goal of providing clarity and **avoiding redundancy**, it seems that preserving the **original filenames** (e.g., `sflow-ontology.ttl`, `dave-richardson.jsonld`) within the **leaf distribution folders** is a good choice. Here are some reasons why this approach might work best:
+
+- **Clear Provenance**: The name itself acts as a form of metadata, making it easier to trace the **source**.
+- **Less Manual Cross-Referencing**: Users don’t need to rely on metadata or dig into RDF content to know which version or dataset they are looking at—the **filename itself provides context**.
+- **Simplicity for Automation**: While using consistent names like `index.*` might make some automation easier, preserving the original filename simplifies the **mapping from source to version**, which may make the update process more transparent and error-resistant.
+
+### **Balancing Consistency and Original Filenames**
+To strike a balance:
+- Use **original filenames** for the **leaf distributions** to preserve context and clarity.
+- Continue using `index.*` for **navigation files** within each folder (e.g., `index.html` for browsing or general context at the folder level).
+- **Metadata in Index Pages**: Each folder's `index.html` could provide **links to the preserved filenames** within the `dist` directory, giving users an easy way to understand the context while keeping everything navigable.
+
+### **Proposed Approach**:
+- **Distribution Filenames**:
+  - Keep the **source filenames** in leaf nodes: 
+    - E.g., `sflow-ontology.ttl`, `dave-richardson.jsonld`.
+- **Index Files for Navigation**:
+  - Maintain `index.html`, `index.ttl`, and `index.jsonld` at higher levels (e.g., in each `vset` folder) to serve as **navigational or summary points**.
+
+### **Example Layout Reflecting This Choice**:
+```
+- docs
+  - sflow-ontology
+    - _dss 
+      - _catalog
+        - vset
+          - v1
+            - dist
+              - sflow-ontology.ttl
+              - sflow-ontology.jsonld
+            - index.html
+            - index.ttl
+          - v2
+            - dist
+              - sflow-ontology.ttl
+              - sflow-ontology.jsonld
+            - index.html
+            - index.ttl
+```
+This approach offers a **balanced mix of consistency** and **source traceability**, making your repository both intuitive to navigate and true to its origins. Let me know if this helps solidify the direction or if you'd like to refine any part of it further!
+
+
+## current IRIs revisited (dave)
+
+One other thing to circle back to... the NamedIndividual's top-level index.trig was going to have a default graph with pointers to the catalog and touchstone, and named graphs with the contents of the current datasets for those two as well. But we don't have an IRI that corresponds to the current catalog or touchstone dataset. I like the idea of not bury the current in the dss/_catalog/vset folders, so maybe at the top level we could have sflow-ontology/_touchstone and sflow-ontology/_catalog ? I don't want to re-use sflow-ontology itself, because the referent is an ontology, not a "current version"
+
+## current IRIs revisited (dave)
+
+I see your point—you need a **distinct IRI** that can cleanly and clearly represent the **current versions** without conflating it with the ontology itself. Here's a refined approach to help make the concept of **current touchstone and catalog** more explicit:
+
+### **Proposed Structure for Current Versions**
+1. **Top-Level Representation for Current Versions**:
+   - Rather than embedding the **current versions** deep within the `dss/_catalog/vset` folders, placing them at the **top level** makes them more **discoverable** and emphasizes their role as the **authoritative, up-to-date references**.
+   - Using paths like:
+     - `sflow-ontology/_touchstone/`
+     - `sflow-ontology/_catalog/`
+   - These paths can represent the **current state** of the touchstone and catalog, respectively, without burying them within the version hierarchy. This helps make the most recent data more accessible, which aligns with the intent of representing a central, up-to-date version.
+
+2. **Top-Level Folder Names**:
+   - The structure would look something like this:
+     ```
+     sflow-ontology/
+       - _touchstone/
+         - index.ttl
+         - index.jsonld
+       - _catalog/
+         - index.ttl
+         - index.jsonld
+       - _dss/
+         - _catalog/
+           - vset/
+             - v1/
+               - dist/
+                 - index.ttl
+                 - index.jsonld
+           - v2/
+               - dist/
+                 - index.ttl
+                 - index.jsonld
+         - _touchstone/
+           - vset/
+             - v1/
+               - dist/
+                 - index.ttl
+                 - index.jsonld
+             - v2/
+               - dist/
+                 - index.ttl
+                 - index.jsonld
+     ```
+
+3. **Clarifying the Role of Current Versions**:
+   - **`_touchstone`** and **`_catalog`** at the **top level** would serve as pointers to the **most up-to-date version**.
+   - They contain the **current dataset** directly, and this **IRI clearly differentiates** between the concept of the ontology (`sflow-ontology`) and the current authoritative content.
+
+4. **Using `index.trig` for Centralized Access**:
+   - The **top-level `index.trig`** for `sflow-ontology` could be structured as follows:
+     - A **default graph** pointing to both `_catalog` and `_touchstone`.
+     - **Named graphs** containing the contents of the current dataset from both `_touchstone` and `_catalog`.
+   - This setup provides a **centralized entry point** for accessing the ontology, its current state, and the related catalog, making navigation and data discovery easier.
+
+5. **Avoiding Reuse of `sflow-ontology`**:
+   - Keeping the **`sflow-ontology`** IRI distinct ensures that it continues to represent the **abstract concept of the ontology** rather than a particular version or dataset.
+   - The paths like **`_touchstone`** and **`_catalog`** directly under `sflow-ontology` allow you to avoid the ambiguity of reusing `sflow-ontology` for two different referents.
+
+### **Benefits of This Approach**
+1. **Separation of Concerns**:
+   - By separating **current versions** into distinct **top-level folders**, you achieve a **clear distinction** between the ontology itself and the **evolving datasets** that represent the current state of the catalog and touchstone.
+   - This keeps **navigation intuitive**—users know they can always go to the top-level `_touchstone` or `_catalog` to access the most recent, authoritative data.
+
+2. **Ease of Access**:
+   - Placing the current versions at the top level makes them **immediately accessible** without needing to navigate through potentially nested version structures.
+   - This aligns well with the idea of having a centralized `index.trig` that points directly to these top-level folders.
+
+3. **Logical Consistency**:
+   - This approach avoids any overlap between the **IRI for the ontology** and the IRI for the **current version** of the datasets, maintaining **semantic clarity**.
+   - It also respects the distinction between **the ontology as a concept** and its **current dataset representation**, making it easier to use and understand in practical applications.
+
+### **Final Thoughts**
+- Having **top-level `_touchstone` and `_catalog`** makes it very clear what the most recent version is, and it avoids the semantic confusion of reusing `sflow-ontology` for a purpose it was not intended to serve.
+- This also simplifies version management, as the **most up-to-date datasets** are always kept at an easy-to-access location, while historical versions remain organized within their `vset` folders under `_dss`.
+
+This structure seems to strike the right balance between **clarity, discoverability**, and **semantic rigor**. Let me know if this aligns with your vision, or if you'd like to refine it further!
+
+## trouble with repurposing touchstone and catalog (dave)
+
+one issue with that is that _touchstone and _catalog are dataset series, so now they're being used to reference the current dataset. Not great. Maybe you don't even need to be able to reference the current version. As long as you can access the current version via the top-level index.trig
+
+
+## trouble with repurposing touchstone and catalog (chatgpt)
+
+That's a very insightful point. You've identified a key distinction: **`_touchstone`** and **`_catalog`** are inherently **dataset series**, not individual datasets or versions. Using these series labels to represent the current version could indeed lead to confusion. Here's a refined approach to address this:
+
+### **Refined Approach: Removing the Need to Reference Current Versions Explicitly**
+1. **Rely on `index.trig` for Centralized Access**
+   - Instead of creating **separate top-level folders** for `_touchstone` and `_catalog` to represent the current versions, you could leverage the **top-level `index.trig`** as the **centralized entry point** to provide access to:
+     - The **latest version** of the `_touchstone` series.
+     - The **latest catalog** without explicitly defining a new IRI for the current version.
+  
+2. **Structure of `index.trig`**:
+   - The **`index.trig`** at the top level of `sflow-ontology` could have:
+     - A **default graph** with pointers to the **current dataset series** (`_touchstone` and `_catalog`).
+     - **Named graphs** that contain the **contents** of the **current datasets** from both `_touchstone` and `_catalog`. These named graphs could use the appropriate versioned IRI, but the key is that the data itself is accessible here without needing an explicit "current" label.
+
+   - Example structure:
+     ```turtle
+     :default {
+         :hasTouchstone <https://namespace/sflow-ontology/_dss/_touchstone/vset/v2/> .
+         :hasCatalog <https://namespace/sflow-ontology/_dss/_catalog/vset/v2/> .
+     }
+     
+     :graph <https://namespace/sflow-ontology/_dss/_touchstone/vset/v2/> {
+         # Contents of the current _touchstone dataset
+     }
+
+     :graph <https://namespace/sflow-ontology/_dss/_catalog/vset/v2/> {
+         # Contents of the current _catalog dataset
+     }
+     ```
+   - This way, the **current versions** are represented through their **latest named graphs**, but there’s no explicit need to label them as "current." The `index.trig` acts as the navigator, providing access to the **latest authoritative datasets**.
+
+3. **Why Removing Explicit "Current" References Works**:
+   - **Reduces Ambiguity**: By not assigning the current version to `_touchstone` or `_catalog` explicitly, you avoid any confusion about what those terms represent—they continue to stand for the **entire dataset series**.
+   - **Simplifies Version Management**: This approach lets the **dataset series (`_touchstone` and `_catalog`) remain consistent** as the evolving collections they are, while still making the **current version accessible** via the top-level entry point.
+   - **No Need for Redundant IRIs**: There’s no additional layer of IRIs for current versions, which helps avoid redundancy and reduces the complexity of your IRI space.
+
+4. **Accessing the Current Version via `index.trig`**:
+   - **Top-Level Access**: Consumers who need to access the **most recent version** of a dataset can do so directly through the **top-level `index.trig`**, which will always point to the latest `vset`.
+   - The **default graph** can contain metadata and pointers to the **current named graphs**, while the named graphs themselves hold the **current dataset content**.
+  
+5. **Automation and Workflow Considerations**:
+   - Whenever a new version of **`_touchstone`** or **`_catalog`** is created:
+     - The **`index.trig`** is automatically updated to point to the **newest `vset`**.
+     - This ensures that consumers using the `index.trig` always access the **latest authoritative content**.
+   - This process can be fully **automated**, making sure that there are no manual updates that could lead to inconsistencies between the versions and what is indicated in the entry point.
+
+### **Summary**
+- **Avoid Explicit "Current" Labels**: Instead of creating `_touchstone` and `_catalog` at the top level for current versions, use the **`index.trig`** as a central navigator that points to the most recent `vset` for both series.
+- **Preserve Semantic Clarity**: `_touchstone` and `_catalog` remain clearly as **dataset series**, while `index.trig` handles the role of making the current version easily accessible.
+- **Simplify Version Management**: This approach keeps your **versioning structure simple**, avoids redundant IRIs, and maintains clarity about the purpose of each series.
+
+By relying on **`index.trig`** for access to the latest versions, you maintain a clean structure that accurately reflects the nature of each element while making the **current, authoritative datasets** easily discoverable. This way, the focus remains on the **dataset series** evolving naturally, with the `index.trig` acting as a dynamic and consistent entry point.
+
+Let me know if this aligns with what you're aiming for or if you'd like to iterate further on any part of this plan!
+
+
+## current options and leaf naming (dave)
+
+It aligns, but I'm still uneasy about not having a way to refer to the current touchstone or catalog distinctly, or access them directly and individually.
+
+regarding leaf/distribution node naming, we could additionally have index.ttl files that just point to the named distribution files.
+
+## current options and leaf naming (dave)
+
+I understand your concern—it makes sense to want a distinct way to **refer to** and **access the current `_touchstone` and `_catalog`** datasets directly, especially if there are use cases where you need that straightforward reference.
+
+### **Options for Referencing the Current `_touchstone` and `_catalog`**
+
+1. **Introduce "Current" Pointers at the Top-Level**:
+   - You could introduce **top-level IRIs** specifically to point to the **current version** of `_touchstone` and `_catalog`. This way, you maintain a clear and distinct path for accessing these current datasets, while still keeping the logical separation intact.
+   - For example:
+     ```
+     sflow-ontology/
+       - _current_touchstone/
+         - index.ttl
+         - index.jsonld
+       - _current_catalog/
+         - index.ttl
+         - index.jsonld
+     ```
+   - These folders (e.g., `_current_touchstone`) are simply **pointers** to the current version of the `_touchstone` and `_catalog` series. This way, you can access the current dataset without confusion. Internally, these files could be generated and updated whenever a new version is created.
+
+2. **Using Named Graphs in `index.trig` for Current Reference**:
+   - Another approach would be to maintain a **named graph** within the top-level `index.trig` that acts as a **reference** to the current version and can be dereferenced directly.
+   - You could give these graphs **consistent, distinct IRIs** like:
+     ```turtle
+     <https://namespace/sflow-ontology/_current_touchstone> {
+         # Contents or pointers to the current touchstone dataset
+     }
+
+     <https://namespace/sflow-ontology/_current_catalog> {
+         # Contents or pointers to the current catalog dataset
+     }
+     ```
+   - This provides a **specific IRI** to point directly to the **current version**, while still allowing the `index.trig` to act as a centralized discovery point.
+
+3. **Direct Pointers Using RDF `owl:sameAs` or Custom Property**:
+   - Inside **`index.trig`**, you could create **explicit pointers** to identify the current version of `_touchstone` and `_catalog` using a standard like **`owl:sameAs`** or a custom property.
+   - Example:
+     ```turtle
+     :currentTouchstone owl:sameAs <https://namespace/sflow-ontology/_dss/_touchstone/vset/v2/> .
+     :currentCatalog owl:sameAs <https://namespace/sflow-ontology/_dss/_catalog/vset/v2/> .
+     ```
+   - This way, any system querying the top-level `index.trig` can easily extract and use the **current IRI**, making direct access possible.
+
+### **Leaf/Distribution Node Naming: Adding `index.ttl` Pointers**
+- **Index Files as Pointers**:
+  - Adding **`index.ttl`** files in each leaf or distribution folder that **point to the named files** is a great idea to retain **consistency** while also preserving the **original filenames**.
+  - These `index.ttl` files would essentially act as **navigational aids**:
+    - They can contain RDF statements like `owl:sameAs` or similar to reference the **distribution with its original name**, ensuring a clear path for software and human users alike.
+    - Example structure in a `vset` folder:
+      ```
+      v1/
+        - dist/
+          - index.ttl  # Contains pointers to the specific distribution files.
+          - sflow-ontology.ttl
+          - sflow-ontology.jsonld
+      ```
+    - The **`index.ttl`** would include:
+      ```turtle
+      :distribution a dcat:Distribution ;
+          dct:title "sflow-ontology TTL Version" ;
+          owl:sameAs <https://namespace/sflow-ontology/vset/v1/sflow-ontology.ttl> .
+      ```
+  - This setup maintains a consistent **index-based navigation** while retaining the uniqueness of the **distribution filenames**.
+
+### **Summary**
+- **Top-Level Pointers for Current Versions**:
+  - Introducing **`_current_touchstone`** and **`_current_catalog`** folders at the top level of `sflow-ontology` would provide an unambiguous and direct reference to the **current versions**, without confusing them for a full dataset series.
+- **Named Graphs for Current Reference**:
+  - Use **distinct IRIs** within `index.trig` as **named graphs** to clearly identify the current version of each series.
+- **Index.ttl as Navigational Pointers**:
+  - Adding **`index.ttl`** files in each distribution folder that point to the specific distribution files helps balance **navigational consistency** and **original filename clarity**.
+
+These approaches should help alleviate the unease around not having a clear reference for the current version, while also ensuring that the structure remains intuitive and that **discoverability** is easy both programmatically and for users. Let me know if this feels more aligned with what you're aiming for or if you'd like to iterate further!
+
+## eurekea on current (dave)
+
+Since the current are actually current dataset distributions, we could use the distribution convention to refer, e.g. sflow-ontology/sflow-ontology.ttl and sflow-ontology/sflow-ontology-catalog.ttl
+
+## eurekea on current (dave)
+
+That's a solid idea. Using the **distribution naming convention** to identify the current versions is both intuitive and consistent with the broader approach to RDF dataset management and versioning. This allows you to explicitly reference the current dataset distributions while keeping the semantics clear and avoiding the ambiguity we discussed before.
+
+### **Revised Approach for Current Dataset Distributions**
+1. **Naming Convention for Current Dataset Distributions**:
+   - Instead of having separate folders or introducing ambiguous top-level markers, you can directly place the **current dataset distributions** at the **top level of the namespace**, using the **original filenames**:
+     ```
+     sflow-ontology/
+       - sflow-ontology.ttl               # Current distribution of the main touchstone dataset
+       - sflow-ontology.jsonld            # JSON-LD version of the current touchstone
+       - sflow-ontology-catalog.ttl       # Current distribution for the catalog dataset
+       - sflow-ontology-catalog.jsonld    # JSON-LD version for the current catalog
+     ```
+   - This approach is highly descriptive, as the filenames indicate both the **entity** and whether it is part of the **touchstone** or **catalog** dataset.
+
+2. **Advantages of This Approach**:
+   - **Semantic Clarity**: The **current versions** are referred to using their **actual names** (`sflow-ontology.ttl`, `sflow-ontology-catalog.ttl`). This avoids confusion about what “current” represents since the filenames make it clear that these are the **current distributions**.
+   - **Direct Reference**: This structure allows for direct access to the **latest versions** without needing additional pointers, new IRIs, or complex navigation. The current versions are just **directly accessible** at a predictable path.
+   - **Simple Version Management**: When a new version is **released**, the **current distribution files** are simply **updated or replaced**, ensuring that the namespace always provides the most recent data at those top-level paths.
+
+3. **How to Integrate With `index.trig`**:
+   - The **top-level `index.trig`** would still serve as the **centralized access point** for consumers. It would:
+     - Provide a **default graph** containing metadata and pointers to the **current catalog** and **touchstone**.
+     - Include **named graphs** representing the contents of the **current datasets** for both touchstone and catalog, with links pointing to these top-level distributions.
+
+   - Example `index.trig`:
+     ```turtle
+     :default {
+         :hasTouchstone <https://namespace/sflow-ontology/sflow-ontology.ttl> .
+         :hasCatalog <https://namespace/sflow-ontology/sflow-ontology-catalog.ttl> .
+     }
+
+     :graph <https://namespace/sflow-ontology/sflow-ontology.ttl> {
+         # Contents of the current touchstone dataset
+     }
+
+     :graph <https://namespace/sflow-ontology/sflow-ontology-catalog.ttl> {
+         # Contents of the current catalog dataset
+     }
+     ```
+   - This maintains a **direct and obvious link** to the current version while ensuring that all access remains consistent through a top-level entry point.
+
+4. **Automation Workflow for Updates**:
+   - Whenever a new **version** of `_touchstone` or `_catalog` is released:
+     - The **current distribution files** (`sflow-ontology.ttl`, `sflow-ontology-catalog.ttl`) at the top level are **updated or replaced**.
+     - The **`index.trig`** is also updated to reflect any changes, maintaining consistency between what is linked as the "current version" and what is stored in the actual `vset` folders.
+
+5. **Leaf Distribution Files and Index Pointers**:
+   - To maintain consistency, each **leaf node** (e.g., `vset` folders) could still have its **`index.ttl`** as a pointer to the named distribution files.
+   - This means:
+     - At the top level, the **current versions** are directly referred to by their names.
+     - In **version folders** (e.g., `v1`, `v2`), the `index.ttl` continues to **point** to the specific dataset files, ensuring that there is no ambiguity.
+
+### **Example Folder Structure**:
+```
+sflow-ontology/
+  - sflow-ontology.ttl               # Current distribution of the touchstone dataset
+  - sflow-ontology.jsonld            # Current distribution in JSON-LD
+  - sflow-ontology-catalog.ttl       # Current catalog dataset distribution
+  - sflow-ontology-catalog.jsonld    # Current catalog in JSON-LD
+  - index.trig                       # Centralized entry point for the current series
+
+  - _dss/
+    - _touchstone/
+      - vset/
+        - v1/
+          - dist/
+            - index.ttl              # Points to sflow-ontology-v1.ttl, etc.
+            - sflow-ontology-v1.ttl
+            - sflow-ontology-v1.jsonld
+        - v2/
+          - dist/
+            - index.ttl
+            - sflow-ontology-v2.ttl
+            - sflow-ontology-v2.jsonld
+    - _catalog/
+      - vset/
+        - v1/
+          - dist/
+            - index.ttl              # Points to sflow-ontology-catalog-v1.ttl, etc.
+            - sflow-ontology-catalog-v1.ttl
+            - sflow-ontology-catalog-v1.jsonld
+```
+
+### **Summary**
+- **Current Distributions** are referred to using **top-level, descriptive filenames** like `sflow-ontology.ttl` and `sflow-ontology-catalog.ttl`.
+- **`index.trig`** serves as the **central navigation point**, pointing to these current versions without the need for extra pointers or complicated IRIs.
+- Using **original, descriptive filenames** at the top level provides **semantic clarity** and direct accessibility, avoiding the ambiguity of relying on "_current" or implicit IRIs.
+- Maintaining **`index.ttl` pointers** in leaf nodes ensures consistent navigation and a familiar structure across different levels of the namespace.
+
+This approach should alleviate the concerns about needing clear references for current versions while keeping the overall structure neat and consistent. Let me know if this approach works for you or if there's anything you'd like to further refine!
+
+
+## including version in filename
+
+Including the **version** in the **filename** has both advantages and disadvantages, depending on your specific goals and the type of workflows you want to support. Let's explore the **pros and cons** to help you determine if this approach aligns with your needs:
+
+### **Pros of Including the Version in the Filename**
+
+1. **Clear Traceability and Provenance**:
+   - **Explicit Version Identification**: Including the version number directly in the filename (e.g., `sflow-ontology-v1.ttl`) provides an **unambiguous indication** of which version of the dataset you are dealing with.
+   - **Easier Provenance Tracking**: When files are downloaded, shared, or moved, having the version in the filename makes it much easier to track the **provenance** of a particular file. You can always tell what version a file represents, even if it's separated from its original context.
+
+2. **Reduced Ambiguity**:
+   - **Instant Recognition**: Users don’t need to check metadata or open the file to determine which version they are interacting with. The **version number** is right there in the filename, making it **instantly recognizable**.
+   - **Avoiding Naming Conflicts**: If different versions are placed in the same directory, using a **versioned filename** helps to **avoid conflicts**. Each file is unique, ensuring that different versions do not accidentally overwrite one another.
+
+3. **Facilitates Collaboration**:
+   - **Distributed Collaboration**: When working in a distributed environment (e.g., multiple contributors to a dataset), having **explicit versioned filenames** ensures that contributors can easily distinguish between files and versions, which reduces the likelihood of errors.
+   - **Sharing and Reference**: When files are shared across teams or externally, including the version helps others **understand context** without additional explanations.
+
+4. **Automation and Scripting**:
+   - **Automation-Friendly**: If filenames include versions, automation scripts can work with **naming conventions** to easily determine and select specific versions for processing, archiving, or other operations.
+   - **Dynamic Updates**: Including versions in filenames makes it easy for scripts to iterate over versions, allowing for **automated tracking** of changes and history.
+
+5. **Archival Clarity**:
+   - **Explicit Archival Records**: When storing or archiving datasets, having a version in the filename ensures that there’s no confusion about which version is being saved. This makes it easier to reconstruct the history of changes or updates.
+
+### **Cons of Including the Version in the Filename**
+
+1. **Potential Redundancy**:
+   - **Overlapping Metadata**: The version number is likely already included as **metadata within the file** itself or in the dataset IRI. Including it in the filename could be seen as redundant, especially if the versioning is consistently handled at other layers.
+   - **Too Much Information in the Name**: Filenames can get **long and unwieldy** if they also contain descriptive information alongside the version, which might make navigation less tidy.
+
+2. **Challenging Updates**:
+   - **File Re-naming Complexity**: If a dataset evolves and becomes a new version, the filename must be updated to reflect that change (e.g., from `-v1` to `-v2`). This can introduce **complexity in workflows**, as downstream references to the filename might also need to be updated.
+   - **Broken Links**: If other systems, applications, or scripts reference a specific file by its name, updating the filename to include a new version could result in **broken links or references**. This might require additional effort to track and update references whenever the version changes.
+
+3. **Human Error Risk**:
+   - **Manual Naming Errors**: If filenames are updated manually, there’s a risk of **human error**—such as forgetting to update the version number or using an incorrect version label. This could lead to confusion about which version is authoritative.
+   - **Misleading Names**: A filename might indicate a particular version, but if the content isn’t correctly synchronized, the **filename could be misleading**. This can happen when copies are made without careful updating of version labels.
+
+4. **File Navigation Complexity**:
+   - **Overwhelming for Users**: For non-technical users, seeing many files with versions (e.g., `-v1`, `-v2`, etc.) might be overwhelming. This is particularly the case if **numerous versions** exist, making it harder for a user to determine which file to use without additional guidance.
+   - **Clutter in Directories**: When directories have multiple files representing different versions of the same dataset, it can create a **cluttered folder structure**, which might be difficult to navigate for users unfamiliar with the naming convention.
+
+5. **Data Storage and Management Issues**:
+   - **Multiple Copies of Files**: Since each version gets a separate filename, this can lead to multiple **independent copies** of datasets within a file system, rather than maintaining a central dataset with version history. This could increase **storage needs** and make it harder to consolidate changes.
+   - **Synchronization Issues**: In systems where version control is handled by tools like **Git**, including the version in the filename may cause unnecessary complexity with synchronization, especially if multiple versions are being tracked independently rather than through the versioning system.
+
+### **Balancing the Pros and Cons**
+- **Include Version in Filename for Historical or Distribution Purposes**:
+  - If you need to **distribute datasets** or **archive historical versions**, it makes sense to include the version number in the filename. This aids in clarity, traceability, and reduces ambiguity for end users.
+- **Use Separate Metadata for Internal or Systematic Versioning**:
+  - For internal management, where versioning is handled through **dataset IRIs** or **metadata** (such as `index.trig` or linked data properties), you could **avoid including the version** in the filename and rely on these structured methods to convey version information.
+- **Hybrid Approach for Consistency**:
+  - You could maintain **consistent filenames** (e.g., `sflow-ontology.ttl` for current versions) at the **top level**, while having **version-specific filenames** (`sflow-ontology-v1.ttl`) in the **`vset` folders**. This provides easy access to the latest version while also retaining a clear versioned history.
+
+### **Summary**
+- **Pros**: Including the version in filenames provides **traceability**, **clarity**, and makes it easier to collaborate and automate processes.
+- **Cons**: It introduces the risk of **redundancy**, **human error**, and **complex navigation**, especially in cases of manual handling or large numbers of versions.
+- **Recommendation**: A **hybrid approach** may be the best of both worlds—use consistent filenames for the **current authoritative version** while incorporating version-specific names for archived versions to aid in historical tracking and distribution. This allows for direct access to the latest dataset, while ensuring that older versions are clearly marked and accessible.
+
+This balanced approach should allow you to leverage the advantages of versioned filenames without introducing unnecessary complexity in your everyday workflows. Let me know if this helps, or if you'd like to explore a specific workflow in more detail!
