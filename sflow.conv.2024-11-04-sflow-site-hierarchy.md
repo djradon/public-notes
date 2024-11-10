@@ -2,7 +2,7 @@
 id: lvhd3wl7fkyor4tisi0rcio
 title: 2024 11 04 Sflow Site Hierarchy
 desc: ''
-updated: 1731220645811
+updated: 1731280605158
 created: 1730780990994
 ---
 
@@ -2198,7 +2198,7 @@ It aligns, but I'm still uneasy about not having a way to refer to the current t
 
 regarding leaf/distribution node naming, we could additionally have index.ttl files that just point to the named distribution files.
 
-## current options and leaf naming (dave)
+## current options and leaf naming (chatgpt)
 
 I understand your concern—it makes sense to want a distinct way to **refer to** and **access the current `_touchstone` and `_catalog`** datasets directly, especially if there are use cases where you need that straightforward reference.
 
@@ -2276,7 +2276,7 @@ These approaches should help alleviate the unease around not having a clear refe
 
 Since the current are actually current dataset distributions, we could use the distribution convention to refer, e.g. sflow-ontology/sflow-ontology.ttl and sflow-ontology/sflow-ontology-catalog.ttl
 
-## eurekea on current (dave)
+## eurekea on current (chatgpt)
 
 That's a solid idea. Using the **distribution naming convention** to identify the current versions is both intuitive and consistent with the broader approach to RDF dataset management and versioning. This allows you to explicitly reference the current dataset distributions while keeping the semantics clear and avoiding the ambiguity we discussed before.
 
@@ -2554,3 +2554,6 @@ That’s a great realization, and it can certainly help streamline the structure
 - The repository becomes much easier to **maintain and navigate**, especially when dealing with a large number of NamedIndividuals, each of which can now be handled by simple referencing rather than duplicative content.
 
 This should help make the system much more manageable without sacrificing functionality or clarity. Let me know if this works for you or if you need more refinement on how to automate or template these changes!
+
+
+##
