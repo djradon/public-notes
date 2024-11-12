@@ -2,7 +2,7 @@
 id: slkwz8wz5k4v565ht5jcrm0
 title: n8n
 desc: 'workflow automation platform with free community edition'
-updated: 1715367842652
+updated: 1731347129686
 created: 1674830694032
 ---
 
@@ -16,6 +16,8 @@ created: 1674830694032
 - https://jlgjosue.medium.com/alternatives-to-airflow-exist-bb2739a93b33 
 
 ## #license
+
+- [[t.leg.licensing.sustainable-use-license]]
 
 Portions of this software are licensed as follows:
 

@@ -1,8 +1,8 @@
 ---
 id: br373h3njm5ejoo3rwqjyw9
-title: Semantic Flow CLI Implementation
+title: 2024 11 01 Semantic Flow CLI Implementation
 desc: ''
-updated: 1730842832433
+updated: 1731369447829
 created: 1730494728887
 ---
 
