@@ -5,7 +5,7 @@ desc: >-
   language for the Semantic Web that can be used to express rules as well as
   logic, combining OWL DL or OWL Lite with a subset of the Rule Markup Language
   (itself a subset of Datalog)
-updated: 1728341371484
+updated: 1731623461254
 created: 1710688791666
 ---
 
@@ -17,6 +17,10 @@ created: 1710688791666
 ## Issues
 
 - SWRL shares OWL’s open world assumption so certain types of rules that assume a closed world may be difficult or impossible to write in SWRL
+
+## Solutions
+
+- [[prdct.protege-swrlapi]]
 
 ## Resources
 

@@ -2,12 +2,14 @@
 id: r7wmmwwaws15llja6y5ng7h
 title: Sumo
 desc: 'Suggested Upper Merged Ontology, with Physical (spatiotemporal) and Abstract'
-updated: 1721151876012
+updated: 1731623220084
 created: 1708625059084
 ---
 
 - [[c.ontology.upper]] [[c.ontology.mid]]
-- url: https://raw.githubusercontent.com/abrahaj/SUMO.owl/master/SUMO.owl
+- url: 
+  - https://raw.githubusercontent.com/abrahaj/SUMO.owl/master/SUMO.owl
+  - https://github.com/ontologyportal/sumo?tab=readme-ov-file
 - similar: [[prdct.milo]]
 - related: [[prdct.sigmakee]] 
 
@@ -61,3 +63,7 @@ created: 1708625059084
 - [[book.ontology-a-practical-guide]]
 - [[ar.semantic-modeling-with-sumo]]
 - https://www.ontologyportal.org/FAQ.html
+
+## References
+
+- [[ar.foundational-ontologies-what-for-motivations-for-sumo-and-dolce]]

@@ -2,7 +2,7 @@
 id: cQHSPbwz5JLE40UxftY7w
 title: RDF
 desc: resource description format
-updated: 1728865334971
+updated: 1731607405023
 created: 1633160681527
 ---
 
@@ -210,6 +210,7 @@ Intuitively speaking, changes in the universe of discourse can be reflected in t
 
 - https://www.w3.org/TR/rdf11-primer/
 - https://open.hpi.de/
+- [[book.validating-rdf-data]]
 
 ### [[p.hasWishList]]
 

@@ -2,7 +2,7 @@
 id: spp0at53ryx9tkr21knzy9p
 title: Spatio-Temporal RDF
 desc: ''
-updated: 1721243353744
+updated: 1731609674117
 created: 1705548129652
 ---
 
@@ -13,6 +13,7 @@ created: 1705548129652
 - [[prdct.eagle]]
 - [[prdct.prov-o]]
 - [[prdct.dcat-data-catalog.v2]] has frequency (of publishing),
+- [[prdct.starvers]]
 
 ## References
 

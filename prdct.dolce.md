@@ -2,7 +2,7 @@
 id: mjcpuwi7bne4r8moc0uruzx
 title: DOLCE
 desc: Descriptive Ontology of particulars for Linguistic and Cognitive Engineering
-updated: 1728153906165
+updated: 1731623150457
 created: 1698268244398
 ---
 
@@ -47,3 +47,5 @@ Within stative occurrences, we distinguish between  states and processes accordi
 - http://www.thezfiles.co.za/ROMULUS/ontologies/DOLCE-No-Quality-Qualia.owl
 - [old site](http://www.loa.istc.cnr.it/old/Files/dolce.html)
 - [[ar.dolce-a-descriptive-ontology-for-linguistic-and-cognitive-engineering]]
+- [[ar.using-bert-models-to-automatically-classify-domain-concepts-into-dolce-top-level-concepts-a-study-of-the-oaei-ontologies]]
+- - [[ar.foundational-ontologies-what-for-motivations-for-sumo-and-dolce]]

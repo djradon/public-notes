@@ -2,7 +2,7 @@
 id: ggw3ek46ptgebsgxgihr1dh
 title: Semantic Flow
 desc: ontology, tooling, and workflow for publishing semantic data
-updated: 1731211800450
+updated: 1731622466044
 created: 1716959415785
 ---
 
@@ -26,6 +26,11 @@ created: 1716959415785
 
 - [[ko]] is a unorthodox, relator-based foundational ontology developed side-by-side with Semantic Flow. 
 - hopefully Semantic Flow has no dependencies on Kosmion and can be used for any kind of RDF data
+
+## Related Prodcuts / Possible Solutions
+
+- [[prdct.ldkit]] for typescript ORM
+- [[prdct.comunica.query-sparql-file]]
 
 
 ## References

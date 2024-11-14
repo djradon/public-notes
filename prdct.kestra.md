@@ -2,12 +2,12 @@
 id: yxly4t5qf9s98dxujeq2u78
 title: Kestra
 desc: 'open-source orchestrator designed to bring Infrastructure as Code (IaC) best practices to all workflows — from those orchestrating mission-critical applications, IT operations, business processes, and data pipelines, to simple Zapier-style automations'
-updated: 1715379466514
+updated: 1731606191225
 created: 1715359575586
 ---
 
 - https://kestra.io/
-- [[c.Software.Workflow]]
+- [[c.Software.Workflow]] 
 - license: 
   - [[lic.apache.2]] for open-source version
   - enterprise edition has security, governance, and scalability

@@ -2,7 +2,7 @@
 id: fd1whkyvoagggk6ubysjl50
 title: Semantic Flow Log
 desc: ''
-updated: 1731340794710
+updated: 1731606849103
 created: 1727801720160
 ---
 
@@ -49,4 +49,4 @@ from [[t.cs.ai.assistant.memory-hygiene]]:
 
  # t.2024.11.11.06
 
- - I was ready to abandon Cliffy and Deno (probably for Gluegun), but the security and dynamicness seem important enough. 
+ - I was ready to abandon Cliffy and Deno (probably for Gluegun), but the security and dynamicness seem important enough. Turns out Cliffy is great. Lume seems good too.
