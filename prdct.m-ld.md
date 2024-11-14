@@ -1,8 +1,8 @@
 ---
 id: t7q534y033uby4hmbvq3lm8
 title: m-ld
-desc: 'information is available where its used—on mobiles, in browsers, in microservices, anywhere—and it stays up-to-date, automatically.'
-updated: 1728574850422
+desc: 'decentralised protocol for distributing live information among clones; information is available where its used—on mobiles, in browsers, in microservices, anywhere—and it stays up-to-date, automatically.'
+updated: 1731603778048
 created: 1714684120876
 ---
 
