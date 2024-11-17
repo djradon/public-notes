@@ -1,10 +1,7 @@
 ---
-id: j5rvrs85jbpkp2ch3dpm1co
+id: w83qrn488ig9ahk5p57qhow
 title: Spiral
-desc: 'A powerful prompt builder that automates 80 percent of repetitive writing, thinking, and decision-making tasks'
-updated: 1720446734653
-created: 1720446490855
+desc: ''
+updated: 1725124114390
+created: 1725124114390
 ---
-
-- publisher: [[org.every-media-inc]]
-- 
