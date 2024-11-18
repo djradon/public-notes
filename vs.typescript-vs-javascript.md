@@ -2,7 +2,7 @@
 id: h7qdzwumq4unjwwawv6l3rt
 title: TypeScript Vs JavaScript
 desc: ''
-updated: 1713215109293
+updated: 1731596210726
 created: 1713214985724
 ---
 
@@ -27,4 +27,4 @@ created: 1713214985724
 ## References
 
 - https://www.reddit.com/r/vuejs/comments/st2zkt/jsdoc_or_typescript/
-- 
+- https://javascript.plainenglish.io/why-some-major-projects-are-ditching-typescript-219582449e17

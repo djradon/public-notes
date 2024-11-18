@@ -2,7 +2,7 @@
 id: k20qg2pdevcde1te7i3y2al
 title: Log
 desc: ''
-updated: 1730847113179
+updated: 1731507971415
 created: 1730847056679
 ---
 
@@ -37,3 +37,7 @@ However, you can test the generated JavaScript locally like this:
   $ npm build
   $ sf-cli --compiled-build
 
+## t.2024.11.13.06
+
+- so good to be back in Deno land.
+- it seems like Cliffy can only support one 
