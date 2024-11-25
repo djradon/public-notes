@@ -2,9 +2,11 @@
 id: ndbus3p0vk8h4ksscfsjtds
 title: To Do
 desc: ''
-updated: 1731846081052
+updated: 1731967018207
 created: 1731704746869
 ---
+
+- fix fetch/theme in fetch.page.ts
 
 - verify netlify.tom works
 - make into proper theme

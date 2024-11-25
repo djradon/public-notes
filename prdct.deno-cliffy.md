@@ -2,7 +2,7 @@
 id: x6lci70dmeaya4mstrdg9b8
 title: Deno Cliffy
 desc: ''
-updated: 1731667100725
+updated: 1732233516614
 created: 1669526348617
 ---
 
@@ -20,3 +20,4 @@ created: 1669526348617
 ## resources
 
 - Lume's CLI could be considered a paragon example: https://github.com/lumeland/lume/blob/main/cli.ts
+- 
