@@ -2,7 +2,7 @@
 id: br373h3njm5ejoo3rwqjyw9
 title: 2024 11 01 Semantic Flow CLI Implementation
 desc: ''
-updated: 1731369447829
+updated: 1732962598159
 created: 1730494728887
 ---
 
@@ -316,7 +316,7 @@ Options:
 
 ### Advantages of JavaScript in Deno for CLI
 - **Zero Compilation Overhead**: Running JavaScript directly avoids the compilation step, making it more efficient.
-- **Modern Features**: You can use all modern JavaScript syntax, such as async/await, modules, and destructuring, which works seamlessly in Deno.
+- **Modern Features**: You can use all modern JavaScript syntax, such as async/await, modules, and [[destructuring|t.cs.languages.javascript.destructuring]], which works seamlessly in Deno.
 - **Simplicity**: The simplicity of JavaScript can often make quick CLI tools easier to iterate on.
 
 Would you like me to help extend this CLI further or add specific features to it? We can make it more interactive, add more commands, or even look into packaging it so it’s easily executable. Let me know!

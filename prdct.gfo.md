@@ -2,7 +2,7 @@
 id: pfdqhyncw7rype44ediqswf
 title: GFO
 desc: 'General Formal Ontology'
-updated: 1731040448352
+updated: 1733160954363
 created: 1709751631541
 ---
 
@@ -54,6 +54,10 @@ There is an OWL version of GFO, which currently comprises a stable core called g
 
 - @gemini.1.5.advanced GFO accounts for different philosophical stances: It accommodates those who believe in the real existence of universals outside of minds (realism), those who view them as primarily mental (conceptualism), and those who emphasize representations (nominalism).
 
+
+## Resources
+
+- https://github.com/Onto-Med/GFO#other-publications-exclusively-presenting-gfo
 
 
 ## References
