@@ -2,7 +2,7 @@
 id: p9dycdhtvdicli85iw40s7p
 title: SurrealDB
 desc: 'scalable, distributed, collaborative, document-graph database, for the realtime web'
-updated: 1711459916682
+updated: 1733429750301
 created: 1689630910814
 ---
 
@@ -13,6 +13,7 @@ created: 1689630910814
 
 ## Features
 
+- The power of 10+ products in one unified multi-model database
 - live query
 - graph support via "edge tables" [[t.cs.graph]]
   - https://surrealdb.com/docs/surrealql/statements/relate
