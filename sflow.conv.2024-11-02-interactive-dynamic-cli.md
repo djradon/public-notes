@@ -2,11 +2,12 @@
 id: bnv5acoj9gmopoy3kqi49fc
 title: Interactive Dynamic CLI
 desc: ''
-updated: 1730576538391
+updated: 1736183054915
 created: 1730576388495
 ---
 
 - interlocutor: chatgpt4.o
+- topics: [[prdct.commander]] [[prdct.yargs]] [[prdct.inquirer]] [[prdct.oclif]]
 
 ## If I went with Node, what are the best CLI libraries analagous to Cliffy
 

@@ -10,7 +10,7 @@ created: 1730646458171
 
 I just started a new conversation with ChatGPT. In response to its “What can I help with?”, I gave a rather impersonal message: “blog update about my semantic flow cli.” Usually I’m a bit friendlier.
 
-Without my asking, it filled a canvas with [[a suggested update|sfow.conv.2024-11-03-chatgpt-lame-update-semantic-flow-cli]] that I hated before even looking at it. Then I tried to read it and started finding falsehoods and lameness everywhere.
+Without my asking, it filled a canvas with [[a suggested update|sflow.conv.2024-11-03-chatgpt-lame-update-semantic-flow-cli]] that I hated before even looking at it. Then I tried to read it and started finding falsehoods and lameness everywhere.
 
 Yes, I’m hostile to synthetic prose. But ChatGPT at least gave me a skeleton and the motivational annoyance to get things going. So for experiment’s sake, the meat of this update is going to be a rewrite of ChatGPT’s intolerable draft. 
 
