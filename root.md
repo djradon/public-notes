@@ -2,7 +2,7 @@
 id: CpS9sdQeO83XthdjEzqoL
 title: "djradon's wiki"
 desc: ''
-updated: 1725596786107
+updated: 1736578503080
 created: 1631142505051
 ---
 
@@ -18,6 +18,7 @@ This vault is the "[[learning-in-public|ar.swyx.learn-in-public]]" part of my Se
 - [[idea]] (not necessarily mine)
 - Resource Notes, including highlights, thoughts and metadata, for various things:
   - [[ar]] mostly articles, papers and web pages
+  - [[art]] paintings, images, 
   - [[book]]
   - [[community]]
   - [[course]]
