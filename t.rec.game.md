@@ -2,13 +2,14 @@
 id: tIMrLK1OLBMJYqlNvbZlc
 title: Game
 desc: ''
-updated: 1727200388946
+updated: 1742927933511
 created: 1636884630195
 ---
 
 ## Description
 
 ![[ar.atlantic.video-games-are-better-without-stories#^k9bfngdvg41y]]
+![[ar.atlantic.effort-paradox#^offqmrm7d7c4]]
 
 ## Resources
 
