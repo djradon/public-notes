@@ -2,11 +2,12 @@
 id: k5qv841qyqe9vybrwhb7g5p
 title: Effort Paradox
 desc: ''
-updated: 1742928135778
+updated: 1743096956600
 created: 1742927851548
 ---
 
 - https://www.theatlantic.com/science/archive/2025/03/effort-paradox-hard-work/682156/
+- topics: [[t.psych.effort]]
 
 ## highlights
 
