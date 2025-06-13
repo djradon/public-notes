@@ -4,11 +4,12 @@ title: Flowable
 desc: >-
   A compact and highly efficient workflow and Business Process Management (BPM)
   platform for developers, system admins and business users. 
-updated: 1707721304479
+updated: 1749313991068
 created: 1707698384894
 ---
 
 - repo: https://github.com/flowable/flowable-engine
+- [[c.software.Workflow]]
 - written_in: java
 
 ## Features

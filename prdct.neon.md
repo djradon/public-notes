@@ -1,14 +1,10 @@
 ---
-id: eHNOkJpFzBMPzmPmxkc11
+id: 2hmt5a4jienhfs7liry14ut
 title: Neon
-desc: >-
-  library and toolchain for embedding Rust in your Node.js applications and
-  libraries
-updated: 1728865334951
-created: 1638671679623
+desc: 'Ship faster with Postgres'
+updated: 1749313172241
+created: 1749312759465
 ---
 
-
-
-- resources: 
-  - https://skwee357.medium.com/supercharge-your-nodejs-with-rust-f78952d2fa8
+- https://neon.com/
+- supports: [[prdct.langchain]] [[prdct.pgvector]]

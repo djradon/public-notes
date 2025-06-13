@@ -1,8 +1,8 @@
 ---
 id: zioqqzxmdic9oxj9mqjix0n
-title: Message Broker Vs Stream Processo
+title: Message Broker Vs Stream Processor
 desc: ''
-updated: 1728865335075
+updated: 1749399651627
 created: 1674399879440
 ---
 

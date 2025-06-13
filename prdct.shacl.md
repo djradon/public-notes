@@ -2,7 +2,7 @@
 id: ahbj9ejugov8rjiywj5qqc8
 title: SHACL
 desc: designed for validating RDF data against a set of constraints (shapes)
-updated: 1731608757190
+updated: 1749849200027
 created: 1706306106639
 ---
 
@@ -66,3 +66,4 @@ created: 1706306106639
 - [[ar.a-formal-approach-for-customization-of-schema-org-based-on-shacl]]
 - [[ar.linkedin.the-open-world-assumption-in-modeling-what-does-it-mean-to-you]]
 - [[book.validating-rdf-data]]
+- [[ar.substack.ontologist.the-future-of-knowledge-graphs]]
