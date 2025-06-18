@@ -2,7 +2,7 @@
 id: X5I3NCsQt0FQDQ4r0ddk4
 title: Dave
 desc: ''
-updated: 1747426156363
+updated: 1750225505709
 created: 1632541429049
 ---
 
@@ -10,6 +10,11 @@ created: 1632541429049
 - https://nownownow.com/p/sbcs
 - https://ontologforum.com/index.php/DaveRichardson
 
+
+## Tech Stack
+
+- windows 11 with WSL running Ubuntu
+- vscode
 
 ## Bios
 
