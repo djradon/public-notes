@@ -2,9 +2,13 @@
 id: mjjgm10blsfa2yoh9ps1m8i
 title: Multiple Catalogs per IRI
 desc: ''
-updated: 1750295404744
+updated: 1750368427619
 created: 1750295032498
 ---
+
+If we just use _catalog to point to the current dataset, we don't need _default anywhere. 
+
+## Conversation
 
 I'm thinking to get rid of catalog/default, unless we need multiple catalogs per IRI.
 
