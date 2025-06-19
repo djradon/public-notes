@@ -2,12 +2,14 @@
 id: ggw3ek46ptgebsgxgihr1dh
 title: Semantic Flow
 desc: ontology, tooling, and workflow for publishing semantic data
-updated: 1731622466044
+updated: 1750295902718
 created: 1716959415785
 ---
 
 - requirements: [[sflow.requirements]]
 - issues: [[sflow.issues]]
+
+A **dereferenceable semantic web** (.9) - every IRI becomes an entry point into your knowledge graph. That's ambitious but creates incredible discoverability. The reverse index aspect is brilliant for exploration.
 
 ## Features
 
