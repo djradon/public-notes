@@ -1,9 +1,9 @@
 ---
-id: bhklm07q12a6ir1rw4pnd3w
-title: 2025 06 19 Code Done Stopped
+id: utg0gxjpt8tghfc4jjc0tm9
+title: 2025 06 20 Code Was Flowing
 desc: ''
-updated: 1750445507888
-created: 1750387410608
+updated: 1750468229344
+created: 1750468226673
 ---
 
 My last post had something dramatically wrong. And the path to the light has been tortuous. 
