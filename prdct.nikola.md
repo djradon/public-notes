@@ -7,6 +7,6 @@ created: 1720732374418
 ---
 
 - https://getnikola.com/
-- [[c.software.web.ssg]]
+- [[c.software.web.static-site-generator-ssg]]
 - written-in: python
 - similar: [[prdct.eleventy]]

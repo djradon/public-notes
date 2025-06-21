@@ -1,13 +1,10 @@
 ---
-id: e5x7ootqffz4cpmwrnc0goa
-title: 2025 06 18 Back on Track
+id: y631axyhszj3xj4hbblr30u
+title: 2025 06 18 10 20s Schema Spreadsheet Analysis
 desc: ''
-updated: 1750440998977
-created: 1750295731902
-tags: [user.claude.4.sonnet]
+updated: 1750441535250
+created: 1750441185395
 ---
-
-- interlocutor: [[user.claude.4.sonnet]]
 
 
 Semantic Flow /
@@ -1124,8 +1121,6 @@ The separation really pays off for both semantic clarity and practical performan
 
 
 
-
-
 It makes sense to have html returned for entities. And even though they could be templated and auto-generated, you'd want to be able to customize and over-ride them on a case-by-case basis. But for series too? Probably.
 
 Maybe *catalog is a misnomer, since it has a meaning in dcat. maybe *_references is better? And series (and their datasets) don't need _references because they have distributions that can contain their own metadata and pointers if necessary.
@@ -1804,6 +1799,1730 @@ Clear mental model - users understand the three distinct patterns
 Consistent URLs - no ambiguity about what a path represents
 Scalable implementation - simple recursive processing
 Users adapt to constraints when the payoff in clarity is worth it (.7).
+
+
+
+
+I don't want to start a new chat, because I'll lose all this context. Maybe you can generate context for a new chat for me, take your time.
+
+Edit
+
+Semantic Flow & IRI Schema Context Summary
+Document 
+I've created a comprehensive context summary that captures our entire conversation about Semantic Flow and your IRI schema design. This covers:
+
+The core architecture and philosophy
+The five IRI types and URL semantics
+The recursive three-way namespace division
+File organization rules and constraints
+Versioning and immutability model
+Aliasing system using schema:sameAs
+Technical implementation details
+Current development status
+You can copy this into a new chat to maintain full context about where we left off. The summary preserves all the key design decisions we discussed, from the GitHub Pages constraints to the specific folder structures and naming conventions.
+
+Is there anything important I missed or should emphasize differently in the context summary?
+
+
+
+
+I'm second-guessing _catalog as a DSS again. You'd need to know what the current version is. So it could be as simple as a ".current" file in the dss directory that points to the subdirectory with the current version. Or you could just make the catalog a mutable RDF file. The file could theoretically contain its own history, using validity RDF statements. But it does add a lot of overhead. 
+
+Probably related: It'd be great to have a _current folder next to the v-* folders (and next folder) so people wouldn't need to parse the catalog to get the current dataset.
+
+Edit
+You're absolutely right (.9) - the catalog-as-DSS creates a bootstrapping problem. You need to know the current catalog version to find out what the current version is - circular dependency.
+
+Simpler catalog approaches:
+
+Option 1: Mutable RDF file
+
+dave-richardson/
+├── index.html
+└── catalog.trig              # single mutable file
+Option 2: Simple pointer file
+
+dave-richardson/
+├── _catalog/
+│   ├── v1/, v2/, v3/
+│   └── .current              # contains "v3"
+├── index.html
+Option 3: _current folder for everything
+
+people-series/
+├── v1/, v2/, v3/
+├── _next/
+├── _current/                 # symlink or copy of v3 content
+│   └── people-series_current.trig
+└── _catalog/
+    ├── v1/, v2/
+    ├── _current/             # current catalog
+    │   └── catalog_current.trig
+    └── .current              # "v2"
+I lean toward Option 1 (.8) - mutable catalog.trig with self-contained history using validity statements. The overhead is worth avoiding the complexity, and most catalogs won't change frequently enough to make the file unwieldy.
+
+Plus _current folders everywhere (.9) for immediate access without parsing. Much better UX for both humans and machines.
+
+This keeps the versioning benefits where they matter (actual data) while simplifying discovery metadata.
+
+
+
+
+_current also allows people to distinguish their use of an IRI... do you want what is current or do you want a specific version. So there would be three copies of the current dataset, one in current, one in the v*, and one in next, and a new version could automatically be created on "publish" if next differed from current. I wouldn't want to not have a versioned IRI for the current dataset in case someone wants to refer to it permanently.
+
+I'm not sure if you need .current if we have _current
+
+Edit
+Excellent point (.9) - the three-way distinction makes the intent crystal clear:
+
+Three access patterns:
+
+v3/ = "I want exactly this version" (permanent reference)
+_current/ = "I want whatever is current now" (may change over time)
+_next/ = "I want the work-in-progress" (collaboration/preview)
+Auto-versioning workflow (.8):
+
+bash
+# Before publish
+people-series/
+├── v3/people-series_v3.trig     # last published version
+├── _current/people-series_current.trig  # copy of v3
+├── _next/people-series_next.trig        # modified content
+└── catalog.trig
+
+# After publish command (if _next differs from _current)
+people-series/
+├── v3/, v4/                     # v4 created from _next
+├── _current/                    # updated to match v4
+├── _next/                       # reset to match v4
+└── catalog.trig                 # updated
+You're right about .current being redundant (.7) - if _current/ exists and contains the actual data, you don't need a separate pointer file. The filesystem structure IS the pointer.
+
+Benefits:
+
+Clear semantics - URL tells you exactly what you're getting
+Permanent links - versioned IRIs never change content
+Live links - current IRIs track latest
+No parsing required - direct file access for current data
+This creates a much cleaner mental model for users choosing how to reference data.
+
+
+
+
+And I'm not sure if we need catalog.trig
+
+I'm just going to start leaving the underscores out because they auto-format to italics if there's two of them. But please consider "next" as _next" etc
+
+If we have catalog DSSs everywhere catalog/current gives you the current catalog and we can still keep a catalog history.
+
+Edit
+You're absolutely right (.9) - if we have catalog DSSs everywhere, then catalog/current/ gives you the current catalog and you get full version history through catalog/v1/, catalog/v2/, etc.
+
+So the clean structure becomes:
+
+dave-richardson/
+├── index.html
+└── catalog/                  # catalog DSS
+    ├── v1/, v2/, v3/
+    ├── current/              # current catalog
+    └── next/                 # work-in-progress catalog
+
+people-series/
+├── v1/, v2/, v3/
+├── current/                  # current dataset
+├── next/                     # work-in-progress dataset
+└── catalog/                  # catalog DSS for this series
+    ├── v1/, v2/
+    ├── current/
+    └── next/
+Benefits:
+
+Uniform pattern - everything follows the same DSS structure
+No special files - no standalone catalog.trig or .current files
+Full versioning - catalog changes are tracked like any other data
+Direct access - catalog/current/ gives immediate access without parsing
+Auto-publish logic (.8): When you publish, if next/ differs from current/, create new version and update current/ for both the main series AND its catalog.
+
+Much cleaner and more consistent. The recursive DSS pattern handles everything uniformly.
+
+
+
+
+I want you to keep the underscores in your responses, I'm just leaving them out of my input.
+
+Edit
+Got it (.9) - I'll keep using the underscores in my responses since they're part of the actual naming scheme.
+
+So the clean structure becomes:
+
+dave-richardson/
+├── index.html
+└── _catalog/                 # catalog DSS
+    ├── v1/, v2/, v3/
+    ├── _current/             # current catalog
+    └── _next/                # work-in-progress catalog
+
+people-series/
+├── v1/, v2/, v3/
+├── _current/                 # current dataset
+├── _next/                    # work-in-progress dataset
+└── _catalog/                 # catalog DSS for this series
+    ├── v1/, v2/
+    ├── _current/
+    └── _next/
+Benefits:
+
+Uniform pattern - everything follows the same DSS structure
+No special files - no standalone catalog.trig or .current files
+Full versioning - catalog changes are tracked like any other data
+Direct access - _catalog/_current/ gives immediate access without parsing
+Auto-publish logic (.8): When you publish, if _next/ differs from _current/, create new version and update _current/ for both the main series AND its _catalog/.
+
+Much cleaner and more consistent. The recursive DSS pattern handles everything uniformly.
+
+
+
+
+Maybe we don't need catalog/next since catalogs should be machine generated. 
+
+I'm thinking that publishing will require a commit, so you can say "everything was consistent at this time". I hope there's no situation where changes to the catalog could cause changes to the actual data because you could have an infinite loop. Seems unlikely.
+
+Edit
+You're absolutely right (.9) - catalogs being machine-generated means _catalog/_next/ is unnecessary. The SSG can generate catalog updates directly when creating new versions.
+
+Simplified structure:
+
+people-series/
+├── v1/, v2/, v3/
+├── _current/                 # current dataset
+├── _next/                    # work-in-progress dataset
+└── _catalog/                 # catalog DSS (machine-generated)
+    ├── v1/, v2/
+    └── _current/             # no _next needed
+Publishing workflow (.8):
+
+User commits changes to _next/
+Publish command creates v4/ from _next/
+SSG generates new _catalog/v3/ describing the new dataset
+Updates _current/ for both series and catalog
+Git commit captures everything in consistent state
+Infinite loop concern (.7) - unlikely since catalogs are metadata ABOUT datasets, not data that affects dataset content. Catalogs describe what exists, they don't determine what should exist. The dependency flows one direction: data changes → catalog updates, never the reverse.
+
+Publishing requiring commit makes sense for atomic consistency - everything in the repo reflects a single coherent state at that point in time.
+
+
+
+
+It's possible catalog version would necessarily track dataset versions, since each new dataset gets a new catalog.
+
+Edit
+Exactly (.9) - catalog versions would naturally track dataset versions since each new dataset triggers a catalog update.
+
+Version alignment:
+
+people-series/
+├── v1/                       # dataset v1
+├── v2/                       # dataset v2  
+├── v3/                       # dataset v3
+├── _current/
+├── _next/
+└── _catalog/
+    ├── v1/                   # catalog describing v1
+    ├── v2/                   # catalog describing v2
+    ├── v3/                   # catalog describing v3
+    └── _current/
+This makes sense because:
+
+Each dataset version needs metadata describing it
+Catalog v3 describes what's in dataset v3
+Version numbers stay synchronized
+Clear 1:1 correspondence
+Potential exceptions (.7):
+
+Catalog-only updates (fixing metadata without changing data)
+Multiple catalog updates for same dataset (corrections, additions)
+But starting with synchronized versioning is cleanest (.8). If edge cases emerge, you could handle them with sub-versions (v3a, v3b) or just accept that sometimes catalog versions advance without dataset changes.
+
+The synchronized approach makes the relationship between data and metadata very clear for users.
+
+
+
+
+I'm not even sure what would be in the catalog any more. For things, the catalog could be a reverse index of what datasets reference the thing. But for datasets, metadata could live in the dataset itself and probably should. Do you remember what else we were considering for inclusion in catalog?
+
+Edit
+Good question (.7) - looking back at our discussion, the catalog content was getting a bit unclear as the design evolved.
+
+For things, we discussed:
+
+Discovery metadata (what dataset series exist about this entity)
+Links to related series (sflow:hasSeries)
+Basic identification info (rdfs:label)
+For dataset series, it was less clear. We mentioned:
+
+Available format declarations (.trig, .jsonld support)
+DCAT metadata about the series itself
+Provenance about the series (not individual datasets)
+But you're right (.8) - most dataset metadata should live IN the dataset itself:
+
+Individual dataset descriptions
+Distribution formats
+Provenance for that specific version
+Subject matter, themes, etc.
+Maybe catalogs are mainly for discovery:
+
+Thing catalogs: "What datasets/series are about this thing?"
+Series catalogs: "What versions exist and what do they contain?" (summary level)
+Namespace catalogs: "What things and series exist here?"
+The catalog becomes more of an index/directory rather than detailed metadata storage (.6). Detailed metadata lives with the actual data it describes.
+
+What's your intuition about what discovery information would be most useful?
+
+
+
+
+Yeah, I think that's right. Since DSSs don't have distributions, the catalog is a natural place to put DSS-related info.
+
+Edit
+Exactly (.9) - that's the perfect distinction. Dataset series themselves need metadata but don't have distributions, so the catalog becomes the natural home for DSS-level information.
+
+Clear separation:
+
+Individual datasets (in v*/): Have their own distributions with metadata about that specific version
+Dataset series (the collection): Need metadata about the series as a whole, which goes in _catalog/
+DSS catalog content:
+
+Series-level descriptions (dcterms:title, dcterms:description)
+What the series is about (dcterms:subject)
+Temporal coverage of the entire series
+Update frequency/policies
+Available formats across versions
+Series provenance (who maintains it, since when)
+Discovery keywords
+Example:
+
+turtle
+# In people-series/_catalog/_current/
+<ns/_series/people-series/> a dcat:DatasetSeries ;
+  dcterms:title "People in our network" ;
+  dcterms:subject <ns/people/> ;
+  dcat:temporalCoverage "2024-01-01/2024-12-31" ;
+  sflow:supportedFormats "application/trig", "application/ld+json" .
+This makes catalogs much more purposeful (.8) - they're the metadata layer for the abstraction that doesn't have its own concrete representation (the series itself).
+
+
+
+
+So at least we can get rid of catalog folders for every version/dataset. 
+
+In your summary you have IRI Type 1 as not versioned. It might be nice to keep old index.html around though, especially if we allow customization. You'd have git history, but you could forego the v* folder and just do index_v1.html, etc., and the index.html is automatically "current", and you could have index_next.html for WIP. 
+
+On the other hand, if you can customize the HTML per thing, and presumably it could have its own images and even scripts, maybe folders would be better.
+
+Edit
+Great point (.9) - if we're only putting DSS metadata in catalogs, then individual dataset versions don't need _catalog/ folders anymore.
+
+HTML versioning dilemma (.8):
+
+Option A: Files in thing folder
+
+dave-richardson/
+├── index.html               # current
+├── index_v1.html           # old versions  
+├── index_v2.html
+├── index_next.html         # WIP
+└── _catalog/               # DSS metadata only
+Option B: Folders for rich content
+
+dave-richardson/
+├── v1/                     # HTML versions
+│   ├── index.html
+│   ├── photo.jpg
+│   └── custom.css
+├── v2/
+├── _current/
+│   ├── index.html          # current version
+│   ├── photo.jpg
+│   └── custom.css  
+├── _next/                  # WIP version
+└── _catalog/               # DSS metadata
+Folder approach wins if (.7):
+
+Custom CSS/JS per thing
+Images, documents, assets
+Rich multimedia presentations
+Complex layouts
+File approach wins if (.6):
+
+Simple HTML-only customization
+Cleaner filesystem
+Less complexity
+I lean toward folders (.7) - if you're allowing customization, people will want assets. Plus it keeps the pattern consistent with dataset versioning.
+
+
+
+
+with HTML though, we need the "current index.html" to live right under the thing so that exploring the IRI for the thing returns the page. So then any current assets would need to live alongside the v* folders.
+
+Edit
+Exactly (.9) - GitHub Pages constraint forces index.html to live directly in the thing folder for proper URL resolution.
+
+So the structure becomes:
+
+dave-richardson/
+├── index.html              # MUST be here for ns/dave-richardson/ to work
+├── photo.jpg               # current assets alongside
+├── custom.css
+├── v1/                     # old HTML versions with assets
+│   ├── index.html
+│   ├── old-photo.jpg
+│   └── v1-styles.css
+├── v2/
+│   ├── index.html
+│   └── different-photo.jpg
+├── _next/                  # WIP HTML version
+│   ├── index.html
+│   ├── new-photo.jpg
+│   └── experimental.css
+└── _catalog/               # DSS metadata
+Publishing workflow (.8):
+
+Edit files in _next/
+On publish: move _next/index.html → index.html
+Move _next/ assets to root level
+Archive old version to v{n}/
+Clean _next/
+Trade-offs:
+
+Root level gets "messy" with current assets
+But URL ns/dave-richardson/ properly serves index.html
+Versioning still works for rollback/history
+Asset management becomes more complex
+The GitHub Pages constraint really dictates this structure (.7).
+
+
+
+
+And there'd have to be URL rewriting for asset references in index_next.html when it get copied to index.html
+
+Edit
+Exactly (.8) - asset references would need URL rewriting when promoting _next/index.html to index.html.
+
+URL rewriting scenarios:
+
+html
+<!-- In _next/index.html -->
+<img src="_next/new-photo.jpg">
+<link rel="stylesheet" href="_next/experimental.css">
+
+<!-- After promotion to index.html -->
+<img src="new-photo.jpg">
+<link rel="stylesheet" href="experimental.css">
+SSG publish workflow:
+
+Parse _next/index.html for asset references
+Rewrite _next/ paths to root-relative paths
+Move assets from _next/ to root level
+Copy rewritten HTML to index.html
+Archive old version with original asset paths intact
+Complications (.7):
+
+Need HTML parser in SSG
+Handle various reference types (src, href, url() in CSS)
+Avoid breaking external URLs
+Handle relative vs absolute paths
+Alternative approach (.6): Could use a convention like assets/ prefix:
+
+html
+<!-- Always reference current assets like this -->
+<img src="assets/photo.jpg">
+Then just move _next/assets/ → assets/ without HTML rewriting.
+
+The asset rewriting adds significant complexity to the publishing process.
+
+
+
+
+for the workflow, you'd have to archive old version first, and the move assets from _next
+
+Edit
+You're absolutely right (.9) - the order matters to avoid conflicts and data loss.
+
+Correct publish workflow:
+
+Archive old version first: Move current index.html and assets to v{n}/
+Move assets from _next/: Copy all assets from _next/ to root level
+Rewrite and promote HTML: Process _next/index.html (rewrite asset paths) and copy to index.html
+Clean _next/: Remove files from staging area
+Why this order matters (.8):
+
+Prevent overwrites: Current assets moved to safety before new ones arrive
+Preserve references: Old v{n}/index.html keeps its original asset paths intact
+Atomic operation: If something fails mid-process, you haven't lost the current version
+Example:
+
+bash
+# Step 1: Archive current state
+mv index.html v3/
+mv photo.jpg v3/
+mv custom.css v3/
+
+# Step 2: Move new assets  
+mv _next/new-photo.jpg ./
+mv _next/experimental.css ./
+
+# Step 3: Process and promote HTML
+# (rewrite _next/index.html references, copy to index.html)
+
+# Step 4: Clean staging
+rm -rf _next/*
+Good catch - the wrong order could easily corrupt the current state.
+
+
+
+
+I like the assets folder approach. if the html only using relative references, no rewriting necessary.
+
+Edit
+Perfect (.9) - the assets/ folder approach is much cleaner and avoids all the HTML rewriting complexity.
+
+Simple structure:
+
+dave-richardson/
+├── index.html              # current (references assets/*)
+├── assets/                 # current assets
+│   ├── photo.jpg
+│   └── custom.css
+├── v1/                     # archived versions
+│   ├── index.html
+│   └── assets/
+│       ├── old-photo.jpg
+│       └── v1-styles.css
+├── v2/
+├── _next/                  # WIP version
+│   ├── index.html          # references assets/*
+│   └── assets/
+│       ├── new-photo.jpg
+│       └── experimental.css
+└── _catalog/
+Publishing workflow (.8):
+
+Archive: mv index.html assets/ → v{n}/
+Promote: mv _next/index.html _next/assets/ → ./
+Clean: rm -rf _next/
+HTML stays simple:
+
+html
+<!-- Works in both _next/index.html and index.html -->
+<img src="assets/photo.jpg">
+<link rel="stylesheet" href="assets/custom.css">
+No URL rewriting, no path conflicts, clean atomic operations. The convention makes everything predictable for both humans and tooling (.9).
+
+
+
+
+hmmm... given relative URLs, I don't think assets folder helps because the refs wouldn't include "_next/" anyhow. But assets does keep things bundled nicely.
+
+Edit
+You're absolutely right (.9) - with relative URLs, the references would just be photo.jpg whether in _next/ or root, so the assets/ folder doesn't solve the rewriting problem.
+
+Relative references work the same:
+
+html
+<!-- In _next/index.html -->
+<img src="photo.jpg">
+
+<!-- In index.html after promotion -->  
+<img src="photo.jpg">  <!-- same reference -->
+The assets/ folder's real benefit (.8) is organizational bundling:
+
+Keeps thing folder cleaner
+Clear separation of HTML vs assets
+Easier to move/archive as unit
+Prevents asset filename conflicts with system files
+So the choice is aesthetic/organizational (.7):
+
+Flat: photo.jpg, custom.css in root alongside index.html
+Bundled: assets/photo.jpg, assets/custom.css in subfolder
+Both avoid URL rewriting since relative paths work the same from both locations. The assets/ approach just provides better organization, especially for things with many assets (.6).
+
+
+
+
+Or we could just require assets to come from somewhere else, which breaks encapsulation. Or no assets allowed. I'm just dreading a new copy of image files in every version. Maybe assets live somewhere else, immutable, and have to be referenced.
+
+Edit
+Good point (.8) - asset duplication across versions could get expensive quickly, especially for images.
+
+Alternative approaches:
+
+Option 1: Shared asset namespace
+
+ns/assets/
+├── images/
+│   ├── dave-headshot-2024.jpg
+│   └── company-logo-v2.svg
+└── styles/
+    └── standard-theme.css
+
+dave-richardson/
+├── index.html              # refs ../assets/images/dave-headshot-2024.jpg
+└── _catalog/
+Option 2: External hosting requirement
+
+html
+<!-- Force external references -->
+<img src="https://cdn.example.com/images/dave-headshot.jpg">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto">
+Option 3: No custom assets (.6)
+
+Things get styled by site-wide CSS only
+Images must be hosted externally if needed
+Keeps things lightweight and uniform
+Option 4: Asset versioning with references
+
+ns/_assets/
+└── dave-headshot/
+    ├── v1/dave-headshot.jpg
+    ├── v2/dave-headshot.jpg
+    └── _current/dave-headshot.jpg
+
+<!-- Reference immutable or current -->
+<img src="../_assets/dave-headshot/v1/dave-headshot.jpg">
+<img src="../_assets/dave-headshot/_current/dave-headshot.jpg">
+I lean toward Option 1 or 3 (.7) - either shared assets or external-only to avoid duplication bloat.
+
+
+
+
+let's go with option 1. Which allows us to just do index_v1.html etc for HTML versioning.
+
+Can you update the context summary with our new decisions. Include whether a catalog is generated for the 5 IRI types. I guess we have a 6th IRI type, "IRIs that are assets"
+
+Edit
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 2 
+I've updated the context summary with all our latest decisions:
+
+Key updates:
+
+6 IRI types now including assets
+Catalog generation rules clearly specified for each type
+Shared assets approach in _assets/ namespace to prevent duplication
+HTML versioning using index_v*.html files instead of folders
+Simplified workflow without HTML rewriting complexity
+Asset references via relative paths to shared _assets/
+Publishing workflow updated with correct ordering and Git commit requirement
+The summary now reflects the cleaner separation between content that needs versioning vs content that can be shared, and clarifies which resources get catalogs (discovery/metadata layers) vs which are self-describing.
+
+
+
+
+Wait, did we forget IRIs that are namespaces? They should have "namespace catalogs". Also for type #1 maybe "has thing catalog".
+
+Edit
+You're absolutely right (.9) - I missed namespaces as their own IRI type! And the naming should be more specific.
+
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 3 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 4 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 5 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 6 
+Perfect! Now we have all 7 IRI types properly accounted for:
+
+Namespaces - organizational containers with namespace catalogs
+Things - entities/concepts with thing catalogs
+Dataset series - collections with series catalogs
+Datasets - versioned data (self-describing)
+HTML pages - human-readable content
+Distributions - RDF files
+Assets - shared resources
+The catalog naming is now more descriptive and matches the specific purpose of each type. Namespaces definitely need their own catalogs to provide directory services for discovery (.9).
+
+
+
+
+Regarding the Aliasing system, for Lifecycle: "The site generator can use owl:deprecated true" to generate a client side redirect. 
+
+Aliasing for DSSs and namespaces cant happen via the catalog distributions. Since the dataset versions should live on, immutable, if you change a DSS name, does it start with the next version only and move forward, with a note in the catalog? Or maybe start over with a new v1.
+
+ And if the old DSS has a catalog pointing to the current version, does that have to get updated with the new DSS path? Maybe better to leave out the next version metadata, and just provide "seeAlso" or something to refer to the new catalog.  
+
+No need for aliasing with datasets? Since they're immutable, and redirect information would have to be provided in their DSS catalog.
+
+Edit
+Excellent points (.9) - aliasing gets complex for DSSs and namespaces because of the version immutability constraints.
+
+For client-side redirects (.8):
+
+html
+<!-- Generated by SSG when owl:deprecated true -->
+<script>
+if (window.location.pathname === '/old-path/') {
+  window.location.replace('/new-path/');
+}
+</script>
+DSS aliasing strategies:
+
+Option A: Version continuity
+
+Old DSS stops at current version, adds seeAlso <new-dss> in catalog
+New DSS starts fresh with v1
+Preserves immutability, clear break
+Option B: Version migration
+
+New DSS continues numbering from old DSS
+Old DSS catalog updated to point to new location
+Maintains version continuity but breaks old catalog immutability
+I prefer Option A (.7) - cleaner semantics:
+
+turtle
+# old-people-series/_catalog/_current/
+<old-people-series/> owl:deprecated true ;
+  rdfs:seeAlso <new-people-series/> ;
+  dcterms:description "Superseded by new-people-series as of 2024-06-19" .
+
+# new-people-series/_catalog/_current/ 
+<new-people-series/> dcterms:replaces <old-people-series/> ;
+  dcterms:description "Continuation of old-people-series data" .
+Dataset aliasing (.6) - you're right, probably unnecessary since:
+
+Datasets are immutable by design
+Redirect info belongs in DSS catalog
+Individual dataset URLs shouldn't change
+The aliasing complexity argues for choosing names carefully upfront (.8).
+
+
+
+
+So this isn't really about aliasing, it's about renaming or moving. You should be able to have aliases from any thing or DSS to any other one. Probably aliasing for namespaces shouldn't be allowed. You just have to move a namespace, copying all the old contained folders. An expensive operation that should be discouraged. I guess you could have the option of leaving redirects or sameAs's behind.
+
+Edit
+You're absolutely right (.9) - I was conflating aliasing with renaming/moving. They're different operations with different semantics.
+
+True aliasing (.8):
+
+Purpose: Multiple names for the same resource
+Implementation: schema:sameAs relationships
+Use case: "Dr. Richardson" → "Dave Richardson", "AI Safety" → "Artificial Intelligence Safety"
+Catalog handling: Alias distributions contain only schema:sameAs triples
+Renaming/moving (.7):
+
+Purpose: Change canonical location/name
+Implementation: owl:deprecated + rdfs:seeAlso or dcterms:replaces
+Use case: Reorganizing namespace structure, better naming
+Namespace operations:
+
+# Expensive move operation
+old-namespace/ → new-namespace/
+├── Copy all folders and content
+├── Update internal references  
+├── Option: Leave sameAs redirects behind
+└── Option: Complete removal of old structure
+Aliasing constraints:
+
+Things: ✅ Allow aliases (dave → dave-richardson)
+DSSs: ✅ Allow aliases (people → staff-directory)
+Namespaces: ❌ Discourage aliases (too many cascading reference updates)
+Datasets: ❌ Immutable, no aliasing needed
+This separation makes the semantics much clearer - aliases are lightweight identity relationships, moves are structural changes (.8).
+
+
+
+
+For Semantic Foundation, the primary ontology will be called "sflow". Kosmion can work with semantic-flow (as can any ontology), but isn't required. Just leave Kosmion out of it. 
+For publishing workflow, #8 should be, again, commit changes to git. That gives us rollback if the publishing fails.
+
+I like the github pages points at the docs folder (as opposed to a gh_pages branch) but I could be wrong about that.
+
+Anyhow, two different use cases... all data is contained in the repo (in a src or data folder), and SSG just runs over the contained datasets and generates everything into docs. Other use case, the repo is more like a workspace, and uses something like Weave to retrieve all the relevant data in a single source folder, and then SSG generates from there.
+
+BUT... now I see an issue with _next. The docs folder gets generated, so likely just overwritten, and you should make the updates in the source material.
+
+So the source folder, you should be able to work in that directly. Maybe there is no source folder. If source and destination (docs) are in the same repo, you'd have two copies of all the data. Which is not ideal. 
+
+So maybe the preferred workflow is to keep all the source data in a separate repo, and just bring it with something like Weave at build time. 
+
+There should be a permance checker that ensures no IRIs have been lost, or even no changes have happened to historical data. 
+
+Maybe keeping two copies of the data is okay. Or maybe the source is only what we were using _next for. Probably this! Any issues?
+
+Edit
+Excellent analysis (.9) - you've identified the key issue with _next in a generated site workflow.
+
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 7 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 8 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 9 
+Your source/output separation solution is perfect (.9):
+
+Source structure (what you edit):
+
+src/
+├── people/
+│   └── dave-richardson/
+│       ├── index_next.html        # editable
+│       └── _catalog/
+│           └── _next/             # editable metadata
+└── _series/
+    └── people-data/
+        ├── _next/                 # editable datasets
+        └── _catalog/
+            └── _next/
+Generated output (docs/ for GitHub Pages):
+
+docs/
+├── people/
+│   └── dave-richardson/
+│       ├── index.html             # current
+│       ├── index_v1.html, index_v2.html
+│       └── _catalog/
+│           ├── v1/, v2/, _current/
+└── _series/
+    └── people-data/
+        ├── v1/, v2/, _current/
+        └── _catalog/
+Benefits (.8):
+
+Clean separation: Source is working space, output is publication
+No duplication: Historical versions only exist in output
+Safe editing: _next folders are the source of truth for WIP
+Rollback capability: Git commit after successful generation
+Permanence checking: Validate output hasn't lost any historical IRIs
+This solves the _next overwriting problem completely while maintaining clean workflow (.9).
+
+
+
+
+I was thinking more along the lines of for source:
+*  "no catalogs in source",
+* no HTML files at all, just HTML templates (in assets/_templates) and template mappings
+* everything is implied current if no changes, implied next if changes.
+* no v* folders, the data files just live at the top of the DSS path.
+
+Edit
+Ah, that's much cleaner (.9) - source becomes a pure content authoring space, output handles all the complexity.
+
+Source structure (minimal, content-focused):
+
+src/
+├── _assets/
+│   ├── _templates/
+│   │   ├── person.html          # template for people
+│   │   └── dataset.html         # template for datasets
+│   ├── images/
+│   └── styles/
+├── people/
+│   └── dave-richardson/
+│       └── data.trig            # just the data, no versions
+└── _series/
+    └── people-data/
+        └── data.trig            # current dataset content
+Template mapping (config):
+
+yaml
+templates:
+  "people/*": "person.html"
+  "_series/*": "dataset.html"
+SSG logic (.8):
+
+Compare source data.trig with last published version
+If changed: create new v* in output, update _current/
+If unchanged: source represents current state
+Generate all catalogs automatically
+Apply templates to create index.html files
+Benefits:
+
+No version management in source - SSG handles all versioning
+No catalog maintenance - auto-generated from actual content
+Simple editing - just edit the data files directly
+Template consistency - HTML generation from templates
+Clean Git history - source changes show actual content changes
+This makes the source truly source-focused rather than mixing authoring with publication structure (.9).
+
+
+
+
+data.trigs should be dave-richardson.trig and people-data.trig;
+
+import is a separate step to bring external data into the source in a namespace-aware, file-naming-aware manner. You can't just use whatever filename is convenient, it has to match the containing folder.
+
+This limits the manual editing of the catalogs, but just as well. 
+
+dave-richardson.trig could specify its own template mappings, custom HTML, etc. 
+
+Analyse any issues.
+
+Edit
+Excellent refinement (.9) - file naming consistency prevents chaos and enables reliable automation.
+
+Source structure with consistent naming:
+
+src/
+├── _assets/
+│   ├── _templates/
+│   └── images/
+├── people/
+│   └── dave-richardson/
+│       └── dave-richardson.trig     # MUST match folder name
+└── _series/
+    └── people-data/
+        └── people-data.trig         # MUST match folder name
+Potential issues to consider:
+
+1. File naming conflicts (.7):
+
+What if someone wants people-data-v2.trig as the series name?
+Folder: people-data-v2/ → File: people-data-v2.trig (works)
+But could be confusing with versioning
+2. Multi-file datasets (.6):
+
+Large datasets might need splitting
+Solution: Only one "main" file matches folder name, others are auxiliary
+Or: enforce single file per dataset/thing
+3. Template specification in data (.8):
+
+turtle
+# In dave-richardson.trig
+<dave-richardson/> sflow:template "custom-person.html" ;
+  sflow:customCSS "special-styling.css" .
+4. Import validation (.8):
+
+Import process must validate filename matches target folder
+Reject imports with wrong naming
+Auto-rename on import vs require manual correction
+5. Case sensitivity (.6):
+
+Dave-Richardson/ folder vs dave-richardson.trig file
+Enforce consistent casing rules
+6. Special characters (.5):
+
+Folder names with spaces, unicode, etc.
+File naming restrictions on different OS
+The consistent naming is worth these constraints - it makes the system predictable and automatable (.8).
+
+
+
+
+It feels like things are now datasets. Why was I thinking things should be separate? Mostly because things shouldn't have their own datasets... RDF-pedantically, their IRIs shouldn't refer to datasets, but even aside from that pedantic preference, while things could have default datasets for publishing purposes, better to keep the files under things dataset-free. You can have index.md that references assets, or use vento or jsx or whatever, and reference/include the catalog, but think of the things in source as mini-sites, not places for data. No need to do versioning there.
+
+You could even think of it as two separate things. Keep the DSSs somewhere else, and just reference them from the "things" site. 
+
+Which reminds me, I do want to be able to import ontologies and other external datasets, giving things their own "local" IRIs, with sameAs to external IRIs as necessary. 
+
+File naming conflicts... it could be confusing, but not breaking.
+
+Multi-file datasets, maybe we have DSS of DSSs.
+
+case sensitivity... probably should preserve it, as much of RDF world depends on capitalization. file capitalization must match folder.
+
+Edit
+Brilliant distinction (.9) - things as "mini-sites" vs DSSs as "data repositories" keeps the semantics clean and matches web intuitions.
+
+Separated architecture:
+
+Things (mini-sites in source):
+
+src/things/
+├── people/
+│   └── dave-richardson/
+│       ├── index.md             # or .jsx, .vento
+│       ├── custom.css
+│       └── bio-photo.jpg
+└── concepts/
+    └── friendship/
+        └── index.md
+DSSs (data repositories):
+
+src/_series/
+├── people-data/
+│   └── people-data.trig
+├── ontology-imports/
+│   └── ontology-imports.trig
+└── friendship-theory/
+    └── friendship-theory.trig
+Benefits (.8):
+
+Clear separation: Things = presentation, DSSs = data
+No versioning confusion: Things don't need versions, only DSSs do
+Template flexibility: Things can use any template engine
+RDF semantics: Thing IRIs don't refer to datasets, just to the things themselves
+External references: Things can reference catalogs/DSSs via includes
+Multi-file datasets → DSS of DSSs (.7):
+
+src/_series/
+├── big-dataset/
+│   ├── big-dataset.trig         # master/index dataset
+│   ├── chunk-a/
+│   │   └── chunk-a.trig
+│   └── chunk-b/
+│       └── chunk-b.trig
+External import with localization (.8):
+
+Import FOAF ontology → assign local IRIs
+<http://xmlns.com/foaf/0.1/Person> gets local <ns/concepts/person/>
+Add schema:sameAs <http://xmlns.com/foaf/0.1/Person> for external reference
+This architecture feels much more natural - things are websites, data is data (.9).
+
+
+
+
+I think assets still have to live in an immutable assets folder, at least if we want to support HTML history.
+
+big-dataset.trig could be _catalog, with other catalog folders for each chunk.
+
+Edit
+You're absolutely right (.9) - if HTML history references assets, those assets need to be immutable.
+
+Asset immutability for HTML history:
+
+src/_assets/
+├── images/
+│   ├── dave-headshot-2024.jpg      # immutable once published
+│   ├── dave-headshot-2023.jpg      # old version, preserved
+│   └── company-logo-v2.svg
+└── styles/
+    └── theme-2024.css
+
+# Thing references immutable assets
+src/things/people/dave-richardson/index.md
+<!-- Must reference specific versioned assets -->
+<img src="../../../_assets/images/dave-headshot-2024.jpg">
+DSS of DSSs with catalogs (.8):
+
+src/_series/
+└── big-dataset/
+    ├── _catalog.trig            # master catalog describing chunks
+    ├── chunk-a/
+    │   ├── chunk-a.trig         # actual data
+    │   └── _catalog.trig        # metadata about this chunk
+    └── chunk-b/
+        ├── chunk-b.trig
+        └── _catalog.trig
+Benefits:
+
+HTML history preservation: Old HTML can still access its original assets
+Asset versioning: Explicit naming like headshot-2024.jpg prevents overwrites
+Hierarchical data: Master catalog orchestrates sub-datasets
+Clean metadata: Each level has appropriate catalog scope
+The immutable assets constraint forces good practices around explicit versioning (.8).
+
+
+
+
+The underscore represents "to be ignored" in SSG-land, but "system files" in other contexts. Either way, probably just "assets" over "_assets". and the src reference can just be "/assets/..." instead of "../../..."
+
+Edit
+Perfect (.9) - much cleaner without the underscore and with absolute paths.
+
+Simplified asset structure:
+
+src/assets/
+├── images/
+│   ├── dave-headshot-2024.jpg      # immutable once published
+│   ├── dave-headshot-2023.jpg      
+│   └── company-logo-v2.svg
+└── styles/
+    └── theme-2024.css
+
+# Thing references with clean absolute paths
+src/things/people/dave-richardson/index.md
+<!-- Clean absolute references -->
+<img src="/assets/images/dave-headshot-2024.jpg">
+<link rel="stylesheet" href="/assets/styles/theme-2024.css">
+Benefits:
+
+No underscore confusion - assets is clearly user content, not system files
+Portable references - /assets/... works from any depth in the site
+No path calculation - no need to count ../ levels
+Standard web convention - /assets/ is typical web pattern
+SSG handling (.8):
+
+Copy src/assets/ → docs/assets/ during build
+Preserve immutability - never overwrite existing assets
+Validate asset references in templates
+Generate asset manifests for cache busting if needed
+Much more intuitive for both humans and tooling (.9).
+
+
+
+
+Sorry, for catalog, we're doing catalog dir with v* matching dataset version. No catalog.trig files, right?
+
+Edit
+You're absolutely right (.9) - I got confused between source and output patterns. In the DSS of DSSs structure:
+
+Corrected DSS hierarchy:
+
+src/_series/
+└── big-dataset/
+    ├── big-dataset.trig         # master dataset content
+    ├── chunk-a/
+    │   └── chunk-a.trig         # chunk data
+    └── chunk-b/
+        └── chunk-b.trig         # chunk data
+Generated output gets the catalog structure:
+
+docs/_series/
+└── big-dataset/
+    ├── v1/, v2/, _current/      # master dataset versions
+    ├── _catalog/                # catalog DSS for big-dataset
+    │   ├── v1/, v2/, _current/  # catalog versions matching dataset versions
+    ├── chunk-a/
+    │   ├── v1/, v2/, _current/  # chunk-a versions
+    │   └── _catalog/            # catalog DSS for chunk-a
+    └── chunk-b/
+        ├── v1/, v2/, _current/
+        └── _catalog/            # catalog DSS for chunk-b
+Source has raw content, output has the full versioned structure with catalog DSSs (.8). The SSG generates all the _catalog/v*/ directories automatically based on the source content and existing published versions.
+
+Thanks for keeping me on track with the architecture!
+
+
+
+
+Oh good point, with no _catalog folders in source, we'll need a separate metadata file for each DSS. 
+
+I think you can update the doc again. Make sure to remove reference to next.
+
+Edit
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 10 
+I've completely updated the context summary to reflect the new source/output architecture:
+
+Key changes:
+
+Removed all _next references - source now represents current state
+Added source vs output distinction - clear separation between authoring and publication
+Things as mini-sites - presentation layer with templates, not datasets
+File naming consistency - dataset files must match folder names
+Metadata files - separate .meta.yml files for DSS descriptions since no _catalog in source
+Asset immutability - explicit versioning in filenames, absolute paths
+Import process - namespace-aware external data integration
+Clean workflow - source editing → SSG generation → publication
+The architecture now cleanly separates content authoring (source) from publication structure (output), making it much more intuitive for users while maintaining all the semantic and versioning benefits (.9).
+
+
+
+
+For your "Generated output gets the catalog structure:" example, the "master dataset content" file doesn't get represented in the historical. Same for chunk-a/b.trig
+
+The metadata files should be big-dataset.trig, no yml
+
+Edit
+You're absolutely right (.9) - I was inconsistent about the historical representation and metadata format.
+
+Corrected DSS hierarchy in output:
+
+docs/_series/
+└── big-dataset/
+    ├── v1/
+    │   └── big-dataset_v1.trig     # master dataset content in version
+    ├── v2/
+    │   └── big-dataset_v2.trig     # master dataset content in version  
+    ├── _current/
+    │   └── big-dataset_current.trig # current master dataset content
+    ├── _catalog/                    # catalog DSS for big-dataset
+    │   ├── v1/, v2/, _current/      # catalog versions matching dataset versions
+    ├── chunk-a/
+    │   ├── v1/
+    │   │   └── chunk-a_v1.trig     # chunk content in version
+    │   ├── v2/, _current/
+    │   └── _catalog/                # catalog DSS for chunk-a
+    └── chunk-b/
+        ├── v1/
+        │   └── chunk-b_v1.trig     # chunk content in version
+        ├── v2/, _current/
+        └── _catalog/                # catalog DSS for chunk-b
+And corrected source metadata:
+
+src/_series/
+└── big-dataset/
+    ├── big-dataset.trig             # master dataset content + metadata
+    ├── chunk-a/
+    │   └── chunk-a.trig             # chunk data + metadata
+    └── chunk-b/
+        └── chunk-b.trig             # chunk data + metadata
+The .trig files contain both the actual data AND the metadata about the dataset (.8). No separate .meta.yml files needed - it's all RDF.
+
+
+
+
+For the DSS hierarchy output, we could just put "current" at the root, but then root might get cluttered or get namespace collisions. So leave as it for now. 
+
+sflow ontology should have a way to specify whether a distribution is immutable or not, if there isn't already a predicate for that elsewhere.
+
+For DSSs of DSSs, the parent version should probably usually bump when a contained DSS version bumps. Or really, it must bump.
+
+Maybe we should include "catalog" in the name for the DSS metadata files. Helps differentiate between the data files.
+
+Edit
+Good points (.9) - these refinements address important edge cases.
+
+Updated source with catalog naming:
+
+src/_series/
+└── big-dataset/
+    ├── big-dataset.trig                    # master dataset content
+    ├── big-dataset.catalog.trig            # metadata about big-dataset DSS
+    ├── chunk-a/
+    │   ├── chunk-a.trig                    # chunk data
+    │   └── chunk-a.catalog.trig            # metadata about chunk-a DSS
+    └── chunk-b/
+        ├── chunk-b.trig                    # chunk data
+        └── chunk-b.catalog.trig            # metadata about chunk-b DSS
+Cascading version bumps (.8) - absolutely necessary:
+
+# If chunk-a changes from v2 to v3:
+chunk-a/v3/chunk-a_v3.trig         # new chunk version
+big-dataset/v5/big-dataset_v5.trig  # parent MUST bump (was v4)
+sflow ontology immutability property (.7):
+
+turtle
+# In sflow ontology
+sflow:immutable a rdf:Property ;
+  rdfs:domain dcat:Distribution ;
+  rdfs:range xsd:boolean ;
+  rdfs:comment "Whether this distribution's content will never change" .
+
+# Usage
+<v3/people-data_v3.trig> sflow:immutable true .
+<_current/people-data_current.trig> sflow:immutable false .
+Benefits:
+
+Clear file roles: .catalog.trig vs data .trig
+Dependency tracking: Parent versions reflect child changes
+Immutability semantics: Explicit declaration of change policy
+Root namespace: Stays clean, avoids collisions with _current/ approach
+The cascading version bumps ensure referential integrity across the DSS hierarchy (.8).
+
+
+
+
+No master dataset content... "big-dataset" is the name of a DSS. DSSs don't have content, only catalogs and contained/versioned datasets. It's actually very confusing because the DSS IRI represents both the series and the versioned datasets it contains. How can we fix that?
+
+The domain of sflow:immutable should include dcat:DataSet, and it's used to differentiate the v* files/datasets from the _current ones.
+
+Edit
+You're absolutely right (.9) - the DSS IRI ambiguity is a real semantic problem. The same IRI represents both the abstract series AND the individual datasets within it.
+
+The ambiguity:
+
+ns/_series/people-data/ = the dataset series (abstract)
+ns/_series/people-data/v3/ = dataset version 3 (concrete)
+But what does ns/_series/people-data/ dereference to?
+Potential solutions:
+
+Option A: Separate IRIs
+
+ns/_series/people-data/         # series IRI (abstract)
+ns/_series/people-data/data/v3/ # dataset IRI (concrete)
+Option B: Fragment identifiers
+
+ns/_series/people-data/#series  # series IRI
+ns/_series/people-data/v3/      # dataset IRI
+Option C: Type-based resolution
+
+# Same IRI, different representations based on Accept headers
+# HTML request → series description page
+# RDF request → current dataset content
+For sflow:immutable (.8):
+
+turtle
+sflow:immutable a rdf:Property ;
+  rdfs:domain dcat:Dataset ;  # includes both versioned and current
+  rdfs:range xsd:boolean .
+
+# Usage
+<v3/> sflow:immutable true .    # versioned datasets are immutable
+<_current/> sflow:immutable false . # current datasets are mutable
+Corrected source structure (no master content):
+
+src/_series/
+└── big-dataset/
+    └── big-dataset.catalog.trig    # ONLY catalog metadata, no dataset content
+Which disambiguation approach feels most natural to you? (.7)
+
+
+
+
+we could probably use better terms, these aren't just any DSSs, they're sets of versioned datasets, call them v-series for now
+
+I hate fragment identifiers. we can't do content handling with github. But also, remember that IRIs ending in / don't "dereference" to anything concrete (if by dereference you mean what gets returned by an http request), they only name things. So I'm leaning to option A, except 
+
+We could consider splitting them apart in the hierarchy:
+
+ns/_v-series/people-data/          # series IRI 
+ns/_datasets/people-data/    # dataset IRI 
+
+I mean, there's no reason that the datasets have to live under their series? It'd be nice, though, so could also consider
+
+ns/_data/people-data/_v-series # refers to the versioned DSS
+ns/_data/people-data/    #persistent dataset URL refers to the dataset "in general"
+
+Edit
+Excellent clarification (.9) - "v-series" is much clearer than the overloaded "DSS", and you're right that trailing slash IRIs don't dereference to concrete content.
+
+Your _data/ approach is intriguing:
+
+ns/_data/people-data/                    # dataset IRI (general/current)
+ns/_data/people-data/_v-series/          # v-series IRI (versioning metadata)
+ns/_data/people-data/v1/                 # specific version
+ns/_data/people-data/v2/
+ns/_data/people-data/_current/
+Benefits (.8):
+
+Clear semantics: Dataset vs versioning-system are distinct concepts
+Logical grouping: All people-data stuff lives under one roof
+URL clarity: _v-series makes the versioning aspect explicit
+No hierarchy confusion: Dataset and v-series have separate identities
+Alternative naming (.7):
+
+ns/_data/people-data/                    # dataset resource
+ns/_data/people-data/_versions/          # version management metadata
+Source structure would become:
+
+src/_data/
+└── people-data/
+    ├── people-data.trig                 # current dataset content
+    └── people-data.versions.trig        # v-series metadata
+This feels much more semantically clean (.8) - the dataset concept is primary, versioning is a management layer on top of it. What do you think about _versions vs _v-series?
+
+
+
+
+I like the alternative naming. Source structure is not quite right. versioning is managed by the SSG. v-series metadata could live at people-data/_versions/_catalog
+
+What do you think?
+
+Edit
+Perfect (.9) - that's much cleaner. The SSG handles all the versioning mechanics, and the v-series metadata lives where catalogs belong.
+
+Corrected source structure:
+
+src/_data/
+└── people-data/
+    ├── people-data.trig                 # current dataset content
+    └── _versions/
+        └── _catalog.trig                # v-series metadata (descriptions, policies, etc.)
+Generated output:
+
+docs/_data/
+└── people-data/
+    ├── v1/, v2/, _current/              # dataset versions (SSG managed)
+    ├── _versions/                       # v-series IRI
+    │   └── _catalog/                    # v-series catalog DSS
+    │       ├── v1/, v2/, _current/      # catalog versions
+    └── _catalog/                        # dataset catalog DSS  
+        ├── v1/, v2/, _current/          # dataset-level catalog versions
+Benefits (.8):
+
+Source simplicity: Just current content + v-series metadata
+Clear semantics: Dataset at /people-data/, v-series at /people-data/_versions/
+SSG responsibility: All version folders generated automatically
+Metadata separation: Dataset catalogs vs v-series catalogs distinct
+This keeps the source focused on content while letting the SSG handle all the versioning complexity. The _versions/_catalog.trig clearly indicates "metadata about the versioning system for this dataset" (.9).
+
+
+
+
+it still a little confusing. I'm not sure about _versions/ in src. Ideally catalogs are generated, and maybe the v-series catalog can be generated from the dataset's metadata plus the sflow conventions.
+
+In the output, maybe _versions/ functions more like a named thing with no content. And the DSS AND dataset metadata can just live in the people-data/catalog
+
+Edit
+You're absolutely right (.9) - much cleaner to auto-generate everything and avoid the source complexity.
+
+Simplified source:
+
+src/_data/
+└── people-data/
+    └── people-data.trig                 # just the dataset content
+Generated output:
+
+docs/_data/
+└── people-data/                         # dataset IRI  
+    ├── v1/, v2/, _current/              # dataset versions
+    ├── _versions/                       # v-series IRI (thing with no content)
+    │   └── index.html                   # describes the versioning system
+    └── _catalog/                        # unified catalog DSS
+        ├── v1/, v2/, _current/          # contains BOTH dataset AND v-series metadata
+Benefits (.8):
+
+Source minimal: Just the actual data content
+Auto-generated catalogs: SSG extracts metadata from dataset + applies sflow conventions
+_versions/ as named thing: Has identity but no versioned content itself
+Unified catalog: Simpler - one catalog covers both dataset and v-series concerns
+Less confusion: No weird _versions/_catalog nesting
+The catalog contains (.7):
+
+Dataset-level metadata (what's in v1, v2, etc.)
+V-series metadata (update policies, temporal coverage, etc.)
+All auto-generated from dataset content + sflow defaults
+This feels much more natural - the versioning system gets a name/IRI but the metadata all lives in one logical place (.9).
+
+
+
+
+I guess each dataset version also has a catalog? Or maybe it all lives together just under the dataset IRI
+
+and we've been omitting index.html, but every output folder everywhere should have an index.html. 
+
+So more updates for ya. Under IRI Types... #3, IRIs that refer to v-series, I guess not explicitly versioned, but cataloged along with the dataset-in-general under the dataset IRI. A dataset always has exactly 1 v-series. We can address datasets of datasets too.
+
+Also for #3, the v-series doesn't contain datasets so much as reference them. Catalog lives with the dataset general catalog. For #4 any catalog data can probably live in the general dataset catalog?
+
+#6, IRIs that are distributions always live under a version dataset.
+
+Edit
+Perfect clarifications (.9) - let me update the IRI types to reflect the cleaner architecture.
+
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 11 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 12 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 13 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 14 
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 15 
+Perfect! Updated the context to reflect:
+
+Key changes:
+
+V-series replaces DSS terminology - clearer about versioning role
+Unified catalogs - dataset and v-series metadata live together under dataset IRI
+Universal index.html - every folder gets human-readable content
+V-series as references - they point to dataset versions rather than "containing" them
+Distributions under versions - RDF files always live in versioned datasets
+1:1 relationship - every dataset has exactly one v-series
+The architecture is now much cleaner with v-series being the versioning management layer that references (rather than contains) the actual dataset versions (.9).
+
+
+
+
+I was previously thinking (at least 8 months ago, up until recently) that (at least some) data that corresponds to an entity should be co-located with its identifier. What are the benefits of separating data from identifiers, and linking them via an entity catalog.
+
+Edit
+Great question (.8) - there are compelling arguments on both sides. Let me analyze the trade-offs:
+
+Benefits of separation (current approach):
+
+1. Semantic clarity (.9):
+
+Entity IRI refers to the thing itself, not data about it
+Follows web architecture - URIs identify resources, not their descriptions
+Clear distinction between "Dave Richardson" vs "data about Dave Richardson"
+2. Data management flexibility (.8):
+
+Multiple datasets can describe the same entity
+Entity can exist without any local data (just external references)
+Datasets can describe multiple entities
+Easier to manage large datasets separately from entity identity
+3. Versioning simplicity (.7):
+
+Entity identity remains stable while data evolves
+No confusion about whether entity IRI points to v1, v2, or current data
+Entity catalog tracks which datasets reference it
+Benefits of co-location:
+
+1. Convenience (.8):
+
+One-stop shop - entity IRI gives you everything about that entity
+No extra lookup to find relevant data
+Simpler mental model for users
+2. Performance (.6):
+
+Fewer HTTP requests to get entity + data
+Better for mobile/slow connections
+3. Atomic updates (.7):
+
+Entity and its data can be updated together
+Less complex dependency management
+The key question (.8): What should ns/dave-richardson/ return when dereferenced? Just identity/catalog info, or actual data about Dave?
+
+Your separation approach feels more architecturally sound for a system aiming to be a comprehensive semantic web infrastructure (.7). Thoughts?
+
+
+
+
+co-location doesn't give you everything, it just give you something. The default data doesn't require a lookup perhaps, if you assume certain conventions. But all that other data does, and that stuff is more likely to be legit and not just assembled for the purposes of displaying a  webpage. For "atomic updates", what does it mean to update an entity? We're really talking about entity identifiers, and those are permanent.
+
+ns/dave-richardson/ always returns an HTML. You could embed the dataset in that, but assuming you'd rather not have to extricate data from HTML...
+
+might be my worst chat of the day. time for bed.
+
+Edit
+You're absolutely right (.9) - I was conflating concepts badly.
+
+Key insights from your response:
+
+Co-location illusion (.8):
+
+Default data isn't "everything" - just whatever someone decided to bundle
+Real/authoritative data likely lives in purpose-built datasets anyway
+Co-location gives false sense of completeness
+Entity identity vs entity data (.9):
+
+Entities (identifiers) are permanent - they don't "update"
+Only data ABOUT entities updates
+Conflating the two creates semantic confusion
+Dereference reality (.7):
+
+ns/dave-richardson/ returns HTML for humans
+Embedding RDF in HTML is messy and requires extraction
+Separation keeps concerns clean
+Your separation approach is architecturally sound - entities are stable identifiers that point to evolving data via catalogs, rather than trying to be data containers themselves.
+
+Sleep well! This has been a really productive design session. The semantic-flow architecture is getting quite elegant (.8).
+
+
+
+
+Can datasets really be unversioned? Maybe not? 
+
+In Overview, let's 
+* define the meaning of dereferenceable
+* describe the two "hearts" of semantic flow: identifiers and versioned datasets
+* include a description of a v-series. "V-series: every dataset has an associated DatasetSeries (as defined in dcat v3) that tracks each version of the data. On publish, and dataset that contains changed data gets a new version"
+
+Edit
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 16 
+You're right about datasets being versioned (.9) - even "current" datasets are really just pointers to the latest version. The "Two Hearts" framing captures the essential architecture much better than just focusing on dereferenceability.
+
+The v-series definition using DCAT v3 DatasetSeries grounds it in established standards, and the "on publish" trigger makes the versioning lifecycle clear. This overview now properly emphasizes that semantic-flow is fundamentally about the marriage of stable identity and immutable data versioning (.8).
+
+
+
+
+Maybe instead of "on publish", we want something else, like "on checkpoint" or "on weave", because you're not actually publishing until the SSG is triggered. Maybe you don't want to publish immediately, there's still dev work to be done or data tests to be run.
+
+Edit
+Excellent point (.9) - "publish" implies the final step of making data publicly available, but version creation happens earlier in the workflow.
+
+Better alternatives:
+
+"On checkpoint" (.8) - suggests a deliberate save point during development "On weave" (.7) - ties to your weave tooling concept "On commit" (.6) - clear but might be confused with Git commits "On version" (.5) - bit redundant "On snapshot" (.7) - captures the immutable preservation aspect
+
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 17 
+"Checkpoint" feels right (.8) - it suggests a deliberate decision point where you're preserving a stable state for future reference, separate from the publishing/deployment step. This allows for the workflow where you checkpoint versions during development, run tests, do additional work, and then later publish the whole site when ready.
+
+
+
+
+checkpoint, it's more understandable, but it doesn't capture the act of generating catalogs and bumping versions very well. 
+
+I'm defining source as "a directory structure that corresponds to namespaces, thing identifiers, and datasets; plus assets, configuration, and metadata". Let me know any other verb-y terms for checkpoint or anything missing from source definition.
+
+Edit
+Alternative verbs for the version-creation process:
+
+"On build" (.8) - captures the generation/construction aspect "On process" (.7) - generic but clear about active transformation "On generate" (.6) - emphasizes the catalog generation "On snapshot" (.7) - captures the preservation moment "On stage" (.6) - implies preparation for publishing "On compile" (.5) - borrowed from programming, might be confusing
+
+For your source definition (.9), that covers the key components well. Possible additions:
+
+"Source: A directory structure that corresponds to namespaces, thing identifiers, and datasets; plus assets, templates, configuration, and metadata"
+
+Templates - since you mentioned template engines like Vento/JSX
+Import mappings - rules for bringing in external data
+Build scripts - automation for the generation process
+"On build" feels most natural (.8) since it captures both the version bumping AND the catalog generation that happens during the SSG process. It's also familiar terminology from software development workflows.
+
+What's your intuition about which verb best captures the "analyze changes, bump versions, generate catalogs" workflow?
+
+
+
+
+but build is what you do to a site. weave has more flow, and it's more like pre-processing before the site build happens.
+
+Edit
+Perfect (.9) - "weave" captures the flow aspect beautifully and distinguishes it from the site build process.
+
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 18 
+"Weave" is perfect (.9) - it suggests:
+
+Flow and integration - bringing together disparate data sources
+Pre-processing - happens before the site build
+Transformation - raw source becomes structured versions
+Semantic richness - weaving together the semantic web
+The workflow becomes:
+
+Edit source content
+Weave - analyze changes, version datasets, generate catalogs
+Build - create the static site from woven structure
+Publish - deploy to GitHub Pages
+"Weave" captures that crucial middle step where the semantic-flow magic happens - turning your source into a properly versioned, cataloged knowledge graph ready for site generation (.8).
+
+
+
+
+Weave also includes minting new IRIs.
+Edit
+Perfect addition (.9) - minting new IRIs is definitely part of the weave process.
+
+The complete weave workflow:
+
+Analyze source content changes
+Mint new IRIs for newly referenced entities/concepts
+Version datasets that contain changed data
+Generate catalogs with discovery metadata
+Prepare structured output for site build
+Weave becomes the semantic processing layer (.8) that:
+
+Discovers new entities mentioned in datasets
+Assigns them appropriate namespace locations
+Creates their identifier structure
+Links them into the knowledge graph
+Versions all the data appropriately
+This makes weave much more semantically rich - it's not just versioning existing data, but actively expanding and organizing the knowledge graph by minting stable identifiers for new concepts as they emerge (.9).
+
+The LLM-assisted entity situating you mentioned earlier would be part of this IRI minting process during weave.
+
+
+
+
+okay, let's call the artifact that gets woven a "semantic mesh"
+
+I wouldn't exactly say "expanding and organizing", we're just giving things in the graph persistent names and indexes/catalogs.
+
+Edit
+Perfect (.9) - "semantic mesh" captures the interconnected nature of the source structure before it gets woven into the final versioned form.
+
+
+Semantic Flow & IRI Schema Context Summary
+Document ∙ Version 19 
+You're right about the terminology (.8) - "expanding and organizing" overstates what's happening. Weave is more about:
+
+What weave actually does:
+
+Persistent naming - giving things in the graph stable IRIs
+Indexing - creating catalogs for discovery
+Versioning - preserving data states immutably
+The semantic mesh already contains the knowledge graph structure - weave just formalizes it with proper identifiers and makes it navigable through catalogs. Much more precise description (.7).
+
+The "mesh" metaphor works well too - it suggests an interconnected structure that gets woven into something more formal and permanent.
+
+
+
+
+Architecture-wise, we want an API that contains all the operations you can define on a semantic flow, and a CLI that's a thin wrapper on that API. The API should perhaps be a self-contained service with a sqlite or similar backend. or maybe an embedded RDF store. So the service can run locally, for access by tools or web interface, or on a server for publicly exposing the operations. Does that make sense? Is there good middleware that allows Cliffy or similar to use an API service for its functionality? The service can also do filesystem monitoring so for large semantic meshes, the system can be ready to go instead of having to compute everything at weave time.
+
+Edit
+That architecture makes excellent sense (.9) - it provides maximum flexibility and performance while keeping concerns properly separated.
+
+API-first architecture benefits:
+
+Tool integration - IDEs, scripts, web UIs can all use same API
+Local/remote flexibility - same service works standalone or networked
+Performance - persistent state eliminates re-computation
+Monitoring - filesystem watching enables reactive updates
+For CLI → API integration (.8):
+
+Cliffy with fetch - Cliffy CLI can make HTTP calls to local API service
+OpenAPI spec - auto-generate CLI commands from API definitions
+Service discovery - CLI checks for local service, falls back to direct mode
+Shared config - API and CLI use same configuration files
+Storage options (.7):
+
+SQLite + RDF extensions - lightweight, embedded, SQL queries
+Embedded triple stores - Oxigraph (Rust), SurrealDB with graph features
+Hybrid - SQLite for metadata/indexes, separate RDF store for actual data
+Filesystem monitoring (.8) enables:
+
+Incremental weaving - only process changed files
+Hot reloading - web interface updates live as you edit
+Dependency tracking - know which catalogs need regeneration
+Service architecture:
+
+semantic-flow-api (HTTP service)
+├── RDF store backend  
+├── Filesystem watcher
+├── Weave engine
+└── Catalog generator
+
+sf-cli (thin wrapper)
+└── HTTP client → API calls
+This feels like the right level of modularity (.9).
+
+
+
+
+Can you write this entire chat in markdown into public-notes/sflow.conv.2025-06-18-10-20s-schema-spreadsheet-analysis
+
+Edit
+
+Semantic Flow Conversation - June 18, 2025
+Document 
+
+
+
+Sorry, I meant use the filesystem MCP integration, write the entire chat into markdown into C:\Users\drich\hub\djradon\dendron-workspace\public-notes\sflow.conv.2025-06-18-10-20s-schema-spreadsheet-analysis.md
+
+Edit
+
+F
+
+create_directory
+
+
+I'll create the markdown file with our entire conversation. Since it's quite long, let me write it to the file system:
+
+
+Complete Semantic Flow Conversation
+Code 
+
+
+
+Soory, you're writing it into a canvas here and it's taking a long time. Just to test the connection, can you read the current contents of C:\Users\drich\hub\djradon\dendron-workspace\public-notes\sflow.conv.2025-06-18-10-20s-schema-spreadsheet-analysis.md
+
+Edit
+
+F
+
+read_file
+
+
+The file exists but only contains the Dendron frontmatter - no conversation content yet. Let me write our entire conversation to that file in manageable chunks. I'll append to the existing file:
+
+
+F
+
+read_file
+
+
+I can see the file exists with Dendron metadata. I'll append our conversation content to it. Would you like me to proceed with writing the full conversation content, or would you prefer a different approach given the length?
+
+
+
+
+
+
 
 
 10/20s Schema Spreadsheet Analysis - Claude

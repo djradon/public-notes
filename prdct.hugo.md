@@ -7,4 +7,4 @@ created: 1731595825066
 ---
 
 - https://gohugo.io/
-- [[c.software.web.ssg]]
+- [[c.software.web.static-site-generator-ssg]]

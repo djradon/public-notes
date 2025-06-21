@@ -2,9 +2,11 @@
 id: 48yol3ey8sskt4wwkruw8s3
 title: Pointers Vs Content with Redirect
 desc: ''
-updated: 1750295866367
+updated: 1750444862333
 created: 1750295836745
 ---
+
+
 
 ## claude.3.sonnet
 

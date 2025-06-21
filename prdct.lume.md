@@ -1,13 +1,13 @@
 ---
 id: suac0n2pef2aqdb53dcy5lm
 title: Lume
-desc: 'fast & flexible static site generator for Deno'
+desc: fast & flexible static site generator for Deno
 updated: 1731882801574
 created: 1702150693595
 ---
 
 - https://lume.land/
-- [[c.software.web.ssg]]
+- [[c.software.web.static-site-generator-ssg]]
 - cms-support: [[prdct.lume.lumecms]] [[prdct.decap]] [[prdct.cloudcannon]]
 - template-support: [[prdct.vento]]
 

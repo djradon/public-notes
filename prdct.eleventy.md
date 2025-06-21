@@ -7,7 +7,7 @@ created: 1716410467066
 ---
 
 - https://www.11ty.dev/
-- [[c.software.web.ssg]]
+- [[c.software.web.static-site-generator-ssg]]
 - repo: https://github.com/11ty/eleventy
 - written-in: javascript
 
