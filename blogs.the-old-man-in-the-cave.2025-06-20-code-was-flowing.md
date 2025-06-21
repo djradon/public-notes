@@ -2,7 +2,7 @@
 id: utg0gxjpt8tghfc4jjc0tm9
 title: 2025 06 20 Code Was Flowing
 desc: ''
-updated: 1750468229344
+updated: 1750531711509
 created: 1750468226673
 ---
 
@@ -71,3 +71,4 @@ The [[Semantic Flow IRI scheme|sflow.concepts.iri]] should take care of IRI inte
 
 Lume, with perhaps some custom templates and plugins, can handle turning a Semantic Flow source folder into a website.
 
+## It's alright for people to take down their semantic meshes, but once you've published something, you have to expect it'll be floating around out there for the rest of civilization
