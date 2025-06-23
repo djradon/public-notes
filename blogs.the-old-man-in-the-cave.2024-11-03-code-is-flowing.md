@@ -2,7 +2,7 @@
 id: 6d0cdipyv5jxdbs615ssb32
 title: '2024-11-03: Code Is Flowing'
 desc: sf-cli Lives!
-updated: 1750467695344
+updated: 1750721692757
 created: 1730646458171
 ---
 
@@ -52,7 +52,7 @@ Semantic Flow can generate these documents. I’m calling them reference pages.
 
 ### Namespace and IRI curation
 
-Semantic Flow is about publishing RDF data, and useful RDF resources need a namespace, a place where their identifiers can live and be made legible. I’d like to be able to create [[git repositories of semantic data|sflow.concepts.sf-data-repo]] that can define and populate [[namespaces|sflow.concepts.namespace]] in a [[Semantic Flow site|sflow.concepts.site]] with a single deft command, or at worst a series of prompts.
+Semantic Flow is about publishing RDF data, and useful RDF resources need a namespace, a place where their identifiers can live and be made legible. I’d like to be able to create [[git repositories of semantic data|sflow.concepts.sf-repo]] that can define and populate [[namespaces|sflow.concepts.namespace]] in a [[Semantic Flow site|sflow.concepts.site]] with a single deft command, or at worst a series of prompts.
 
 ### Dataset Series Handling
 
