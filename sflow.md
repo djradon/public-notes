@@ -2,108 +2,71 @@
 id: ggw3ek46ptgebsgxgihr1dh
 title: Semantic Flow
 desc: ontology, tooling, and workflow for publishing semantic data
-updated: 1750485436506
+updated: 1750657617661
 created: 1716959415785
 ---
 
 - requirements: [[sflow.requirements]]
 - issues: [[sflow.issues]]
 
-**dereferenceable, versioned semantic mesh** will be the foundation for a new era of knowledge graphs.
+A **dereferenceable, versioned semantic mesh** will be the foundation for a new era of knowledge graphs.
 
-# Semantic Flow & IRI Schema Context Summary
+**Semantic Flow** is a framework for managing and publishing knowledge graphs and other semantic data by leveraging GitHub, Gitlab, and other free static hosting services. It enables a **dereferenceable Semantic Web** where every HTTP IRI returns meaningful content.
 
-## Project Overview
-**Semantic Flow (sflow)** is an ambitious system for publishing semantic data with complete version history using GitHub infrastructure. It aims to solve the problem of evolving graph data by providing immutable versioning while maintaining dereferenceable IRIs.
+## Features
 
-**Dereferenceable:** Every IRI in the system can be accessed via HTTP and returns meaningful content - either human-readable HTML pages or machine-readable RDF data. This creates a web where any resource can be explored and discovered.
+- own your own data
+- complete version history when you want it
+- reliable persistence
+- seamlessly integrate other data sources anywhere in your mesh
 
-## Two Hearts of Semantic Flow
+## Elements
 
-**1. Stable Identifiers:** Permanent IRIs that refer to things (people, concepts, namespaces) and provide discovery points into the knowledge graph. These identifiers never change meaning, though the data describing them evolves.
+[[Semantic meshes|sflow.concepts.mesh]] provide data management  and [[semantic sites|sflow.concepts.site]] solve data publishing with four types of weavable elements:
 
-**2. Versioned Datasets:** All data is stored in immutable versioned datasets. When data changes, a new version is created while preserving complete history. This provides auditable provenance and enables time-travel queries.
+- **Datasets**: bundles of data, with optional immutable, checkpointed history
+- **Namespaces**: organize your data in familiar URL-based hierarchies
+- **Identifiers**: Persistent URLs which refer to namespaces, datasets, and other things (like people, concepts, whatever). Good identifiers are useful for public data in general, and essential the Semantic Web
+- **Asset Bundles**: every identifier-folder can contain two file trees:
+    - **Web Assets (the _assets folder)**: URL-addressable pictures, templates, audio, etc.
+    - **Excluded Assets (the _x folder)**: things that don't go on the web, but which help 
 
-**V-series:** Every dataset has an associated DatasetSeries (as defined in DCAT v3) that tracks each version of the data. On weave, any dataset that contains changed data gets a new version. The v-series manages this versioning lifecycle and provides metadata about the dataset's evolution over time.
-
-**Key Innovation:** The combination of stable identifiers pointing to versioned data creates a comprehensive semantic web where any resource can be explored with full historical context.
-
-## Namespace Architecture
+Files and folders that are present in aren't consistent with these elements are ignored in the weaving process, 
 
 
+## Workflow
 
-### Three-Way Recursive Namespace Division
-Every folder at any level is one of three types:
+### Creation
 
-1. **Sub-namespace** - contains other folders following the same pattern
-2. **Thing reference** - terminal folder with `index.html` and `_catalog/`
-3. **`_series/`** - contains dataset series with `_v*` versioning subfolders
+- Semantic-flow is designed to work with git, and a good place to get started is with a new, empty git repository
+- create one or more folders. In general, folders are considered identifier folders if they contain a subfolder named _id.
+    - folders that do not contain an _id folder will be ignored.
+- the "docs" folder name has a special meaning in some Github publishing workflows, so should be avoided as a identifier name in general. ^pnoqpr3ff4za
 
-## Source vs Output Architecture
 
-**Source:** A semantic mesh - a directory structure that corresponds to namespaces, thing identifiers, and datasets; plus assets, templates, configuration, and metadata.
-```
-src/
-├── assets/                   # immutable shared assets
-│   ├── images/
-│   │   ├── dave-headshot-2024.jpg
-│   │   └── company-logo.svg
-│   ├── styles/
-│   │   └── theme-2024.css
-│   └── templates/
-│       ├── person.html
-│       └── dataset.html
-├── things/                   # mini-sites (presentation layer)
-│   ├── people/
-│   │   └── dave-richardson/
-│   │       ├── index.md      # or .jsx, .vento
-│   │       └── custom.css
-│   └── concepts/
-│       └── friendship/
-│           └── index.md
-├── _series/                  # data repositories
-│   ├── people-data/
-│   │   ├── people-data.trig  # MUST match folder name
-│   │   └── people-data.meta.yml  # DSS metadata
-│   └── big-dataset/          # DSS of DSSs
-│       ├── big-dataset.trig  # master dataset
-│       ├── big-dataset.meta.yml
-│       ├── chunk-a/
-│       │   ├── chunk-a.trig
-│       │   └── chunk-a.meta.yml
-│       └── chunk-b/
-│           ├── chunk-b.trig
-│           └── chunk-b.meta.yml
-└── import-config.yml         # namespace-aware import settings
-```
+### Editing
 
-### Generated Output Structure (Publication)
-```
-docs/
-├── assets/                   # copied from src/assets/
-├── people/                   # sub-namespace
-│   ├── index.html           # namespace description
-│   ├── _catalog/            # namespace catalog DSS
-│   │   ├── _v1/, _v2/, _current/ (each with index.html)
-│   └── dave-richardson/     # thing reference
-│       ├── index.html       # generated from src template
-│       ├── index_v1.html, index_v2.html  # HTML history
-│       └── _catalog/        # thing catalog DSS
-│           ├── _v1/, _v2/, _current/ (each with index.html)
-└── _data/                   # dataset container
-    └── people-data/         # dataset IRI
-        ├── index.html       # dataset description
-        ├── _v1/, _v2/, _current/  # dataset versions (each with index.html)
-        ├── _v-series/       # v-series IRI (references dataset versions)
-        │   └── index.html   # describes versioning system
-        └── _catalog/        # unified catalog DSS (dataset + v-series metadata)
-            ├── _v1/, _v2/, _current/ (each with index.html)
-```
+- add new identifiers, namespaces, datasets or [[sflow.concepts.asset-bundle]], or modify existing ones
+
+### Weaving
+- creates support system files as needed
+- checks mesh consistency and reports issues
+- "bumps" versions of [[versioned datasets|sflow.concepts.dataset.versioned]]
+- you can weave a part of your semantic mesh, or the whole thing
+
+### Publishing
+
+**SSG Workflow**: Lume-based with plugins for RDF processing, automatic provenance generation, and version management.
+
+**Aliasing**: Uses schema:sameAs for IRI renaming while maintaining backwards compatibility.
+
+**Content**: Only v* folders contain RDF files (index.trig, index.jsonld, etc.). Everything else gets index.html for GitHub Pages compatibility.
+
 
 ## Key Constraints & Rules
 
-### Source Organization
-- **Things**: Mini-sites with templates, no versioning, no datasets
+### Semantic Mesh Organization
+- **Things**: Refer to any entity you might need to talk about, real or conceptual, but function as mini-sites with their own catalog and assets templates, no versioning, no datasets
 - **DSSs**: Data files must match folder names (`people-data.trig` in `people-data/`)
 - **Assets**: Immutable once published (explicit versioning in filenames)
 - **Metadata**: Separate `.meta.yml` files for DSS descriptions
