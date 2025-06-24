@@ -2,7 +2,7 @@
 id: 6d0cdipyv5jxdbs615ssb32
 title: '2024-11-03: Code Is Flowing'
 desc: sf-cli Lives!
-updated: 1750721692757
+updated: 1750729480580
 created: 1730646458171
 ---
 
@@ -60,7 +60,7 @@ The central conceit of Semantic Flow is that every entity worth its salt should 
 
 ### Template Integration
 
-When generating the HTML [[reference pages|sflow.concepts.reference-pages]], you should be able to apply one or more templates to effectively convey information visually and make the pages usable. 
+When generating the HTML [[reference pages|sflow.concepts.reference-page]], you should be able to apply one or more templates to effectively convey information visually and make the pages usable. 
 
 ## Tech Stack
 
@@ -80,9 +80,9 @@ From smallest to biggest:
 
 ## What’s Next?
 
-- importing existing [[Data Repos|sflow.concepts.sf-data-repo]] into a [[Root Repo|sflow.concepts.sf-root-repo]]
-- scanning Data Repos for covered IRIs and minting some primitive [[sflow.concepts.reference-pages]]
-- [[sflow.products.ontology]] with classes and properties to support this whole effort
+- importing a [[Root Repo|sflow.concepts.sf-repo]] in a different root repo
+- scanning Data Repos for covered IRIs and minting some primitive [[sflow.concepts.reference-page]]
+- [[sflow.products.sf-ontology]] with classes and properties to support this whole effort
 - docs with clarifying examples
 
 I’m expecting to get a beta version out... no time soon. ChatGPT has been a valuable, tireless coding partner, but I could use more than its credulous efforts to get things flowing. So please reach out if you’re a javascript code reviewer or seasoned ontologist.
