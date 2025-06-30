@@ -2,7 +2,7 @@
 id: 54xs03d1txghek4nv0fwqo2
 title: DCATv3
 desc: ''
-updated: 1729977018884
+updated: 1751155390697
 created: 1721429380319
 ---
 
@@ -76,3 +76,7 @@ ex:dataset-001-csv
 ## References
 
 - [[prdct.provencance-authoring-versioning-ontology-pav]]
+
+## Learning Resources
+
+- https://oercommons.org/courseware/lesson/94736/overview
