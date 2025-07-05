@@ -2,7 +2,7 @@
 id: ahbj9ejugov8rjiywj5qqc8
 title: SHACL
 desc: designed for validating RDF data against a set of constraints (shapes)
-updated: 1749849200027
+updated: 1751684709854
 created: 1706306106639
 ---
 
@@ -52,6 +52,8 @@ created: 1706306106639
 - https://archive.topquadrant.com/shacl-blog/
   - "There are many ontologies in OWL which are really glossaries or taxonomies of terms. They do not define classes in terms of properties of their members. In other words, they do not contain schema or data definitions. They simply describe classes as vocabulary terms. You can easily identify such “ontologies” because you will see no OWL restrictions or domain/range statements. Instead, you will see synonyms and other annotation properties. In this case, recognize them for what they are and translate them to [[prdct.skos]] and/or develop a small ontology of your own to express this information. There is no value in keeping these terminologies in OWL nor in having them in SHACL."
 - https://archive.topquadrant.com/technology/shacl/
+- https://www.mathstat.dal.ca/wollic2023/slides/ortiz.pdf
+- https://veronahe.wordpress.com/shacl-for-the-practitioner/
 
 ## References
 

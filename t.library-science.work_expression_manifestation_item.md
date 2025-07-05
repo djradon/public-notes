@@ -2,13 +2,14 @@
 id: gpjt0tgwkb6khor1tcvlgmb
 title: Work, Expression, Manifestation, Item
 desc: 'WEMI '
-updated: 1725381282743
+updated: 1751672706787
 created: 1701423935574
 ---
 
 - implementations: [[prdct.frbr-core]] [[prdct.fabio]] [[prdct.functional-requirements-for-information-resources-frir]] [[prdct.anglo-american-cataloguing-rules-aacr2]] [[prdct.resource-description-and-access-rda]]
 
 ![](/assets/images/2024-08-22-09-39-54.png)
+![](/assets/images/2025-07-04-17-44-12.png)
 
 ## Terms
 
