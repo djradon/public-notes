@@ -2,7 +2,7 @@
 id: 1c425wcbnwh1esyiwydx1pw
 title: Owl
 desc: Web Ontology Language
-updated: 1725421391295
+updated: 1751767528496
 created: 1696270955675
 ---
 
@@ -40,7 +40,7 @@ created: 1696270955675
 
 ## References
 
-- [When owl:sameAs isn’t the Same: An Analysis of Identity
+- [[ar.when-owl-same-as-isn-t-the-same-an-analysis-of-identity-links-on-the-semantic-web]] [When owl:sameAs isn’t the Same: An Analysis of Identity
 Links on the Semantic Web](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=B68E7B90BD3F8C5DAA756255722B7E78?doi=10.1.1.451.7903&rep=rep1&type=pdf)
 - [[ar.enterprise-knowledge.top-5-tips-for-managing-and-versioning-an-ontology]]
 - https://www.w3.org/TR/owl2-profiles/
