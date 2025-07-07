@@ -2,9 +2,11 @@
 id: id8ts8faecp28rr4gl9ywm4
 title: Xtdb
 desc: ''
-updated: 1715877378178
+updated: 1751857351068
 created: 1713554156104
 ---
+
+immutable 
 
 ## RDF
 
