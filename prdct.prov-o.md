@@ -2,7 +2,7 @@
 id: yc40keh2zrpwnsyolhp1md1
 title: PROV-O
 desc: 'the Provenance Ontology provides a set of classes, properties, and restrictions that can be used to represent and interchange provenance information'
-updated: 1730815008869
+updated: 1753138047181
 created: 1712534043697
 ---
 
@@ -31,6 +31,9 @@ created: 1712534043697
   - t.2024.11.05.05 They talk about things in the real world?
   - also, "no longer available for use" probably excludes historical purposes. 
 
+## Resources
+
+- https://dcevents.dublincore.org/IntConf/dc-2013/paper/viewPDFInterstitial/197/120.html
 
 ## References
 

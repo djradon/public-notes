@@ -2,7 +2,7 @@
 id: l8jZApjTwypJDlSzk2qJ1
 title: HATEOAS
 desc: Hypermedia as the Engine of Application State
-updated: 1729109636479
+updated: 1753226942551
 created: 1636171046830
 ---
 
@@ -17,7 +17,7 @@ created: 1636171046830
 
 - [[p.hasCriticism]]
   - https://medium.com/@andreasreiser94/why-hateoas-is-useless-and-what-that-means-for-rest-a65194471bc8
-    - summary: no good server-side frameworks/tools and no good  clients
+    - summary: no good server-side frameworks/tools and no good clients
 
 ## Ideas
 

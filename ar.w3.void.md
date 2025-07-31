@@ -2,11 +2,12 @@
 id: adkiptp4qp5gak5yfcbw2n5
 title: Describing Linked Datasets with the VoID Vocabulary
 desc: ''
-updated: 1729717652778
+updated: 1753129823505
 created: 1729717652778
 ---
 
 - https://www.w3.org/TR/void/
+- related: [[prdct.voidext]]
 
 ## Highlights
 
