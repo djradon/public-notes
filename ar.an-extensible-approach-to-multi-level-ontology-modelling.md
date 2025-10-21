@@ -2,12 +2,12 @@
 id: bgo1umvoasmlbvq3cie4hzj
 title: An Extensible Approach to Multi Level Ontology Modelling
 desc: 'explicating property inheritance and materializing (continuously) via SPARQL inserts'
-updated: 1727134024216
+updated: 1757612161194
 created: 1725511917090
 ---
 
 - https://www.scitepress.org/PublishedPapers/2021/106842/106842.pdf
-- topics: [[t.km.ontology.multi-level-theory]]
+- topics: [[t.km.ontology.multi-level-theory]] 
 
 ## Thoughts
 
@@ -82,7 +82,7 @@ properties, e.g.:
 
 ### Inheritance
 
-- for inferring information between facets as well as along hierarchies within facets, e.g., rdfs:subClassOf hierarchies within the class facet or skos:broader hierarchies within the instance facet.
+- for inferring information between facets as well as along hierarchies within facets
   - e.g., rdfs:subClassOf hierarchies within the class facet or skos:broader hierarchies within the instance facet.
   - In our example, the hierarchy between taxons is specified by the object property skos:broader
 
@@ -99,6 +99,9 @@ properties, e.g.:
   - t.2024.09.23.15 confusing 
     - why not `:Bear subClassOf :Bears` too
     - why not `:Species skos:broader :Genus` 
+  - t.2025.09.11.10 maybe...
+    - we're talking about using broader/narrower so we don't have to worry about the OWL 2 DL restrictions
+    - you could also have taxons represented as individuals.
 
 #### Sample Properties
 
