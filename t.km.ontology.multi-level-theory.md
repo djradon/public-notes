@@ -2,11 +2,11 @@
 id: 64ugzw02qgdm4umxjzj2mv1
 title: Multi-Level Theory
 desc: ''
-updated: 1762195037472
+updated: 1762357536131
 created: 1724441343758
 ---
 
-- similar: [[t.cs.semantic-web.class.class-as-values]]
+- similar: [[t.cs.semantic-web.class.class-as-values]] [[t.cs.graph.metagraph]]
 
 ## Implementations
 
@@ -64,6 +64,16 @@ created: 1724441343758
 - **Abstraction**: Higher levels are more abstract, defining broader concepts that provide structure and constraints to the more specific types and instances at lower levels.
 
 This structured approach allows for the modeling of complex systems where entities exist at multiple levels of abstraction, providing a clear and organized way to represent and relate these entities across different levels.
+
+
+## Relationship to Metagraphs
+
+multi-level theory relates to metagraph constructs, as both deal with:
+
+- __Recursivity__: Entities can be both instances and types
+- __Higher-order relationships__: Types of types, properties of properties
+- __Emergence__: Complex entities with dual nature (like metagraph vertices that can contain other graphs)
+
 
 ## References
 
