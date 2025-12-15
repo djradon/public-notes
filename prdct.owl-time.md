@@ -2,7 +2,7 @@
 id: acxwjynzcfhybxyoe56el4i
 title: Owl Time
 desc: 'ontology of temporal concepts, providing a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information'
-updated: 1721844075169
+updated: 1765311315474
 created: 1701453829509
 url: https://www.w3.org/TR/owl-time/
 related: 
@@ -53,6 +53,25 @@ OWL-Time, part of the Semantic Web technology stack, is an ontology for describi
     Integration with Non-temporal Data: Combining temporal data with non-temporal data can sometimes lead to ambiguities, especially when the temporal aspects are not explicitly defined or are defined using different standards or formats.
 
 Addressing these ambiguities often requires additional context, clear definitions of terms, and sometimes custom extensions or interpretations of the OWL-Time ontology to fit specific use cases. In many practical applications, it's crucial to document how these ambiguities are resolved to ensure consistent understanding and processing of temporal data.
+
+### from gUFO perspective
+
+from https://github.com/nemo-ufes/gufo/issues/48#issuecomment-3631515472 :
+
+"Ideally, the whole time:TemporalEntity taxonomy would go under gufo:AbstractIndividual, as this is how we best interpreted the ontological nature of time instants and intervals in that specification.
+
+However, there are two excerpts of the specification which are problematic (I've added emphasis in bold):
+
+    The properties :hasTemporalDuration, :hasBeginning and :hasEnd, together with a fourth generic property :hasTime, support the association of temporal information with any temporal entity, such as an activity or event, or other entity.
+
+and:
+
+    The PROV-O classes prov:Activity and prov:InstantaneousEvent may be conceived as sub-classes of :TemporalEntity and :Instant respectively.
+
+prov:Activity           rdfs:subClassOf    time:TemporalEntity .
+prov:InstantaneousEvent rdfs:subClassOf    time:Instant .
+
+We understand activities and events as concrete individuals. So, in the end, OWL-Time does not clarify the ontological nature of its temporal entities (instants included). This is unfortunate for that specification (and we'd hope it would be fixed simply by omitting these excerpts above)."
 
 
 ## References
