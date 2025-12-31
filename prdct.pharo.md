@@ -2,7 +2,7 @@
 id: vhdqlggdtgl201etqavu5r1
 title: Pharo
 desc: 'dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk'
-updated: 1699295790527
+updated: 1767223523221
 created: 1695847863715
 ---
 
@@ -24,7 +24,7 @@ created: 1695847863715
   - https://lepiter.io/feenk/glamorous-toolkit-and-pharo-9q25tavxwfq6z1drwvegd5u9o/
 - [[prdct.phratch]]
 - http://forum.world.st/Memory-mapped-files-and-Pharo-aka-Unreal-Engine-4-integration-with-Pharo-td4872049.html
-
+- [[prdct.opencobalt]]
 ## Resources
 
 - https://pavel-krivanek.github.io/famix/
