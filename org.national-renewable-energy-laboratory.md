@@ -6,5 +6,5 @@ updated: 1747942132284
 created: 1747941111376
 ---
 
-- publishes [[prcdct.utility-rate-database]]
+- publishes [[prdct.utility-rate-database]]
 - related: [[org.openei]] [[org.power-to-choose]]
