@@ -2,13 +2,13 @@
 id: vfyko2naxiommmkt6u5p253
 title: Now (Kosmion)
 desc: ''
-updated: 1730218492417
+updated: 1767284103861
 created: 1729359756551
 ---
 
 ## *[Kosmion](https://djradon.github.io/wiki/notes/c5qcd8cate4ic318mkmmkn0)* Foundational Ontology
 
-* datasets, catalogs, named graphs, distributions
+* relator-based flexibility supports complex and multi-temporal modeling
 * how to do multi-level
 * can facets/aspects replace classes
 * provenance, attribution, versioning

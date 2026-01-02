@@ -2,7 +2,7 @@
 id: utg0gxjpt8tghfc4jjc0tm9
 title: 2025 06 20 Code Was Flowing
 desc: ''
-updated: 1750531711509
+updated: 1767230706337
 created: 1750468226673
 ---
 
@@ -27,7 +27,7 @@ In my last post, I wrote that “The central conceit of Semantic Flow is that ev
 
 I was assuming that an identifier should be co-located with at least some data that uses it. You see this on ontology websites all the time: the IRIs used to identify ontology terms, when copied into a browser address bar, return semantic data about that thing. (see also [[proj.tomitc.drafts.solving-httprange-14]])
 
-Another, smaller note: I should've used “intelligible” instead of “legible” when I was talking about what we should expect for an identifiable thing from its namespace and name. To me intelligibility implies legibility, i.e., the ability for humans to read it easily. But and identifier should also provide the ability to conecptualize a thing. 
+Another, smaller note: I should've used “intelligible” instead of “legible” when I was talking about what we should expect for an identifiable thing from its namespace and name. To me intelligibility implies legibility, i.e., the ability for humans to read it easily. But an identifier should also provide the ability to conecptualize a thing. 
 
 ## Where I Got Stuck
 
@@ -71,4 +71,3 @@ The [[Semantic Flow IRI scheme|sflow.concepts.iri]] should take care of IRI inte
 
 Lume, with perhaps some custom templates and plugins, can handle turning a Semantic Flow source folder into a website.
 
-## It's alright for people to take down their semantic meshes, but once you've published something, you have to expect it'll be floating around out there for the rest of civilization
