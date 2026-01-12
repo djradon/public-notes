@@ -95,7 +95,7 @@ I also intend to take little bites out of philosophy, psychology, literary theor
 ## It All Started Around A Gypsy Caravan Campfire
 
 ![](/assets/images/2024-09-26-21-11-06.png)
-<small>*[[images.campfire-site-yosemite]]*, [[user.albert-bierstadt]]</small>
+<small>*[[art.painting.campfire-site-yosemite]]*, [[user.albert-bierstadt]]</small>
 
 Eight quick years ago I got in on the ground floor of a geographically-distributed Dungeons & Dragons game. Our crew is four players plus a heroic, multi-talented GM.
 
@@ -185,7 +185,7 @@ I’m looking to make connections that could lead to collaboration. If our inter
 ## Postscript: Why *Carpe Noctem*?
 
 ![](/assets/images/2024-09-26-21-25-06.png)
-<small>*[[images.baluk-hana-and-method-of-fishing-for-the-red-mullet]]*, [[Thomas Allom|user.thomas-allom]]</small>
+<small>*[[art.engraving.baluk-hana-and-method-of-fishing-for-the-red-mullet]]*, [[Thomas Allom|user.thomas-allom]]</small>
 
 
 At least since [[video.dead-poets-society]], the Latin phrase *[[Carpe Diem|t.ling.latin.carpe-diem]]* has come to mean “seize the day.” Essentially, grab life by the horns before it slips away.
