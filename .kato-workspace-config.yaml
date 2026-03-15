@@ -1,0 +1,21 @@
+defaultOutputDir: "."
+filenameTemplate: "{YYYY}.{timestampHumane}-{snippetSlug}-{provider}.md"
+workspaceTimezone: "local"
+markdownFrontmatter:
+  includeFrontmatterInMarkdownRecordings: true
+  includeUpdatedInFrontmatter: true
+  addParticipantUsernameToFrontmatter: true
+  addParticipantUsernameToHeadings: true
+  includeSessionIds: false
+  includeWorkspaceIds: false
+  includeRecordingIds: false
+  includeConversationEventKinds: true
+workspaceFeatureFlags:
+  writerIncludeCommentary: true
+  writerIncludeThinking: true
+  writerIncludeToolCalls: false
+  writerIncludeToolResults: false
+  writerIncludeDecisionPrompt: true
+  writerIncludeDecisionOptions: true
+  writerIncludeDecisionSelection: true
+  writerItalicizeUserMessages: false
