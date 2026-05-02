@@ -2,7 +2,7 @@
 id: nnaga3qaq8stv4all4i32gp
 title: Hash Vs Slash
 desc: ''
-updated: 1729508309521
+updated: 1777709958133
 created: 1721255689434
 ---
 
@@ -17,6 +17,10 @@ created: 1721255689434
 ## Daniel Garijo's take
 
 ![[ar.best-practices-for-implementing-fair-vocabularies-and-ontologies-on-the-web#hash-versus-slash-uris]]
+
+## djradon's take
+
+- What if the ontology deprecates a term and then removes it? The Resource Page for the ontology still has to include all the deprecated terms to be dereferenceable. 
 
 ## References
 
