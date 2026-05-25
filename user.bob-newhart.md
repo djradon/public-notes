@@ -2,11 +2,9 @@
 id: m8svjehvs4be4zch6w3yhqz
 title: Bob Newhart
 desc: ''
-updated: 1776102755245
+updated: 1779729065197
 created: 1776102661278
 ---
-
-# Bob Newhart
 
 ## Brief Biography
 
