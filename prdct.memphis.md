@@ -2,10 +2,11 @@
 id: m3ejxost9j8l5gmsxuriws0
 title: Memphis
 desc: Event Processing For Developers
-updated: 1710916256070
+updated: 1782577739272
 created: 1680467930113
 ---
 
+- dead
 - [[c.software.message-bus]]
 - url: https://memphis.dev/
 - written-in: #go
