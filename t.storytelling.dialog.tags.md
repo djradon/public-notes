@@ -2,7 +2,7 @@
 id: e4l68ahwpb8m370k7kkhbta
 title: Tags
 desc: 'phrases that attribute speech and often describe how something is said'
-updated: 1747068618318
+updated: 1784073850075
 created: 1747068420705
 ---
 
@@ -23,4 +23,4 @@ created: 1747068420705
 
 ## References
 
-- [[email.story-grid.most-writers-miss-this-trick-with-dialogue-tags]]
+- [[email.story-grid.most-writers-miss-this-trick-with-dialogue-tags]]  
