@@ -2,7 +2,7 @@
 id: dp4w7jmpsawbe3rj7kxa7sf
 title: 37 Multi Level
 desc: ''
-updated: 1728704483170
+updated: 1784816483886
 created: 1724871721394
 ---
 
@@ -21,3 +21,7 @@ Therefore, I would like to know if you have already encountered this problem and
 We have been discussing a possible relaxation of some of the domain/range declarations (e.g., the domain of gufo:hasQualityValue and the range of gufo:inheresIn) to include types in addition to concrete individuals. This would be an easy way to accommodate the view of types as endurants and would not impact existing gUFO-based ontologies.
 
 (See [[ar.incorporating-types-of-types-in-ontology-driven-conceptual-modeling]] for how we address types as endurants in UFO more broadly.)
+
+## t.2026.07.23.07
+
+codex and claude: the thread's author conflated "types can't bear aspects" with "no MLT support"
